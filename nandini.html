@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .book {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .book-item {
+            width: 30%;
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .book-item img {
+            width: 100%;
+            height: auto;
+        }
+        .book-item h3 {
+            margin-top: 10px;
+            font-size: 18px;
+        }
+        .book-item p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Books Website</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>Featured Books</h2>
+        <div class="book">
+            <div class="book-item">
+                <img src="book1.jpg" alt="Book 1">
+                <h3>Book Title 1</h3>
+                <p>Author: Author Name</p>
+                <p>Published: 2024</p>
+            </div>
+            <div class="book-item">
+                <img src="book2.jpg" alt="Book 2">
+                <h3>Book Title 2</h3>
+                <p>Author: Author Name</p>
+                <p>Published: 2024</p>
+            </div>
+            <div class="book-item">
+                <img src="book3.jpg" alt="Book 3">
+                <h3>Book Title 3</h3>
+                <p>Author: Author Name</p>
+                <p>Published: 2024</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
