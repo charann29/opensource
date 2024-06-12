@@ -21,4 +21,4 @@ with open(file1, 'r') as f1, open(file2, 'r') as f2, open(output_file, 'w') as o
         if i < len(f2_lines):
             out_file.write(f2_lines[i].strip() + '\n')
 
-print(f"Files {file1} and {file2} have been merged into {output_file}.")
+print(f"Files {f1} and {f2} have been merged into {output_file}.")
