@@ -32,7 +32,6 @@ class Bus:
             if not seat:
                 print(f"Seat {i + 1} is available.")
 
-# Example usage
 bus = Bus(10)
 bus.reserve_seat(5)
 bus.reserve_seat(8)
