@@ -194,7 +194,7 @@ public class PassportAutomationSystem {
 
     private static void viewAllApplications() {
         if (applications.isEmpty()) {
-            System.out.println("No applications found.");
+            System.out.println("No application found.");
         } else {
             for (PassportApplication application : applications) {
                 System.out.println(application);
