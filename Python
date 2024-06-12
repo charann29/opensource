@@ -1,0 +1,53 @@
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, roc_auc_score
+
+# Step 1: Load the dataset
+# Assuming 'data.csv' is a CSV file with the necessary features and target variable 'Diagnosis'
+data = pd.read_csv('data.csv')
+
+# Step 2: Data Preprocessing
+# Handle missing values (if any)
+data.fillna(data.mean(), inplace=True)
+
+# Define feature columns and target variable
+X = data.drop('Diagnosis', axis=1)  # Features
+y = data['Diagnosis']  # Target
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Normalize/Standardize the features
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+# Step 3: Model Selection and Training
+# Using Random Forest Classifier for this example
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+
+# Step 4: Model Evaluation
+y_pred = model.predict(X_test)
+
+# Accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Accuracy: {accuracy:.2f}')
+
+# Confusion Matrix
+conf_matrix = confusion_matrix(y_test, y_pred)
+print('Confusion Matrix:')
+print(conf_matrix)
+
+# Classification Report
+class_report = classification_report(y_test, y_pred)
+print('Classification Report:')
+print(class_report)
+
+# ROC-AUC Score
+y_prob = model.predict_proba(X_test)[:, 1]
+roc_auc = roc_auc_score(y_test, y_prob)
+print(f'ROC-AUC Score: {roc_auc:.2f}')
