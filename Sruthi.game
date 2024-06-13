@@ -1,0 +1,41 @@
+import random
+
+def roll_dice():
+    return random.randint(1, 6)
+
+def move_player(player, steps):
+    player += steps
+    if player in snakes:
+        print("Oops! Snake bite! You go down from", player, "to", snakes[player])
+        player = snakes[player]
+    elif player in ladders:
+        print("Hooray! You've climbed the ladder from", player, "to", ladders[player])
+        player = ladders[player]
+    return player
+
+def play_game():
+    player1 = 0
+    player2 = 0
+    current_player = 1
+    while True:
+        input("Player {} - Press Enter to roll the dice...".format(current_player))
+        dice_roll = roll_dice()
+        print("You rolled:", dice_roll)
+        if current_player == 1:
+            player1 = move_player(player1, dice_roll)
+            if player1 >= 100:
+                print("Player 1 wins!")
+                break
+            current_player = 2
+        else:
+            player2 = move_player(player2, dice_roll)
+            if player2 >= 100:
+                print("Player 2 wins!")
+                break
+            current_player = 1
+
+snakes = {16: 6, 47: 26, 49: 11, 56: 53, 62: 19, 64: 60, 87: 24, 93: 73, 95: 75, 98: 78}
+ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
+
+print("Welcome to Snake and Ladder game!")
+play_game()
