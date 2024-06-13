@@ -45,12 +45,12 @@ def add_book():
     write_csv(data)
     return jsonify(new_book)
 
-@app.route('/books/<int:id>', methods=['POST'])
+@app.route('/books/<int:id>', methods=['PUT'])
 def update_book(id):
     data = read_csv()
     updated_book = None
     for book in data:
-        if book['id'] == id:
+        if int(book['id']) == id:  # Ensure id comparison is correct
             book['title'] = request.json['title']
             book['author'] = request.json['author']
             book['genre'] = request.json['genre']
@@ -65,9 +65,15 @@ def update_book(id):
 @app.route('/books/<int:id>', methods=['DELETE'])
 def delete_book(id):
     data = read_csv()
-    data = [book for book in data if book['id'] != id]
-    write_csv(data)
+    
+    # Filter out the book with the specified id
+    filtered_data = [book for book in data if int(book['id']) != id]
+    
+    # Renumber the IDs sequentially starting from 1
+    for index, book in enumerate(filtered_data, start=1):
+        book['id'] = index
+    
+    write_csv(filtered_data)
     return jsonify({"message": "Book deleted successfully"})
-
 if __name__ == '__main__':
     app.run(debug=True)
