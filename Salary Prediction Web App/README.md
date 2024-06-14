@@ -1,4 +1,4 @@
-# Employee Salary Estimator
+# Employee Salary Predictor
 
 ![Streamlit App](https://img.shields.io/badge/Streamlit-App-orange)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
