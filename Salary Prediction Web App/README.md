@@ -8,7 +8,7 @@
 
 Employee Salary Estimator is a web application that predicts the expected salary of employees based on their years of experience and education level. This application utilizes machine learning models to provide salary estimations, helping users make informed decisions regarding compensation expectations.
 
-![Predict Page](screenshots/Predict_Page.png.png)
+![Predict Page](screenshots/Predict_Page.png)
 ![Explore Page 1](screenshots/Explore_Page_1.png)
 ![Explore Page 2](screenshots/Explore_Page_2.png)
 ![Explore Page 3](screenshots/Explore_Page_3.png)
