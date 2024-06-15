@@ -2,6 +2,11 @@
 
 Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
 
+# Screenshots
+![Predict Page](1.jpg)
+![Explore Page 1](2.jpg)
+![Explore Page 2](3.jpg)
+
 Watch the video on YouTube:  
 [![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
 [https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
