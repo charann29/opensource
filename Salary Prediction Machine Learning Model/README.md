@@ -1,7 +1,24 @@
-# Build A Salary Prediction Web App With Streamlit
+# Salary Prediction Machine Learning Model
 
-Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
+## Overview
+This project aims to predict salaries of developers using machine learning techniques based on the 2020 Stack Overflow developer survey dataset.
 
-Watch the video on YouTube:  
-[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
-[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
+## Dataset
+The dataset used for this project is the Stack Overflow Annual Developer Survey 2020 dataset, which can be found [here](https://insights.stackoverflow.com/survey).
+
+## Screenshots
+
+
+## Dependencies
+- Python 3.x
+- Jupyter Notebook (optional, for running the notebooks)
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/salary-prediction.git
+   cd salary-prediction
