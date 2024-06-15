@@ -10,8 +10,6 @@ Employee Salary Estimator is a web application that predicts the expected salary
 
 ![Predict Page](screenshots/1.png)
 ![Explore Page](screenshots/2.png)
-![Explore Page 2](screenshots/Explore_Page_2.png)
-![Explore Page 3](screenshots/Explore_Page_3.png)
 
 ## Features
 
