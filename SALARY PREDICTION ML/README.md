@@ -6,7 +6,3 @@ Build a Machine Learning web application from scratch in Python with Streamlit. 
 ![Predict Page](screenshots/1.jpg)
 ![Explore Page 1](screenshots/2.jpg)
 ![Explore Page 2](screenshots/3.jpg)
-
-Watch the video on YouTube:  
-[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
-[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
