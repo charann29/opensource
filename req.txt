@@ -41,7 +41,7 @@ scikit-learn==1.5.0
 scipy==1.13.1
 six==1.16.0
 smmap==5.0.1
-streamlit==1.35.0
+streamlit==0.24.2
 tenacity==8.3.0
 threadpoolctl==3.5.0
 toml==0.10.2
