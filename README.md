@@ -267,3 +267,99 @@ To install a Python library, use the following command:
 
 - **Seaborn**:
   Seaborn is built on top of Matplotlib and offers enhanced statistical graphics for better data visualization.
+
+
+  # Code Imports
+
+  
+#### Importing Numpy
+
+    import numpy as np
+
+#### Why? Numpy is fundamental for numerical computations, providing support for arrays and matrices, and mathematical functions.
+
+#### To read csv file
+
+    import pandas as pd
+
+#### Why? Pandas is used for data manipulation and analysis, handling numerical tables and time series, and reading various file formats.
+
+#### Importing datasets from sklearn
+
+    from sklearn import datasets
+
+#### Why? Scikit-learn provides built-in datasets useful for practicing machine learning algorithms.
+
+#### For splitting between training and testing
+
+    from sklearn.model_selection import train_test_split
+
+#### Why? This module splits datasets into training and testing sets, crucial for evaluating model performance.
+
+#### Importing Algorithm for Support Vector Machine
+
+    from sklearn.svm import SVC, SVR
+
+#### Why? SVC and SVR are Support Vector Machine implementations for classification and regression tasks.
+
+#### Importing K-nearest neighbors algorithm
+
+    from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
+
+#### Why? KNeighborsClassifier and KNeighborsRegressor are implementations of k-nearest neighbors for classification and regression tasks.
+
+#### Importing Decision Tree algorithm
+
+    from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
+
+#### Why? DecisionTreeClassifier and DecisionTreeRegressor are implementations of decision tree algorithms.
+
+#### Importing Random Forest Classifer
+
+    from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+
+#### Why? RandomForestClassifier and RandomForestRegressor are ensemble methods based on decision trees for classification and regression tasks.
+
+#### Importing Naive Bayes algorithm
+
+    from sklearn.naive_bayes import GaussianNB
+
+#### Why? GaussianNB is a Naive Bayes classifier implementation suitable for classification tasks.
+
+#### Importing Linear and Logistic Regression
+
+    from sklearn.linear_model import LinearRegression, LogisticRegression
+
+#### Why? LinearRegression models linear relationships between variables. LogisticRegression is for binary classification tasks.
+
+#### Importing accuracy score and mean_squared_error
+
+    from sklearn.metrics import mean_squared_error, accuracy_score, mean_absolute_error
+
+#### Why? These metrics evaluate model performance: mean_squared_error for regression, accuracy_score for classification accuracy, and mean_absolute_error for regression.
+
+#### Importing PCA for dimension reduction
+
+    from sklearn.decomposition import PCA
+
+#### Why? PCA reduces data dimensionality by projecting it onto a lower-dimensional space.
+
+#### For Plotting
+
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+
+#### Why? Matplotlib and Seaborn are used for visualizing data, exploring patterns, and presenting results.
+
+#### For model deployment
+
+    import streamlit as st
+
+#### Why? Streamlit is a framework for building web applications for machine learning and data science, used here for deploying models and creating interactive data applications.
+
+#### Importing Label Encoder for converting string to int
+
+    from sklearn.preprocessing import LabelEncoder
+
+#### Why? LabelEncoder converts categorical labels to numerical labels, necessary for many machine learning algorithms.
+
