@@ -269,6 +269,13 @@ To install a Python library, use the following command:
   Seaborn is built on top of Matplotlib and offers enhanced statistical graphics for better data visualization.
 
 
+
+# Resources
+
+- [Classification versus Regression in Machine Learning](https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/)
+
+This resource provides an in-depth explanation of the differences between classification and regression tasks in machine learning, detailing their purposes, methods, and use cases.
+
   # Code Imports
 
   
