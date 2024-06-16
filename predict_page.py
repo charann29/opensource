@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+from sklearn.preprocessing import LabelEncoder
 
 def load_model():
     model_path = 'saved_steps.pkl'
