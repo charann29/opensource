@@ -1,4 +1,4 @@
 streamlit==1.32.0
 streamlit-option-menu==0.3.13
 scikit-learn==1.4.2
-pickle5==0.0.12
+pickle5==0.0.10
