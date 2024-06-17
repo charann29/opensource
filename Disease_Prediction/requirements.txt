@@ -1,3 +1,2 @@
 streamlit==1.32.0
-streamlit-option-menu
-pickle==4.0
+streamlit-option-menu==0.3.13
