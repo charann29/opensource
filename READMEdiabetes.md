@@ -1,0 +1,1 @@
+https://diabetes-prediction-app-lstybtgufbmfyvzyir93tx.streamlit.app/
