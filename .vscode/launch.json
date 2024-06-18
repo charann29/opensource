@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jatavedreddy/Documents/GitHub/cmr_opensource_j",
+      "program": "/Users/jatavedreddy/Documents/GitHub/cmr_opensource_j/build/Debug/outDebug"
+    }
+  ]
+}
