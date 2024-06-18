@@ -1,0 +1,51 @@
+def start_game():
+    print("Welcome to the Adventure Game!")
+    print("You find yourself in a dark forest. There are two paths in front of you.")
+    choice = input("Do you want to go left or right? (left/right) ")
+
+    if choice.lower() == "left":
+        left_path()
+    elif choice.lower() == "right":
+        right_path()
+    else:
+        print("Invalid choice. Please choose 'left' or 'right'.")
+        start_game()
+
+def left_path():
+    print("You walk down the left path and find a river.")
+    choice = input("Do you want to swim across or follow the river? (swim/follow) ")
+
+    if choice.lower() == "swim":
+        swim_river()
+    elif choice.lower() == "follow":
+        follow_river()
+    else:
+        print("Invalid choice. Please choose 'swim' or 'follow'.")
+        left_path()
+
+def right_path():
+    print("You walk down the right path and encounter a bear.")
+    choice = input("Do you want to run away or fight the bear? (run/fight) ")
+
+    if choice.lower() == "run":
+        run_away()
+    elif choice.lower() == "fight":
+        fight_bear()
+    else:
+        print("Invalid choice. Please choose 'run' or 'fight'.")
+        right_path()
+
+def swim_river():
+    print("You try to swim across the river but it's too strong. You drown. Game over.")
+
+def follow_river():
+    print("You follow the river and find a village. You are safe. You win!")
+
+def run_away():
+    print("You run away safely. You are back at the start.")
+    start_game()
+
+def fight_bear():
+    print("You try to fight the bear but it's too strong. You get injured and the bear leaves. Game over.")
+
+start_game()
