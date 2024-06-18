@@ -1,0 +1,35 @@
+# Diabetes Prediction Web App
+
+This project is a web application for predicting diabetes using a trained machine learning model. Users input personal health metrics, and the app provides a prediction on whether the individual is diabetic. The app is built with Streamlit, ensuring an interactive and user-friendly experience.
+
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Training](#model-training)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+The Diabetes Prediction Web App allows users to input various health parameters to predict the likelihood of having diabetes. The prediction is based on a machine learning model trained on the Pima Indians Diabetes Database.
+
+
+To run this application, you need Python installed on your machine. Follow the steps below to set up the project:
+
+1. Clone the repository:
+    
+    git clone https://github.com/yourusername/diabetes-prediction-webapp.git
+    cd diabetes-prediction-webapp
+    
+
+2. Install the required packages:
+   
+    pip install -r requirements.txt
+    
+
+3. Ensure you have the trained model file (`diabetes_trained_model.pkl`). If not, follow the instructions in the [Model Training](#model-training) section.
+
+## Usage
+To start the Streamlit web app, run:
+
+streamlit run predict.py
