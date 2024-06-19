@@ -43,22 +43,14 @@ data_name=st.sidebar.selectbox("Select Dataset",
 
 # The Next is selecting algorithm
 # We will display this in the sidebar
-algorithm=st.sidebar.selectbox("Select Supervised Learning Algorithm",
-                     ("KNN","SVM","Decision Tree","Naive Bayes","Random Forest","Linear Regression","Logistic Regression"))
+algorithm="KNN"
+st.sidebar.header("Supervised Learning Algorithm : KNN")
 
 # The Next is selecting regressor or classifier
 # We will display this in the sidebar
-if algorithm != 'Linear Regression' and algorithm != 'Logistic Regression' and algorithm != "Naive Bayes":
-    algorithm_type = st.sidebar.selectbox("Select Algorithm Type",
-                        ("Classifier","Regressor"))
-else:
-    st.sidebar.write(f"In {algorithm} Classifier and Regressor dosen't exist separately")
-    if algorithm == "Linear Regression":
-        algorithm_type = "Regressor"
-        st.sidebar.write("{} only does Regression".format(algorithm))
-    else:
-        algorithm_type = "Classifier"
-        st.sidebar.write(f"{algorithm} only does Classification")
+st.sidebar.write(f"In {algorithm} Classifier and Regressor dosen't exist separately")
+algorithm_type = "Classifier"
+st.sidebar.write(f"{algorithm} only does Classification")
 
 # Now we need to load the builtin dataset
 # This is done using the load_dataset_name function
@@ -121,241 +113,70 @@ def Input_output(data,data_name):
 X , Y = Input_output(data,data_name)
 
 # Adding Parameters so that we can select from various parameters for classifier
-def add_parameter_classifier_general(algorithm):
+def add_parameter_classifier_general():
 
     # Declaring a dictionary for storing parameters
     params = dict()
 
     # Deciding parameters based on algorithm
 
-    # Adding paramters for SVM
-    if algorithm == 'SVM':
-
-        # Adding regularization parameter from range 0.01 to 10.0
-        c_regular = st.sidebar.slider('C (Regularization)', 0.01, 10.0)
-        # Kernel is the arguments in the ML model
-        # Polynomial ,Linear, Sigmoid and Radial Basis Function are types of kernals which we can add
-        kernel_custom = st.sidebar.selectbox('Kernel', ('linear', 'poly ', 'rbf', 'sigmoid'))
-        # Adding in dictionary
-        params['C'] = c_regular
-        params['kernel'] = kernel_custom
-
-    # Adding Parameters for KNN
-    elif algorithm == 'KNN':
-
-        # Adding number of Neighbour in Classifier
-        k_n = st.sidebar.slider('Number of Neighbors (K)', 1, 20,key="k_n_slider")
-        # Adding in dictionary
-        params['K'] = k_n
-        # Adding weights
-        weights_custom = st.sidebar.selectbox('Weights', ('uniform', 'distance'))
-        # Adding to dictionary
-        params['weights'] = weights_custom
-
-    # Adding Parameters for Naive Bayes
-    # It doesn't have any paramter
-    elif algorithm == 'Naive Bayes':
-        st.sidebar.info("This is a simple Algorithm. It doesn't have Parameters for Hyper-tuning.")
-
-    # Adding Parameters for Decision Tree
-    elif algorithm == 'Decision Tree':
-
-        # Taking max_depth
-        max_depth = st.sidebar.slider('Max Depth', 2, 17)
-        # Adding criterion
-        # mse is for regression- It is used in DecisionTreeRegressor
-	    # mse will give error in classifier so it is removed
-        criterion = st.sidebar.selectbox('Criterion', ('gini', 'entropy'))
-        # Adding splitter
-        splitter = st.sidebar.selectbox("Splitter", ("best", "random"))
-        # Taking random state
-        # Adding to dictionary
-        params['max_depth'] = max_depth
-        params['criterion'] = criterion
-        params['splitter'] = splitter
-
-        # Exception Handling using try except block
-        # Because we are sending this input in algorithm model it will show error before any input is entered
-        # For this we will do a default random state till the user enters any state and after that it will be updated
-        try:
-            random = st.sidebar.text_input("Enter Random State")
-            params['random_state'] = int(random)
-        except:
-            params['random_state'] = 4567
-
-    # Adding Parameters for Random Forest
-    elif algorithm == 'Random Forest':
-
-        # Taking max_depth
-        max_depth = st.sidebar.slider('Max Depth', 2, 17)
-        # Adding number of estimators
-        n_estimators = st.sidebar.slider('Number of Estimators', 1, 90)
-        # Adding criterion
-        # mse is for regression- It is used in RandomForestRegressor
-	    # mse will give error in classifier so it is removed
-        criterion = st.sidebar.selectbox('Criterion', ('gini', 'entropy', 'log_loss'))
-        # Adding to dictionary
-        params['max_depth'] = max_depth
-        params['n_estimators'] = n_estimators
-        params['criterion'] = criterion
-
-        # Exception Handling using try except block
-        # Because we are sending this input in algorithm model it will show error before any input is entered
-        # For this we will do a default random state till the user enters any state and after that it will be updated
-        try:
-            random = st.sidebar.text_input("Enter Random State")
-            params['random_state'] = int(random)
-        except:
-            params['random_state'] = 4567
-
-    # Adding Parameters for Logistic Regression
-    else:
-
-        # Adding regularization parameter from range 0.01 to 10.0
-        c_regular = st.sidebar.slider('C (Regularization)', 0.01, 10.0)
-        params['C'] = c_regular
-        # Taking fit_intercept
-        fit_intercept = st.sidebar.selectbox("Fit Intercept", ('True', 'False'))
-        params['fit_intercept'] = bool(fit_intercept)
-        # Taking Penalty only l2 and None is supported
-        penalty = st.sidebar.selectbox("Penalty", ('l2', None))
-        params['penalty'] = penalty
-        # Taking n_jobs
-        n_jobs = st.sidebar.selectbox("Number of Jobs", (None, -1))
-        params['n_jobs'] = n_jobs
+    # Adding number of Neighbour in Classifier
+    k_n = st.sidebar.slider('Number of Neighbors (K)', 1, 20,key="k_n_slider")
+    # Adding in dictionary
+    params['K'] = k_n
+    # Adding weights
+    weights_custom = st.sidebar.selectbox('Weights', ('uniform', 'distance'))
+    # Adding to dictionary
+    params['weights'] = weights_custom
 
     return params
 
 # Adding Parameters so that we can select from various parameters for regressor
-def add_parameter_regressor(algorithm):
+def add_parameter_regressor():
 
     # Declaring a dictionary for storing parameters
     params = dict()
 
     # Deciding parameters based on algorithm
-    # Adding Parameters for Decision Tree
-    if algorithm == 'Decision Tree':
+    # Taking max_depth
+    max_depth = st.sidebar.slider('Max Depth', 2, 17)
+    # Adding number of estimators
+    n_estimators = st.sidebar.slider('Number of Estimators', 1, 90)
+    # Adding criterion
+    # mse is for regression- It is used in RandomForestRegressor
+    criterion = st.sidebar.selectbox('Criterion', ('absolute_error', 'squared_error', 'poisson', 'friedman_mse'))
+    # Adding to dictionary
+    params['max_depth'] = max_depth
+    params['n_estimators'] = n_estimators
+    params['criterion'] = criterion
 
-        # Taking max_depth
-        max_depth = st.sidebar.slider('Max Depth', 2, 17)
-        # Adding criterion
-        # mse is for regression- It is used in DecisionTreeRegressor
-        criterion = st.sidebar.selectbox('Criterion', ('absolute_error', 'squared_error', 'poisson', 'friedman_mse'))
-        # Adding splitter
-        splitter = st.sidebar.selectbox("Splitter", ("best", "random"))
-        # Taking random state
-        # Adding to dictionary
-        params['max_depth'] = max_depth
-        params['criterion'] = criterion
-        params['splitter'] = splitter
-
-        # Exception Handling using try except block
-        # Because we are sending this input in algorithm model it will show error before any input is entered
-        # For this we will do a default random state till the user enters any state and after that it will be updated
-        try:
-            random = st.sidebar.text_input("Enter Random State")
-            params['random_state'] = int(random)
-        except:
-            params['random_state'] = 4567
-
-    # Adding Parameters for Linear Regression
-    elif algorithm == 'Linear Regression':
-
-        # Taking fit_intercept
-        fit_intercept = st.sidebar.selectbox("Fit Intercept", ('True', 'False'))
-        params['fit_intercept'] = bool(fit_intercept)
-        # Normalize does not work in linear regression
-        # Taking n_jobs
-        n_jobs = st.sidebar.selectbox("Number of Jobs", (None, -1))
-        params['n_jobs'] = n_jobs
-
-    # Adding Parameters for Random Forest
-    else:
-
-        # Taking max_depth
-        max_depth = st.sidebar.slider('Max Depth', 2, 17)
-        # Adding number of estimators
-        n_estimators = st.sidebar.slider('Number of Estimators', 1, 90)
-        # Adding criterion
-        # mse is for regression- It is used in RandomForestRegressor
-        criterion = st.sidebar.selectbox('Criterion', ('absolute_error', 'squared_error', 'poisson', 'friedman_mse'))
-        # Adding to dictionary
-        params['max_depth'] = max_depth
-        params['n_estimators'] = n_estimators
-        params['criterion'] = criterion
-
-        # Exception Handling using try except block
-        # Because we are sending this input in algorithm model it will show error before any input is entered
-        # For this we will do a default random state till the user enters any state and after that it will be updated
-        try:
-            random = st.sidebar.text_input("Enter Random State")
-            params['random_state'] = int(random)
-        except:
-            params['random_state'] = 4567
+    # Exception Handling using try except block
+    # Because we are sending this input in algorithm model it will show error before any input is entered
+    # For this we will do a default random state till the user enters any state and after that it will be updated
+    try:
+        random = st.sidebar.text_input("Enter Random State")
+        params['random_state'] = int(random)
+    except:
+        params['random_state'] = 4567
 
     return params
 
 # Calling Function based on regressor and classifier
 # Here since the parameters for regressor and classifier are same for some algorithm we can directly use this
 # Because of this here except for this three algorithm we do not need to take parameters separately
-if (algorithm_type == "Regressor") and (algorithm == 'Decision Tree' or algorithm == 'Random Forest' or algorithm_type == "Linear Regression"):
-    params = add_parameter_regressor(algorithm)
-else :
-    params = add_parameter_classifier_general(algorithm)
+params = add_parameter_classifier_general()
 
 # Now we will build ML Model for this dataset and calculate accuracy for that for classifier
-def model_classifier(algorithm, params):
+def model_classifier(params):
 
-    if algorithm == 'KNN':
-        return KNeighborsClassifier(n_neighbors=params['K'], weights=params['weights'])
-
-    elif algorithm == 'SVM':
-        return SVC(C=params['C'], kernel=params['kernel'])
-
-    elif algorithm == 'Decision Tree':
-        return DecisionTreeClassifier(
-            criterion=params['criterion'], splitter=params['splitter'],
-            random_state=params['random_state'])
-
-    elif algorithm == 'Naive Bayes':
-        return GaussianNB()
-
-    elif algorithm == 'Random Forest':
-        return RandomForestClassifier(n_estimators=params['n_estimators'],
-                                      max_depth=params['max_depth'],
-                                      criterion=params['criterion'],
-                                      random_state=params['random_state'])
-
-    elif algorithm == 'Linear Regression':
-        return LinearRegression(fit_intercept=params['fit_intercept'], n_jobs=params['n_jobs'])
-
-    else:
-        return LogisticRegression(fit_intercept=params['fit_intercept'],
-                                  penalty=params['penalty'], C=params['C'], n_jobs=params['n_jobs'])
+    return KNeighborsClassifier(n_neighbors=params['K'], weights=params['weights'])
 
 
 # Now we will build ML Model for this dataset and calculate accuracy for that for regressor
-def model_regressor(algorithm, params):
+def model_regressor(params):
 
-    if algorithm == 'KNN':
-        return KNeighborsRegressor(n_neighbors=params['K'], weights=params['weights'])
+    return KNeighborsRegressor(n_neighbors=params['K'], weights=params['weights'])
 
-    elif algorithm == 'SVM':
-        return SVR(C=params['C'], kernel=params['kernel'])
-
-    elif algorithm == 'Decision Tree':
-        return DecisionTreeRegressor(
-            criterion=params['criterion'], splitter=params['splitter'],
-            random_state=params['random_state'])
-
-    elif algorithm == 'Random Forest':
-        return RandomForestRegressor(n_estimators=params['n_estimators'],
-                                      max_depth=params['max_depth'],
-                                      criterion=params['criterion'],
-                                      random_state=params['random_state'])
-
-    else:
-        return LinearRegression(fit_intercept=params['fit_intercept'], n_jobs=params['n_jobs'])
 
 # Now we will write the dataset information
 # Since diabetes is a regression dataset, it does not have classes
@@ -444,7 +265,7 @@ info(data_name)
 if algorithm_type == "Regressor":
     algo_model = model_regressor(algorithm,params)
 else :
-    algo_model = model_classifier(algorithm,params)
+    algo_model = model_classifier(params)
 
 # Now splitting into Testing and Training data
 # It will split into 80 % training data and 20 % Testing data
