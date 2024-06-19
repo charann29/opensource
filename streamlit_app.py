@@ -49,8 +49,8 @@ def load_dataset(Data):
         return pd.read_csv("Salary_dataset.csv")
     elif Data == "Naive Bayes Classification":
         return pd.read_csv("Naive-Bayes-Classification-Data.csv")
-    else:
-        return pd.read_csv("car_evaluation.csv")
+   # else:
+    #    return pd.read_csv("car_evaluation.csv")
 
 # Now we need to call function to load the dataset
 data = load_dataset(data_name)
