@@ -9,8 +9,7 @@ import pandas as pd
 from sklearn import datasets
 # For splitting between training and testing
 from sklearn.model_selection import train_test_split
-# Importing Algorithm for Simple Vector Machine
-from sklearn.svm import SVC, SVR
+
 # Importing Knn algorithm
 from sklearn.neighbors import KNeighborsClassifier,KNeighborsRegressor
 # Importing  Decision Tree algorithm
