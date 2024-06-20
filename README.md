@@ -1,6 +1,6 @@
 "Trading using Technical and Timeseries Analysis"
 
-## streamlit application deploy link : https://automated-technical-analysis-jat-streamlt-project.streamlit.app/
+## streamlit application deploy link : https://strmlit-jat-automated-technical-analysis.streamlit.app/
 
 Project goal:
 
