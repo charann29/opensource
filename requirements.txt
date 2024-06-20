@@ -1,0 +1,7 @@
+myenv/
+scikit-learn
+numpy
+pandas
+tabulate
+seaborn
+matplotlib
