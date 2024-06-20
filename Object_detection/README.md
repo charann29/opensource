@@ -84,6 +84,11 @@ Ensure you have the following installed:
 
 
 ## Screenshots
+![Screenshot 2024-06-20 224839](https://github.com/Bhanuprakash842/cmr_opensource/assets/127642353/cb8e1443-8756-4644-a217-62e308227651)
+
+
+https://github.com/Bhanuprakash842/cmr_opensource/assets/127642353/2717aa0c-87fc-4d87-898a-204d9340c945
+
 
 
 ## Acknowledgements
