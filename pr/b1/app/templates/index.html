@@ -1,0 +1,62 @@
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bulma.min.css') }}">
+</head>
+<body>
+<nav class="navbar is-fixed-top is-dark">
+    <div class="navbar-brand">
+        <a class="navbar-item has-text-weight-bold is-size-4" href="#">
+            ANDROID MALWARE DETECTION
+        </a>
+    </div>
+</nav>
+<div class="container" style="margin:25vh;padding:30px;position:fixed;">
+    <h3 class="is-size-5">APK Classification</h3>
+    <br>
+    <form method="POST" enctype="multipart/form-data">
+        <div class="field">
+            <label class="label">Algorithm</label>
+            <div class="control">
+                <div class="select">
+                    <select name="algorithm" class="selectpicker form-control">
+                        {% for algorithm in algorithms %}
+                        <option value="{{ algorithm }}">{{ algorithm }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <br>
+        <div class="field">
+            <label class="label"> Upload App</label>
+            <div class="control">
+                <div class="file">
+                    <input type="file" name="file">
+                </div>
+            </div>
+            <br>
+            <input type="submit" class="button is-primary is-outlined is-small" value="Predict" class="form-control">
+             </form>
+
+
+    <div class="col ">
+        <div style="position:fixed;top:30vh;left:50vw;width:300px">
+            <h5 class="is-size-4">Output </h5>
+            <br>
+            <h6 class="is-size-6">Predicted Class: &nbsp; {{ result }} </h6>
+            <h6>Model Accuracy: {{ accuracy }} </h6>
+            <hr>
+            <h5 class="is-size-4">Metadata</h5>
+            <br>
+            <h6>App Name: {{ name }} </h6>
+            <h6>Target SDK Version: {{ sdk }} </h6>
+            <h6>File size: {{ size }} </h6>
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+</body>
+</html>
