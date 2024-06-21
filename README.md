@@ -1,7 +1,3 @@
-# Build A Salary Prediction Web App With Streamlit
+![image](https://github.com/abhiramseshu/abhicmr_opensource/assets/162886598/cd72c01b-15bb-4335-9e68-9072cfeb314d)
+The "Admission Prediction" is a system designed to help students predict which colleges they are likely to get admission into based on their academic performance. This project utilizes machine learning algorithms to analyze historical admission data and predict the likelihood of admission into different colleges based on the marks entered by the student.
 
-Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
-
-Watch the video on YouTube:  
-[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
-[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
