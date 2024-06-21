@@ -21,8 +21,4 @@ The Multimodal Brain Tumor Segmentation Challenge (BraTS) is a platform to evalu
 
 ## Outputs: 
 <br><br>
-![Image Selection](c:\Users\nikhi\OneDrive\Documents\images\WhatsApp Image 2024-06-21 at 10.57.21_c640b06a.jpg)
-![Testing the model](c:\Users\nikhi\OneDrive\Documents\images\WhatsApp Image 2024-06-21 at 10.58.40_b2268958.jpg)
-![Brain tumour image](c:\Users\nikhi\OneDrive\Documents\images\WhatsApp Image 2024-06-21 at 10.59.05_a7f72d68.jpg)
-![Model Accuracy](c:\Users\nikhi\OneDrive\Documents\images\WhatsApp Image 2024-06-21 at 11.00.30_9423a8f1.jpg)
 
