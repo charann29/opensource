@@ -1,0 +1,2617 @@
+Subject,Course,CRN,Course Title,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Extracted_Features
+AAS,100,41758,Intro Asian American Studies,10,15,3,1,0,0,1,0,0,0,0,0,0,0,1.89,1
+AAS,100,47100,Intro Asian American Studies,7,12,1,5,1,0,0,1,1,0,0,0,0,0,1.68,1
+AAS,100,47102,Intro Asian American Studies,6,4,6,3,1,1,0,0,1,0,0,0,0,0,1.61,1
+AAS,100,51248,Intro Asian American Studies,9,6,7,3,1,0,2,0,0,1,0,0,0,0,3.61,4
+AAS,100,51249,Intro Asian American Studies,4,18,2,1,3,0,1,0,1,0,0,1,1,0,3.51,4
+AAS,100,51932,Intro Asian American Studies,2,15,3,0,3,2,1,2,1,0,0,0,0,0,3.49,4
+AAS,246,66200,Asian American Youth in Film,0,27,4,0,1,0,0,0,0,0,0,0,0,0,3.93,4
+AAS,258,58913,Muslims in America,0,22,5,1,0,0,0,0,0,0,0,0,0,1,3.92,4
+ABE,100,31263,Intro Agric & Biological Engrg,0,30,0,0,11,0,0,1,0,0,0,0,0,0,3.69,4
+ABE,223,58927,ABE Principles: Machine Syst,1,28,2,1,6,2,0,0,0,0,0,0,0,0,2.75,4
+ABE,224,58931,ABE Principles: Soil & Water,1,33,9,3,2,0,0,0,0,0,0,0,1,0,0.78,0
+ABE,430,64779,Project Management,0,104,7,0,1,0,0,0,0,0,0,0,1,0,3.94,4
+ABE,466,31280,Engineering Off-Road Vehicles,3,6,8,7,2,0,2,0,0,0,0,0,0,0,0.55,0
+ABE,488,57478,Bioprocessing Biomass for Fuel,6,14,4,2,3,0,0,0,0,0,0,0,0,0,3.8,4
+ACCY,200,29670,Fundamentals of Accounting,4,93,57,32,57,22,20,17,4,3,4,2,1,0,0.26,0
+ACCY,201,36478,Accounting and Accountancy I,8,4,8,3,4,3,3,2,3,0,3,0,1,0,3.01,4
+ACCY,201,36482,Accounting and Accountancy I,1,0,3,1,2,3,4,3,1,0,3,0,4,0,2.09,2
+ACCY,201,36484,Accounting and Accountancy I,4,2,7,4,2,1,2,3,1,0,1,0,1,0,1.04,0
+ACCY,201,36486,Accounting and Accountancy I,3,5,3,0,4,2,2,3,1,0,2,0,2,0,1.77,1
+ACCY,201,36487,Accounting and Accountancy I,5,3,3,4,4,4,2,1,0,0,2,0,0,1,2.13,2
+ACCY,201,36489,Accounting and Accountancy I,5,4,3,2,3,4,1,3,1,0,4,0,1,0,2.82,4
+ACCY,201,36494,Accounting and Accountancy I,10,6,7,2,5,3,2,0,3,0,3,0,1,0,1.14,0
+ACCY,201,36496,Accounting and Accountancy I,7,7,9,3,4,3,2,2,1,0,2,0,4,0,1.99,1
+ACCY,201,36499,Accounting and Accountancy I,6,10,3,3,2,1,1,2,2,0,6,0,3,0,1.8,1
+ACCY,201,36502,Accounting and Accountancy I,6,7,6,2,2,4,0,2,2,0,4,0,5,1,1.72,1
+ACCY,201,36506,Accounting and Accountancy I,3,11,7,4,4,2,3,5,0,0,1,0,1,1,1.18,0
+ACCY,201,36509,Accounting and Accountancy I,5,11,5,1,5,4,2,0,2,0,3,0,2,0,1.06,0
+ACCY,201,36516,Accounting and Accountancy I,2,6,4,0,2,2,2,1,1,0,2,0,4,0,2.63,3
+ACCY,201,36522,Accounting and Accountancy I,2,3,11,4,10,3,4,2,1,0,1,0,0,0,2.11,2
+ACCY,201,36526,Accounting and Accountancy I,3,4,8,6,5,5,4,1,1,0,1,0,3,1,1.92,1
+ACCY,201,36536,Accounting and Accountancy I,4,9,4,0,4,3,6,2,1,0,2,0,2,0,2.93,4
+ACCY,201,36538,Accounting and Accountancy I,3,3,12,3,4,5,3,1,2,0,2,0,2,0,2.94,4
+ACCY,201,36543,Accounting and Accountancy I,7,7,12,3,1,4,3,0,1,0,3,0,1,1,3.22,4
+ACCY,202,36552,Accounting and Accountancy II,4,3,4,7,8,0,2,3,1,0,1,0,0,1,3.13,4
+ACCY,202,36556,Accounting and Accountancy II,4,8,4,13,5,1,6,3,2,0,0,0,0,0,3.19,4
+ACCY,202,36560,Accounting and Accountancy II,8,4,5,14,1,0,7,3,1,0,1,0,0,0,3.2,4
+ACCY,202,36565,Accounting and Accountancy II,4,8,1,14,8,3,3,1,1,0,0,0,0,0,3.28,4
+ACCY,202,36568,Accounting and Accountancy II,5,5,7,14,3,0,4,7,0,0,0,0,1,1,3.14,4
+ACCY,202,36574,Accounting and Accountancy II,3,8,6,9,6,0,6,3,1,0,1,0,0,2,3.18,4
+ACCY,301,36577,Atg Measurement & Disclosure,0,6,3,5,3,4,2,1,1,0,0,0,0,0,3.19,4
+ACCY,301,36581,Atg Measurement & Disclosure,6,5,3,3,5,2,0,1,0,0,0,0,0,0,2.49,2
+ACCY,301,36584,Atg Measurement & Disclosure,4,5,1,6,4,2,2,0,0,0,1,0,0,0,2.31,2
+ACCY,301,36587,Atg Measurement & Disclosure,0,8,4,5,1,1,3,2,0,1,0,0,0,0,2.25,2
+ACCY,301,36590,Atg Measurement & Disclosure,2,3,1,6,8,0,0,0,1,0,0,0,0,0,2.3,2
+ACCY,301,36592,Atg Measurement & Disclosure,1,4,5,4,5,3,4,0,0,0,0,0,0,0,2.23,2
+ACCY,301,36596,Atg Measurement & Disclosure,2,3,7,3,4,6,0,0,0,0,0,0,0,0,2.35,2
+ACCY,301,36598,Atg Measurement & Disclosure,1,7,6,6,2,0,0,0,0,0,1,0,0,0,3.52,4
+ACCY,301,47781,Atg Measurement & Disclosure,4,3,4,4,7,2,0,0,0,0,0,0,0,1,3.43,4
+ACCY,302,36610,Decision Making for Atg,0,6,6,3,14,3,1,0,1,0,0,0,0,0,3.24,4
+ACCY,302,36614,Decision Making for Atg,0,6,9,7,11,0,0,0,0,0,0,0,0,0,3.43,4
+ACCY,302,36618,Decision Making for Atg,1,2,11,10,5,2,0,0,1,0,0,0,0,0,3.37,4
+ACCY,302,36680,Decision Making for Atg,0,1,10,11,11,0,0,1,0,0,0,0,0,0,3.3,4
+ACCY,302,36688,Decision Making for Atg,0,6,8,12,2,4,1,0,0,0,0,0,0,0,3.4,4
+ACCY,302,49257,Decision Making for Atg,4,3,5,11,6,3,1,1,0,0,0,0,0,0,2.33,2
+ACCY,302,49258,Decision Making for Atg,2,6,9,10,2,3,1,0,2,0,0,0,0,0,3.37,4
+ACCY,303,36692,Atg Institutions and Reg,1,2,11,6,7,1,0,2,0,0,0,1,0,1,2.25,2
+ACCY,303,36700,Atg Institutions and Reg,1,12,9,5,4,1,0,0,1,0,0,2,1,1,3.32,4
+ACCY,303,36701,Atg Institutions and Reg,2,12,10,3,6,2,0,0,1,1,0,0,0,0,2.49,2
+ACCY,303,36713,Atg Institutions and Reg,1,12,4,7,4,6,2,0,0,1,0,0,0,0,2.35,2
+ACCY,303,49259,Atg Institutions and Reg,0,10,11,9,2,0,0,0,1,0,1,3,0,0,2.27,2
+ACCY,303,36703,Atg Institutions and Reg,0,6,6,7,4,10,0,0,2,0,0,1,0,0,1.11,0
+ACCY,304,31317,Accounting Control Systems,2,4,3,3,5,1,3,0,0,1,1,1,1,0,1.91,1
+ACCY,304,31318,Accounting Control Systems,0,14,4,5,7,0,0,1,1,0,1,0,0,0,1.42,0
+ACCY,304,31319,Accounting Control Systems,1,12,6,6,5,1,0,1,0,0,0,0,0,0,1.55,1
+ACCY,304,31320,Accounting Control Systems,0,13,0,6,9,0,2,1,0,0,0,0,1,0,1.3,0
+ACCY,304,49280,Accounting Control Systems,0,13,0,4,13,0,2,2,0,0,0,0,0,0,1.32,0
+ACCY,304,62036,Accounting Control Systems,0,18,0,3,7,0,2,2,0,1,0,0,0,0,1.42,0
+ACCY,312,31321,Principles of Taxation,0,6,4,5,5,7,2,1,1,0,2,0,0,1,1.01,0
+ACCY,312,31324,Principles of Taxation,1,9,3,9,7,1,2,1,0,0,0,0,0,1,1.37,0
+ACCY,312,31330,Principles of Taxation,3,9,7,5,9,2,0,0,0,0,0,0,0,1,1.51,1
+ACCY,312,31333,Principles of Taxation,0,5,11,8,3,1,1,0,1,0,1,0,1,1,2.24,2
+ACCY,312,45719,Principles of Taxation,6,2,17,5,3,1,2,0,0,0,0,2,0,0,2.39,2
+ACCY,312,45934,Principles of Taxation,5,4,14,3,8,1,0,0,0,0,0,0,1,0,2.45,2
+ACCY,405,36758,Assurance and Attestation,0,2,8,22,4,1,1,1,0,0,0,0,0,0,2.32,2
+ACCY,405,36764,Assurance and Attestation,1,5,10,12,6,2,0,1,1,0,0,0,0,0,2.36,2
+ACCY,405,54162,Assurance and Attestation,1,4,7,19,1,3,2,0,0,0,0,0,0,1,2.37,2
+ACCY,410,61231,Advanced Financial Reporting,2,4,5,8,7,2,1,1,1,1,0,0,0,1,2.22,2
+ACCY,410,62729,Advanced Financial Reporting,2,7,7,7,7,2,2,1,0,0,0,0,0,0,2.36,2
+ACCY,410,62730,Advanced Financial Reporting,1,16,5,4,9,0,0,0,0,0,0,0,0,2,2.61,3
+ACCY,410,62731,Advanced Financial Reporting,2,13,6,2,7,5,3,0,0,0,0,0,0,0,2.42,2
+ACCY,410,62732,Advanced Financial Reporting,1,8,5,7,6,3,3,2,0,0,0,0,2,1,2.1,2
+ACCY,415,29676,Auditing Stds and Practice,0,15,8,9,7,0,0,1,0,0,0,0,0,0,1.56,1
+ACCY,415,64648,Auditing Stds and Practice,0,2,7,10,9,5,0,3,2,0,0,0,1,0,1.99,1
+ACCY,415,65021,Auditing Stds and Practice,0,11,2,11,8,4,0,1,0,0,0,0,0,0,1.37,0
+ACCY,451,49130,Advanced Income Tax Problems,0,9,5,7,12,4,0,0,0,0,0,0,0,0,1.35,0
+ACCY,451,54569,Advanced Income Tax Problems,2,9,4,5,12,4,0,1,0,0,0,0,0,0,1.36,0
+ACCY,451,63119,Advanced Income Tax Problems,0,5,2,3,9,5,4,1,0,0,0,0,0,0,1.09,0
+ACCY,502,29680,Accounting Analysis II,6,10,8,10,1,3,0,0,0,0,1,0,0,0,1.56,1
+ACCY,502,31334,Accounting Analysis II,4,11,10,5,3,1,1,2,0,0,0,0,0,0,1.55,1
+ACCY,502,61232,Accounting Analysis II,3,9,10,11,0,2,4,1,0,1,0,0,0,0,1.4,0
+ACCY,503,31335,Managerial Accounting,3,21,12,1,0,0,0,0,0,0,0,0,0,0,1.87,1
+ACCY,503,39540,Managerial Accounting,3,18,16,1,0,0,0,0,0,0,0,0,0,0,1.84,1
+ACCY,503,66973,Managerial Accounting,17,41,55,81,14,3,0,0,1,0,0,0,0,2,1.56,1
+ACCY,503,66974,Managerial Accounting,2,5,8,7,3,0,0,0,0,0,0,0,0,2,1.59,1
+ACCY,504,56299,Auditing,0,5,15,5,7,3,3,0,1,0,0,0,0,0,1.32,0
+ACCY,504,59162,Auditing,0,11,11,11,5,6,0,0,0,0,0,0,0,0,0.46,0
+ACCY,504,64875,Auditing,0,14,13,8,6,1,2,0,0,0,0,0,0,0,0.54,0
+ACCY,505,31339,Federal Taxation,5,19,5,1,4,5,0,1,0,0,0,0,0,0,0.63,0
+ACCY,505,31341,Federal Taxation,6,13,6,7,6,3,0,0,1,0,0,0,0,0,0.55,0
+ACCY,505,54993,Federal Taxation,5,10,7,9,4,4,0,0,0,0,0,0,0,0,0.55,0
+ACCY,505,57605,Federal Taxation,6,6,3,4,5,5,0,1,0,0,0,0,0,0,3.42,4
+ACCY,510,49275,Financial Reporting Standards,0,25,0,7,2,2,1,1,1,0,0,0,0,0,0.61,0
+ACCY,510,61974,Financial Reporting Standards,4,11,6,6,9,4,0,0,0,0,0,0,0,0,0.49,0
+ACCY,510,62037,Financial Reporting Standards,2,8,10,7,9,5,0,0,0,0,0,0,0,0,0.42,0
+ACCY,510,63121,Financial Reporting Standards,0,24,0,6,8,1,0,1,0,0,0,0,0,0,0.62,0
+ACCY,511,31344,External Risk Measurement/Rept,0,10,6,5,4,1,0,0,0,0,0,0,0,0,0.59,0
+ACCY,511,49276,External Risk Measurement/Rept,0,18,8,4,1,0,0,0,0,0,0,0,0,0,0.8,0
+ACCY,512,51813,Internal Risk Measurement/Rept,3,16,8,4,9,0,0,0,0,0,0,0,0,0,1.64,1
+ACCY,512,51816,Internal Risk Measurement/Rept,3,13,10,7,5,1,0,0,0,0,0,0,0,0,1.63,1
+ACCY,515,46977,Auditing & Assurance Standards,0,7,9,11,0,3,0,0,0,0,0,0,0,0,1.52,1
+ACCY,515,46978,Auditing & Assurance Standards,0,11,6,5,5,2,0,1,1,0,0,0,0,0,1.44,0
+ACCY,515,54477,Auditing & Assurance Standards,0,8,7,10,5,1,0,0,0,0,0,0,0,0,1.51,1
+ACCY,517,31373,Financial Statement Analysis,0,6,9,4,7,2,0,1,0,0,0,0,0,0,1.4,0
+ACCY,517,31377,Financial Statement Analysis,0,11,4,5,10,0,0,0,0,0,0,0,0,0,1.51,1
+ACCY,517,39543,Financial Statement Analysis,0,8,3,6,10,2,0,0,0,0,0,0,0,0,1.39,0
+ACCY,518,66681,Financial Statement Fraud,27,12,0,0,1,0,0,0,0,0,0,0,0,0,1.98,1
+ACCY,551,31381,Corporate Income Taxation,0,2,1,7,14,1,0,0,0,0,0,0,0,0,1.19,0
+ACCY,551,31382,Corporate Income Taxation,0,5,2,9,10,0,0,0,0,0,0,0,0,0,1.36,0
+ACCY,552,44169,Partnership Income Taxation,2,6,4,3,6,0,0,0,0,0,1,0,0,0,1.44,0
+ACCY,554,60931,International Taxation,2,5,4,2,7,2,0,0,0,0,0,0,0,0,3.44,4
+ACCY,556,54570,Tax Research,0,10,18,7,1,0,0,0,0,0,0,0,0,0,3.68,4
+ACCY,556,31384,Tax Research,1,12,13,4,1,0,0,0,0,0,0,0,0,0,3.74,4
+ACCY,558,60932,Taxation of Closely-Held Bus.,3,13,4,1,1,0,0,0,0,0,0,0,0,0,3.86,4
+ACCY,570,66737,Data Anlaytics Foundations,5,16,7,3,8,1,0,0,0,0,0,0,0,0,3.66,4
+ACCY,571,66738,Stat Analyses for Accountancy,1,19,8,6,5,0,1,0,0,0,0,0,0,0,3.67,4
+ACE,100,36724,Agr Cons and Resource Econ,0,0,4,4,2,1,2,0,3,2,4,0,2,0,2.21,2
+ACE,161,36745,Microcomputer Applications,0,11,0,0,6,0,0,3,0,0,0,0,2,0,3.09,4
+ACE,161,36736,Microcomputer Applications,0,19,0,0,4,0,0,1,0,0,0,0,0,0,3.75,4
+ACE,161,36747,Microcomputer Applications,0,15,0,0,4,0,0,3,0,0,1,0,0,0,3.43,4
+ACE,161,36749,Microcomputer Applications,0,16,0,0,4,0,0,2,0,0,1,0,0,1,3.52,4
+ACE,161,36738,Microcomputer Applications,0,22,0,0,3,0,0,0,0,0,0,0,0,0,3.88,4
+ACE,161,36750,Microcomputer Applications,0,19,0,0,5,0,0,1,0,0,0,0,0,0,3.72,4
+ACE,161,36739,Microcomputer Applications,0,21,0,0,3,0,0,1,0,0,0,0,0,0,2.8,4
+ACE,161,36751,Microcomputer Applications,0,33,0,0,12,0,0,2,0,0,0,0,0,0,2.66,3
+ACE,161,36741,Microcomputer Applications,0,18,0,0,3,0,0,2,0,0,1,0,0,0,2.58,3
+ACE,161,36752,Microcomputer Applications,0,32,0,0,10,0,0,2,0,0,3,0,0,0,2.51,3
+ACE,161,36742,Microcomputer Applications,0,12,0,0,8,0,0,1,0,0,1,0,1,0,2.26,2
+ACE,161,36744,Microcomputer Applications,0,13,0,0,7,0,0,2,0,0,1,0,0,0,2.39,2
+ACE,210,61563,Environmental Economics,17,17,16,21,23,15,11,11,7,3,2,1,5,0,1.95,1
+ACE,222,29698,Agricultural Marketing,14,32,43,22,29,13,9,4,6,2,1,0,4,2,3.24,4
+ACE,240,51717,Personal Financial Planning,8,30,40,25,21,13,11,7,1,1,3,2,7,0,3.12,4
+ACE,251,49101,The World Food Economy,11,43,25,21,28,11,6,10,3,1,0,0,4,0,3.26,4
+ACE,261,31419,Applied Statistical Methods,1,10,8,7,15,5,6,4,5,3,0,1,1,1,2.88,4
+ACE,306,52038,Food Law,1,8,4,3,3,4,1,3,0,0,0,0,3,0,2.96,4
+ACE,341,65063,Issues in Agribus Mkts & Mgmt,25,4,3,0,2,0,0,1,0,0,0,0,1,0,3.75,4
+ACE,341,65167,Issues in Cons Econ & Finance,6,9,4,1,2,1,0,0,0,0,0,0,0,0,3.77,4
+ACE,345,53592,Finan Decision Indiv Sm Bus,9,55,9,20,10,6,3,4,3,0,0,0,0,0,3.54,4
+ACE,346,60156,Tax Policy and Finan Planning,5,15,19,5,8,3,2,2,0,0,0,0,0,0,3.51,4
+ACE,406,48924,Environmental Law,0,7,3,0,2,4,1,2,4,0,0,0,0,0,2.98,4
+ACE,411,62829,Environment and Development,16,14,10,6,6,0,0,0,1,1,0,1,1,0,3.56,4
+ACE,427,64899,Commodity Price Analysis,5,11,11,6,13,2,1,3,1,0,1,0,1,1,3.27,4
+ACE,428,43123,Commodity Futures and Options,3,4,12,3,3,11,2,6,3,3,1,2,0,0,2.8,4
+ACE,432,57775,Farm Management,19,7,3,1,0,1,0,0,0,0,0,0,0,0,3.91,4
+ACE,435,29710,Global Agribusiness Management,27,15,15,12,11,7,1,2,1,1,0,0,0,0,3.52,4
+ACE,444,51727,Finan Serv & Invest Plan,0,8,8,9,13,4,2,2,0,0,0,0,0,0,3.25,4
+ACE,444,56181,Finan Serv & Invest Plan,2,13,6,4,7,5,0,0,0,0,0,0,0,0,3.51,4
+ACE,455,56174,Intl Trade in Food and Agr,28,17,10,5,6,1,1,0,0,0,0,0,2,1,2.66,3
+ACES,101,51577,Contemporary Issues in ACES,13,5,1,0,1,1,0,2,0,0,0,0,0,0,2.71,3
+ACES,101,62120,Contemporary Issues in ACES,0,17,8,0,1,0,0,1,1,0,0,0,0,1,2.72,3
+ACES,101,51579,Contemporary Issues in ACES,2,18,2,1,2,1,0,0,1,0,0,0,1,0,1.61,1
+ACES,101,51582,Contemporary Issues in ACES,8,12,3,4,0,0,0,0,0,0,0,0,2,0,1.6,1
+ACES,101,51586,Contemporary Issues in ACES,0,11,7,2,4,1,1,3,1,0,0,0,0,0,1.37,0
+ACES,101,51587,Contemporary Issues in ACES,2,14,6,1,1,3,2,0,0,0,0,0,1,0,1.5,1
+ACES,101,51588,Contemporary Issues in ACES,1,13,6,1,3,1,0,1,0,0,0,0,1,0,1.52,1
+ACES,101,51590,Contemporary Issues in ACES,7,7,5,1,2,0,2,0,0,1,1,0,1,0,1.36,0
+ACES,101,51594,Contemporary Issues in ACES,4,15,4,1,1,1,0,0,0,0,0,0,2,0,1.56,1
+ACES,101,51596,Contemporary Issues in ACES,1,15,8,0,0,0,0,0,1,0,0,0,0,0,1.8,1
+ACES,101,51600,Contemporary Issues in ACES,0,12,3,3,1,0,2,0,0,0,0,0,0,0,1.65,1
+ACES,101,51601,Contemporary Issues in ACES,7,12,4,3,0,0,1,0,0,0,0,0,2,0,1.55,1
+ACES,179,61977,History of Ag in IL Since 1860,4,6,6,3,2,1,0,1,1,0,0,0,2,0,1.24,0
+ACES,179,61978,History of Ag in IL Since 1860,1,7,4,3,4,2,1,1,1,0,0,0,1,0,2.2,2
+ADV,150,61084,Introduction to Advertising,7,36,4,2,7,0,1,0,0,0,0,0,0,0,2.8,4
+ADV,150,61085,Introduction to Advertising,35,173,1,14,81,0,1,16,0,2,1,0,3,1,2.56,3
+ADV,281,61086,Advertising Research Methods,2,7,10,14,14,4,6,13,3,5,2,1,3,1,2.69,3
+ADV,283,65173,Advertising and Brand Strategy,0,23,9,4,1,2,1,0,0,0,0,0,0,0,1.73,1
+ADV,283,62716,Advertising and Brand Strategy,0,32,9,4,2,1,0,0,0,0,0,0,0,0,1.81,1
+ADV,283,64451,Advertising and Brand Strategy,1,22,19,1,0,0,0,0,0,0,0,0,2,0,1.67,1
+ADV,284,62721,Consumer Insight,0,18,22,6,6,0,0,0,0,0,0,0,0,0,1.67,1
+ADV,284,65174,Consumer Insight,0,25,15,7,2,1,1,1,0,0,0,0,0,0,3.68,4
+ADV,310,57971,Intro to Public Relations,0,33,16,22,29,7,6,8,3,0,2,1,0,0,3.21,4
+ADV,311,66827,Classic Campaigns,0,13,16,11,10,2,1,0,0,0,0,0,0,0,1.49,0
+ADV,390,61087,Content Creation,0,22,26,22,37,23,8,6,1,1,0,0,1,0,3.15,4
+ADV,410,51297,Public Relations Strategies,1,19,12,14,5,0,2,1,1,0,0,0,0,0,3.53,4
+ADV,460,62726,Innovation in Advertising,1,37,8,8,6,0,3,3,1,1,0,0,0,0,3.56,4
+ADV,460,61094,Innovation in Advertising,29,6,5,9,4,5,5,2,0,1,0,0,1,0,3.44,4
+ADV,483,29757,Audience Analysis,0,2,4,14,16,8,1,0,0,0,0,0,0,0,3.13,4
+ADV,483,51300,Audience Analysis,1,6,24,13,4,1,1,0,0,0,0,0,0,0,3.53,4
+ADV,490,59683,Sports PR,0,15,10,1,0,1,1,0,0,0,0,0,1,0,3.62,4
+ADV,490,66376,Social Media Analytics,4,24,1,0,0,1,0,0,0,0,0,0,0,0,3.94,4
+ADV,498,64458,The Sandage Project,0,9,12,5,0,0,0,0,0,0,0,0,0,0,3.72,4
+AE,100,46515,Intro to Aerospace Engineering,0,28,4,0,4,2,0,0,0,0,0,0,0,0,3.79,4
+AE,100,63909,Intro to Aerospace Engineering,9,14,7,4,2,1,0,0,0,0,0,0,0,0,3.78,4
+AE,100,46516,Intro to Aerospace Engineering,10,18,2,0,2,0,0,1,0,0,0,0,1,0,3.75,4
+AE,199,61243,Computer Aided Design,0,21,5,3,5,1,1,1,0,0,0,0,1,0,3.54,4
+AE,199,63338,Computer Aided Design,1,22,6,9,1,1,1,0,0,0,1,0,2,0,3.48,4
+AE,202,55736,Aerospace Flight Mechanics,7,6,7,2,5,4,0,0,3,0,0,0,0,0,3.38,4
+AE,311,29785,Incompressible Flow,2,10,15,17,20,16,15,11,1,1,0,1,1,0,2.94,4
+AE,321,29786,Mechs of Aerospace Structures,3,6,10,8,11,10,10,9,8,11,9,6,17,0,2.05,2
+AE,352,29788,Aerospace Dynamical Systems,8,16,19,7,13,9,0,0,2,0,0,0,2,0,3.36,4
+AE,353,66644,Aerospace Control Systems,0,6,12,10,14,0,4,3,0,0,1,0,0,0,3.19,4
+AE,402,29794,Orbital Mechanics,5,12,16,9,22,12,0,0,0,0,0,0,0,0,3.36,4
+AE,412,29800,Viscous Flow & Heat Transfer,3,13,10,5,3,1,1,1,0,0,1,0,0,0,3.54,4
+AE,416,29803,Applied Aerodynamics,1,17,5,5,9,11,3,2,2,4,1,0,2,0,3.01,4
+AE,433,29787,Aerospace Propulsion,0,33,23,19,16,9,7,8,2,2,2,1,1,0,3.2,4
+AE,442,57765,Aerospace Systems Design I,10,12,7,7,15,3,5,3,7,0,0,0,1,0,3.13,4
+AE,442,57766,Aerospace Systems Design I,0,12,8,13,9,1,0,1,0,1,0,0,3,1,3.2,4
+AE,451,51603,Aeroelasticity,6,6,6,3,3,1,0,0,0,0,0,0,0,0,3.68,4
+AE,454,53832,Systems Dynamics & Control,3,6,5,4,3,0,1,0,0,0,0,0,0,0,3.6,4
+AE,460,36450,Aerodynamics & Propulsion Lab,4,58,19,4,12,2,2,2,0,0,0,0,0,1,3.7,4
+AE,483,57767,UAV Navigation and Control,45,38,8,9,2,3,0,0,1,0,0,0,0,1,3.84,4
+AFRO,100,49318,Intro to African American St,5,9,4,3,1,2,1,1,0,0,0,0,1,0,3.46,4
+AFRO,100,49320,Intro to African American St,8,5,4,1,0,3,2,2,1,1,0,0,2,0,3.09,4
+AFRO,261,46614,Intro to the African Diaspora,1,19,7,5,5,1,0,1,0,0,0,0,0,0,3.64,4
+AFRO,383,51826,Hist of Blk Women's Activism,0,17,8,5,3,0,0,1,0,0,0,0,0,0,3.68,4
+AFRO,411,60132,African American Psychology,2,8,4,0,8,1,0,3,0,0,2,0,0,0,3.2,4
+AGCM,220,38779,Communicating Agriculture,0,16,4,1,1,1,0,0,1,1,0,0,1,0,3.49,4
+AGCM,430,36899,Comm in Env Social Movements,1,4,9,6,2,0,0,0,0,0,0,0,0,0,3.59,4
+AGED,230,56362,Leadership Communications,3,51,12,5,8,0,1,0,0,2,1,0,0,0,3.69,4
+AGED,260,45330,Intro to Leadership Studies,0,8,7,2,6,0,3,0,1,0,0,0,0,0,3.37,4
+AGED,260,61074,Intro to Leadership Studies,27,58,25,29,22,9,8,4,1,1,0,0,1,0,3.5,4
+AGED,280,55468,Training Needs Assessment,13,10,4,1,1,1,0,0,0,0,1,0,0,0,3.76,4
+AGED,340,58186,Leadership Ethics & Pluralism,2,6,6,6,5,2,0,0,0,1,0,0,1,0,3.3,4
+AGED,380,59633,Leadership in Groups and Teams,8,17,13,6,2,2,0,0,1,0,0,0,0,0,3.69,4
+AGED,380,63723,Leadership in Groups and Teams,11,10,11,1,1,2,0,0,1,0,0,0,1,0,3.62,4
+AGED,480,62936,Collaborative Leadership,4,17,6,2,1,0,0,0,0,0,0,0,0,0,3.86,4
+AGED,499,60733,Begin Agri Teachers Seminar,0,23,1,0,6,0,0,0,0,0,0,0,0,0,3.79,4
+AHS,199,52015,Undergraduate Open Seminar,17,9,0,0,2,0,0,2,0,0,0,0,0,0,3.8,4
+AIS,285,67476,Indigenous Thinkers,13,3,0,0,0,4,0,2,0,0,0,0,0,1,3.58,4
+ANSC,100,31300,Intro to Animal Sciences,10,99,0,12,41,0,3,5,0,0,3,0,1,0,3.56,4
+ANSC,103,29835,Working With Farm Animals,0,79,0,1,0,0,0,0,0,0,0,0,0,0,3.99,4
+ANSC,206,29863,Horse Management,2,38,4,2,8,0,1,1,0,0,0,0,0,0,3.74,4
+ANSC,207,51564,Companion Animal Biology &Care,2,17,3,1,3,1,1,1,1,0,0,0,0,0,1.6,1
+ANSC,207,51565,Companion Animal Biology &Care,8,15,5,4,5,2,0,1,0,0,0,0,0,0,1.65,1
+ANSC,207,51566,Companion Animal Biology &Care,10,16,5,5,4,1,0,1,1,0,1,0,0,0,1.6,1
+ANSC,207,56248,Companion Animal Biology &Care,7,15,12,3,4,4,2,0,0,0,2,0,0,0,1.5,1
+ANSC,207,56256,Companion Animal Biology &Care,14,15,3,6,5,2,1,0,0,0,1,0,1,0,1.56,1
+ANSC,222,55434,Anatomy and Physiology,4,16,7,11,44,8,12,22,3,10,5,2,11,1,2.53,3
+ANSC,250,53235,Companion Animals in Society,107,155,101,61,64,26,23,17,10,6,3,2,7,0,1.44,0
+ANSC,298,29886,Undergraduate Seminar,61,13,4,1,2,2,0,0,0,0,0,0,0,0,3.92,4
+ANSC,305,29860,Human Animal Interactions,15,5,4,6,2,1,2,0,0,0,0,0,0,0,1.66,1
+ANSC,307,60741,Companion Animal Management,2,4,6,8,17,2,4,7,2,0,3,1,2,0,2.75,4
+ANSC,350,29884,Cellular Metabolism in Animals,0,14,0,0,12,0,0,21,0,0,2,0,0,0,2.78,4
+ANSC,370,62114,Companion Animal Policy,0,8,6,0,5,0,0,2,0,0,0,0,0,0,3.48,4
+ANSC,401,29887,Beef Production,2,31,0,0,9,0,0,0,0,0,0,0,0,0,3.79,4
+ANSC,420,29891,Ruminant Nutrition,0,10,1,1,14,3,1,6,0,0,0,0,1,0,3.01,4
+ANSC,431,40958,Advanced Reproductive Biology,14,13,12,6,13,0,0,8,1,1,0,0,1,0,1.33,0
+ANSC,445,67021,Statistical Methods,14,8,2,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+ANSC,452,29889,Animal Growth and Development,0,36,0,0,10,0,0,2,0,0,1,0,0,0,1.67,1
+ANSC,467,31305,Applied Animal Ecology,2,20,8,7,9,0,0,0,0,0,0,0,0,0,3.65,4
+ANSC,498,59523,Integrating Animal Sciences,0,62,0,0,8,0,0,1,0,0,1,0,0,0,3.82,4
+ANSC,499,62843,Dangerous Dogs & Breed Discrim,0,20,0,0,0,0,1,0,0,0,0,0,0,0,3.92,4
+ANTH,101,55549,Introduction to Anthropology,15,44,42,28,28,31,10,13,18,3,6,1,9,0,2.98,4
+ANTH,103,65489,Anthro in a Changing World,12,83,89,27,45,20,7,16,6,4,1,5,15,0,3.19,4
+ANTH,103,29919,Anthro in a Changing World,0,27,46,46,43,25,30,16,10,7,6,2,5,1,2.89,4
+ANTH,104,37052,Talking Culture,0,2,9,4,5,1,0,0,0,0,0,0,0,0,3.43,4
+ANTH,143,37058,Biology of Human Behavior,12,6,1,3,0,0,0,2,0,0,0,1,0,0,3.61,4
+ANTH,143,37058,Biology of Human Behavior,161,107,54,25,38,15,14,13,9,2,9,4,19,3,3.39,4
+ANTH,143,57526,Biology of Human Behavior,13,4,2,2,1,3,1,0,1,0,1,0,0,0,1.5,1
+ANTH,143,57527,Biology of Human Behavior,9,7,6,0,0,0,0,3,1,0,1,0,0,0,1.51,1
+ANTH,143,57528,Biology of Human Behavior,8,6,4,1,1,1,1,0,0,0,0,0,1,0,1.57,1
+ANTH,143,57529,Biology of Human Behavior,13,4,2,0,1,0,2,1,0,1,0,0,1,0,1.45,0
+ANTH,143,57530,Biology of Human Behavior,10,7,1,2,4,0,1,0,0,0,0,0,3,0,1.31,0
+ANTH,143,57532,Biology of Human Behavior,3,13,4,0,5,0,2,0,0,0,0,0,1,1,1.51,1
+ANTH,143,57553,Biology of Human Behavior,3,6,6,5,4,0,0,0,0,0,1,0,0,0,1.51,1
+ANTH,143,57554,Biology of Human Behavior,17,2,1,2,1,0,0,1,0,0,0,1,2,1,1.41,0
+ANTH,143,57518,Biology of Human Behavior,10,6,2,1,3,0,1,1,2,0,1,0,1,0,1.3,0
+ANTH,143,57558,Biology of Human Behavior,11,5,4,0,1,0,1,1,0,0,0,1,1,0,1.47,0
+ANTH,143,57559,Biology of Human Behavior,6,6,3,1,0,0,2,0,0,0,0,0,3,0,3.19,4
+ANTH,143,57519,Biology of Human Behavior,11,2,1,2,0,1,2,1,2,0,0,1,1,1,3.15,4
+ANTH,143,57520,Biology of Human Behavior,7,7,3,0,4,2,1,0,1,0,1,0,0,0,2.44,2
+ANTH,143,57525,Biology of Human Behavior,4,5,4,1,2,2,0,1,1,0,1,0,3,0,2.92,4
+ANTH,160,50621,Contemporary Social Issues,5,9,10,1,3,3,1,2,4,0,0,0,2,0,3.15,4
+ANTH,180,31310,The Archaeology of Death,47,65,15,12,49,12,6,23,10,0,10,0,4,1,3.2,4
+ANTH,182,38786,Latin American Cultures,6,2,6,5,7,2,0,0,0,0,0,0,0,0,3.46,4
+ANTH,220,31325,Introduction to Archaeology,7,8,3,3,1,1,0,0,1,0,0,0,0,0,3.68,4
+ANTH,230,43141,Sociocultural Anthropology,3,9,3,7,3,0,1,0,0,0,0,0,0,0,3.6,4
+ANTH,230,43143,Sociocultural Anthropology,5,7,8,4,2,0,1,1,0,0,0,0,0,0,3.61,4
+ANTH,246,62039,Forensic Science,6,227,47,36,24,7,11,7,3,1,1,0,9,0,3.59,4
+ANTH,399,64057,Senior Capston Seminar,2,9,4,4,0,0,0,2,0,0,0,0,0,0,3.62,4
+ANTH,411,46543,Methods of Cultural Anth,0,16,5,0,1,0,1,2,0,0,0,0,1,0,3.58,4
+ANTH,460,46547,Heritage Management,0,18,6,0,1,0,0,0,0,0,0,0,0,1,3.89,4
+ARAB,150,54547,Lang&Culture of Arab World,9,13,0,1,0,0,2,2,0,0,0,0,1,0,3.57,4
+ARCH,101,45560,Introduction to Architecture,0,85,32,19,17,7,2,7,4,1,2,0,1,1,3.5,4
+ARCH,231,29941,Anatomy of Buildings,0,30,25,17,27,8,2,1,0,0,0,0,1,2,3.4,4
+ARCH,271,49267,Graphics for Architects,0,6,19,19,18,15,13,5,1,2,2,5,4,2,2.76,4
+ARCH,341,29948,Environment Tech HVAC,0,6,9,8,9,9,9,4,1,0,3,0,1,1,2.85,4
+ARCH,342,29958,Environment Tech Ltg & Acoust,5,8,7,4,11,5,6,8,1,1,0,0,1,0,2.99,4
+ARCH,351,31365,Statics & Dynamics,19,17,19,11,15,15,3,4,2,1,0,1,2,0,3.26,4
+ARCH,403,66780,Spec Topics in Arch History,0,4,10,9,6,0,0,1,0,0,0,0,1,0,3.31,4
+ARCH,409,48019,Special Topics in Spanish Arch,0,11,10,9,0,0,0,0,0,0,0,0,0,0,3.69,4
+ARCH,412,29972,Medieval Architecture,0,5,11,4,12,3,5,1,0,0,1,0,0,1,3.15,4
+ARCH,417,43713,Twentieth-Century Architecture,19,35,17,9,5,3,1,0,0,0,0,0,0,1,3.75,4
+ARCH,451,29984,Theory & Design Steel & Timber,6,18,18,11,10,4,3,6,1,2,1,1,2,0,3.19,4
+ARCH,451,63397,Theory & Design Steel & Timber,0,10,6,5,5,2,2,0,0,0,0,0,0,0,1.46,0
+ARCH,468,63722,Overseas Architectural Studies,2,14,10,4,0,0,0,0,0,0,0,0,0,0,1.8,1
+ARCH,476,66933,Arch Design & Exploration,0,5,5,10,2,8,0,0,0,0,0,0,0,0,3.3,4
+ARCH,502,63385,Structural Planning,3,24,16,9,11,8,2,1,0,0,0,0,0,0,3.48,4
+ARCH,577,55619,Theory of Architecture,3,3,14,15,10,16,7,5,1,1,0,1,1,1,2.96,4
+ART,100,54742,Understanding Visual Culture,7,36,30,7,7,1,1,2,0,0,1,0,0,0,3.66,4
+ART,105,63473,Visual Design for Non-Majors,6,23,9,0,1,0,0,1,0,0,0,0,1,0,3.76,4
+ART,105,64967,Visual Design for Non-Majors,3,27,4,2,2,0,0,0,0,0,1,0,0,0,3.8,4
+ART,310,64968,Design Thinking,16,11,4,4,1,1,0,0,0,0,0,0,1,0,3.73,4
+ARTD,218,66142,Intro to Web Technologies,0,13,4,2,0,2,0,0,0,1,0,0,0,0,3.64,4
+ARTD,218,66143,Intro to Web Technologies,0,12,5,1,3,1,0,0,0,0,0,0,0,0,3.7,4
+ARTD,222,66147,Typographic Practice,0,11,1,6,5,0,0,0,0,0,0,0,0,0,3.59,4
+ARTD,270,66148,Design Methods,1,14,4,2,1,0,0,0,0,0,0,0,0,0,3.83,4
+ARTD,328,51747,Human-Centered Product Design,5,17,3,3,4,1,0,0,0,0,0,0,0,0,3.75,4
+ARTD,328,66551,Human-Centered Product Design,2,3,11,10,0,0,0,0,0,0,0,0,0,0,3.6,4
+ARTD,351,66154,Graphic Design Inquiry,0,12,4,3,2,1,0,1,0,0,0,0,0,0,3.62,4
+ARTD,351,66155,Graphic Design Inquiry,0,12,4,5,0,0,0,0,0,0,0,0,0,0,3.78,4
+ARTD,371,66157,Graphic Design Practicum,1,12,5,3,2,0,0,0,0,0,0,0,0,0,3.75,4
+ARTD,418,66159,Digital Interaction Sandbox,0,7,8,3,0,0,0,0,0,1,1,1,1,0,3.2,4
+ARTD,426,63745,Product Innovation,1,13,1,5,2,5,0,0,0,0,0,0,0,0,3.54,4
+ARTF,101,31200,Contemporary Issues in Art,2,37,43,25,20,11,3,9,4,0,1,10,3,0,3.13,4
+ARTH,112,66276,Renaissance to Modern Art,1,3,3,2,1,3,3,3,0,1,2,1,0,0,2.68,3
+ARTH,112,66278,Renaissance to Modern Art,0,0,2,3,3,5,2,3,4,0,1,0,0,0,2.52,3
+ARTH,112,66280,Renaissance to Modern Art,0,2,5,4,4,3,1,1,1,1,0,0,0,0,3.05,4
+ARTH,112,66282,Renaissance to Modern Art,1,6,6,3,1,1,1,2,0,1,0,0,1,0,3.19,4
+ARTH,112,66283,Renaissance to Modern Art,3,4,10,1,1,3,0,0,0,0,0,0,0,0,3.59,4
+ARTH,112,66284,Renaissance to Modern Art,0,10,4,1,3,1,0,0,1,0,0,1,2,0,3.13,4
+ARTH,211,66185,Design History Survey,0,18,30,29,71,17,5,10,0,2,2,0,1,1,3.1,4
+ASTR,100,41827,Introduction to Astronomy,22,43,26,12,28,10,5,5,6,1,3,3,5,1,3.22,4
+ASTR,100,58800,Introduction to Astronomy,40,89,52,39,56,25,12,13,11,5,0,1,7,2,3.29,4
+ASTR,121,37107,The Solar System,15,25,20,12,24,7,7,3,1,2,2,1,7,0,3.12,4
+ASTR,122,39752,Stars and Galaxies,12,14,22,22,24,8,4,8,4,2,2,5,0,0,3.08,4
+ASTR,150,53598,Killer Skies: Astro-Disasters,18,53,26,14,14,10,3,3,1,0,1,1,3,1,3.48,4
+ASTR,210,30268,Introduction to Astrophysics,0,5,3,2,9,2,1,8,1,2,3,3,6,0,2.17,2
+ASTR,330,66562,Extraterrestrial Life,7,150,18,6,13,2,2,6,0,1,0,1,5,1,3.68,4
+ASTR,404,39758,Stellar Astrophysics,0,7,11,7,7,1,0,2,1,3,0,0,0,0,3.21,4
+ASTR,406,43268,Galaxies and the Universe,2,9,6,1,1,0,0,3,0,0,0,0,0,0,3.56,4
+ATMS,100,37004,Introduction to Meteorology,57,111,57,48,93,27,9,17,11,2,5,2,4,1,3.33,4
+ATMS,120,31291,Severe and Hazardous Weather,306,140,54,33,27,17,10,2,3,2,3,0,3,1,3.76,4
+ATMS,140,55849,Climate and Global Change,6,20,14,10,5,3,0,2,1,0,0,2,1,2,3.42,4
+ATMS,201,54034,General Physical Meteorology,7,22,7,3,2,0,2,2,0,0,0,0,0,0,3.7,4
+ATMS,301,49526,Atmospheric Thermodynamics,0,4,3,4,3,3,5,2,0,0,0,0,1,0,2.92,4
+ATMS,302,49527,Atmospheric Dynamics I,0,5,0,4,5,3,5,3,1,0,0,0,0,0,2.91,4
+BADM,199,53818,Bus as a Force in Am Society,3,15,3,1,0,0,0,0,0,0,0,0,0,0,3.92,4
+BADM,261,59910,Technology & Mgmt Seminar,0,60,0,0,1,0,0,1,0,0,0,0,0,0,3.95,4
+BADM,300,62982,The Legal Environment of Bus,120,40,25,9,8,2,0,1,1,1,0,0,1,0,3.83,4
+BADM,300,62983,The Legal Environment of Bus,37,10,2,2,1,0,1,2,0,0,1,0,0,0,3.79,4
+BADM,300,62985,The Legal Environment of Bus,98,16,18,12,8,5,1,5,2,1,0,2,1,0,3.66,4
+BADM,310,29649,Mgmt and Organizational Beh,88,126,95,80,65,47,37,25,8,2,7,0,3,1,3.35,4
+BADM,310,58599,Mgmt and Organizational Beh,0,26,3,0,0,0,0,1,0,0,0,0,0,0,3.9,4
+BADM,311,31432,Individual Behavior in Orgs,0,37,3,4,0,0,0,0,0,0,0,0,0,0,3.92,4
+BADM,312,44050,Org Design and Environment,1,20,12,5,3,2,0,0,0,0,0,0,0,0,3.7,4
+BADM,312,31435,Org Design and Environment,0,11,3,4,2,1,0,0,0,0,0,0,0,0,3.67,4
+BADM,314,66083,Leading Negotiations,0,17,12,5,11,8,0,0,1,0,0,0,0,0,3.42,4
+BADM,320,31412,Principles of Marketing,143,86,28,16,8,4,0,0,1,0,0,0,0,0,3.88,4
+BADM,320,31415,Principles of Marketing,179,94,27,11,6,0,0,1,0,0,0,0,0,0,3.92,4
+BADM,320,58600,Principles of Marketing,0,20,0,0,1,1,0,0,1,0,0,0,0,0,3.8,4
+BADM,321,29650,Principles of Retailing,0,27,7,5,4,0,0,0,0,0,0,0,0,0,3.78,4
+BADM,322,31426,Marketing Research,7,13,9,6,5,1,0,0,0,0,0,0,1,0,3.59,4
+BADM,322,31427,Marketing Research,7,18,27,12,1,0,0,0,0,0,0,0,0,0,3.72,4
+BADM,325,31439,Consumer Behavior,11,25,9,3,1,0,0,0,0,0,0,0,0,0,3.88,4
+BADM,325,31440,Consumer Behavior,7,25,15,1,0,0,0,0,0,0,0,0,0,0,3.88,4
+BADM,327,51983,Marketing to Business and Govt,29,0,0,18,0,0,0,0,0,0,0,0,0,0,3.74,4
+BADM,329,58589,New Product Development,0,22,29,11,1,0,0,0,0,0,0,0,1,0,3.66,4
+BADM,335,58279,Supply Chain Management Basics,0,10,22,15,6,2,1,0,0,0,0,0,0,0,3.51,4
+BADM,336,50435,Modeling the Supply Chain,1,21,11,16,4,4,1,0,0,0,0,0,0,0,3.56,4
+BADM,340,58771,Ethical Dilemmas of Business,18,18,1,0,0,1,0,0,0,0,0,0,0,0,3.96,4
+BADM,350,40399,IT for Networked Organizations,0,2,12,14,12,2,1,0,0,0,0,0,1,0,3.23,4
+BADM,350,52248,IT for Networked Organizations,0,10,17,9,7,1,2,4,0,1,0,0,0,0,3.33,4
+BADM,350,61619,IT for Networked Organizations,3,27,7,3,0,0,0,0,0,0,0,0,0,0,3.89,4
+BADM,350,65592,IT for Networked Organizations,1,52,4,1,5,0,0,0,0,0,0,0,0,0,3.89,4
+BADM,351,54412,Social Media Strategy,0,40,19,2,3,1,0,0,0,0,0,0,0,0,3.82,4
+BADM,352,37946,Database Design and Management,0,36,12,3,3,0,1,0,0,0,0,0,0,0,3.81,4
+BADM,353,37935,Info Sys Analysis and Design,1,18,21,16,7,0,0,0,0,0,0,0,0,0,3.61,4
+BADM,367,37805,Mgmt of Innov and Technology,1,19,17,12,6,0,0,0,0,0,0,0,0,0,3.64,4
+BADM,374,37790,Management Decision Models,4,11,12,12,4,6,3,1,1,0,0,0,0,0,3.38,4
+BADM,374,37791,Management Decision Models,4,11,11,12,7,8,0,1,0,0,0,0,0,0,3.42,4
+BADM,375,29656,Business Process Management,0,11,7,8,6,9,7,1,0,1,0,1,2,0,2.99,4
+BADM,375,51273,Business Process Management,0,8,8,10,6,4,2,3,0,6,0,0,0,0,3.02,4
+BADM,375,64619,Business Process Management,0,5,16,11,1,9,0,8,4,0,0,0,0,0,3.06,4
+BADM,377,56087,Project Management,1,5,7,9,17,7,4,0,0,0,0,0,1,0,3.11,4
+BADM,378,59775,Logistics Management,0,7,10,12,3,1,0,1,1,0,0,0,1,0,3.33,4
+BADM,380,29664,International Business,5,45,7,1,1,0,1,0,0,0,0,0,0,0,3.91,4
+BADM,380,56083,International Business,19,24,6,1,2,0,0,0,0,0,0,0,0,0,3.91,4
+BADM,380,64456,International Business,0,18,9,1,0,0,0,0,0,0,0,0,0,0,2.87,4
+BADM,381,46659,Multinational Management,3,14,11,7,1,0,0,0,0,0,0,0,0,0,2.74,3
+BADM,382,29661,International Marketing,1,14,7,3,0,0,0,0,0,0,0,0,0,0,2.83,4
+BADM,395,31423,Data Science & Analytics,0,26,7,0,1,0,0,0,0,0,0,0,0,0,2.9,4
+BADM,420,54364,Advanced Marketing Management,0,64,0,0,1,0,0,0,0,0,0,0,0,0,2.98,4
+BADM,445,29658,Small Business Consulting,10,11,0,1,7,0,0,0,0,0,0,0,0,0,2.74,3
+BADM,446,59860,Entrepreneurship Sm Bus Form,0,32,0,0,2,0,0,0,0,0,0,0,0,0,2.94,4
+BADM,449,37793,Business Policy and Strategy,1,18,10,5,4,2,0,1,0,0,0,0,0,0,2.63,3
+BADM,449,37796,Business Policy and Strategy,1,20,3,6,7,1,2,1,0,0,0,0,0,0,1.54,1
+BADM,449,37797,Business Policy and Strategy,1,25,10,5,2,0,1,0,0,0,0,0,0,0,1.77,1
+BADM,449,37800,Business Policy and Strategy,0,19,16,4,1,0,0,0,0,0,0,0,0,0,1.78,1
+BADM,449,37884,Business Policy and Strategy,0,0,10,15,9,4,1,0,0,0,0,0,0,0,1.25,0
+BADM,449,37885,Business Policy and Strategy,0,11,17,7,4,0,3,0,0,0,0,0,0,0,1.54,1
+BADM,449,37887,Business Policy and Strategy,0,5,15,10,8,0,0,0,0,0,0,0,0,0,1.48,0
+BADM,449,37888,Business Policy and Strategy,0,12,13,6,8,1,0,0,0,0,0,0,0,0,1.56,1
+BADM,449,37889,Business Policy and Strategy,1,19,8,7,1,0,0,0,0,0,0,0,0,0,1.77,1
+BADM,449,37890,Business Policy and Strategy,0,3,14,7,7,1,1,3,1,0,0,0,0,0,3.25,4
+BADM,453,40400,Decision Support Systems,0,25,7,0,0,1,0,0,0,0,0,0,0,0,3.89,4
+BADM,460,37802,Business Process Modeling,1,13,9,10,10,7,0,1,0,0,0,0,0,0,3.39,4
+BADM,508,48199,Leadership and Teams,4,15,25,7,6,5,0,0,0,0,0,0,0,0,1.59,1
+BADM,508,57913,Leadership and Teams,1,22,20,6,3,0,0,0,0,0,0,0,0,0,1.74,1
+BADM,508,29675,Leadership and Teams,0,10,13,5,3,0,1,0,0,0,0,0,0,0,1.62,1
+BADM,509,37891,Managing Organizations,0,10,8,9,11,4,1,1,0,0,0,0,0,0,0.35,0
+BADM,509,49048,Managing Organizations,0,17,16,9,6,1,1,1,0,0,0,0,0,0,0.56,0
+BADM,514,48200,Managing Innovation,4,16,13,10,2,0,0,0,0,0,0,0,0,0,0.71,0
+BADM,514,57918,Managing Innovation,2,18,12,10,6,1,0,0,0,0,0,0,0,0,0.63,0
+BADM,520,57919,Marketing Management,5,32,0,0,2,0,0,1,1,0,0,0,0,0,0.85,0
+BADM,520,31448,Marketing Management,1,56,0,0,5,0,0,3,0,0,0,0,1,0,0.77,0
+BADM,520,49046,Marketing Management,4,13,15,4,0,0,0,0,0,0,0,0,0,0,0.79,0
+BADM,525,47837,New Product Development,0,14,13,0,0,1,0,0,0,0,0,0,0,0,0.8,0
+BADM,525,48198,New Product Development,0,30,26,11,0,0,0,0,0,0,0,0,0,0,0.76,0
+BADM,525,57920,New Product Development,0,16,16,5,2,0,0,0,0,0,0,0,0,0,3.73,4
+BADM,544,56888,Strategic Management,4,18,6,1,2,1,0,0,0,0,0,0,0,0,3.81,4
+BADM,566,45322,Supply Chain Management,10,16,3,1,0,0,0,0,0,0,0,0,0,0,3.94,4
+BADM,566,62289,Supply Chain Management,2,8,10,13,8,7,2,2,1,0,0,0,0,0,3.26,4
+BADM,567,54601,Process Management,3,11,11,15,15,4,0,1,0,0,0,0,0,0,3.4,4
+BADM,567,57921,Process Management,0,10,11,12,13,7,0,0,0,0,0,0,0,0,3.36,4
+BADM,567,65705,Process Management,13,79,39,29,27,6,6,2,0,1,0,0,0,0,3.58,4
+BADM,567,61656,Process Management,3,17,7,12,5,5,1,1,0,0,0,0,0,0,3.5,4
+BADM,567,65704,Process Management,2,15,4,10,5,3,2,0,1,0,0,0,0,0,3.46,4
+BADM,567,47646,Process Management,1,26,11,5,1,1,0,0,0,0,0,0,0,0,3.79,4
+BADM,572,56398,Stat for Mgt Decision Making,3,21,22,9,5,1,0,0,0,0,0,0,1,0,3.62,4
+BADM,572,47648,Stat for Mgt Decision Making,7,19,9,3,4,1,2,0,0,0,0,0,0,0,3.7,4
+BADM,582,29718,Multinational Management,5,30,21,3,1,0,0,0,0,0,0,0,0,0,3.83,4
+BADM,586,58582,Intl Comparative Management,16,18,1,2,0,0,0,0,0,0,0,0,0,0,3.95,4
+BADM,590,37902,Frontiers in Technology Smr,6,37,17,1,0,0,0,0,0,0,0,0,0,0,3.9,4
+BADM,590,39761,Data Science & Analytics,0,52,9,0,1,0,0,0,0,0,0,0,0,0,3.94,4
+BADM,590,59070,Entrepreneurship,0,33,11,3,0,0,0,0,0,0,1,0,1,0,3.74,4
+BADM,590,59370,Social Media Strategy,0,30,5,3,0,0,0,0,0,0,0,0,0,0,3.9,4
+BADM,590,37907,Economics of Organizations,1,10,5,2,7,1,0,0,0,0,0,0,0,0,0.56,0
+BADM,590,42435,Global Perspectives in Busines,35,8,0,0,0,0,0,1,0,0,0,0,0,0,3.95,4
+BADM,590,40410,Global Strategy,11,16,6,4,0,0,0,0,0,1,0,0,0,0,3.81,4
+BADM,590,60074,Digital Marketing,1,20,4,4,5,1,1,0,0,0,1,0,0,0,3.59,4
+BADM,590,37910,Sustainability,2,26,8,2,0,0,0,0,0,0,0,0,0,0,3.9,4
+BADM,595,56572,Business Fundamentals,0,17,11,4,2,0,0,0,0,0,0,0,0,0,3.76,4
+BCS,115,62966,South Slavic Cultures,16,23,3,0,0,0,0,1,0,0,0,0,0,0,3.93,4
+BIOC,460,49476,Biochemistry Senior Seminar,2,7,3,1,4,4,3,0,0,0,0,0,0,0,3.33,4
+BIOE,120,45137,Introduction to Bioengineering,22,11,0,5,3,2,0,0,0,0,0,0,2,0,3.62,4
+BIOE,199,63789,Undergraduate Open Seminar,33,20,10,3,2,0,1,1,0,0,0,0,0,1,3.84,4
+BIOE,201,48270,Conservation Principles Bioeng,9,14,8,5,3,0,0,0,0,0,0,0,0,0,3.77,4
+BIOE,201,62929,Conservation Principles Bioeng,0,20,6,4,2,0,0,0,0,0,0,0,0,0,3.79,4
+BIOE,202,49686,Cell & Tissue Engineering Lab,2,8,7,2,7,3,2,0,0,0,0,0,0,0,3.42,4
+BIOE,206,58750,Cellular Bioengineering,0,17,12,12,12,3,7,6,2,0,0,0,1,0,3.16,4
+BIOE,220,66320,Bioenergetics,4,18,5,8,3,2,0,0,1,0,0,0,0,0,3.63,4
+BIOE,302,66323,Modeling Human Physiology,0,31,0,0,23,0,0,8,0,0,2,0,0,0,3.3,4
+BIOE,303,66919,Quantitative Physiology Lab,0,37,0,2,0,0,0,0,0,0,0,0,0,0,0.97,0
+BIOE,414,40017,Biomedical Instrumentation,3,12,8,10,7,1,2,3,1,1,0,0,0,0,0.33,0
+BIOE,430,66328,Intro Synthetic Biology,3,16,6,1,6,0,0,0,0,0,0,0,0,0,3.73,4
+BIOE,476,61460,Tissue Engineering,1,17,38,6,7,2,0,1,0,0,0,0,0,0,3.61,4
+BIOE,498,63184,Preclinical Molecular Imaging,9,12,3,1,2,0,0,0,0,0,0,0,0,0,3.86,4
+BIOE,504,51466,Analytical Methods in Bioeng,0,7,8,5,2,2,0,1,0,0,0,0,0,0,0.49,0
+BIOE,505,54270,Computational Bioengineering,3,9,3,2,4,3,0,1,0,0,0,0,0,0,0.51,0
+BTW,250,37980,Principles Bus Comm,0,10,2,3,6,0,1,0,0,0,0,0,1,0,3.38,4
+BTW,250,37987,Principles Bus Comm,0,9,8,1,4,0,0,0,0,0,0,0,0,0,3.67,4
+BTW,250,37989,Principles Bus Comm,0,7,9,2,3,1,1,0,0,0,0,0,0,0,3.55,4
+BTW,250,37990,Principles Bus Comm,0,3,11,5,1,0,1,0,0,0,0,0,0,0,3.54,4
+BTW,250,43028,Principles Bus Comm,0,0,5,5,4,5,3,1,0,0,0,0,0,0,1.01,0
+BTW,250,38000,Principles Bus Comm,0,12,1,0,6,2,0,1,1,0,0,0,0,0,1.42,0
+BTW,250,37991,Principles Bus Comm,0,5,6,6,3,0,0,0,0,0,1,0,0,0,1.43,0
+BTW,250,37992,Principles Bus Comm,0,5,12,3,0,1,3,0,0,0,0,0,0,0,1.49,0
+BTW,250,46795,Principles Bus Comm,0,4,5,5,3,1,0,1,1,0,0,0,1,0,1.16,0
+BTW,250,38005,Principles Bus Comm,0,4,12,3,2,1,0,2,0,0,0,0,0,0,1.45,0
+BTW,250,38003,Principles Bus Comm,0,11,6,3,1,2,0,0,0,0,0,0,0,0,1.67,1
+BTW,250,65449,Principles Bus Comm,0,7,5,5,4,3,0,0,0,0,0,0,0,0,1.46,0
+BTW,250,38001,Principles Bus Comm,0,8,9,5,0,0,0,0,0,0,0,0,0,0,1.71,1
+BTW,250,43030,Principles Bus Comm,0,2,9,8,3,0,0,0,0,0,0,0,0,0,1.49,0
+BTW,250,67142,Principles Bus Comm,0,11,6,4,2,0,0,0,0,0,0,0,0,0,0.71,0
+BTW,250,59592,Principles Bus Comm,0,6,12,3,0,1,0,0,0,0,0,0,0,0,0.67,0
+BTW,250,59591,Principles Bus Comm,0,15,1,0,9,0,0,0,0,0,0,0,0,0,0.63,0
+BTW,250,38007,Principles Bus Comm,0,23,0,1,0,0,0,0,0,0,0,0,0,0,0.97,0
+BTW,250,58819,Principles Bus Comm,0,9,8,3,0,3,0,0,0,0,0,0,0,0,0.62,0
+BTW,250,38009,Principles Bus Comm,0,19,3,2,0,0,0,0,0,0,0,0,0,0,0.9,0
+BTW,250,38010,Principles Bus Comm,0,11,6,3,1,1,0,0,0,0,0,0,0,0,0.71,0
+BTW,250,48194,Principles Bus Comm,0,20,3,1,0,0,0,0,0,0,0,0,0,0,0.93,0
+BTW,250,43029,Principles Bus Comm,0,8,5,4,7,0,0,0,0,0,0,0,0,0,0.53,0
+BTW,250,37996,Principles Bus Comm,0,2,9,2,4,1,2,0,0,1,0,0,1,0,3.11,4
+BTW,261,31438,Principles Tech Comm,1,11,2,0,7,0,0,0,0,0,1,0,0,0,3.52,4
+BTW,261,31446,Principles Tech Comm,0,7,5,8,1,0,1,0,0,0,0,0,0,0,3.56,4
+BTW,261,31444,Principles Tech Comm,0,15,1,1,5,0,0,1,0,0,0,0,1,0,3.5,4
+BTW,261,31441,Principles Tech Comm,1,5,2,0,10,1,0,3,0,0,0,0,2,0,2.92,4
+BUS,101,51438,Business Prof Responsibility,0,21,4,2,0,0,0,0,0,0,0,0,0,0,1.9,1
+BUS,101,51445,Business Prof Responsibility,0,24,3,2,0,0,0,0,0,0,0,0,0,0,1.92,1
+BUS,101,51442,Business Prof Responsibility,1,19,6,1,0,0,0,0,0,0,0,0,0,0,1.9,1
+BUS,101,51440,Business Prof Responsibility,0,22,2,1,1,0,0,0,1,0,0,0,0,0,1.83,1
+BUS,101,51462,Business Prof Responsibility,1,22,3,2,1,0,0,0,0,0,0,0,0,0,1.89,1
+BUS,101,51463,Business Prof Responsibility,0,24,2,2,1,0,0,0,0,0,0,0,0,0,1.9,1
+BUS,101,51441,Business Prof Responsibility,0,21,1,2,1,1,0,0,0,0,0,0,0,0,1.85,1
+BUS,101,58868,Business Prof Responsibility,1,21,5,1,0,0,0,0,0,0,0,0,0,0,1.92,1
+BUS,101,60217,Business Prof Responsibility,0,21,0,3,0,0,0,0,0,0,0,0,0,0,1.92,1
+BUS,101,51447,Business Prof Responsibility,0,21,2,1,0,0,0,0,0,0,0,0,1,0,2.79,4
+BUS,101,51449,Business Prof Responsibility,0,22,1,1,1,1,0,0,0,0,0,0,0,0,2.87,4
+BUS,101,51452,Business Prof Responsibility,0,18,5,1,0,0,1,0,0,0,0,0,0,0,2.84,4
+BUS,101,51454,Business Prof Responsibility,0,16,4,1,3,0,0,0,0,0,0,0,0,0,2.79,4
+BUS,101,51457,Business Prof Responsibility,0,8,9,4,1,1,0,0,0,0,0,0,1,0,2.5,3
+BUS,101,51461,Business Prof Responsibility,0,18,4,1,0,1,0,0,0,0,0,0,0,0,2.86,4
+BUS,101,51464,Business Prof Responsibility,0,14,4,2,1,2,2,0,0,0,0,0,0,0,2.61,3
+BUS,101,58869,Business Prof Responsibility,0,17,3,0,1,1,1,1,0,0,0,0,0,0,2.71,3
+BUS,101,51437,Business Prof Responsibility,1,17,1,1,1,0,0,0,0,0,0,0,0,0,2.9,4
+BUS,101,65615,Business Prof Responsibility,1,15,6,1,1,0,0,0,0,0,0,0,0,0,2.85,4
+BUS,101,67126,Business Prof Responsibility,0,18,5,1,0,0,0,0,0,0,0,0,0,0,2.9,4
+BUS,101,67129,Business Prof Responsibility,0,20,3,1,0,0,0,0,0,0,0,0,0,0,2.93,4
+BUS,101,67131,Business Prof Responsibility,0,13,5,2,4,1,0,0,0,0,0,0,0,0,2.67,3
+BUS,101,67132,Business Prof Responsibility,0,17,4,0,3,0,1,0,0,0,0,0,0,0,2.76,4
+BUS,101,67133,Business Prof Responsibility,0,18,2,1,1,0,0,0,0,0,0,0,0,0,2.89,4
+BUS,101,67134,Business Prof Responsibility,0,19,3,0,1,1,0,0,0,0,0,0,0,0,1.86,1
+BUS,101,67135,Business Prof Responsibility,1,16,4,1,0,0,0,1,0,0,0,0,0,0,1.83,1
+BUS,101,67136,Business Prof Responsibility,0,15,6,2,1,0,0,0,0,0,0,0,0,0,1.82,1
+BUS,101,59025,Business Prof Responsibility,3,22,1,0,1,0,0,0,0,0,0,0,0,0,1.95,1
+BUS,101,51450,Business Prof Responsibility,1,21,1,1,0,0,0,0,0,0,0,0,0,0,0.96,0
+BUS,101,51460,Business Prof Responsibility,0,19,4,1,0,1,0,0,0,0,0,0,0,0,0.87,0
+BUS,199,58275,Coaching for Success,30,7,2,1,0,0,0,0,0,0,0,0,0,0,0.97,0
+CEE,195,29692,About Civil Engineering,4,54,84,61,24,2,0,0,0,0,0,0,0,0,3.58,4
+CEE,201,29694,Systems Engrg & Economics,0,25,15,18,19,20,10,9,13,0,6,0,2,0,2.88,4
+CEE,202,29696,Engineering Risk & Uncertainty,1,17,17,11,22,9,10,7,0,3,0,1,4,0,2.97,4
+CEE,300,34959,Behavior of Materials,0,5,5,13,24,14,14,12,2,0,2,0,0,0,2.78,4
+CEE,310,29699,Transportation Engineering,2,11,18,14,11,3,4,2,1,0,0,1,1,0,3.26,4
+CEE,320,29701,Construction Engineering,23,27,27,15,11,7,1,3,0,0,0,0,0,0,0.59,0
+CEE,330,29702,Environmental Engineering,0,21,36,39,20,11,7,9,0,0,2,0,1,0,0.23,0
+CEE,340,64871,Energy and Global Environment,1,9,11,19,7,8,2,2,0,0,0,0,0,1,0.3,0
+CEE,350,29704,Water Resources Engineering,1,17,1,1,12,0,0,2,0,0,0,0,0,0,3.5,4
+CEE,360,29706,Structural Engineering,7,23,25,17,17,10,7,0,0,2,1,0,1,1,3.33,4
+CEE,380,42446,Geotechnical Engineering,3,9,5,10,6,7,8,2,2,3,2,0,1,0,2.9,4
+CEE,398,61260,Project Based Learning in CEE,0,16,9,5,3,0,0,0,0,0,0,0,0,0,3.72,4
+CEE,406,29731,Pavement Design I,4,14,1,5,7,2,2,2,2,0,0,0,3,0,3.19,4
+CEE,408,53742,Railroad Transportation Engrg,2,4,1,5,7,2,2,2,0,0,0,0,0,0,3.21,4
+CEE,409,53743,Railroad Track Engineering,6,7,4,0,2,1,1,0,0,0,0,0,0,0,3.73,4
+CEE,416,29733,Traffic Capacity Analysis,0,5,8,4,6,6,4,5,0,0,0,0,0,0,3.11,4
+CEE,421,29738,Construction Planning,14,25,38,19,25,12,9,5,0,0,0,0,0,0,3.41,4
+CEE,422,29740,Construction Cost Analysis,8,26,26,31,27,7,2,0,1,0,1,0,0,0,3.43,4
+CEE,434,29744,Environmental Systems I,2,14,5,4,2,2,3,1,3,0,0,0,1,0,3.27,4
+CEE,437,29749,Water Quality Engineering,1,13,3,10,4,2,4,6,1,1,0,0,0,0,3.15,4
+CEE,450,29758,Surface Hydrology,5,7,2,2,5,2,0,0,0,0,0,0,0,0,3.58,4
+CEE,457,43780,Groundwater,0,11,6,8,7,5,6,6,1,0,0,0,0,0,3.09,4
+CEE,460,29767,Steel Structures I,0,70,12,7,0,0,0,3,0,0,0,0,0,0,3.84,4
+CEE,463,29773,Reinforced Concrete II,1,20,14,11,8,5,0,1,0,0,0,0,0,0,0.53,0
+CEE,465,29775,Design of Structural Systems,1,9,2,4,8,2,0,0,0,0,0,0,0,0,3.46,4
+CEE,467,60077,Masonry Structures,0,2,5,4,3,1,6,1,0,1,0,0,0,0,2.98,4
+CEE,470,29778,Structural Analysis,3,3,3,10,8,9,7,6,1,0,0,0,1,0,2.87,4
+CEE,471,29780,Structural Mechanics,0,5,9,9,23,11,3,1,0,0,0,0,1,0,3.07,4
+CEE,472,29782,Structural Dynamics I,17,14,7,20,7,2,0,1,1,0,0,0,0,0,0.57,0
+CEE,483,31547,Soil Mechanics and Behavior,0,10,0,0,5,0,0,7,1,0,0,0,1,0,2.94,4
+CEE,491,66350,Decision and Risk Analysis,3,13,2,7,2,1,0,2,0,0,0,0,2,0,3.39,4
+CEE,493,66346,Sustainable Design Eng Tech,3,29,8,4,1,0,0,0,0,0,0,0,0,0,3.86,4
+CEE,498,31548,Sustainable Infrastructure Sys,3,24,14,4,0,0,0,0,0,0,0,0,0,0,3.84,4
+CEE,512,61261,Logistics Systems Analysis,2,13,4,6,5,1,1,0,0,0,0,0,0,0,3.58,4
+CEE,524,53737,Construction Law,0,12,8,13,0,0,0,0,0,0,0,0,0,0,3.66,4
+CEE,525,53729,Construction Case Studies,0,13,15,12,1,0,0,0,0,0,0,0,1,0,3.57,4
+CEE,526,66351,Construction Optimization,14,26,10,3,7,1,0,1,1,0,0,0,0,0,3.71,4
+CEE,537,29807,Water Quality Control Proc I,3,8,4,3,6,4,0,1,0,0,0,0,0,0,3.43,4
+CEE,586,29687,Rock Mechanics and Behavior,3,6,2,4,3,1,2,0,0,0,0,0,0,0,3.48,4
+CEE,598,47399,Post-tensioned Concrete Struct,3,8,9,4,1,1,0,0,0,0,0,0,0,0,3.69,4
+CHBE,221,31555,Principles of CHE,0,7,14,24,18,8,15,10,12,5,2,0,1,1,2.74,3
+CHBE,221,64581,Principles of CHE,0,5,4,11,8,7,16,4,9,4,5,0,1,0,2.5,3
+CHBE,321,62801,Thermodynamics,5,25,8,10,21,14,4,7,6,0,3,0,0,0,3.1,4
+CHBE,421,31577,Momentum and Heat Transfer,3,16,5,5,8,5,12,16,6,0,1,0,2,0,2.78,4
+CHBE,422,64588,Mass Transfer Operations,2,10,4,5,23,6,2,15,7,0,1,0,4,0,2.68,3
+CHBE,424,62800,Chemical Reaction Engineering,0,36,3,2,31,1,1,24,2,0,2,2,1,0,2.99,4
+CHBE,430,31604,Unit Operations Laboratory,2,6,10,16,16,12,13,10,1,0,0,0,0,0,2.95,4
+CHBE,431,29900,Process Design,1,5,13,14,8,13,6,7,5,0,1,0,1,0,2.9,4
+CHBE,440,36100,Process Control and Dynamics,2,15,11,12,11,9,6,8,0,1,1,0,0,0,3.13,4
+CHBE,457,29903,Microelectronics Processing,1,6,5,1,6,1,4,5,1,0,0,0,2,0,2.85,4
+CHBE,475,64591,Tissue Engineering,0,10,13,10,12,3,1,0,0,0,0,0,0,0,3.42,4
+CHBE,494,49467,Comp Methods in Chem Engr,2,17,6,1,6,1,0,2,0,0,0,0,0,0,3.6,4
+CHBE,494,49468,Polymer Sci & Engineering,1,11,5,0,12,12,0,8,4,0,1,0,0,1,2.93,4
+CHBE,521,29905,Applied Mathematics in CHBE,0,16,4,0,12,0,0,0,0,0,0,0,0,0,3.58,4
+CHBE,594,47557,Statistical Thermodynamics,1,13,7,6,4,0,0,0,0,0,0,0,0,0,3.67,4
+CHEM,101,36151,Introductory Chemistry,2,50,25,39,63,41,40,20,13,7,9,3,7,1,2.83,4
+CHEM,101,41897,Introductory Chemistry,1,57,20,31,47,36,33,33,14,8,8,2,17,4,2.71,3
+CHEM,101,67309,Introductory Chemistry,1,28,8,18,18,16,21,21,7,3,11,3,6,1,2.62,3
+CHEM,102,36203,General Chemistry I,17,33,13,21,58,19,17,72,21,5,15,5,6,4,2.6,3
+CHEM,102,36109,General Chemistry I,10,23,8,18,43,41,29,32,35,18,11,8,15,1,2.37,2
+CHEM,102,36148,General Chemistry I,14,26,13,30,41,43,34,30,28,18,5,5,17,2,2.51,3
+CHEM,102,48904,General Chemistry I,9,21,23,19,32,22,32,26,19,15,28,22,9,2,2.32,2
+CHEM,102,47349,General Chemistry I,10,41,14,22,62,21,26,55,19,4,8,4,1,1,2.75,4
+CHEM,102,47359,General Chemistry I,1,20,29,26,42,30,35,26,30,9,8,15,7,2,2.51,3
+CHEM,102,58208,General Chemistry I,4,28,12,42,38,13,27,38,35,12,22,11,11,2,2.4,2
+CHEM,103,38880,General Chemistry Lab I,53,27,7,6,4,3,1,0,0,2,0,1,2,1,0.69,0
+CHEM,103,36375,General Chemistry Lab I,26,14,1,5,3,1,0,1,0,1,0,1,2,0,0.56,0
+CHEM,103,36377,General Chemistry Lab I,17,20,6,5,2,0,2,0,0,1,0,0,1,0,0.68,0
+CHEM,103,36380,General Chemistry Lab I,18,22,3,5,0,0,1,0,0,0,0,2,1,0,0.68,0
+CHEM,103,36396,General Chemistry Lab I,27,14,4,1,4,0,1,0,0,0,0,0,3,0,0.64,0
+CHEM,103,36400,General Chemistry Lab I,31,12,5,1,3,1,0,0,0,0,0,0,1,0,0.8,0
+CHEM,103,36406,General Chemistry Lab I,25,14,6,1,4,1,1,0,0,1,0,0,1,1,1.7,1
+CHEM,103,36410,General Chemistry Lab I,27,16,4,3,2,1,1,0,0,1,0,0,0,0,1.8,1
+CHEM,103,36415,General Chemistry Lab I,33,12,6,2,1,1,0,0,0,0,0,0,2,0,1.76,1
+CHEM,103,36420,General Chemistry Lab I,28,7,8,2,1,1,2,0,0,0,1,0,1,0,1.67,1
+CHEM,103,36428,General Chemistry Lab I,18,16,3,2,3,1,0,0,1,0,0,0,1,1,1.71,1
+CHEM,103,36431,General Chemistry Lab I,25,13,5,3,3,2,1,0,0,0,0,0,3,0,1.58,1
+CHEM,103,36437,General Chemistry Lab I,26,18,5,1,3,2,0,0,0,0,0,0,1,0,1.79,1
+CHEM,103,36465,General Chemistry Lab I,31,8,7,1,2,2,0,1,0,0,0,0,0,0,1.81,1
+CHEM,103,36468,General Chemistry Lab I,28,8,10,1,2,2,1,0,0,1,0,0,1,0,1.69,1
+CHEM,103,36473,General Chemistry Lab I,34,11,4,3,2,0,0,0,0,0,0,0,1,0,1.83,1
+CHEM,103,36476,General Chemistry Lab I,29,14,4,3,3,1,0,1,1,0,0,0,0,0,1.79,1
+CHEM,103,36481,General Chemistry Lab I,32,10,3,4,3,1,1,1,0,0,0,0,0,0,1.79,1
+CHEM,103,38886,General Chemistry Lab I,16,39,7,6,4,2,2,0,1,0,0,1,1,1,1.67,1
+CHEM,103,36493,General Chemistry Lab I,13,26,11,2,2,1,0,0,0,0,0,0,0,0,3.85,4
+CHEM,103,36497,General Chemistry Lab I,25,13,4,4,2,4,0,2,0,0,1,0,0,0,2.67,3
+CHEM,103,36503,General Chemistry Lab I,24,13,5,3,1,1,0,1,1,0,0,0,1,0,2.71,3
+CHEM,103,36515,General Chemistry Lab I,35,8,1,3,2,0,2,1,1,0,0,0,0,0,2.77,4
+CHEM,103,36524,General Chemistry Lab I,27,14,4,3,2,0,1,1,1,0,0,0,1,1,2.72,3
+CHEM,103,36534,General Chemistry Lab I,23,18,6,4,1,0,0,0,1,0,0,0,1,0,2.78,4
+CHEM,103,36542,General Chemistry Lab I,26,22,3,2,2,0,0,0,0,0,0,0,0,0,2.92,4
+CHEM,103,36548,General Chemistry Lab I,27,11,8,2,3,2,0,0,2,0,0,1,0,0,2.69,3
+CHEM,103,36554,General Chemistry Lab I,13,8,6,0,0,0,0,1,0,0,0,0,0,0,3.86,4
+CHEM,103,36562,General Chemistry Lab I,15,4,5,1,0,0,1,0,0,0,0,1,0,0,2.73,3
+CHEM,103,36567,General Chemistry Lab I,9,7,1,2,2,0,1,0,0,0,0,0,1,0,2.59,3
+CHEM,103,36573,General Chemistry Lab I,11,12,1,0,1,0,0,0,1,0,0,0,0,0,3.86,4
+CHEM,103,48955,General Chemistry Lab I,8,9,4,4,1,0,0,0,0,0,0,0,0,0,3.81,4
+CHEM,103,36578,General Chemistry Lab I,13,4,3,3,8,0,1,0,0,2,0,0,0,0,1.47,0
+CHEM,103,36583,General Chemistry Lab I,22,15,6,3,2,1,1,0,1,0,0,0,1,0,1.71,1
+CHEM,103,36586,General Chemistry Lab I,26,14,2,1,1,2,1,1,2,0,0,0,0,0,1.73,1
+CHEM,103,36591,General Chemistry Lab I,22,20,3,2,0,2,1,0,0,0,0,0,1,0,1.79,1
+CHEM,103,38892,General Chemistry Lab I,29,11,4,2,4,1,0,1,0,0,0,1,1,0,1.68,1
+CHEM,103,42864,General Chemistry Lab I,30,11,4,4,3,0,0,1,0,0,0,0,0,0,1.83,1
+CHEM,103,42866,General Chemistry Lab I,30,11,3,4,3,3,0,0,0,0,1,0,2,0,1.62,1
+CHEM,103,48956,General Chemistry Lab I,20,27,4,1,2,0,1,0,0,1,0,0,1,0,3.78,4
+CHEM,104,36274,General Chemistry II,12,12,14,28,47,32,42,41,25,6,4,9,4,1,2.56,3
+CHEM,104,36355,General Chemistry II,12,22,11,31,31,25,44,38,34,10,4,8,4,2,2.54,3
+CHEM,104,63218,General Chemistry II,4,4,4,9,9,9,10,14,7,0,2,4,3,0,2.47,2
+CHEM,105,36593,General Chemistry Lab II,0,47,1,2,0,1,0,0,0,0,0,0,0,0,0.94,0
+CHEM,105,36601,General Chemistry Lab II,0,44,1,1,1,1,0,0,0,0,0,0,0,0,0.93,0
+CHEM,105,36612,General Chemistry Lab II,0,32,0,1,1,0,1,0,0,0,0,0,0,0,0.9,0
+CHEM,105,36676,General Chemistry Lab II,0,46,2,2,2,0,2,1,0,0,0,0,0,0,0.83,0
+CHEM,105,36679,General Chemistry Lab II,0,47,0,1,0,0,1,0,1,0,0,0,0,0,0.91,0
+CHEM,105,36686,General Chemistry Lab II,0,44,2,1,0,0,0,0,0,0,0,0,0,0,1.97,1
+CHEM,105,36689,General Chemistry Lab II,0,36,1,1,0,0,0,1,0,0,0,0,0,0,1.92,1
+CHEM,105,41955,General Chemistry Lab II,0,45,2,2,0,0,0,0,0,0,0,0,1,0,1.88,1
+CHEM,105,42871,General Chemistry Lab II,0,52,1,2,0,0,1,0,0,0,0,0,1,0,1.87,1
+CHEM,105,45645,General Chemistry Lab II,0,51,1,1,1,0,1,1,0,0,0,0,0,0,1.9,1
+CHEM,105,48958,General Chemistry Lab II,0,42,2,1,1,1,0,0,0,0,0,0,0,0,2.92,4
+CHEM,105,48961,General Chemistry Lab II,0,46,2,3,0,0,0,0,1,1,0,0,0,0,2.86,4
+CHEM,105,48963,General Chemistry Lab II,0,52,1,2,0,0,0,0,0,0,0,0,0,0,2.97,4
+CHEM,199,65502,Undergraduate Open Seminar,3,16,0,0,0,0,1,0,0,0,0,0,1,0,2.73,3
+CHEM,199,31588,Undergraduate Open Seminar,30,267,3,4,11,1,3,2,1,1,0,0,2,4,2.88,4
+CHEM,202,36229,Accelerated Chemistry I,5,27,18,26,25,23,18,37,21,10,9,4,15,8,2.49,2
+CHEM,203,36265,Accelerated Chemistry Lab I,8,21,9,6,26,6,7,18,9,0,1,0,9,1,2.76,4
+CHEM,203,38842,Accelerated Chemistry Lab I,6,24,12,14,32,6,4,19,7,0,1,0,4,3,2.97,4
+CHEM,222,29906,Quantitative Analysis Lecture,4,41,31,23,8,9,2,3,0,0,0,0,1,0,3.52,4
+CHEM,223,31611,Quantitative Analysis Lab,6,35,1,3,31,0,1,17,0,0,4,0,0,0,3.17,4
+CHEM,232,55461,Elementary Organic Chemistry I,9,41,18,11,86,28,32,85,29,24,61,7,26,10,2.25,2
+CHEM,232,56846,Elementary Organic Chemistry I,1,6,2,3,6,8,3,17,4,6,8,1,2,2,2.22,2
+CHEM,232,66361,Elementary Organic Chemistry I,7,20,7,11,17,10,2,9,3,0,2,0,0,0,3.16,4
+CHEM,233,36313,Elementary Organic Chem Lab I,19,46,35,37,40,6,6,3,2,0,1,1,2,1,3.4,4
+CHEM,233,36315,Elementary Organic Chem Lab I,13,35,25,24,26,9,5,9,1,2,2,0,1,2,3.3,4
+CHEM,233,36317,Elementary Organic Chem Lab I,8,20,24,14,14,4,2,2,0,0,1,0,0,0,3.47,4
+CHEM,236,36332,Fundamental Organic Chem I,10,25,16,18,45,11,13,31,25,0,13,0,3,1,2.71,3
+CHEM,237,51012,Structure and Synthesis,6,33,13,13,34,7,6,17,2,2,5,1,3,1,3.01,4
+CHEM,237,36374,Structure and Synthesis,5,15,7,11,22,3,2,3,1,1,2,0,0,1,3.22,4
+CHEM,312,29907,Inorganic Chemistry,5,7,3,5,10,3,2,4,0,0,2,0,2,2,2.98,4
+CHEM,315,31620,Instrumental Chem Systems Lab,2,40,4,5,40,1,3,35,1,0,2,0,2,0,2.98,4
+CHEM,317,58374,Inorganic Chemistry Lab,1,10,5,4,5,3,3,0,0,0,0,0,0,0,3.41,4
+CHEM,332,29909,Elementary Organic Chem II,11,16,12,11,19,17,7,11,7,12,8,5,15,3,2.44,2
+CHEM,420,29908,Instrumental Characterization,3,28,18,23,19,8,8,27,14,0,4,0,1,0,2.91,4
+CHEM,436,29914,Fundamental Organic Chem II,1,3,2,4,5,1,2,1,3,0,1,0,4,0,2.48,2
+CHEM,440,31624,Physical Chemistry Principles,3,9,4,3,9,2,2,4,1,0,0,0,0,1,3.23,4
+CHEM,440,31626,Physical Chemistry Principles,1,23,27,26,15,11,4,3,0,0,0,0,0,0,3.38,4
+CHEM,442,31627,Physical Chemistry I,2,8,4,4,4,1,1,0,1,0,0,0,3,0,3.1,4
+CHEM,442,31628,Physical Chemistry I,1,23,9,2,18,5,3,1,1,0,1,0,1,0,3.3,4
+CHEM,442,62728,Physical Chemistry I,1,35,7,7,21,0,0,1,0,0,0,0,0,0,3.58,4
+CHEM,512,29928,Advanced Inorganic Chemistry,1,12,3,3,12,0,0,0,0,0,0,0,0,0,3.52,4
+CHEM,532,29946,Physical Organic Chemistry,1,12,5,5,10,2,1,0,0,0,0,0,0,1,3.46,4
+CHEM,534,42841,Advanced Organic Synthesis,3,7,1,2,6,2,0,1,0,0,0,0,0,2,3.44,4
+CHEM,544,29953,Statistical Thermodynamics,3,12,4,1,4,0,0,0,0,0,0,0,0,0,3.75,4
+CHEM,570,60383,Concepts in Chemical Biology,1,5,6,6,8,2,0,0,0,0,0,0,0,0,3.41,4
+CHEM,584,46582,Introduction to Materials Chem,0,18,6,11,10,1,0,1,0,0,0,0,0,1,3.52,4
+CHLH,100,33609,Contemporary Health,12,10,8,11,4,0,2,1,1,2,0,0,0,0,3.47,4
+CHLH,100,33611,Contemporary Health,6,10,5,6,2,0,1,0,0,1,0,0,0,0,3.61,4
+CHLH,100,33615,Contemporary Health,7,9,8,4,6,1,0,1,1,0,1,0,0,0,3.47,4
+CHLH,100,33618,Contemporary Health,11,13,10,4,5,2,2,0,0,0,0,0,0,0,3.64,4
+CHLH,100,59389,Contemporary Health,77,213,135,58,82,37,22,18,13,2,6,4,12,1,3.41,4
+CHLH,101,33657,Introduction to Public Health,2,12,10,9,10,3,2,1,1,0,0,0,0,0,3.38,4
+CHLH,101,33661,Introduction to Public Health,4,6,2,5,3,1,0,0,0,1,0,0,2,0,3.21,4
+CHLH,101,33667,Introduction to Public Health,2,18,8,5,7,3,1,3,1,0,1,1,0,0,3.33,4
+CHLH,101,33669,Introduction to Public Health,4,13,6,11,7,4,1,0,0,0,0,0,1,0,3.42,4
+CHLH,101,33675,Introduction to Public Health,1,19,4,0,6,0,1,0,1,1,1,0,0,0,3.5,4
+CHLH,101,33679,Introduction to Public Health,6,12,10,1,2,0,1,0,0,0,1,0,0,0,3.68,4
+CHLH,101,33680,Introduction to Public Health,5,9,12,3,2,0,0,1,1,0,0,0,1,0,3.52,4
+CHLH,101,33681,Introduction to Public Health,1,9,9,4,4,4,1,0,0,0,0,0,1,1,3.37,4
+CHLH,110,66746,Intro to the Health Sciences,8,6,3,4,1,1,0,0,1,1,2,0,1,0,3.25,4
+CHLH,125,59577,Orientation KIN & Comm Health,6,108,0,0,9,0,0,4,0,0,0,0,2,0,3.81,4
+CHLH,199,31590,Campus Acq Rape Educ (CARE),3,22,7,4,2,0,1,0,0,0,0,0,0,0,3.78,4
+CHLH,200,29988,Mental Health,0,36,0,0,20,0,0,8,0,0,0,0,2,0,3.33,4
+CHLH,206,33686,Human Sexuality,92,39,36,10,6,8,2,2,3,0,0,2,5,0,3.63,4
+CHLH,206,57350,Human Sexuality,12,233,160,77,101,29,14,20,9,5,7,3,18,2,3.35,4
+CHLH,210,29992,Community Health Organizations,36,31,30,17,10,3,2,1,1,0,0,0,0,0,3.67,4
+CHLH,243,33729,Drug Use and Abuse,0,66,0,0,35,0,0,8,0,0,3,0,0,0,3.46,4
+CHLH,243,33730,Drug Use and Abuse,0,52,0,0,38,0,0,16,0,0,8,0,0,0,3.18,4
+CHLH,243,57351,Drug Use and Abuse,287,138,41,13,17,45,60,38,19,10,6,7,17,1,3.35,4
+CHLH,250,29994,Health Care Systems,12,30,25,15,11,4,4,3,1,1,0,0,0,0,3.51,4
+CHLH,260,38826,Introduction to Medical Ethics,12,59,12,14,21,5,2,2,1,0,1,0,0,1,3.58,4
+CHLH,260,64915,Introduction to Medical Ethics,12,34,18,5,11,1,4,2,0,0,2,0,0,0,3.57,4
+CHLH,274,29997,Introduction to Epidemiology,14,15,18,13,16,21,11,15,11,3,0,0,2,0,2.93,4
+CHLH,304,31598,Foundations of Health Behavior,50,36,15,5,4,6,3,1,3,2,1,0,6,3,3.5,4
+CHLH,380,47340,Orientation to Internship,0,100,5,6,0,2,0,0,2,0,0,0,0,0,3.89,4
+CHLH,404,58803,Gerontology,0,27,0,0,2,0,0,1,0,0,3,0,1,0,3.52,4
+CHLH,410,30000,Public Health Practice,27,37,24,15,2,8,1,5,0,0,0,0,3,0,3.56,4
+CHLH,415,62031,International Health,3,26,13,8,3,1,3,1,1,1,0,0,1,1,3.52,4
+CHLH,421,30003,Health Data Analysis,21,36,23,9,3,1,2,0,0,1,1,0,4,1,3.57,4
+CHLH,455,30011,Health Services Financing,18,30,17,5,13,4,3,0,1,0,0,0,0,0,3.62,4
+CHLH,456,35550,Organization of Health Care,20,23,9,6,9,1,2,0,4,0,0,0,1,1,3.55,4
+CHLH,457,33625,Health Planning,8,28,7,9,7,4,1,0,0,0,0,0,0,0,3.65,4
+CHLH,458,30015,Health Administration,3,7,29,10,13,14,2,9,0,0,2,0,1,0,3.12,4
+CHLH,540,59884,Health Behavior: Theory,0,22,0,0,2,0,0,0,0,0,0,0,0,0,3.92,4
+CHLH,573,61101,Biostatistics in Public Health,0,2,6,11,7,0,0,0,0,0,0,0,0,0,3.37,4
+CHLH,594,65721,Special Topics,4,17,1,0,1,0,0,0,0,0,0,0,0,0,3.94,4
+CHP,199,67350,Special Topics:Honors Uncommon,9,16,1,1,1,0,0,1,0,0,0,0,0,0,3.86,4
+CI,210,66096,Intro to Digital Learning Env,0,13,7,2,0,0,0,0,0,0,0,0,0,0,3.83,4
+CI,403,35708,Tchg Diverse High School Stu,0,18,1,0,5,0,0,0,0,0,0,0,0,0,3.78,4
+CI,403,36449,Tchg Diverse High School Stu,6,14,0,2,0,1,0,0,0,0,0,0,0,0,3.88,4
+CI,405,31474,Intro Tchg Elem Age Children,1,13,8,0,0,0,0,0,2,0,0,0,0,0,3.7,4
+CI,405,31475,Intro Tchg Elem Age Children,0,10,8,4,4,1,0,0,0,0,0,0,1,0,3.48,4
+CI,406,31481,Thry Prac in Elem Schl Tch I,0,20,2,4,2,0,0,0,0,0,0,0,0,0,3.81,4
+CI,406,31484,Thry Prac in Elem Schl Tch I,0,8,4,3,2,1,3,0,0,0,0,0,0,0,3.44,4
+CI,430,51091,Teaching Children Mathematics,1,8,11,8,0,0,0,0,0,0,0,0,0,0,3.68,4
+CI,430,51241,Teaching Children Mathematics,7,12,5,0,0,1,0,0,0,0,0,0,0,0,3.88,4
+CI,433,35727,Found of Bilingual Educ,0,27,4,1,1,0,0,0,0,0,0,0,0,0,3.91,4
+CI,433,64952,Found of Bilingual Educ,0,18,1,0,2,1,1,0,0,0,0,0,0,0,3.77,4
+CI,447,65634,Iss Prac in Address Diversity,0,19,2,1,0,0,0,0,0,0,0,0,0,0,3.94,4
+CI,450,64404,Tchg Elem Science I,0,4,5,3,3,5,1,0,0,0,0,0,0,0,3.28,4
+CI,471,43075,Princ Prac Foster Indep Rdg,2,9,5,6,5,0,2,0,0,0,0,0,0,0,3.52,4
+CI,476,66084,Teach Elem & Mid Lang Arts,0,23,2,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+CI,476,66085,Teach Elem & Mid Lang Arts,0,20,4,2,0,0,1,1,0,0,0,0,0,0,3.77,4
+CI,476,66087,Teach Elem & Mid Lang Arts,0,3,5,3,3,2,3,0,2,0,0,0,0,0,3.1,4
+CI,550,35738,Methods of Educational Inquiry,0,27,9,6,7,0,0,0,0,0,0,0,0,0,3.71,4
+CLCV,100,30030,Vocab Building-GRK & LAT Roots,0,8,4,3,6,2,0,1,0,0,1,0,0,1,3.32,4
+CLCV,102,39445,Medical Terms-GRK & LAT Roots,22,19,12,4,7,6,5,2,1,1,0,0,1,0,3.46,4
+CLCV,111,30033,Mythology of Greece and Rome,2,20,5,8,22,4,5,13,7,0,1,7,0,2,2.82,4
+CLCV,114,30039,Introduction to Greek Culture,1,23,13,20,15,18,14,19,5,7,3,2,12,1,2.61,3
+CLCV,115,33767,Mythology of Greece and Rome,1,19,0,1,5,1,0,2,0,0,0,0,0,0,0.62,0
+CLCV,115,33773,Mythology of Greece and Rome,0,16,0,0,7,1,0,4,0,0,0,0,0,0,0.42,0
+CLCV,115,33775,Mythology of Greece and Rome,0,12,3,2,8,0,1,2,0,0,1,0,0,0,0.34,0
+CLCV,115,33777,Mythology of Greece and Rome,0,13,1,0,7,1,1,1,1,0,0,0,1,0,0.28,0
+CLCV,115,33781,Mythology of Greece and Rome,0,20,1,0,6,0,0,0,0,0,0,0,0,0,0.77,0
+CLCV,115,33786,Mythology of Greece and Rome,1,13,2,1,10,1,0,1,0,0,0,0,0,0,0.49,0
+CLCV,115,33796,Mythology of Greece and Rome,0,4,3,2,14,3,0,3,0,0,0,0,0,0,1.09,0
+CLCV,115,33741,Mythology of Greece and Rome,0,23,0,0,1,1,0,2,0,0,0,0,0,0,1.77,1
+CLCV,115,33745,Mythology of Greece and Rome,0,8,1,4,7,1,0,5,1,0,0,0,1,0,1.01,0
+CLCV,115,40204,Mythology of Greece and Rome,1,13,2,0,6,2,1,4,0,0,0,0,0,0,1.35,0
+CLCV,115,40205,Mythology of Greece and Rome,0,8,2,0,13,1,1,0,0,0,0,0,1,0,1.21,0
+CLCV,115,40206,Mythology of Greece and Rome,1,16,2,2,4,1,1,1,0,0,0,0,0,0,1.61,1
+CLCV,115,40207,Mythology of Greece and Rome,1,15,2,1,10,0,1,0,0,0,0,0,0,0,2.57,3
+CLCV,115,38978,Mythology of Greece and Rome,0,7,3,2,10,1,1,2,0,0,0,0,3,0,2.92,4
+CLCV,115,38911,Mythology of Greece and Rome,0,12,1,1,12,0,0,2,0,0,0,0,0,0,3.39,4
+CLCV,115,38914,Mythology of Greece and Rome,0,14,0,0,8,0,1,1,0,0,1,0,0,0,3.41,4
+CLCV,115,41179,Mythology of Greece and Rome,0,13,0,0,10,0,1,0,0,1,0,0,0,0,3.43,4
+CLCV,160,63183,Ancient Greek & Roman Religion,2,7,3,2,3,2,1,1,0,0,0,0,1,0,3.29,4
+CLCV,220,33445,History of Ancient Greece,0,3,8,9,1,1,0,1,2,0,0,0,0,1,3.29,4
+CLCV,231,58966,Development of Ancient Cities,5,0,2,2,5,1,0,2,2,1,1,0,0,0,2.92,4
+CLCV,240,33544,Sex & Gender in Antiquity,0,9,4,5,2,1,0,1,1,0,0,0,0,0,3.46,4
+CMN,102,53390,Intro to Comm Theory & Res,25,66,47,47,61,26,26,14,3,3,2,0,2,1,3.25,4
+CMN,113,53440,Small Group Communication,0,4,7,0,3,4,3,0,2,0,0,0,0,0,3.12,4
+CMN,113,53439,Small Group Communication,4,7,5,3,4,2,1,0,0,1,0,0,1,0,3.33,4
+CMN,211,53450,Business Communication,0,7,2,5,2,2,1,1,1,0,0,0,0,1,3.3,4
+CMN,211,53451,Business Communication,0,5,5,3,0,5,0,2,3,0,1,1,0,0,2.89,4
+CMN,211,53452,Business Communication,0,17,6,1,0,0,0,0,0,0,0,0,0,0,3.89,4
+CMN,212,53453,Intro to Organizational Comm,2,7,7,1,2,6,2,1,1,0,0,0,0,0,3.29,4
+CMN,212,53454,Intro to Organizational Comm,3,7,3,7,3,0,1,2,0,0,1,0,0,0,3.36,4
+CMN,212,53455,Intro to Organizational Comm,6,4,5,8,3,1,1,0,1,0,0,1,0,0,3.38,4
+CMN,212,53456,Intro to Organizational Comm,2,8,4,1,5,2,2,0,1,1,1,0,1,0,3.11,4
+CMN,220,53459,Communicating Public Policy,0,6,9,1,0,5,0,0,1,0,0,0,0,0,3.43,4
+CMN,230,53467,Intro to Interpersonal Comm,34,56,52,23,35,13,4,4,1,1,3,1,2,0,3.45,4
+CMN,232,53464,Intro to Intercultural Comm,4,15,3,2,0,0,2,1,0,0,0,0,0,0,3.72,4
+CMN,232,61114,Intro to Intercultural Comm,3,5,5,5,4,0,2,1,1,0,0,0,0,0,3.36,4
+CMN,260,53992,Intro to Health Communication,1,5,8,6,2,3,1,1,0,0,0,0,0,0,3.4,4
+CMN,260,53993,Intro to Health Communication,1,11,7,4,3,1,0,0,1,0,0,0,0,0,3.58,4
+CMN,260,61727,Intro to Health Communication,0,7,6,3,7,2,2,1,0,0,0,0,0,0,3.32,4
+CMN,260,64495,Intro to Health Communication,4,6,5,7,3,4,1,0,0,0,0,0,0,0,3.46,4
+CMN,277,53476,Intro to Mediated Comm,14,14,7,10,13,6,6,10,0,0,1,0,1,0,3.18,4
+CMN,280,53991,Comm Technology & Society,1,4,8,4,5,3,0,2,1,0,1,0,0,0,3.18,4
+CMN,321,53485,Strategies of Persuasion,0,9,0,6,14,5,6,18,1,3,6,2,8,0,2.23,2
+CMN,323,53495,Argumentation,0,17,3,0,1,0,0,0,0,0,0,0,0,0,3.91,4
+CMN,336,53994,Family Communication,0,6,14,3,1,0,4,0,0,0,0,0,0,0,3.49,4
+CMN,336,53995,Family Communication,4,8,4,6,4,1,1,1,0,0,0,0,1,0,3.39,4
+CMN,336,61387,Family Communication,6,14,3,3,1,1,0,1,0,0,1,0,0,0,3.66,4
+CMN,336,61388,Family Communication,5,13,4,2,2,1,0,0,0,0,0,0,0,0,3.78,4
+CMN,336,65091,Family Communication,2,5,2,6,5,3,2,2,1,0,0,0,0,0,3.17,4
+CMN,336,65092,Family Communication,1,2,5,4,5,2,3,0,3,2,0,0,1,0,2.81,4
+CMN,340,61773,Visual Politics,0,11,6,3,2,2,0,2,2,0,0,1,0,0,3.29,4
+CMN,340,62002,Visual Politics,0,12,6,3,1,1,0,1,1,0,0,0,0,0,3.57,4
+CMN,340,65085,Visual Politics,0,9,11,3,3,3,1,0,0,0,0,0,0,0,3.52,4
+CMN,345,67165,Visual Media Effects,0,3,1,3,10,3,3,6,0,3,0,0,0,0,2.71,3
+CMN,368,56053,Sexual Communication,12,100,10,11,59,4,4,27,0,0,6,0,7,1,3.24,4
+CMN,370,66171,Political Economy of Comm,2,5,9,3,0,1,0,0,0,0,0,0,1,0,3.51,4
+CMN,377,64499,Propaganda and Modern Society,0,11,8,3,3,4,1,2,0,0,0,0,1,0,3.31,4
+CMN,377,64500,Propaganda and Modern Society,1,8,4,7,5,3,1,2,1,1,1,0,1,0,3.07,4
+CMN,396,53999,Org Comm & Diversity,2,1,5,11,4,3,4,0,0,1,0,0,0,1,3.15,4
+CMN,396,53504,Commmunicating for Innovation,0,7,10,9,5,0,0,4,0,0,0,0,0,0,3.36,4
+CMN,396,66408,Leadership Comm Theory/Pract,0,18,3,2,0,0,0,0,0,0,0,0,0,1,3.9,4
+CMN,410,64501,Workplace Comm Technology,0,13,6,4,6,1,2,0,0,0,0,0,0,0,3.55,4
+CMN,421,53522,Persuasion Theory & Research,0,3,3,2,6,2,2,4,1,1,0,1,0,0,2.81,4
+CMN,429,53527,Race and the Mass Media,0,3,1,1,6,2,1,4,2,2,1,0,1,0,2.52,3
+CMN,429,58707,Race and the Mass Media,3,5,3,3,0,5,3,1,1,0,0,0,0,0,3.24,4
+CMN,435,54921,Adv Interpersonal Comm,1,12,7,1,5,0,0,0,0,0,1,0,1,0,3.47,4
+CMN,435,54922,Adv Interpersonal Comm,0,10,2,7,4,3,0,0,2,0,1,0,0,0,3.28,4
+CMN,464,55637,Health Communication Campaigns,2,11,9,8,9,6,1,1,2,0,0,0,0,1,3.34,4
+CMN,476,64839,Commercialism and the Public,0,8,10,5,5,1,1,0,0,0,0,0,0,0,3.52,4
+CPSC,112,31645,Introduction to Crop Sciences,8,26,15,11,16,5,3,4,1,0,0,0,0,0,3.43,4
+CPSC,213,58408,Evolution in Action,24,22,11,17,25,4,5,19,0,0,3,0,13,4,2.93,4
+CPSC,215,60263,The Prairie and Bioenergy,2,6,4,3,6,1,0,0,0,0,0,0,0,1,3.52,4
+CPSC,226,33543,Introduction to Weed Science,2,12,1,2,19,0,0,16,3,0,2,1,0,1,2.81,4
+CPSC,270,33486,Applied Entomology,3,8,0,3,2,2,1,1,0,0,0,0,1,0,3.32,4
+CPSC,419,58725,Midwest Agricultural Practices,0,29,3,0,1,0,0,0,0,0,0,0,1,0,3.82,4
+CPSC,426,30084,Weed Mgt in Agronomic Crops,0,19,0,0,11,0,0,2,0,0,1,0,0,0,3.45,4
+CPSC,437,55676,Principles of Agroecology,6,12,0,5,3,0,2,1,0,0,0,0,0,0,3.6,4
+CPSC,440,33573,Applied Statistical Methods I,1,29,29,10,17,11,3,6,1,3,0,1,3,1,3.21,4
+CPSC,452,30076,Advanced Plant Genetics,1,8,6,7,1,1,1,0,0,0,0,0,0,0,3.57,4
+CS,100,30094,Freshman Orientation,0,279,0,5,11,0,1,6,0,0,3,0,6,1,3.8,4
+CS,101,35879,Intro Computing: Engrg & Sci,93,154,124,67,72,36,39,26,11,10,15,14,21,2,3.19,4
+CS,105,35823,Intro Computing: Non-Tech,125,191,109,87,76,25,15,8,6,4,2,1,11,1,3.51,4
+CS,125,35876,Intro to Computer Science,38,60,24,12,14,20,11,14,3,1,1,1,1,0,3.39,4
+CS,125,35878,Intro to Computer Science,33,55,26,13,28,14,13,4,3,1,0,2,1,1,3.41,4
+CS,125,50158,Intro to Computer Science,32,63,28,9,21,15,12,9,3,1,0,0,1,1,3.44,4
+CS,126,66322,Software Design Studio,4,23,0,3,1,1,1,0,1,0,0,0,0,0,3.75,4
+CS,173,51495,Discrete Structures,0,5,6,1,6,5,1,1,1,1,1,0,1,0,2.93,4
+CS,173,51496,Discrete Structures,1,6,12,6,3,1,1,1,0,1,0,0,0,0,3.42,4
+CS,173,51497,Discrete Structures,0,3,5,3,9,8,3,2,0,0,0,0,0,0,3.02,4
+CS,173,51498,Discrete Structures,0,5,7,3,4,4,1,4,0,0,1,0,1,0,2.99,4
+CS,173,51499,Discrete Structures,0,4,7,4,8,1,4,4,1,2,1,1,0,0,2.84,4
+CS,173,60278,Discrete Structures,1,7,7,8,3,6,2,1,1,3,1,1,0,0,3.01,4
+CS,173,63143,Discrete Structures,4,7,7,6,5,3,2,1,0,1,2,2,1,1,3.02,4
+CS,173,63144,Discrete Structures,0,4,5,4,7,4,3,3,1,4,1,0,1,0,2.71,3
+CS,173,63145,Discrete Structures,2,8,7,6,3,4,4,3,2,0,0,0,0,1,3.18,4
+CS,173,63146,Discrete Structures,1,6,4,5,4,3,3,7,0,1,2,0,0,2,2.88,4
+CS,173,51500,Discrete Structures,1,5,6,7,4,5,0,1,0,0,0,0,0,0,3.33,4
+CS,173,51469,Discrete Structures,2,3,3,3,3,4,2,4,1,0,0,1,1,0,2.8,4
+CS,173,58923,Discrete Structures,2,3,2,0,5,7,4,3,3,0,0,1,0,0,2.73,3
+CS,173,59602,Discrete Structures,4,5,3,3,4,2,3,1,2,1,0,0,0,1,3.14,4
+CS,173,59603,Discrete Structures,3,8,0,7,3,2,0,2,0,0,0,1,0,2,3.32,4
+CS,196,31508,Freshman Honors,25,89,0,2,1,0,0,4,0,0,0,0,0,1,3.91,4
+CS,196,58187,Freshman Honors,2,15,0,0,2,1,0,0,0,0,0,0,1,1,3.65,4
+CS,199,64386,Undergraduate Open Seminar,0,25,5,2,0,0,0,0,0,0,0,0,0,0,3.91,4
+CS,210,31516,Ethical & Professional Issues,8,128,17,16,15,4,1,3,0,0,1,0,1,0,3.74,4
+CS,225,35917,Data Structures,15,148,40,25,34,13,17,27,0,0,21,0,13,2,3.21,4
+CS,225,35919,Data Structures,11,148,47,29,39,12,13,20,0,0,14,0,15,5,3.27,4
+CS,233,63733,Computer Architecture,8,73,9,7,34,3,2,21,3,1,13,1,10,1,3.01,4
+CS,233,64513,Computer Architecture,5,69,6,7,49,4,4,22,1,1,8,1,12,1,2.98,4
+CS,241,45300,System Programming,26,28,16,24,12,8,5,5,5,3,8,5,6,3,3.03,4
+CS,241,66268,System Programming,25,20,13,15,14,11,10,3,2,10,6,3,11,1,2.82,4
+CS,242,45325,Programming Studio,4,40,53,32,17,6,11,6,0,1,0,0,1,2,3.41,4
+CS,296,31518,Honors Course,0,53,0,0,0,0,0,2,0,0,0,0,0,2,3.93,4
+CS,296,62763,Honors Course,2,8,7,1,0,1,2,1,1,1,0,0,1,0,3.25,4
+CS,296,57758,Honors Course,5,22,7,3,0,0,0,0,0,0,0,0,0,0,3.88,4
+CS,357,53280,Numerical Methods I,8,78,17,15,14,11,6,9,5,4,9,3,9,1,3.11,4
+CS,357,63536,Numerical Methods I,4,35,3,3,1,1,3,2,2,7,3,1,0,0,3.23,4
+CS,361,66298,Prob & Stat for Computer Sci,12,16,7,14,6,1,4,2,2,0,1,0,1,0,3.37,4
+CS,374,66445,Intro to Algs & Models of Comp,14,45,27,31,38,42,53,40,33,38,17,5,14,1,2.5,3
+CS,410,67393,Text Information Systems,36,24,4,2,0,0,0,2,0,0,0,0,1,0,3.85,4
+CS,411,30109,Database Systems,16,23,48,17,30,26,6,6,13,5,4,5,7,0,2.98,4
+CS,412,48711,Introduction to Data Mining,2,10,7,1,2,3,2,2,2,0,0,0,0,1,3.32,4
+CS,412,43357,Introduction to Data Mining,21,24,24,23,28,16,10,8,2,0,2,0,4,2,3.22,4
+CS,418,36119,Interactive Computer Graphics,6,28,25,22,24,19,8,9,4,0,11,0,6,2,2.96,4
+CS,420,53685,Parallel Progrmg: Sci & Engrg,3,3,5,3,4,9,3,2,2,1,1,0,0,1,2.92,4
+CS,421,30128,Progrmg Languages & Compilers,35,37,15,12,28,3,8,16,5,3,3,1,3,3,3.2,4
+CS,424,51775,Real-Time Systems,4,13,10,6,3,3,1,0,0,0,1,0,0,0,3.55,4
+CS,425,67394,Distributed Systems,3,3,5,9,3,5,0,0,0,0,0,0,1,1,3.26,4
+CS,425,36091,Distributed Systems,14,18,46,36,40,20,2,0,0,0,0,0,1,0,3.37,4
+CS,426,43355,Compiler Construction,0,11,4,7,3,5,2,0,0,0,0,0,0,0,3.43,4
+CS,427,36104,Software Engineering I,9,16,21,16,25,15,17,5,2,1,0,0,1,0,3.14,4
+CS,431,40667,Embedded Systems,3,9,2,11,16,7,8,7,3,0,5,0,3,0,2.74,3
+CS,433,36069,Computer System Organization,5,9,3,2,3,5,0,0,0,0,1,0,0,0,3.48,4
+CS,438,36061,Communication Networks,2,11,9,8,7,12,9,8,4,2,1,0,8,0,2.64,3
+CS,440,36047,Artificial Intelligence,27,52,8,6,55,3,3,22,1,1,4,2,1,0,3.24,4
+CS,440,67003,Artificial Intelligence,8,21,0,2,24,1,4,9,0,2,2,1,4,0,3,4
+CS,446,46792,Machine Learning,9,41,25,63,13,11,0,5,0,0,2,0,4,1,3.38,4
+CS,450,36016,Numerical Analysis,4,17,24,15,26,20,16,14,12,1,1,3,2,2,2.9,4
+CS,461,49546,Computer Security I,15,24,11,14,42,9,7,23,3,0,8,0,3,0,2.95,4
+CS,465,43388,User Interface Design,3,15,19,24,72,7,14,10,3,0,1,0,0,0,3.08,4
+CS,466,51764,Introduction to Bioinformatics,9,18,14,9,15,4,3,5,1,0,0,0,0,0,3.4,4
+CS,492,30139,Senior Project I,1,6,11,15,4,4,2,0,1,0,0,0,0,0,3.35,4
+CS,498,61457,Digital Forensics,0,12,6,1,8,0,1,0,0,0,0,0,0,0,3.56,4
+CS,498,65109,Theory II,2,7,8,7,11,10,2,1,0,1,1,0,1,0,3.09,4
+CS,498,66333,Social & Information Networks,5,26,9,3,3,6,3,3,2,0,0,0,0,0,3.49,4
+CS,498,65575,Intro to Data Science,11,9,15,3,0,0,0,0,0,0,0,0,0,0,3.82,4
+CS,498,66825,The Art of Web Programming,4,22,11,19,13,9,8,1,6,1,1,0,0,1,3.2,4
+CS,498,40091,Virtual Reality,0,81,49,31,12,1,1,0,0,0,0,0,0,0,3.71,4
+CS,519,35905,Scientific Visualization,0,13,9,7,1,0,0,1,0,0,0,0,1,1,3.54,4
+CS,527,35912,Topics in Software Engineering,4,8,3,2,2,1,0,0,0,0,0,0,1,0,3.54,4
+CS,548,64710,Models of Cognitive Processes,1,18,3,2,2,0,0,0,0,0,0,0,0,0,3.83,4
+CS,563,54597,Advanced Computer Security,0,24,0,0,1,0,0,1,0,0,0,0,0,1,3.88,4
+CS,598,35989,Advanced Information Retrieval,6,17,9,4,3,1,0,0,0,0,0,0,0,0,3.75,4
+CS,598,66832,Graphical Models,3,19,1,0,0,0,0,0,0,0,1,0,0,1,3.86,4
+CW,100,67101,Intro to Creative Writing,0,4,8,5,3,3,0,1,0,0,0,0,0,0,3.38,4
+CWL,114,66286,Global Consciousness and Lit,8,20,7,7,3,0,0,0,0,1,0,0,0,0,3.72,4
+CWL,151,67360,Dystopian Fiction,0,11,4,2,3,0,1,1,0,0,0,0,0,0,3.58,4
+DANC,100,33749,Intro to Contemporary Dance,4,9,7,2,1,1,2,3,0,0,0,0,0,1,3.47,4
+DANC,100,46036,Intro to Contemporary Dance,15,4,6,0,2,1,0,0,0,0,0,0,0,0,3.81,4
+DANC,100,64564,Intro to Contemporary Dance,22,49,8,6,2,1,1,0,0,0,0,0,0,0,3.87,4
+DANC,107,31687,Ballet I,14,9,5,1,2,1,0,1,0,0,0,0,0,0,3.77,4
+DANC,112,64510,Hip Hop,0,1,6,6,4,4,1,0,2,0,0,0,1,0,2.97,4
+DANC,112,64505,Hip Hop,10,7,8,1,0,0,0,0,0,0,1,0,0,0,3.77,4
+DANC,150,29774,Orientation to Dance,1,20,1,0,0,0,0,0,0,0,0,0,1,0,3.81,4
+DANC,160,29776,Beg Contemp Modern Tech Core,0,6,9,2,2,5,0,0,1,1,0,0,3,0,2.97,4
+DANC,166,40081,Beginning Ballet Tech Core,0,11,9,0,0,0,0,0,0,0,0,0,1,0,3.67,4
+DANC,266,38845,Intermediate Ballet Tech Core,0,10,9,0,0,0,0,1,0,0,0,0,1,0,3.57,4
+DANC,301,58098,Yoga Practicum for Dancers,0,18,3,2,1,0,0,0,0,0,0,1,0,0,3.73,4
+DANC,360,31701,Int/Adv Contemp Mod Tech Core,0,11,4,5,0,1,0,0,0,0,0,0,0,0,3.71,4
+DANC,363,63248,Advanced Improvisation,3,16,1,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+EALC,275,47205,Masterpieces of East Asian Lit,0,0,8,5,7,0,0,0,0,0,0,0,1,0,3.19,4
+ECE,110,55568,Introduction to Electronics,39,43,15,11,18,13,0,4,0,1,0,1,4,2,3.48,4
+ECE,110,36790,Introduction to Electronics,22,29,15,16,10,8,5,7,3,1,4,0,9,0,3.1,4
+ECE,110,36789,Introduction to Electronics,15,18,17,10,7,3,2,5,0,1,1,0,3,0,3.34,4
+ECE,110,62844,Introduction to Electronics,30,28,7,8,4,3,0,2,1,0,1,0,1,0,3.66,4
+ECE,120,64595,Introduction to Computing,7,25,24,23,21,17,5,7,5,6,0,2,6,0,3,4
+ECE,120,65733,Introduction to Computing,0,21,15,13,17,4,3,3,4,2,1,0,1,0,3.18,4
+ECE,120,65734,Introduction to Computing,2,22,16,7,14,9,5,7,0,2,2,0,2,0,3.12,4
+ECE,120,66372,Introduction to Computing,3,15,19,11,8,9,9,6,2,2,5,0,7,0,2.82,4
+ECE,199,65209,Undergraduate Open Seminar,9,3,6,1,2,0,0,0,0,0,0,0,0,0,3.78,4
+ECE,205,60609,Elec & Electronic Circuits,11,49,17,30,48,44,14,29,17,10,14,16,4,0,2.71,3
+ECE,206,36828,Elec & Electronic Circuits Lab,5,10,7,4,3,1,0,0,0,0,0,0,0,0,3.69,4
+ECE,210,36696,Analog Signal Processing,3,8,7,7,13,10,11,15,7,1,3,0,5,0,2.56,3
+ECE,210,36702,Analog Signal Processing,1,13,7,14,14,13,4,9,7,0,10,0,2,0,2.7,3
+ECE,210,36706,Analog Signal Processing,3,13,15,12,19,8,2,8,5,3,4,0,5,1,2.83,4
+ECE,210,57718,Analog Signal Processing,5,15,10,16,12,4,6,7,5,2,2,0,4,0,2.93,4
+ECE,220,64600,Computer Systems & Programming,3,7,14,3,10,14,4,9,3,0,2,0,2,0,2.86,4
+ECE,220,66373,Computer Systems & Programming,7,6,14,6,15,11,12,7,7,0,8,0,2,1,2.73,3
+ECE,220,66374,Computer Systems & Programming,4,9,9,10,11,6,12,6,3,0,3,0,1,0,2.91,4
+ECE,220,66529,Computer Systems & Programming,3,10,8,4,7,3,6,8,2,0,1,0,2,0,2.93,4
+ECE,298,64877,Concepts in Engineering Math,9,14,4,6,0,0,1,0,0,0,0,0,0,0,3.79,4
+ECE,304,59854,Photonic Devices,1,7,0,4,4,3,0,1,0,0,2,0,1,0,3.01,4
+ECE,310,58210,Digital Signal Processing,1,7,0,4,7,8,1,3,1,0,5,1,2,0,2.58,3
+ECE,310,58213,Digital Signal Processing,3,19,5,10,9,11,7,5,5,5,0,3,2,0,2.85,4
+ECE,311,58591,Digital Signal Processing Lab,2,6,0,1,4,0,0,4,1,1,0,0,3,0,2.65,3
+ECE,311,58592,Digital Signal Processing Lab,3,12,4,1,1,3,0,0,1,0,0,1,0,0,3.51,4
+ECE,311,58593,Digital Signal Processing Lab,0,13,4,3,6,2,1,1,1,0,1,1,0,0,3.26,4
+ECE,313,64886,Probability with Engrg Applic,3,7,3,5,0,4,2,2,0,0,0,0,0,0,3.35,4
+ECE,313,49975,Probability with Engrg Applic,2,5,2,9,6,8,2,6,4,3,4,0,1,0,2.62,3
+ECE,313,49976,Probability with Engrg Applic,1,6,3,4,8,9,7,10,5,3,3,0,1,0,2.53,3
+ECE,313,52208,Probability with Engrg Applic,1,5,4,10,7,7,9,6,8,8,1,0,2,1,2.49,2
+ECE,313,61390,Probability with Engrg Applic,0,11,5,7,9,5,6,4,8,3,3,0,2,0,2.67,3
+ECE,313,66650,Probability with Engrg Applic,1,4,7,7,5,8,3,0,0,0,0,0,2,0,3.04,4
+ECE,316,36862,Ethics and Engineering,0,16,6,2,2,0,0,0,0,0,0,0,0,0,3.8,4
+ECE,316,36869,Ethics and Engineering,0,15,5,2,4,1,0,0,0,0,0,0,0,0,3.69,4
+ECE,329,31729,Fields and Waves I,5,11,2,3,5,3,1,3,3,1,0,0,3,1,2.98,4
+ECE,329,31732,Fields and Waves I,7,4,6,1,6,4,1,1,1,0,0,0,1,1,3.25,4
+ECE,330,58237,Power Ckts & Electromechanics,2,12,0,0,29,5,0,32,0,0,7,0,0,0,2.61,3
+ECE,330,58238,Power Ckts & Electromechanics,1,6,1,0,30,8,0,16,0,0,17,4,0,0,2.35,2
+ECE,333,54415,Green Electric Energy,11,14,12,11,8,6,2,5,0,0,0,0,1,0,3.36,4
+ECE,340,59020,Semiconductor Electronics,3,2,2,3,1,4,3,2,2,1,2,0,2,0,2.54,3
+ECE,340,58224,Semiconductor Electronics,5,5,3,4,1,2,3,0,2,1,2,0,0,0,3.08,4
+ECE,340,58225,Semiconductor Electronics,1,2,4,2,3,2,3,5,3,1,4,0,0,0,2.5,3
+ECE,340,58227,Semiconductor Electronics,3,4,1,2,6,2,3,8,0,2,0,3,2,0,2.48,2
+ECE,342,58228,Electronic Circuits,1,12,9,6,8,5,6,6,0,0,0,0,2,0,3.06,4
+ECE,342,62848,Electronic Circuits,5,22,11,20,9,8,9,2,7,0,0,0,1,0,3.19,4
+ECE,343,58230,Electronic Circuits Laboratory,0,20,1,1,2,0,0,0,0,0,0,0,0,0,3.88,4
+ECE,343,58231,Electronic Circuits Laboratory,0,10,8,7,0,0,0,0,0,0,0,0,1,0,3.56,4
+ECE,343,58233,Electronic Circuits Laboratory,0,11,5,4,1,0,0,1,0,0,0,0,0,0,3.67,4
+ECE,350,58235,Fields and Waves II,10,7,9,10,4,5,3,6,2,0,0,0,0,0,3.25,4
+ECE,380,64640,Biomedical Imaging,5,11,7,3,5,0,0,1,0,0,0,0,0,0,3.65,4
+ECE,385,36720,Digital Systems Laboratory,14,57,36,36,52,32,14,18,9,6,3,3,6,0,3.06,4
+ECE,391,47765,Computer Systems Engineering,6,53,25,33,34,17,14,11,5,5,8,2,8,2,3,4
+ECE,395,29852,Advanced Digital Projects Lab,3,18,2,0,1,0,0,0,0,0,0,0,0,0,3.94,4
+ECE,398,63477,Innovation and Eng. Design,5,17,0,0,2,0,0,1,0,0,0,0,2,0,3.56,4
+ECE,402,29932,Electronic Music Synthesis,5,12,12,1,3,1,0,1,0,0,0,0,0,0,3.69,4
+ECE,408,58790,Applied Parallel Programming,5,51,13,10,20,9,1,2,1,0,0,0,1,0,3.51,4
+ECE,408,67069,Applied Parallel Programming,0,28,4,7,14,5,2,0,2,0,0,0,1,0,3.39,4
+ECE,411,29942,Computer Organization & Design,1,20,9,11,11,8,8,15,3,2,3,2,2,0,2.83,4
+ECE,420,31840,Embedded DSP Laboratory,4,6,5,3,4,0,0,3,0,0,0,0,0,0,3.45,4
+ECE,425,36897,Intro to VLSI System Design,2,4,3,6,4,4,0,1,2,0,1,0,2,0,2.9,4
+ECE,439,61195,Wireless Networks,1,13,2,10,1,0,0,7,0,0,0,0,1,0,3.25,4
+ECE,444,36813,IC Device Theory & Fabrication,4,21,1,0,4,0,0,1,0,0,0,0,0,0,3.8,4
+ECE,444,36811,IC Device Theory & Fabrication,6,11,0,0,5,0,0,4,0,0,0,0,0,0,3.5,4
+ECE,445,29951,Senior Design Project Lab,7,20,15,24,34,10,5,11,2,0,1,0,0,0,3.18,4
+ECE,447,66377,Active Microwave Ckt Design,4,10,10,2,2,0,1,0,0,0,0,0,0,0,3.71,4
+ECE,453,39243,Wireless Communication Systems,4,5,3,3,4,2,2,2,2,0,0,0,0,0,3.2,4
+ECE,455,29956,Optical Electronics,2,5,5,5,2,4,3,2,0,0,1,0,0,0,3.18,4
+ECE,456,61793,Global Nav Satellite Systems,3,5,3,3,2,5,1,1,0,2,0,1,2,0,2.86,4
+ECE,459,29959,Communications Systems,3,3,3,4,5,1,3,1,0,0,0,0,0,0,3.26,4
+ECE,462,56118,Logic Synthesis,2,25,5,0,23,4,0,4,0,0,0,0,2,0,3.29,4
+ECE,464,29963,Power Electronics,6,24,4,7,14,8,5,16,3,2,6,0,0,0,2.93,4
+ECE,468,66481,Optical Remote Sensing,2,9,5,3,4,1,1,0,0,0,0,0,1,0,3.44,4
+ECE,469,31893,Power Electronics Laboratory,4,14,12,4,11,1,1,1,1,0,0,0,0,0,3.49,4
+ECE,470,36956,Introduction to Robotics,3,25,7,4,11,5,2,13,2,0,2,3,3,0,2.94,4
+ECE,473,36973,Fund of Engrg Acoustics,3,7,7,5,5,4,2,0,1,0,0,0,3,0,3.13,4
+ECE,476,29964,Power System Analysis,3,6,8,13,15,8,2,2,1,0,0,0,0,0,3.2,4
+ECE,482,29966,Digital IC Design,5,10,9,6,8,5,6,3,2,0,1,0,0,0,3.18,4
+ECE,485,36987,MEMS Devices & Systems,4,6,7,8,8,0,0,0,0,0,0,0,0,0,3.53,4
+ECE,486,31772,Control Systems,0,63,2,6,2,0,1,0,0,0,0,0,1,0,3.84,4
+ECE,488,66375,Compound Semicond & Devices,4,9,4,7,4,1,0,0,0,0,0,0,0,0,3.61,4
+ECE,498,61466,Smartphone Computing & Appl.,2,8,3,3,2,2,0,0,0,0,0,0,3,0,3.19,4
+ECE,498,66459,Networking for Big Data,1,7,4,2,4,2,3,2,0,0,0,0,0,0,3.28,4
+ECE,511,37011,Computer Architecture,2,22,5,4,2,1,0,1,0,1,0,0,0,0,3.68,4
+ECE,515,29983,Control System Theory & Design,5,21,11,12,5,3,1,0,0,0,0,0,0,0,3.62,4
+ECE,517,30430,Nonlinear & Adaptive Control,0,11,12,1,0,0,0,0,0,0,0,0,1,0,3.65,4
+ECE,520,29985,EM Waves & Radiating Systems,3,9,11,8,1,0,0,0,0,0,0,0,0,1,3.69,4
+ECE,526,63200,Distributed Algorithms,1,5,5,9,4,0,0,0,0,0,0,0,0,0,3.51,4
+ECE,534,29989,Random Processes,1,20,5,9,3,0,0,2,0,0,0,0,0,1,3.63,4
+ECE,535,37127,Theory of Semicond & Devices,6,5,5,4,4,3,0,0,0,0,0,0,0,1,3.54,4
+ECE,541,35928,Computer Systems Analysis,0,7,7,4,5,1,1,0,0,0,0,0,0,0,3.48,4
+ECE,544,49835,Pattern Recognition,4,16,17,9,4,2,0,0,0,0,0,0,0,0,3.65,4
+ECE,551,37133,Digital Signal Processing II,10,10,13,3,0,0,0,0,0,0,0,0,0,0,3.83,4
+ECON,102,49867,Microeconomic Principles,3,9,4,7,5,1,2,2,1,0,0,0,2,1,3.17,4
+ECON,102,36224,Microeconomic Principles,8,16,5,2,3,1,0,1,0,1,0,0,0,0,3.68,4
+ECON,102,36227,Microeconomic Principles,9,7,5,5,4,3,0,1,0,0,1,0,0,0,3.49,4
+ECON,102,36231,Microeconomic Principles,6,14,6,5,2,0,2,2,0,0,0,0,0,0,3.6,4
+ECON,102,36233,Microeconomic Principles,3,14,6,4,4,0,1,1,0,1,0,0,0,0,3.56,4
+ECON,102,36235,Microeconomic Principles,11,14,3,4,3,0,1,1,0,0,0,0,0,0,3.72,4
+ECON,102,36379,Microeconomic Principles,7,14,4,2,3,3,0,1,1,0,1,0,1,0,3.43,4
+ECON,102,61250,Microeconomic Principles,8,16,3,6,3,0,0,1,0,0,0,0,0,0,3.73,4
+ECON,102,61251,Microeconomic Principles,6,12,4,3,6,2,2,0,0,0,0,0,0,0,3.56,4
+ECON,102,61252,Microeconomic Principles,0,13,3,5,6,2,0,3,2,0,1,0,0,0,3.24,4
+ECON,102,36243,Microeconomic Principles,2,7,7,5,7,2,3,0,1,0,0,1,0,0,3.26,4
+ECON,102,36381,Microeconomic Principles,3,11,2,3,5,3,1,3,3,1,0,0,0,0,3.17,4
+ECON,102,36249,Microeconomic Principles,7,13,2,0,1,0,1,1,0,0,0,0,0,0,3.79,4
+ECON,102,36253,Microeconomic Principles,7,9,5,4,6,0,1,2,0,0,0,0,0,0,3.53,4
+ECON,102,36255,Microeconomic Principles,4,18,5,3,2,0,1,1,0,0,0,1,0,0,3.64,4
+ECON,102,36260,Microeconomic Principles,8,16,3,1,3,0,0,2,0,1,2,0,2,0,3.33,4
+ECON,102,61247,Microeconomic Principles,5,16,2,7,6,0,0,1,0,0,1,0,0,0,3.57,4
+ECON,102,61248,Microeconomic Principles,0,10,8,8,7,0,3,1,0,0,1,0,0,0,3.34,4
+ECON,102,61249,Microeconomic Principles,8,12,4,3,3,2,3,2,0,0,0,0,0,0,3.51,4
+ECON,102,36263,Microeconomic Principles,5,19,2,7,2,0,0,1,0,0,0,0,1,0,3.64,4
+ECON,102,36270,Microeconomic Principles,14,10,4,4,3,2,0,1,0,0,0,0,0,0,3.69,4
+ECON,102,36271,Microeconomic Principles,5,15,2,5,6,0,0,1,0,1,2,0,1,0,3.35,4
+ECON,102,36275,Microeconomic Principles,6,18,2,5,3,0,2,0,0,0,0,0,0,0,3.71,4
+ECON,102,36282,Microeconomic Principles,4,13,4,4,8,1,1,1,0,0,0,0,0,0,3.53,4
+ECON,102,36370,Microeconomic Principles,4,13,4,6,5,0,2,1,0,1,0,0,0,0,3.49,4
+ECON,102,61244,Microeconomic Principles,1,16,2,3,7,0,4,1,0,0,0,1,1,0,3.29,4
+ECON,102,61245,Microeconomic Principles,1,11,7,5,5,1,3,1,1,0,0,0,0,0,3.39,4
+ECON,102,61246,Microeconomic Principles,8,8,3,6,5,0,1,1,0,1,0,0,2,1,3.3,4
+ECON,102,49860,Microeconomic Principles,10,15,5,0,4,0,2,0,0,0,0,0,0,0,3.75,4
+ECON,102,49868,Microeconomic Principles,9,11,1,5,6,0,1,1,0,0,1,0,1,0,3.43,4
+ECON,102,50026,Microeconomic Principles,2,19,4,2,2,0,3,2,1,0,0,0,0,0,3.54,4
+ECON,102,49870,Microeconomic Principles,1,14,6,3,9,2,0,1,0,0,1,0,1,0,3.35,4
+ECON,102,49872,Microeconomic Principles,6,19,3,4,3,2,1,0,1,0,0,0,0,1,3.66,4
+ECON,102,50028,Microeconomic Principles,4,13,2,10,6,1,2,0,0,1,0,0,1,0,3.38,4
+ECON,102,49874,Microeconomic Principles,4,11,6,7,2,0,5,2,0,0,1,0,2,0,3.2,4
+ECON,102,50031,Microeconomic Principles,10,13,6,2,5,2,0,2,0,0,0,0,0,0,3.63,4
+ECON,102,50035,Microeconomic Principles,7,18,6,4,3,0,1,1,0,0,0,0,0,0,3.72,4
+ECON,102,49882,Microeconomic Principles,13,14,1,6,2,1,0,0,0,0,0,0,1,0,3.69,4
+ECON,102,49884,Microeconomic Principles,5,20,3,3,3,1,0,1,0,0,1,0,1,0,3.57,4
+ECON,102,49878,Microeconomic Principles,6,12,2,6,1,1,4,1,0,0,1,0,0,0,3.45,4
+ECON,102,50038,Microeconomic Principles,3,14,4,5,6,1,1,0,0,1,0,0,0,0,3.53,4
+ECON,102,49893,Microeconomic Principles,2,14,3,3,7,3,0,3,0,0,0,0,1,0,3.33,4
+ECON,102,50046,Microeconomic Principles,5,9,2,3,6,4,2,1,1,1,1,0,0,0,3.22,4
+ECON,102,49897,Microeconomic Principles,3,13,2,6,1,2,1,4,0,1,1,0,2,0,3.12,4
+ECON,102,65628,Microeconomic Principles,4,14,2,7,5,0,0,1,1,1,0,0,0,0,3.5,4
+ECON,102,65625,Microeconomic Principles,4,7,3,4,7,1,3,1,1,1,0,0,3,0,2.97,4
+ECON,102,49892,Microeconomic Principles,7,11,3,5,2,1,1,0,1,1,0,0,1,0,3.44,4
+ECON,102,66329,Microeconomic Principles,3,7,11,1,9,2,2,1,1,0,0,0,2,0,3.19,4
+ECON,102,36387,Microeconomic Principles,7,7,2,7,2,1,2,4,1,0,1,3,2,0,2.89,4
+ECON,102,36389,Microeconomic Principles,8,6,3,2,5,3,2,2,2,2,0,1,3,0,2.87,4
+ECON,102,36392,Microeconomic Principles,12,6,4,4,1,3,2,3,1,1,0,0,1,0,3.28,4
+ECON,102,36395,Microeconomic Principles,5,4,7,4,8,3,1,3,1,0,3,0,1,0,3,4
+ECON,102,36399,Microeconomic Principles,9,7,6,3,1,3,1,4,1,1,0,0,3,0,3.09,4
+ECON,102,36405,Microeconomic Principles,8,8,4,7,5,2,0,0,2,0,1,0,1,0,3.33,4
+ECON,102,36412,Microeconomic Principles,14,12,4,6,1,0,0,0,1,0,1,0,0,0,3.7,4
+ECON,102,36417,Microeconomic Principles,7,5,1,5,2,0,1,1,0,0,0,1,0,0,3.45,4
+ECON,102,36421,Microeconomic Principles,7,10,4,4,6,6,1,2,0,0,0,0,0,0,3.41,4
+ECON,102,36423,Microeconomic Principles,10,2,3,5,6,2,2,2,3,0,0,0,0,0,3.22,4
+ECON,102,36427,Microeconomic Principles,14,10,5,2,0,0,0,4,2,0,0,0,1,0,3.48,4
+ECON,102,36430,Microeconomic Principles,8,9,2,2,1,1,0,1,1,0,0,0,0,0,3.65,4
+ECON,102,36432,Microeconomic Principles,7,10,6,3,4,1,1,4,2,0,0,0,1,1,3.29,4
+ECON,102,36435,Microeconomic Principles,12,7,9,3,3,0,1,0,0,2,0,0,0,0,3.59,4
+ECON,102,36211,Microeconomic Principles,0,4,3,0,4,3,3,4,0,0,1,1,3,0,2.45,2
+ECON,103,49945,Macroeconomic Principles,5,3,8,6,1,1,5,1,3,0,1,1,1,2,2.98,4
+ECON,103,37775,Macroeconomic Principles,5,4,3,3,3,4,3,4,3,1,0,1,2,1,2.74,3
+ECON,103,37779,Macroeconomic Principles,1,3,3,4,1,5,3,4,4,0,1,3,4,0,2.26,2
+ECON,103,37783,Macroeconomic Principles,2,3,5,4,6,5,3,0,3,3,2,0,2,0,2.66,3
+ECON,103,37785,Macroeconomic Principles,2,4,4,6,4,3,1,5,4,2,1,0,2,1,2.67,3
+ECON,103,37838,Macroeconomic Principles,6,3,3,5,4,4,3,2,3,2,1,1,1,0,2.81,4
+ECON,103,37792,Macroeconomic Principles,6,6,2,3,4,7,2,3,2,0,0,0,3,0,2.9,4
+ECON,103,37795,Macroeconomic Principles,13,3,3,4,0,1,1,3,2,1,0,3,3,0,2.87,4
+ECON,103,37799,Macroeconomic Principles,5,0,4,3,3,6,0,1,2,1,0,0,1,1,2.94,4
+ECON,103,37801,Macroeconomic Principles,5,6,1,3,4,2,5,0,2,0,1,0,2,0,2.94,4
+ECON,103,37804,Macroeconomic Principles,7,5,7,3,0,5,1,0,3,2,0,1,2,0,2.99,4
+ECON,103,37807,Macroeconomic Principles,6,4,3,7,2,1,1,1,0,1,0,0,1,0,3.28,4
+ECON,103,37809,Macroeconomic Principles,6,2,5,6,4,5,3,1,1,2,1,0,2,0,2.89,4
+ECON,103,37811,Macroeconomic Principles,3,3,4,7,6,3,3,1,2,0,1,2,2,0,2.77,4
+ECON,103,37812,Macroeconomic Principles,4,6,6,4,5,2,7,0,0,1,0,0,3,0,2.98,4
+ECON,103,37813,Macroeconomic Principles,4,4,5,3,2,4,1,4,2,1,0,0,5,0,2.63,3
+ECON,103,37814,Macroeconomic Principles,7,4,7,2,1,3,1,3,3,0,1,1,3,0,2.84,4
+ECON,103,37837,Macroeconomic Principles,4,4,4,3,6,4,2,1,0,1,0,0,6,0,2.67,3
+ECON,103,37818,Macroeconomic Principles,3,1,5,4,3,1,2,1,1,2,5,1,6,0,2.17,2
+ECON,103,37819,Macroeconomic Principles,5,3,3,4,2,4,2,3,1,0,0,2,1,0,2.89,4
+ECON,103,37825,Macroeconomic Principles,4,5,6,5,2,3,1,1,2,0,1,1,2,0,2.97,4
+ECON,103,49939,Macroeconomic Principles,6,3,7,1,5,6,0,1,1,0,0,1,2,0,3.04,4
+ECON,202,66334,Economic Statistics I,0,6,1,0,9,0,1,9,1,2,0,0,3,0,2.48,2
+ECON,202,37840,Economic Statistics I,1,9,1,0,10,2,0,8,0,0,4,0,2,2,2.68,3
+ECON,202,37841,Economic Statistics I,0,14,2,3,11,3,0,6,1,0,0,0,0,0,3.2,4
+ECON,202,37842,Economic Statistics I,3,10,0,0,13,1,1,6,0,1,2,0,2,0,2.85,4
+ECON,202,37843,Economic Statistics I,1,9,1,1,11,4,1,5,0,0,0,0,2,0,2.94,4
+ECON,202,37844,Economic Statistics I,1,12,2,1,18,1,2,2,0,0,1,0,0,0,3.23,4
+ECON,202,37845,Economic Statistics I,2,7,0,2,11,0,2,7,0,0,2,0,0,0,2.92,4
+ECON,202,62208,Economic Statistics I,3,5,0,2,5,0,1,6,0,0,1,1,0,0,2.9,4
+ECON,202,62209,Economic Statistics I,4,8,1,2,8,1,2,6,1,0,4,0,0,0,2.9,4
+ECON,202,62210,Economic Statistics I,2,7,1,1,14,1,2,0,0,0,2,0,0,0,3.14,4
+ECON,202,37868,Economic Statistics I,2,6,2,3,11,0,1,5,1,1,5,0,1,0,2.7,3
+ECON,202,37867,Economic Statistics I,2,15,1,3,12,0,1,4,0,0,1,0,0,0,3.31,4
+ECON,202,37866,Economic Statistics I,3,11,1,2,15,0,0,5,0,0,0,0,0,0,3.28,4
+ECON,202,37865,Economic Statistics I,3,8,1,2,17,1,3,2,0,0,2,0,0,0,3.1,4
+ECON,202,37864,Economic Statistics I,0,13,0,2,17,0,1,2,0,1,2,0,1,0,3.06,4
+ECON,202,37863,Economic Statistics I,1,13,0,2,13,1,1,4,1,0,1,0,0,0,3.17,4
+ECON,202,37862,Economic Statistics I,1,11,1,3,10,1,2,6,0,0,1,0,2,0,2.95,4
+ECON,202,37861,Economic Statistics I,0,7,3,2,11,0,3,5,2,0,2,0,0,0,2.89,4
+ECON,203,37872,Economic Statistics II,7,2,2,3,9,2,3,5,2,2,0,0,0,1,2.94,4
+ECON,203,37874,Economic Statistics II,3,7,4,4,6,4,4,3,1,1,1,3,2,0,2.74,3
+ECON,203,37875,Economic Statistics II,1,8,3,2,8,2,2,1,2,2,2,2,1,0,2.75,4
+ECON,203,37897,Economic Statistics II,5,7,2,2,3,6,1,3,2,1,0,1,2,1,2.88,4
+ECON,203,37876,Economic Statistics II,7,7,2,3,9,3,2,4,2,0,0,0,1,0,3.11,4
+ECON,203,37877,Economic Statistics II,4,6,7,1,2,7,2,2,1,3,1,1,3,0,2.74,3
+ECON,203,37878,Economic Statistics II,4,5,6,5,2,4,1,2,1,0,0,0,1,0,3.2,4
+ECON,203,37873,Economic Statistics II,4,5,2,3,7,2,3,4,3,1,2,0,0,1,2.86,4
+ECON,203,37880,Economic Statistics II,3,2,4,6,7,5,4,3,3,0,0,1,1,0,2.82,4
+ECON,203,37881,Economic Statistics II,3,4,4,4,4,2,3,7,3,3,0,0,1,1,2.72,3
+ECON,203,37882,Economic Statistics II,2,3,0,2,5,5,3,8,1,1,2,2,4,0,2.22,2
+ECON,203,37883,Economic Statistics II,5,4,3,1,2,8,4,4,0,3,1,1,2,1,2.65,3
+ECON,203,37895,Economic Statistics II,7,7,2,6,4,4,2,1,2,1,0,1,0,1,3.19,4
+ECON,203,37898,Economic Statistics II,5,3,4,1,6,2,4,5,2,2,2,0,1,0,2.72,3
+ECON,203,37899,Economic Statistics II,10,3,3,5,6,1,3,5,0,0,3,0,2,0,2.93,4
+ECON,203,67171,Economic Statistics II,9,14,11,5,9,14,4,12,0,4,1,0,4,1,2.91,4
+ECON,302,59660,Inter Microeconomic Theory,5,4,1,3,2,3,3,1,4,2,0,1,4,0,2.51,3
+ECON,302,60699,Inter Microeconomic Theory,3,4,1,4,3,1,2,5,4,1,1,0,4,0,2.43,2
+ECON,302,61393,Inter Microeconomic Theory,4,7,2,1,2,3,1,5,1,4,0,3,2,0,2.57,3
+ECON,302,61394,Inter Microeconomic Theory,3,2,2,1,6,3,0,4,3,2,3,2,4,0,2.19,2
+ECON,302,61395,Inter Microeconomic Theory,1,2,4,2,3,0,3,2,3,2,1,1,1,0,2.51,3
+ECON,302,61396,Inter Microeconomic Theory,2,3,1,2,0,0,3,3,4,1,5,0,1,0,2.25,2
+ECON,302,59934,Inter Microeconomic Theory,2,2,4,2,2,1,1,3,2,1,0,0,3,0,2.57,3
+ECON,302,61398,Inter Microeconomic Theory,0,5,8,3,4,1,3,4,1,6,0,1,4,0,2.48,2
+ECON,302,59666,Inter Microeconomic Theory,2,5,6,6,5,3,2,4,2,0,2,0,0,0,3,4
+ECON,302,59667,Inter Microeconomic Theory,2,4,8,3,8,2,5,2,0,0,2,0,1,0,2.98,4
+ECON,302,59668,Inter Microeconomic Theory,1,5,8,5,6,4,2,2,1,0,0,0,2,0,3.03,4
+ECON,302,59669,Inter Microeconomic Theory,3,3,2,4,3,2,4,2,1,0,3,1,4,0,2.43,2
+ECON,302,59670,Inter Microeconomic Theory,2,5,6,7,3,1,3,1,1,1,2,3,0,0,2.89,4
+ECON,302,59672,Inter Microeconomic Theory,1,1,6,4,5,5,3,6,0,1,2,0,4,0,2.47,2
+ECON,302,59673,Inter Microeconomic Theory,2,6,3,2,6,3,3,4,2,0,4,2,1,0,2.61,3
+ECON,302,59674,Inter Microeconomic Theory,10,6,5,3,1,3,2,2,2,1,1,0,1,0,3.18,4
+ECON,302,59675,Inter Microeconomic Theory,3,3,1,3,9,4,2,5,2,0,2,2,1,0,2.61,3
+ECON,302,37923,Inter Microeconomic Theory,4,7,5,3,3,4,1,0,1,2,3,0,4,0,2.75,4
+ECON,302,37929,Inter Microeconomic Theory,0,5,2,2,4,4,5,4,1,1,1,1,5,0,2.31,2
+ECON,302,37906,Inter Microeconomic Theory,1,6,3,3,3,2,5,2,0,0,2,1,1,0,2.82,4
+ECON,302,37908,Inter Microeconomic Theory,2,4,3,3,3,4,1,1,1,3,1,0,1,0,2.8,4
+ECON,302,61397,Inter Microeconomic Theory,9,7,3,3,6,2,1,1,2,1,1,1,3,0,2.98,4
+ECON,302,59935,Inter Microeconomic Theory,2,4,3,3,5,5,0,3,0,0,1,0,1,1,2.98,4
+ECON,302,59676,Inter Microeconomic Theory,1,6,7,4,2,2,1,3,1,1,2,0,4,0,2.7,3
+ECON,302,67054,Inter Microeconomic Theory,1,10,12,9,0,0,0,0,0,0,0,0,0,0,3.69,4
+ECON,303,66603,Inter Macroeconomic Theory,3,8,5,7,15,9,2,4,1,0,2,0,1,1,3,4
+ECON,303,64679,Inter Macroeconomic Theory,3,4,1,4,8,7,3,0,0,0,0,1,0,0,3.08,4
+ECON,303,64680,Inter Macroeconomic Theory,2,4,4,6,3,5,1,3,0,1,1,1,1,0,2.89,4
+ECON,303,64681,Inter Macroeconomic Theory,0,4,5,5,8,1,3,2,1,2,0,0,0,0,3,4
+ECON,303,64682,Inter Macroeconomic Theory,0,3,6,9,9,0,2,1,0,1,1,0,1,0,3.03,4
+ECON,303,64683,Inter Macroeconomic Theory,2,4,6,5,5,6,5,0,2,0,0,0,0,0,3.11,4
+ECON,303,64684,Inter Macroeconomic Theory,1,4,5,2,3,5,4,0,0,1,0,0,0,1,3.12,4
+ECON,411,66666,Public Sector Economics,3,5,3,1,11,3,4,14,4,3,2,0,2,1,2.5,3
+ECON,411,66614,Public Sector Economics,1,14,2,4,6,3,5,4,3,1,0,0,1,0,3.02,4
+ECON,414,66597,Urban Economics,4,5,4,7,0,1,3,4,1,1,0,1,0,0,3.09,4
+ECON,420,31786,International Economics,4,3,1,4,3,6,4,6,3,2,0,0,4,1,2.48,2
+ECON,440,66601,Economics of Labor Markets,4,4,5,5,5,0,0,0,0,0,2,2,3,0,2.84,4
+ECON,450,66598,Development Economics,0,17,8,7,11,0,3,0,2,0,1,0,3,0,3.19,4
+ECON,450,66615,Development Economics,2,1,3,1,4,0,3,7,2,2,2,3,3,0,2.1,2
+ECON,452,66668,The Latin American Economies,3,3,5,8,7,1,3,2,0,0,0,0,0,0,3.24,4
+ECON,471,66588,Intro to Applied Econometrics,0,10,8,7,14,7,6,3,1,0,0,0,2,0,3.02,4
+ECON,471,66620,Intro to Applied Econometrics,3,7,2,7,4,6,3,2,3,4,4,0,1,1,2.7,3
+ECON,471,66623,Intro to Applied Econometrics,2,8,4,4,5,5,0,5,4,2,8,0,1,0,2.58,3
+ECON,480,66616,Industrial Comp and Monopoly,7,6,5,3,0,2,2,2,0,0,0,0,1,0,3.4,4
+ECON,480,66621,Industrial Comp and Monopoly,3,7,2,2,3,2,3,0,0,0,0,0,2,0,3.14,4
+ECON,481,66577,Govt Reg of Economic Activity,3,5,2,5,3,6,0,3,0,0,0,0,0,0,3.22,4
+ECON,482,66582,Health Economics,3,10,3,7,5,2,1,0,0,0,0,0,0,0,3.52,4
+ECON,484,66593,Law and Economics,15,12,5,1,12,1,2,4,0,0,0,0,0,1,3.49,4
+ECON,490,66575,Econ of Poverty Alleviation,1,4,7,7,4,3,4,3,0,0,0,0,0,0,3.16,4
+ECON,490,66580,Financial Econometrics,4,9,3,5,1,2,0,0,0,0,0,0,1,0,3.54,4
+ECON,490,59651,Cost-Benefit Analysis,0,4,1,4,11,4,0,0,0,0,0,0,0,0,3.22,4
+ECON,490,66595,Women in the Economy,0,3,6,6,0,7,0,0,4,0,0,0,1,0,2.95,4
+ECON,490,66602,Economic Growth,2,6,4,4,5,3,3,1,3,2,0,0,0,0,3.02,4
+ECON,490,66647,Monetary Economics,0,7,3,2,9,4,4,1,0,0,1,1,0,2,3.01,4
+ECON,490,66608,American Economic History,9,7,1,4,3,2,1,5,2,2,1,0,0,0,3.1,4
+ECON,490,66611,Econ of Organizations,0,12,0,0,8,0,0,2,0,1,2,0,0,0,3.17,4
+ECON,490,66646,Game Theory,4,4,2,1,6,3,3,6,5,1,1,0,0,1,2.73,3
+ECON,490,66874,Environmental Economics,2,5,4,6,7,4,6,0,0,0,0,0,0,0,3.19,4
+ECON,490,66613,Economic Forecasting,4,11,1,10,2,0,0,0,0,0,0,0,0,0,3.69,4
+ECON,490,66877,Financial Economics,17,7,4,3,1,4,0,1,0,0,0,0,0,0,3.69,4
+ECON,490,66622,Game Theory,3,4,0,2,4,4,0,3,0,0,2,0,1,0,2.84,4
+ECON,500,31792,Microeconomics,0,3,6,5,14,8,2,1,0,0,0,0,0,0,3.09,4
+ECON,500,42432,Microeconomics,0,5,6,6,4,5,4,2,0,0,0,0,0,0,3.15,4
+ECON,501,64707,Macroeconomics,7,8,19,14,1,0,0,0,0,0,0,0,0,0,3.66,4
+ECON,502,64708,Economic Statistics,2,6,7,8,6,5,2,0,0,0,0,0,0,0,3.34,4
+ECON,502,64709,Economic Statistics,1,7,10,8,7,0,2,0,0,0,0,0,0,0,3.46,4
+ECON,505,64712,Introduction to Game Theory,6,9,13,6,2,2,0,0,0,0,0,0,0,0,3.66,4
+ECON,510,64713,Economics of Taxation,0,12,8,2,0,0,0,0,0,0,0,0,0,0,3.82,4
+ECON,513,64714,International Trade,0,6,4,10,4,5,0,0,0,0,0,0,0,0,3.36,4
+ECON,517,64715,Monetary Policy,9,7,5,3,8,3,0,0,0,0,0,0,0,0,3.55,4
+ECON,530,64718,Microeconomic Theory I,0,5,7,5,5,0,0,0,0,0,0,0,0,0,3.52,4
+ECON,532,64721,Econometric Analysis I,10,11,4,8,3,0,1,1,1,0,0,0,0,0,3.6,4
+ECON,536,66632,Applied Econometrics,0,6,19,6,3,0,0,0,0,0,0,0,0,0,3.61,4
+EDUC,101,45811,Education Orientation Seminar,0,59,2,3,0,0,0,1,0,0,0,0,0,0,3.93,4
+EDUC,101,45812,Education Orientation Seminar,0,56,2,0,0,0,0,1,0,0,0,1,0,1,3.9,4
+EDUC,201,64440,Identity and Difference in Edu,17,117,23,11,3,0,1,1,0,0,0,0,1,0,3.85,4
+EIL,411,30104,Intro to TESL Methodology,1,16,2,0,1,0,1,0,0,0,0,0,0,1,3.85,4
+EIL,460,33692,Principles of Language Testing,3,12,7,2,1,1,0,0,0,0,0,0,0,0,3.77,4
+ENG,198,60321,Inspiring Interacting Informin,4,11,3,3,4,0,1,0,0,0,0,0,0,0,3.67,4
+ENG,198,52579,IEFX Research,0,15,3,1,1,1,0,0,0,0,0,0,0,0,3.81,4
+ENG,198,56321,IEFX Projects 1,1,16,8,2,3,0,0,0,0,0,0,0,0,0,3.77,4
+ENG,198,56315,IEFX Projects 2,3,21,7,1,0,0,0,0,0,0,0,0,0,0,3.91,4
+ENG,198,60395,Renaissance Engineer,1,6,5,3,3,3,0,0,0,0,0,0,0,0,3.49,4
+ENG,199,50388,MEP Mentoring,0,47,0,0,2,3,0,0,0,0,0,0,0,0,3.88,4
+ENG,199,66913,PURE Research Program,0,28,0,0,2,0,0,0,0,0,0,0,0,0,3.93,4
+ENG,199,46104,Undergraduate Open Seminar,10,5,3,1,2,2,0,0,0,0,0,0,0,0,3.73,4
+ENG,250,66573,From Idea to Enterprise,6,23,3,3,1,0,0,0,0,0,0,0,1,0,3.78,4
+ENG,360,53022,Lect in Engrg Entrepreneurship,52,16,2,0,1,1,8,0,0,0,0,0,0,0,3.8,4
+ENG,398,62339,Honduras Water Project,0,9,7,4,1,1,0,0,0,0,0,0,0,0,3.67,4
+ENG,460,56932,Entrepreneurship for Engineers,32,7,0,1,0,0,2,0,0,0,0,0,0,0,3.9,4
+ENG,466,55814,High-Tech Venture Marketing,0,38,11,11,8,3,2,1,1,0,0,0,0,0,3.59,4
+ENG,471,61836,Seminar Energy & Sustain Engrg,18,24,8,1,1,0,0,0,0,0,1,0,0,0,3.86,4
+ENGL,101,32283,Intro to Poetry,1,8,4,4,2,2,1,3,2,0,0,0,1,0,3.11,4
+ENGL,103,32288,Intro to Fiction,0,13,7,5,4,0,0,0,1,0,0,0,0,0,3.6,4
+ENGL,104,33780,Intro to Film,0,5,9,5,2,1,1,0,0,0,0,0,0,0,3.51,4
+ENGL,104,33797,Intro to Film,0,5,6,4,3,1,1,0,0,0,0,1,0,1,3.33,4
+ENGL,104,43290,Intro to Film,0,3,5,5,2,4,0,0,0,0,0,0,2,0,3.03,4
+ENGL,104,54913,Intro to Film,0,3,5,7,6,4,1,1,0,0,0,0,0,0,3.21,4
+ENGL,104,33810,Intro to Film,1,5,2,3,7,0,2,2,0,0,0,0,0,0,3.23,4
+ENGL,109,33850,Intro to Fiction-ACP,1,21,0,0,0,0,0,0,0,0,0,0,1,0,3.83,4
+ENGL,109,33836,Intro to Fiction-ACP,1,1,2,2,7,3,1,1,1,0,0,0,2,0,2.71,3
+ENGL,109,33858,Intro to Fiction-ACP,0,16,0,3,2,0,0,0,0,0,1,0,0,0,3.68,4
+ENGL,109,45502,Intro to Fiction-ACP,2,4,7,2,6,1,2,0,0,0,0,0,0,0,3.4,4
+ENGL,115,32291,Intro to British Literature,0,9,11,4,1,0,0,0,0,0,0,0,0,0,3.71,4
+ENGL,116,32294,Intro to American Literature,0,2,6,8,5,1,3,0,0,0,0,0,1,0,3.13,4
+ENGL,119,41826,Literature of Fantasy,1,5,3,1,2,1,6,1,0,0,0,0,1,0,3,4
+ENGL,119,65040,Literature of Fantasy,5,17,2,5,3,1,1,0,0,0,0,0,0,0,3.71,4
+ENGL,120,51914,Science Fiction,0,17,6,1,1,0,0,1,0,0,0,0,1,0,3.64,4
+ENGL,121,62222,Comics and Graphic Narratives,0,12,7,5,2,3,0,2,0,0,0,1,0,0,3.41,4
+ENGL,199,50105,Career Plan. Humanities Majors,0,17,0,0,2,0,0,1,0,0,1,0,0,0,3.67,4
+ENGL,200,41879,Intro to the Study of Lit,0,12,10,3,3,0,0,0,0,0,0,0,1,0,3.58,4
+ENGL,200,32277,Intro to the Study of Lit,0,21,4,1,1,1,0,0,0,0,0,0,0,1,3.85,4
+ENGL,200,41926,Intro to the Study of Lit,2,6,10,3,0,1,0,0,0,0,0,0,0,0,3.7,4
+ENGL,200,32268,Intro to the Study of Lit,3,9,5,6,1,0,0,1,0,0,0,0,0,0,3.65,4
+ENGL,200,45880,Intro to the Study of Lit,2,12,8,5,4,0,0,0,0,0,0,0,0,0,3.68,4
+ENGL,202,33890,Medieval Lit and Culture,1,9,8,0,2,1,2,0,0,0,0,0,2,0,3.31,4
+ENGL,213,46720,Modernist Lit and Culture,0,7,6,4,3,0,1,0,0,1,1,0,0,1,3.35,4
+ENGL,218,32300,Introduction to Shakespeare,1,9,3,6,0,0,0,0,0,0,0,0,2,0,3.38,4
+ENGL,218,32301,Introduction to Shakespeare,0,8,5,3,3,7,0,0,0,0,0,0,0,0,3.39,4
+ENGL,245,51261,The Short Story,3,7,11,4,3,1,1,1,1,0,0,0,0,0,3.48,4
+ENGL,253,65156,How We Read: Digital Cult. Ed.,0,7,7,11,1,0,1,0,0,0,0,0,0,0,3.54,4
+ENGL,259,33983,Afro-American Literature I,0,12,5,2,3,0,0,0,0,0,0,0,1,0,3.57,4
+ENGL,272,66187,Minority Images in Amer Film,0,15,9,3,1,1,0,1,0,0,0,0,1,0,3.57,4
+ENGL,281,43070,British Feminist Fiction,5,12,3,5,1,3,0,0,0,1,0,0,0,0,3.6,4
+ENGL,300,33990,Pulp Fictions of the 1890s,0,1,5,11,2,2,1,0,0,0,0,0,0,0,3.3,4
+ENGL,300,33987,The Haunted Story,0,5,9,2,3,1,1,0,1,0,0,0,1,0,3.28,4
+ENGL,301,54605,CriticalApproaches to Lit&Text,0,12,4,2,1,0,2,0,2,0,0,0,0,0,3.49,4
+ENGL,301,50626,CriticalApproaches to Lit&Text,0,6,6,8,3,1,0,0,0,0,0,0,0,0,3.51,4
+ENGL,330,66192,Slavery and Identity,1,6,3,3,3,5,1,2,0,0,0,0,2,0,2.99,4
+ENGL,373,54657,Sexuality & Cinema in the US,0,5,9,4,7,1,1,0,1,0,1,0,0,0,3.28,4
+ENGL,402,34481,Descriptive English Grammar,1,11,1,4,2,2,0,0,0,0,0,0,0,0,3.63,4
+ENGL,418,32335,Shakespeare,0,7,9,2,3,0,0,0,0,0,0,0,1,0,3.49,4
+ENGL,429,30171,18th Century Fiction,1,13,5,3,0,0,0,0,0,0,0,0,0,1,3.84,4
+ENGL,450,39493,American Lit 1865-1914,1,9,6,7,0,0,0,0,0,0,0,0,0,0,3.71,4
+ENSU,310,66365,Renewable & Alternative Energy,3,10,3,2,7,0,0,0,4,0,2,0,1,0,3.1,4
+EOL,543,66952,Leading School Improvement,0,14,6,3,0,0,0,0,0,0,0,0,0,0,3.83,4
+EPS,202,31913,Foundations of Education-ACP,1,12,6,1,0,0,1,0,0,0,0,0,0,0,3.79,4
+EPS,402,45412,Asian American Education,0,47,0,1,1,0,0,0,0,0,0,1,0,0,3.9,4
+EPS,533,63713,Global Youth & Citizenship,1,15,10,2,0,0,0,0,0,0,0,0,0,0,3.83,4
+EPS,538,63628,Globalization of Higher Ed,0,22,1,0,1,0,0,0,0,0,0,0,0,0,3.94,4
+EPSY,201,33961,Educational Psychology,10,136,40,19,13,7,2,3,1,0,0,1,1,1,3.71,4
+EPSY,202,32176,Exploring Cultural Diversity,22,18,13,2,4,2,2,3,2,0,1,2,2,1,3.4,4
+EPSY,220,33998,Career Theory and Practice,0,13,4,4,1,0,2,0,0,0,2,0,1,0,3.32,4
+EPSY,220,33996,Career Theory and Practice,0,18,3,3,1,0,1,0,0,0,0,0,0,0,3.78,4
+EPSY,220,33992,Career Theory and Practice,0,16,4,2,1,0,0,1,0,0,1,0,2,0,3.38,4
+EPSY,401,44173,Child Language and Education,11,9,3,0,2,3,0,0,0,0,0,0,0,1,3.75,4
+EPSY,407,30278,Adult Learning and Development,2,7,7,3,4,0,0,0,0,0,0,0,0,0,3.64,4
+EPSY,420,34001,Theories of Psychotherapy,0,7,18,12,11,8,6,2,4,1,0,0,1,1,3.06,4
+EPSY,456,63803,Human Perform & Cogn in Contxt,2,20,0,0,19,0,0,1,0,0,1,0,0,0,3.46,4
+EPSY,480,58875,Educational Statistics,1,25,0,0,9,0,0,7,0,0,0,0,2,2,3.3,4
+EPSY,485,34011,Assessing Student Performance,59,26,10,5,0,0,1,1,0,0,1,0,1,0,3.83,4
+EPSY,587,46928,Hierarchical Linear Models,0,24,4,3,4,1,0,0,0,0,0,0,0,0,3.76,4
+ESE,200,58311,Earth Systems,2,32,12,15,8,1,6,3,0,0,0,1,3,1,3.34,4
+EURO,415,66655,Europe and the Mediterranean,0,22,4,0,0,0,1,0,0,0,0,0,1,0,3.76,4
+FAA,101,58685,Arts at Illinois,0,249,18,3,39,2,0,22,0,0,6,7,1,0,3.6,4
+FAA,220,65470,Introduction to Fashion,30,8,5,0,1,0,0,0,0,0,0,0,1,0,3.85,4
+FIN,221,37378,Corporate Finance,0,1,0,1,9,1,0,6,2,1,1,0,0,0,2.49,2
+FIN,221,37380,Corporate Finance,2,18,2,1,7,3,1,2,1,0,2,0,0,1,3.33,4
+FIN,221,37383,Corporate Finance,0,11,1,3,6,1,2,6,0,1,4,0,0,0,2.87,4
+FIN,221,37386,Corporate Finance,2,11,3,3,4,1,3,3,1,1,2,0,4,1,2.78,4
+FIN,221,37389,Corporate Finance,0,7,5,3,9,2,2,3,0,1,1,0,0,0,3.08,4
+FIN,221,37411,Corporate Finance,1,11,3,3,9,4,2,2,0,0,1,0,0,1,3.23,4
+FIN,221,37391,Corporate Finance,1,5,2,5,9,1,2,4,1,2,1,0,2,2,2.73,3
+FIN,221,37399,Corporate Finance,0,6,1,1,6,3,3,0,1,0,1,0,1,0,2.9,4
+FIN,221,37404,Corporate Finance,1,16,3,5,8,2,1,4,0,0,2,0,1,0,3.19,4
+FIN,221,37405,Corporate Finance,0,15,4,2,9,1,2,3,2,0,1,0,1,1,3.15,4
+FIN,221,37406,Corporate Finance,1,7,3,2,10,1,3,3,2,1,3,0,2,1,2.71,3
+FIN,221,50744,Corporate Finance,1,10,0,3,10,1,0,8,2,0,5,0,0,1,2.78,4
+FIN,221,50745,Corporate Finance,0,5,3,4,3,2,3,4,1,0,2,0,1,0,2.76,4
+FIN,221,37403,Corporate Finance,0,44,19,11,17,2,0,3,0,0,0,0,0,0,3.59,4
+FIN,230,30211,Introduction to Insurance,16,50,5,8,38,5,3,18,0,0,5,0,4,0,3.19,4
+FIN,241,47724,Fundamentals of Real Estate,1,23,4,4,3,0,0,4,1,0,0,0,0,0,3.57,4
+FIN,241,47656,Fundamentals of Real Estate,1,10,4,4,7,3,0,0,0,0,0,1,0,0,3.39,4
+FIN,300,58161,Financial Markets,0,2,4,4,6,1,3,7,4,2,1,0,2,1,2.44,2
+FIN,300,37416,Financial Markets,0,1,4,5,2,0,3,3,3,2,3,0,2,0,2.32,2
+FIN,300,37422,Financial Markets,1,1,5,4,3,3,5,1,2,2,1,0,3,0,2.49,2
+FIN,300,45318,Financial Markets,0,2,5,3,6,2,2,0,4,2,1,0,2,0,2.58,3
+FIN,300,37423,Financial Markets,0,1,1,3,5,2,1,2,3,2,0,0,6,0,2,2
+FIN,300,37425,Financial Markets,2,7,6,4,7,4,1,4,1,0,0,0,1,0,3.11,4
+FIN,300,37415,Financial Markets,3,4,3,4,5,5,2,4,3,3,0,0,1,1,2.77,4
+FIN,321,60082,Advanced Corporate Finance,4,4,5,2,2,3,5,1,1,0,0,0,0,0,3.2,4
+FIN,321,41268,Advanced Corporate Finance,2,10,5,2,8,4,2,1,0,0,0,0,0,0,3.36,4
+FIN,321,60083,Advanced Corporate Finance,3,13,5,4,2,1,1,1,0,0,0,0,0,0,3.62,4
+FIN,321,41729,Advanced Corporate Finance,3,13,3,7,5,1,1,0,0,0,0,0,0,0,3.59,4
+FIN,321,41662,Advanced Corporate Finance,0,10,3,5,5,3,3,1,0,0,0,0,0,0,3.32,4
+FIN,321,41256,Advanced Corporate Finance,0,13,5,3,7,2,5,1,0,0,0,0,0,0,3.34,4
+FIN,392,66844,Investment Management Academy,0,20,4,3,1,0,0,0,0,0,0,0,0,0,3.85,4
+FIN,411,58363,Investment & Portfolio Mngt,1,5,2,4,5,4,0,3,0,0,0,0,1,1,3.05,4
+FIN,412,32427,Options and Futures Markets,0,6,6,6,4,3,3,1,0,0,0,0,0,0,3.28,4
+FIN,423,44166,Financing Emerging Businesses,0,44,9,2,1,0,1,0,0,0,0,0,0,0,3.88,4
+FIN,423,32408,Financing Emerging Businesses,0,23,18,7,6,2,0,1,0,0,0,0,0,0,3.63,4
+FIN,424,63229,Mergers and Acquisition,0,7,5,8,4,4,3,2,0,0,0,0,0,0,3.23,4
+FIN,435,66395,Personal Wealth Management,0,22,19,12,9,0,0,0,0,0,0,0,0,0,3.62,4
+FIN,435,58354,Personal Wealth Management,0,22,12,13,8,1,1,0,0,0,0,0,0,0,3.58,4
+FIN,445,64964,Real Estate Investment,6,20,6,2,1,1,0,0,0,0,0,0,0,0,3.84,4
+FIN,445,64965,Real Estate Investment,6,12,6,1,0,2,0,0,0,0,0,0,0,0,3.8,4
+FIN,447,64830,Real Estate Development,6,49,2,1,0,0,0,0,0,0,0,0,0,0,3.98,4
+FIN,463,63319,Investment Banking,0,29,3,3,0,0,0,0,0,0,0,0,0,0,3.91,4
+FIN,500,56595,Introduction to Finance,0,15,19,8,10,7,3,2,1,0,0,0,0,0,3.35,4
+FIN,501,56197,Financial Economics,1,17,15,20,9,1,0,0,0,0,0,0,0,0,3.54,4
+FIN,501,56198,Financial Economics,1,19,10,9,14,0,0,0,0,0,0,0,0,0,3.56,4
+FIN,501,56196,Financial Economics,1,11,14,22,13,1,0,0,0,0,0,0,0,0,3.46,4
+FIN,511,65694,Investments,10,94,34,10,27,8,1,2,1,0,0,0,0,0,3.66,4
+FIN,511,32461,Investments,3,7,5,5,5,1,0,0,0,0,0,0,0,0,3.56,4
+FIN,511,65654,Investments,0,11,11,2,3,1,1,1,0,0,0,0,0,0,3.56,4
+FIN,511,60177,Investments,0,13,14,18,14,1,0,0,0,0,0,0,0,0,3.47,4
+FIN,511,32456,Investments,6,16,11,8,2,5,0,0,0,0,0,1,0,0,3.57,4
+FIN,511,60176,Investments,0,9,16,11,6,0,0,0,0,0,0,0,0,0,3.56,4
+FIN,512,41693,Financial Derivatives,2,22,5,8,9,2,0,0,0,0,0,0,0,2,3.61,4
+FIN,512,32466,Financial Derivatives,4,14,8,6,6,2,0,0,0,0,0,0,0,0,3.62,4
+FIN,516,58387,Term Structure Models,1,13,3,12,1,0,0,0,0,0,0,0,0,0,3.67,4
+FIN,520,32449,Financial Management,11,15,0,3,6,0,0,3,0,0,0,0,0,0,3.63,4
+FIN,520,32443,Financial Management,0,46,0,0,6,0,0,0,0,0,0,0,0,0,3.88,4
+FIN,521,60180,Advanced Corporate Finance,0,6,5,0,11,0,2,2,0,0,0,0,0,0,3.23,4
+FIN,521,60181,Advanced Corporate Finance,2,24,5,4,11,4,1,0,0,0,0,0,0,0,3.56,4
+FIN,530,67104,Foundations in Risk Management,2,14,0,2,9,0,0,0,0,0,0,0,0,0,3.62,4
+FIN,541,29855,Real Estate Fundamentals,3,23,3,1,3,0,0,0,0,0,0,0,0,0,3.86,4
+FIN,545,67123,Real Estate Investment,2,5,12,6,1,0,0,0,0,0,0,0,0,0,3.65,4
+FIN,563,67137,Investment Banking,0,18,2,2,0,0,0,0,0,0,0,0,0,0,3.91,4
+FIN,571,63323,Retirement Policy,1,10,6,5,5,0,0,0,1,0,0,0,0,0,3.55,4
+FIN,571,63324,Retirement Policy,0,8,5,5,3,0,0,0,0,0,0,0,0,0,3.62,4
+FIN,575,63327,Business Tax Policy,0,10,16,12,2,0,0,1,0,0,0,0,0,0,3.58,4
+FIN,578,65249,Govt Market Economy,0,9,15,5,1,0,0,0,0,0,0,0,0,0,3.69,4
+FIN,580,66670,Corporate Finance,0,7,9,9,4,1,0,0,0,0,0,0,0,0,3.52,4
+FIN,580,58811,Financial Statements,0,18,6,3,5,0,0,0,0,0,0,0,0,0,3.72,4
+FIN,580,66865,Quantitative Methods,2,21,11,4,7,4,0,0,0,0,0,0,0,0,3.62,4
+FIN,580,60270,Wealth Management,3,13,6,2,4,0,0,0,1,0,0,0,0,0,3.67,4
+FR,101,37432,Elementary French I,0,3,5,2,6,3,0,2,0,0,1,0,0,0,3.09,4
+FR,101,37433,Elementary French I,0,2,2,1,6,5,0,3,3,0,1,0,0,0,2.7,3
+FR,102,32511,Elementary French II,0,6,6,0,4,1,2,2,0,0,0,0,0,0,3.3,4
+FR,103,37439,Intermediate French I,0,1,5,4,2,4,0,3,1,0,2,1,0,0,2.73,3
+FR,103,37443,Intermediate French I,0,4,3,2,3,5,2,4,1,0,0,0,0,0,2.93,4
+FR,103,37440,Intermediate French I,0,4,4,1,7,2,0,3,0,0,1,1,0,0,2.96,4
+FR,104,32520,Intermediate French II,1,5,4,2,6,2,0,0,0,0,1,0,0,0,3.32,4
+FSHN,101,54366,Intro Food Science & Nutrition,0,149,0,37,32,15,8,15,5,5,2,1,5,1,3.36,4
+FSHN,101,30232,Intro Food Science & Nutrition,9,23,8,7,19,10,6,4,6,2,1,1,4,1,3.01,4
+FSHN,120,30234,Contemporary Nutrition,104,169,85,80,69,52,37,33,15,0,18,0,18,7,3.25,4
+FSHN,140,30236,Introduction to Hospitality,4,5,4,4,2,0,0,2,0,0,1,0,0,0,3.41,4
+FSHN,150,60251,Introduction to Dietetics,0,25,0,0,3,0,0,4,0,0,1,0,0,1,3.58,4
+FSHN,220,58093,Principles of Nutrition,0,29,0,0,17,0,0,6,0,0,1,0,0,0,3.4,4
+FSHN,232,62851,Science of Food Preparation,2,12,5,10,0,4,1,0,0,0,0,0,0,0,3.55,4
+FSHN,302,32060,Sensory Evaluation of Foods,0,49,0,0,3,0,0,0,0,0,0,0,0,0,3.94,4
+FSHN,345,30240,Hospitality Purchasing,0,33,0,0,6,0,0,0,0,0,0,0,0,0,3.85,4
+FSHN,349,30238,Food Service Sanitation,1,3,6,8,6,2,0,0,0,0,0,0,2,0,3.14,4
+FSHN,398,66587,Foundations in Beverage Mgmt,8,11,9,0,2,4,0,1,0,1,0,0,2,0,3.4,4
+FSHN,414,30241,Food Chemistry,5,41,0,4,5,1,0,0,2,0,0,0,0,0,3.76,4
+FSHN,416,54484,Food Chemistry Laboratory,1,17,6,10,2,1,2,1,0,0,0,0,0,0,3.57,4
+FSHN,420,37693,Nutritional Aspects of Disease,14,41,0,6,6,0,0,1,0,0,1,0,0,0,3.78,4
+FSHN,426,37690,Biochemical Nutrition I,0,45,11,3,6,0,0,0,0,0,0,0,0,0,3.82,4
+FSHN,428,39109,Community Nutrition,10,2,8,3,4,2,0,0,0,0,0,0,0,0,3.61,4
+FSHN,461,30256,Food Processing I,3,32,4,8,5,4,0,2,0,0,0,0,0,0,3.64,4
+FSHN,465,30259,Principles of Food Technology,12,14,2,0,0,0,0,1,0,0,1,0,0,0,3.81,4
+FSHN,466,30267,Food Product Development,0,30,0,5,1,0,0,0,0,0,0,0,0,0,3.88,4
+FSHN,469,37686,Package Engineering,1,25,0,0,3,0,0,1,0,0,0,0,0,0,3.83,4
+FSHN,471,48206,Food & Industrial Microbiology,10,14,9,3,3,0,2,0,0,0,0,0,1,0,3.64,4
+FSHN,480,37665,Basic Toxicology,0,17,0,0,13,0,0,5,0,0,0,0,0,0,3.34,4
+FSHN,514,65371,Advanced Food Chemistry,0,20,0,1,0,0,0,0,0,0,0,0,0,0,3.97,4
+FSHN,519,67170,Flavor Chemistry and Analysis,8,31,0,1,0,0,0,0,0,0,0,0,0,0,3.98,4
+GCL,126,66493,Urban Sustainability,0,13,3,2,0,1,0,0,0,0,2,0,0,0,3.54,4
+GCL,129,66830,Designing with Water,0,5,10,2,7,1,0,0,0,0,0,0,0,0,3.48,4
+GCL,143,67168,Mapping Inequalities,7,14,0,0,0,0,0,1,0,0,0,0,0,0,3.91,4
+GCL,200,66461,Frameworks for Inequality,0,8,10,4,1,0,0,0,0,0,0,0,0,0,3.7,4
+GCL,200,66463,Frameworks for Inequality,1,10,3,5,2,2,1,0,0,1,0,0,0,0,3.47,4
+GCL,200,66617,Frameworks for Inequality,1,16,0,0,4,0,0,2,0,0,1,0,0,0,3.54,4
+GCL,210,66474,Frameworks for Sustainability,1,4,6,2,3,2,0,0,1,0,1,1,0,0,3.16,4
+GE,100,32141,Introduction to ISE,55,23,16,0,4,3,0,0,0,0,0,0,2,0,3.79,4
+GE,261,62884,Business Side of Engineering,0,35,0,0,39,0,0,13,0,0,5,0,4,2,3,4
+GE,310,32152,General Engineering Design,2,12,17,8,7,2,3,1,1,1,0,0,2,0,3.27,4
+GE,320,37588,Control Systems,5,8,18,5,8,4,3,3,0,0,1,0,0,0,3.33,4
+GE,361,30288,Emotional Intelligence Skills,0,11,6,4,2,1,2,0,1,0,1,0,1,0,3.29,4
+GE,400,30306,Engineering Law,0,19,23,7,6,2,1,0,0,0,0,0,0,0,3.61,4
+GE,402,61633,Comp-Aided Product Realization,0,3,7,9,3,1,0,0,0,0,0,0,0,0,3.45,4
+GE,410,30294,Component Design,1,9,9,2,0,1,1,1,0,0,0,1,1,0,3.36,4
+GE,420,32187,Digital Control Systems,6,4,5,2,2,3,1,2,1,0,0,0,0,0,3.35,4
+GE,450,52698,Decision Analysis I,3,5,14,8,8,8,5,4,0,0,0,0,0,0,3.2,4
+GE,495,30318,Senior Engineering Project II,9,40,2,0,1,0,0,0,0,0,0,0,0,0,3.97,4
+GEOG,101,37605,Global Development&Environment,11,3,2,5,2,0,0,0,0,1,0,0,0,0,3.64,4
+GEOG,101,37606,Global Development&Environment,7,5,2,6,1,1,1,0,0,0,0,0,0,0,3.62,4
+GEOG,103,32229,Earth's Physical Systems,16,28,5,3,13,2,0,4,0,0,2,1,9,1,3.12,4
+GEOG,104,30332,Social and Cultural Geography,0,15,0,10,11,0,0,2,0,0,0,0,0,0,3.43,4
+GEOG,106,40043,Geographies of Globalization,15,25,20,6,8,6,0,0,1,0,0,0,0,0,3.64,4
+GEOG,204,30335,Cities of the World,0,13,19,23,23,9,7,3,2,1,4,0,0,0,3.1,4
+GEOG,221,66484,Geographies of Global Conflict,0,13,6,13,9,9,2,6,7,0,1,0,0,0,3,4
+GEOG,379,40685,Intro to GIS Systems,16,19,7,8,5,5,3,2,0,3,0,0,1,0,3.42,4
+GEOG,406,47127,Fluvial Geomorphology,2,5,1,2,4,3,1,3,0,0,1,0,0,0,3.08,4
+GEOG,438,47130,Geography of Health Care,0,11,4,2,3,0,2,0,0,0,0,0,0,0,3.61,4
+GEOG,468,37450,Biological Modeling,9,4,8,1,0,0,0,0,0,0,0,0,0,0,3.84,4
+GEOG,473,40688,Digital Cartography & Map Dsgn,2,19,5,0,1,0,1,0,0,0,1,0,0,0,3.75,4
+GEOG,480,59480,Principles of GIS,1,10,9,2,2,1,0,0,1,0,0,0,0,0,3.62,4
+GEOL,100,37480,Planet Earth,8,3,3,3,0,2,2,1,1,0,0,1,0,0,3.31,4
+GEOL,100,37482,Planet Earth,3,7,5,1,4,1,0,0,1,1,0,0,0,0,3.45,4
+GEOL,107,43017,Physical Geology,1,0,5,9,2,3,1,0,0,0,0,0,0,0,3.27,4
+GEOL,117,30375,The Oceans,0,12,16,11,17,9,6,2,4,1,1,2,4,0,2.9,4
+GEOL,117,61106,The Oceans,28,15,18,8,11,6,4,6,1,1,0,1,6,0,3.23,4
+GEOL,118,30379,Natural Disasters,42,26,26,27,29,22,22,13,6,8,8,6,5,1,2.97,4
+GEOL,411,32326,Structural Geol and Tectonics,1,5,5,2,9,3,1,3,3,1,1,1,0,0,2.87,4
+GEOL,432,30386,Mineralogy and Mineral Optics,0,2,2,2,4,1,3,1,1,1,1,3,2,0,2.25,2
+GEOL,470,62891,Introduction to Hydrogeology,6,7,4,10,0,2,2,1,0,1,0,0,1,0,3.33,4
+GER,101,37584,Beginning German I,1,4,8,3,2,4,0,0,0,0,0,0,0,0,3.46,4
+GER,101,37579,Beginning German I,3,8,3,3,1,2,0,2,0,0,0,0,1,0,3.36,4
+GER,101,37587,Beginning German I,0,6,4,5,3,0,2,0,0,1,0,0,2,0,3.06,4
+GER,101,37589,Beginning German I,1,2,3,2,4,2,3,1,1,1,1,0,2,0,2.61,3
+GER,103,32349,Intermediate German I,1,5,1,2,4,3,2,1,1,1,0,2,0,0,2.84,4
+GER,103,32330,Intermediate German I,3,9,4,0,2,0,0,1,0,0,1,0,1,0,3.41,4
+GER,250,66715,Grimms' Fairy Tales - ACP,1,13,6,2,0,0,0,0,0,0,0,0,0,0,3.85,4
+GER,260,42530,The Holocaust in Context - ACP,3,5,2,7,0,1,0,1,0,1,0,0,1,1,3.27,4
+GER,270,49122,Sexuality and Literature,4,10,4,3,1,1,0,0,0,0,0,0,0,0,3.75,4
+GLBL,100,54575,Intro to Global Studies,2,21,4,3,0,0,0,0,0,0,0,0,0,0,3.89,4
+GLBL,100,54577,Intro to Global Studies,4,12,2,5,1,2,0,0,0,0,0,1,1,0,3.46,4
+GLBL,100,54856,Intro to Global Studies,2,10,9,3,4,2,0,0,0,0,0,0,0,0,3.61,4
+GLBL,100,60712,Intro to Global Studies,7,10,5,5,0,2,0,0,0,0,1,0,0,0,3.64,4
+GLBL,100,61401,Intro to Glbl Stds Crossroads,5,10,7,1,1,1,1,1,1,1,0,0,0,0,3.52,4
+GLBL,100,54580,Intro to Global Studies,4,7,1,4,4,0,0,1,0,0,0,1,3,0,3.03,4
+GLBL,225,63888,Career Development:Internships,0,14,3,3,1,0,0,0,0,0,0,0,0,1,3.81,4
+GLBL,240,63656,Global Health,11,7,8,8,6,0,5,0,0,1,3,0,1,0,3.24,4
+GLBL,296,58754,Politics of Belonging,4,13,3,2,0,0,0,1,0,0,0,0,0,0,3.81,4
+GLBL,350,65017,Poverty in a Global Context,0,5,10,4,0,0,0,0,0,0,0,0,2,0,3.33,4
+GS,101,52360,Exploring General Studies,7,26,3,1,5,1,0,2,0,0,0,0,0,0,3.73,4
+GS,101,52396,Exploring General Studies,1,26,8,1,3,2,1,1,1,0,0,0,1,0,3.58,4
+GS,101,52381,Exploring General Studies,8,19,5,6,2,0,0,1,0,2,0,0,4,0,3.34,4
+GS,101,52365,Exploring General Studies,22,9,3,2,3,3,2,1,0,1,1,0,0,0,3.57,4
+GS,101,52393,Exploring General Studies,25,8,3,3,1,1,2,1,0,0,1,1,1,0,3.55,4
+GS,101,52373,Exploring General Studies,0,37,0,2,2,0,0,0,1,0,0,1,2,0,3.62,4
+GS,101,52390,Exploring General Studies,0,25,8,6,0,1,1,0,0,0,0,3,1,0,3.47,4
+GS,101,52369,Exploring General Studies,0,8,5,6,10,5,3,5,0,1,1,1,0,0,2.97,4
+GS,101,52385,Exploring General Studies,0,25,6,2,3,1,1,1,1,0,0,1,4,0,3.27,4
+GS,101,52394,Exploring General Studies,12,22,4,0,0,0,1,4,0,0,0,1,1,0,3.59,4
+GS,101,52367,Exploring General Studies,0,22,6,3,3,2,2,0,2,2,1,1,1,0,3.26,4
+GS,101,52377,Exploring General Studies,0,10,7,2,10,0,2,9,1,1,2,0,3,0,2.77,4
+GS,101,52363,Exploring General Studies,4,20,8,1,3,5,1,0,0,1,1,0,1,0,3.46,4
+GS,101,52386,Exploring General Studies,0,26,6,3,4,2,1,0,1,0,0,0,0,0,3.66,4
+GS,101,52359,Exploring General Studies,28,6,1,0,2,0,3,0,1,1,0,1,2,0,3.47,4
+GS,101,52382,Exploring General Studies,17,16,3,1,0,2,0,0,0,0,0,0,2,0,3.7,4
+GS,101,52364,Exploring General Studies,0,18,6,3,3,3,3,0,0,1,0,0,2,0,3.32,4
+GS,101,52383,Exploring General Studies,23,13,4,2,0,1,0,1,0,0,0,0,0,0,3.86,4
+GS,101,52397,Exploring General Studies,3,19,3,3,4,1,1,4,2,2,1,0,2,0,3.13,4
+GS,101,52388,Exploring General Studies,38,4,0,1,1,0,0,0,0,0,0,0,0,0,3.96,4
+GS,101,52395,Exploring General Studies,10,22,4,2,2,2,1,1,0,0,1,0,2,0,3.53,4
+GS,101,52371,Exploring General Studies,0,11,4,9,9,2,0,1,1,0,2,0,7,0,2.75,4
+GS,101,52387,Exploring General Studies,0,32,2,2,6,0,0,1,1,0,0,0,1,0,3.64,4
+GS,101,52392,Exploring General Studies,17,9,4,2,3,1,1,1,0,0,0,1,5,0,3.23,4
+GS,101,52379,Exploring General Studies,0,32,1,1,2,3,1,1,0,0,0,0,4,0,3.41,4
+GS,101,52370,Exploring General Studies,0,27,6,2,3,1,4,1,0,0,0,0,1,0,3.55,4
+GS,101,52380,Exploring General Studies,28,3,2,1,0,2,3,2,1,1,0,0,2,0,3.42,4
+GS,101,52389,Exploring General Studies,0,31,4,3,3,1,0,3,1,0,1,0,0,0,3.6,4
+GS,101,52398,Exploring General Studies,13,8,6,0,0,2,2,2,3,0,1,0,0,0,3.41,4
+GS,101,52400,Exploring General Studies,0,17,6,4,5,2,3,0,0,0,1,1,6,0,2.94,4
+GS,101,52402,Exploring General Studies,0,13,4,3,3,1,5,3,0,0,1,0,5,0,2.82,4
+GS,101,52403,Exploring General Studies,0,14,1,0,4,4,4,3,1,1,1,0,2,1,2.9,4
+GS,101,52399,Exploring General Studies,16,4,2,1,1,3,0,0,0,0,0,0,0,0,3.77,4
+GS,101,52401,Exploring General Studies,0,23,1,3,1,2,3,2,5,0,1,1,2,0,3.07,4
+GS,101,52391,Exploring General Studies,19,24,4,1,0,2,0,3,0,0,0,0,1,0,3.73,4
+GS,101,52793,Exploring General Studies,0,48,2,0,1,0,1,0,0,0,0,0,0,1,3.94,4
+GS,101,52376,Exploring General Studies,27,26,1,2,0,0,0,0,0,0,0,0,0,0,3.97,4
+GS,101,52794,Exploring General Studies,0,45,4,0,4,0,0,1,0,0,0,0,1,0,3.79,4
+GS,101,63651,Exploring General Studies,4,22,5,1,2,3,0,3,1,1,1,1,3,0,3.2,4
+GS,101,52361,Exploring General Studies,0,21,2,0,3,0,1,0,0,0,0,0,0,0,3.8,4
+GS,101,52404,Exploring General Studies,0,24,1,1,1,0,0,1,0,0,0,0,0,0,3.86,4
+GWS,100,55561,Intro Gender & Women's Studies,0,0,6,4,5,3,4,2,0,0,0,2,1,0,2.7,3
+GWS,100,55562,Intro Gender & Women's Studies,0,2,7,5,5,0,0,4,2,0,0,1,0,0,2.98,4
+GWS,100,55564,Intro Gender & Women's Studies,0,1,2,4,6,5,1,4,1,0,1,0,0,0,2.76,4
+GWS,250,55678,Gender and Representation,0,11,7,2,4,5,1,0,0,0,0,0,0,0,3.47,4
+GWS,370,42909,Queer Theory,0,7,2,5,0,4,0,1,1,0,0,0,1,0,3.16,4
+GWS,385,61612,Transnational Sexualities,0,9,7,8,1,0,2,0,0,0,0,0,0,0,3.56,4
+HDFS,101,59642,Issues & Careers in HDFS,0,39,0,0,3,0,0,1,0,1,0,0,1,2,3.74,4
+HDFS,101,67230,Issues & Careers in HDFS,6,11,9,4,3,3,1,1,0,0,0,0,0,0,3.57,4
+HDFS,105,37618,Intro to Human Development,0,207,0,0,44,0,0,11,0,0,0,0,1,1,3.73,4
+HDFS,105,57486,Intro to Human Development,39,36,11,7,4,0,0,0,0,0,0,0,0,0,3.87,4
+HDFS,120,58117,Intro to Family Studies,1,13,11,5,6,3,0,3,0,0,1,0,1,0,3.32,4
+HDFS,220,53614,Families in Global Perspective,12,22,15,9,13,6,8,4,1,2,0,1,0,0,3.31,4
+HDFS,225,38776,Close Relationships,0,8,5,4,2,2,3,2,0,2,1,0,1,0,2.99,4
+HDFS,290,46524,Intro to Research Methods,1,10,4,7,2,6,1,1,0,0,0,0,2,0,3.19,4
+HDFS,301,49014,Infancy & Early Childhood,0,9,6,3,6,0,1,1,1,0,1,1,1,0,3.12,4
+HDFS,401,32407,Socialization and Development,0,21,0,0,8,0,0,1,0,0,2,0,0,0,3.5,4
+HDFS,405,66263,Adolescent Development,1,10,5,2,2,0,1,0,0,0,0,1,1,0,3.39,4
+HDFS,425,32422,Critical Family Transitions,3,9,9,0,3,1,3,0,0,0,0,0,1,0,3.44,4
+HIST,100,55493,Global History,6,10,3,0,2,0,1,0,0,0,1,0,1,0,3.51,4
+HIST,100,55494,Global History,3,11,2,3,4,0,0,1,1,0,0,0,0,0,3.56,4
+HIST,100,55495,Global History,6,5,2,2,4,0,0,2,1,0,0,0,0,0,3.44,4
+HIST,100,55496,Global History,4,11,2,0,1,0,0,3,0,1,1,0,0,0,3.42,4
+HIST,100,55498,Global History,4,7,4,1,2,0,1,0,0,0,1,0,1,0,3.4,4
+HIST,100,55499,Global History,5,9,4,1,2,0,0,2,0,0,1,0,0,0,3.54,4
+HIST,100,55500,Global History,6,10,2,3,2,0,0,2,0,0,0,0,0,0,3.65,4
+HIST,100,55501,Global History,3,13,2,1,0,1,0,2,0,0,1,0,0,0,3.58,4
+HIST,100,55502,Global History,1,14,1,1,4,3,0,0,0,0,0,0,0,0,3.63,4
+HIST,100,67151,Global History,5,9,4,2,1,0,2,1,0,0,0,0,0,0,3.63,4
+HIST,100,67152,Global History,9,6,0,1,4,0,0,1,0,0,0,0,1,1,3.52,4
+HIST,102,67091,Reacting to the Past,0,8,4,4,4,3,1,1,0,0,0,0,1,0,3.24,4
+HIST,102,67092,Reacting to the Past,2,4,4,5,3,2,1,0,0,0,0,0,0,0,3.43,4
+HIST,105,64521,Latin America to Independence,0,4,8,9,6,4,3,1,1,0,2,0,0,0,3.07,4
+HIST,120,34316,East Asian Civilizations,0,0,2,2,4,3,5,1,2,0,1,0,2,0,2.36,2
+HIST,120,46947,East Asian Civilizations,0,1,1,2,7,1,2,2,2,0,0,0,3,0,2.38,2
+HIST,130,34311,History of South Asia,1,5,9,10,3,0,1,0,0,0,0,0,1,0,3.39,4
+HIST,141,39268,Western Civ to 1660,3,6,3,3,6,0,0,0,0,0,0,0,2,0,3.26,4
+HIST,141,39269,Western Civ to 1660,1,5,7,4,4,1,1,1,0,0,0,0,0,0,3.42,4
+HIST,141,45764,Western Civ to 1660,3,7,3,5,2,0,0,0,1,0,1,0,1,0,3.32,4
+HIST,141,34026,Western Civ to 1660,2,1,2,8,6,2,0,0,0,0,0,0,0,0,3.3,4
+HIST,141,34020,Western Civ to 1660,6,3,7,2,2,0,0,1,0,0,0,1,0,0,3.5,4
+HIST,142,34064,Western Civ Since 1660,7,7,5,2,1,2,0,0,0,0,0,0,0,0,3.72,4
+HIST,142,34077,Western Civ Since 1660,8,4,5,2,1,0,0,1,0,0,1,0,0,0,3.59,4
+HIST,142,45768,Western Civ Since 1660,7,6,3,1,1,0,0,1,1,0,0,0,1,0,3.48,4
+HIST,171,34128,US Hist to 1877,0,3,8,5,4,1,1,0,0,0,0,0,0,0,3.41,4
+HIST,172,34208,US Hist Since 1877,0,11,7,3,0,0,1,0,0,0,0,0,0,0,3.73,4
+HIST,172,34233,US Hist Since 1877,0,11,4,2,4,0,0,0,0,1,0,0,1,0,3.42,4
+HIST,220,49157,Traditional China,1,1,8,5,5,6,4,0,1,1,0,0,1,0,2.95,4
+HIST,252,59534,The Holocaust,0,4,9,3,1,2,1,1,0,1,0,0,0,0,3.32,4
+HIST,252,59538,The Holocaust,0,6,8,3,1,1,1,0,0,0,0,0,1,0,3.4,4
+HIST,258,30349,20thC World to Midcentury,0,5,7,12,7,7,2,2,1,0,0,0,0,0,3.16,4
+HIST,259,43297,20thC World from Midcentury,0,13,13,7,1,1,1,0,0,0,0,0,6,0,3.12,4
+HIST,260,43296,History of Russia,0,8,9,5,6,3,1,4,0,0,0,0,1,0,3.19,4
+HIST,263,55477,US History of Medicine,2,14,12,8,8,1,1,0,1,0,0,0,1,0,3.44,4
+HIST,264,51421,Technology in Western Society,6,20,9,1,1,0,0,0,1,0,0,0,0,0,3.82,4
+HIST,271,56172,Nineteenth Century America,0,5,8,5,9,1,0,2,0,0,0,0,2,0,3.12,4
+HIST,286,65735,US Gender History Since 1877,3,16,2,0,1,0,0,0,0,0,0,0,2,1,3.6,4
+HIST,300,34346,Between China and the World,2,4,6,7,4,4,2,0,0,0,0,0,0,0,3.33,4
+HIST,335,55487,Middle East 1566-1914,0,2,4,11,8,1,0,0,0,0,0,0,0,0,3.31,4
+HIST,380,57618,US in an Age of Empire,4,7,7,2,2,1,0,0,0,0,0,0,0,0,3.7,4
+HIST,381,66992,Urban History,1,7,4,1,3,1,3,1,0,0,0,0,0,0,3.37,4
+HIST,390,59524,Integration & American Sports,0,7,12,9,0,0,0,2,0,0,0,0,0,0,3.53,4
+HIST,422,34210,Soc-Econ Hist Modern China,0,7,4,7,4,1,1,0,0,0,0,0,1,0,3.34,4
+HIST,439,30376,The Ottoman Empire,3,10,2,3,1,1,1,0,1,0,0,1,0,0,3.46,4
+HORT,100,32590,Introduction to Horticulture,6,20,6,3,11,3,1,1,0,0,2,0,0,0,3.46,4
+HORT,105,34268,Vegetable Gardening,8,1,5,2,7,0,1,1,0,0,1,0,0,0,3.36,4
+HORT,105,34270,Vegetable Gardening,6,4,2,1,3,1,2,0,1,0,1,1,0,0,3.2,4
+HORT,105,34273,Vegetable Gardening,5,6,4,2,4,0,1,1,0,0,2,1,1,0,3.12,4
+HORT,105,34275,Vegetable Gardening,2,7,4,3,2,1,0,0,0,0,1,0,1,0,3.35,4
+HORT,105,34277,Vegetable Gardening,5,4,1,8,3,2,1,1,1,1,0,0,1,0,3.14,4
+HORT,106,30924,The Sustainable Home Garden,9,16,22,11,10,6,5,2,2,0,0,0,1,0,3.36,4
+HORT,107,32595,Introduction to Floral Design,0,15,0,6,6,0,0,1,0,0,0,0,0,0,3.57,4
+HORT,107,32597,Introduction to Floral Design,0,13,2,6,7,0,0,0,0,0,0,0,0,0,3.58,4
+HORT,107,39789,Introduction to Floral Design,0,16,0,3,9,0,0,2,0,0,0,0,0,0,3.5,4
+HORT,107,65159,Introduction to Floral Design,0,11,0,9,5,0,0,0,0,0,0,0,0,0,3.56,4
+IB,100,66845,Biology in Today's World,0,74,0,0,109,0,0,59,0,0,13,0,24,2,2.7,3
+IB,105,55520,Environmental Biology,0,44,0,0,15,0,0,4,0,0,1,0,1,0,3.54,4
+IB,105,66854,Environmental Biology,53,93,69,35,49,17,14,13,10,7,3,11,22,4,3.13,4
+IB,150,35597,Organismal & Evolutionary Biol,5,11,4,1,0,0,2,0,0,0,0,0,0,0,3.77,4
+IB,151,35604,Organismal & Evol Biol Lab,1,12,2,2,0,2,2,1,0,0,0,0,0,0,3.55,4
+IB,199,41563,Undergraduate Open Seminar,43,31,7,5,4,0,1,0,1,0,0,0,0,0,3.85,4
+IB,204,49804,Genetics,0,9,28,35,55,35,19,8,5,1,4,0,2,0,2.92,4
+IB,270,46682,Evolution of Molecules & Cells,0,8,6,2,7,0,1,0,0,0,0,0,0,0,3.5,4
+IB,360,58032,Evolution and Human Health,0,27,0,2,15,0,1,3,0,0,0,0,0,0,3.5,4
+IB,360,58032,Evolution and Human Health,0,47,0,2,38,0,4,6,0,0,0,0,0,0,3.4,4
+IB,360,59719,Evolution and Human Health,0,20,0,0,23,0,3,3,0,0,0,0,0,0,3.31,4
+IB,411,62360,Bioinspiration,17,39,12,7,3,3,3,2,0,0,1,0,13,1,3.2,4
+IB,426,30391,Env and Evol Physl of Animals,1,11,0,6,4,5,2,2,3,0,0,0,0,1,3.15,4
+IB,463,46687,Ichthyology,4,14,0,0,6,0,0,0,0,0,0,0,0,0,3.75,4
+IB,471,35459,General Mycology,6,8,3,2,1,1,1,1,0,0,0,0,0,0,3.64,4
+IB,472,49625,Plant Molecular Biology,7,9,0,6,3,0,0,0,0,0,0,0,0,0,3.72,4
+IB,501,66838,Programming for Genomics,0,8,6,7,2,3,0,0,0,0,0,0,0,0,3.51,4
+IB,534,60472,Evolution and Medicine,17,8,3,1,0,1,0,0,0,0,0,0,0,0,3.9,4
+IE,300,30395,Analysis of Data,7,8,1,4,6,3,1,3,0,0,1,0,1,0,3.21,4
+IE,300,53217,Analysis of Data,1,9,5,4,3,6,2,3,2,1,1,1,1,0,2.92,4
+IE,300,61376,Analysis of Data,6,7,4,11,8,8,4,3,1,0,2,0,1,0,3.05,4
+IE,310,31822,Operations Research,4,38,15,14,6,1,3,2,2,0,0,0,0,0,3.58,4
+IE,360,61503,Facilities Planning and Design,2,4,8,6,9,5,1,0,1,0,0,0,0,0,3.27,4
+IE,410,30396,Stochastic Processes & Applic,1,3,0,2,4,0,7,2,0,0,4,0,8,0,1.9,1
+IE,410,30396,Stochastic Processes & Applic,2,19,0,9,5,1,1,0,0,0,1,0,3,0,3.27,4
+IE,411,62888,Optimization of Large Systems,8,5,2,4,2,5,6,0,0,0,0,0,0,0,3.35,4
+IE,412,30397,OR Models for Mfg Systems,2,5,3,4,7,2,3,6,2,0,1,0,0,0,2.93,4
+IE,430,30402,Economic Found of Quality Syst,0,8,7,8,36,9,4,8,3,3,1,0,0,0,2.89,4
+IE,522,55481,Statistical Methods in Finance,5,21,13,6,8,7,0,4,0,0,0,0,0,0,3.47,4
+IE,523,55482,Financial Computing,4,11,28,16,4,2,0,0,0,0,0,0,0,0,3.59,4
+IE,524,60072,Optimization in Finance,2,13,12,9,5,1,0,0,0,0,0,0,0,0,3.61,4
+IE,529,66823,Stats of Big Data & Clustering,4,21,8,1,2,0,0,0,0,0,0,0,0,0,3.85,4
+IE,598,66415,Neural Ntwks and Deep Learning,10,21,8,4,6,0,0,0,0,0,0,0,0,0,3.77,4
+IHLT,101,59858,Introduction to i-Health,0,66,0,0,15,0,0,4,0,0,0,0,4,1,3.56,4
+IHLT,102,59859,Survey of Interdisc Health,27,48,10,4,0,0,0,1,1,0,0,0,1,0,3.84,4
+IHLT,375,62943,Interdis Collab in Health Serv,9,10,4,1,0,0,0,0,0,0,0,0,0,0,3.92,4
+IHLT,474,62235,Pre-Field Experience in Health,0,30,0,0,3,0,0,1,0,0,0,0,0,0,3.85,4
+IHLT,475,61502,Field Experience in i-Health,0,19,0,0,1,0,0,0,0,0,0,0,1,0,3.76,4
+INFO,202,53921,Social Aspects Info Tech,1,6,15,16,23,15,5,9,10,4,2,2,7,0,2.61,3
+INFO,490,65222,Foundations of Data Science,31,75,10,14,19,0,3,5,1,2,3,0,2,0,3.57,4
+ITAL,103,31853,Intermediate Italian I,1,6,6,1,5,1,0,1,0,0,1,0,0,0,3.36,4
+ITAL,240,53944,Italy Middle Ages & Renaiss,1,12,4,8,1,1,0,0,0,2,0,0,0,0,3.51,4
+JAPN,201,31767,Elementary Japanese I,1,2,4,2,5,0,1,1,1,0,2,0,2,0,2.68,3
+JAPN,201,31763,Elementary Japanese I,4,7,3,1,1,1,0,0,1,0,1,1,1,0,3.21,4
+JOUR,199,66771,Sports Journalism Today,5,10,3,2,2,1,2,0,0,0,0,0,0,0,3.64,4
+JOUR,200,55737,Introduction to Journalism,2,6,10,9,9,9,3,2,1,2,0,0,2,0,3,4
+JOUR,200,35316,Introduction to Journalism,11,30,37,28,21,19,7,3,4,2,1,1,6,0,3.18,4
+JOUR,205,62988,History of American Journalism,1,6,3,3,6,2,1,7,2,1,0,0,2,1,2.75,4
+JOUR,311,62989,Media Law,3,23,9,8,4,1,3,3,0,0,1,0,0,1,3.5,4
+JOUR,360,64428,The Media and You,0,17,1,0,9,1,0,0,0,0,0,0,0,1,3.62,4
+KIN,100,35098,Weight Training I,5,5,4,5,3,2,0,1,1,0,0,0,0,0,3.44,4
+KIN,100,35103,Weight Training I,0,22,0,0,3,0,0,1,0,0,1,0,0,0,3.7,4
+KIN,101,31819,Aerobics I,0,24,1,1,0,0,0,0,0,0,0,0,0,0,3.96,4
+KIN,101,31823,Aerobics I,0,19,0,0,4,0,0,1,0,0,0,0,0,0,3.75,4
+KIN,102,35039,Bowling,10,20,0,0,1,0,0,1,0,0,0,0,0,0,3.91,4
+KIN,102,35065,Bowling,0,29,0,0,0,2,0,0,0,0,0,0,0,0,3.91,4
+KIN,103,67291,Badminton,0,25,1,0,0,1,1,0,0,0,0,0,1,0,3.75,4
+KIN,104,33212,Ice Skating,0,27,0,0,5,0,0,0,0,0,1,0,0,0,3.76,4
+KIN,104,33340,Ice Skating,0,41,0,0,4,0,0,3,0,0,0,0,0,0,3.79,4
+KIN,104,33291,Ice Skating,0,34,0,0,8,0,0,3,0,0,2,0,0,0,3.57,4
+KIN,104,51809,Ice Skating,0,37,0,0,13,0,0,1,0,0,0,0,0,2,3.71,4
+KIN,104,58989,Ice Skating,0,37,0,0,8,0,0,6,0,0,2,0,0,0,3.51,4
+KIN,104,33299,Ice Skating,0,39,0,0,2,0,0,2,0,0,1,0,0,0,3.8,4
+KIN,104,33312,Ice Skating,0,46,0,0,3,0,0,1,0,0,0,0,0,0,3.9,4
+KIN,104,33314,Ice Skating,0,45,0,0,4,0,0,2,0,0,0,0,0,0,3.84,4
+KIN,104,33315,Ice Skating,0,34,0,0,3,0,0,1,0,0,0,0,1,0,3.77,4
+KIN,104,33334,Ice Skating,0,47,0,0,1,0,0,1,0,0,0,0,0,0,3.94,4
+KIN,104,58990,Ice Skating,0,40,0,0,0,0,0,1,0,0,0,0,0,0,3.95,4
+KIN,104,33336,Ice Skating,0,46,0,0,3,0,0,4,0,0,1,0,0,1,3.74,4
+KIN,104,33339,Ice Skating,0,43,0,0,2,0,0,5,0,0,0,0,0,1,3.76,4
+KIN,109,31838,Volleyball,16,9,0,0,1,0,0,0,0,0,1,0,0,0,3.85,4
+KIN,109,31841,Basketball,0,22,0,0,3,0,0,2,0,0,0,0,0,0,3.74,4
+KIN,109,31844,Basketball,0,27,0,0,0,0,0,2,0,0,0,0,0,0,3.86,4
+KIN,111,30485,Prescribed Exercise,0,23,0,0,1,0,0,0,0,0,0,0,0,0,3.96,4
+KIN,120,31863,Injuries in Sport,13,7,2,3,1,0,2,1,1,0,0,1,0,0,3.53,4
+KIN,122,30488,Physical Activity and Health,37,51,22,18,12,9,9,1,0,1,1,0,3,0,3.52,4
+KIN,122,57761,Physical Activity and Health,4,25,0,20,21,0,2,13,0,2,3,0,2,0,3.06,4
+KIN,122,59762,Physical Activity and Health,343,90,125,52,33,12,6,6,3,1,0,0,22,2,3.65,4
+KIN,125,30490,Orientation KIN & Comm Health,0,99,0,0,5,0,0,2,0,0,0,0,0,0,3.92,4
+KIN,130,56235,Analysis of Basic Movement,0,6,5,6,4,2,0,0,0,0,0,0,0,0,3.46,4
+KIN,130,61636,Analysis of Basic Movement,14,22,9,7,0,0,0,0,0,0,0,0,1,0,3.78,4
+KIN,140,31892,Social Sci of Human Movement,0,5,16,22,22,24,16,6,12,1,1,0,3,0,2.76,4
+KIN,142,30503,Contemporary Issues in Sport,0,25,17,9,8,3,0,1,2,0,1,0,0,0,3.5,4
+KIN,150,31979,Bioscience of Human Movement,0,59,0,0,49,0,0,14,0,0,3,0,3,1,3.23,4
+KIN,160,66705,Introduction to Kinesiology,9,10,2,0,3,1,0,1,1,0,1,0,0,0,3.56,4
+KIN,247,30512,Intro to Sport Psychology,0,27,0,0,7,0,0,0,0,0,0,0,0,0,3.79,4
+KIN,247,59390,Intro to Sport Psychology,1,427,26,13,39,9,7,16,4,1,4,5,28,2,3.54,4
+KIN,249,35148,Sport & Modern Society,0,37,0,0,6,0,0,3,0,0,0,0,1,0,3.66,4
+KIN,249,64837,Sport & Modern Society,104,191,95,72,73,38,30,26,8,10,7,8,22,4,3.29,4
+KIN,340,59595,Soc & Psych of Phys Activity,0,21,21,15,14,17,8,2,2,1,0,1,2,0,3.14,4
+KIN,352,32026,Bioenergetics of Movement,0,19,0,0,41,0,0,13,0,0,1,0,3,0,2.94,4
+KIN,355,31928,Biomechanics of Human Movement,2,19,19,23,23,8,5,6,1,1,0,2,3,0,3.11,4
+KIN,369,61098,Coaching Strategies,12,17,10,7,4,7,0,1,0,0,0,0,0,0,3.6,4
+KIN,401,30521,Measure & Eval in Kinesiology,0,18,5,4,4,0,0,0,0,0,0,0,0,0,3.73,4
+KIN,448,45407,Exercise & Health Psychology,0,27,0,0,37,0,0,7,0,0,0,0,2,0,3.2,4
+KIN,451,61844,Skeletal Muscle Physiology,1,13,4,6,4,2,1,1,0,0,0,0,0,0,3.53,4
+KIN,460,40677,Technology & Pedagogical KINES,1,17,1,0,2,0,0,0,0,0,0,0,0,0,3.89,4
+KIN,494,65605,Special Topics,0,17,0,0,6,0,0,0,0,0,0,0,1,0,3.55,4
+KOR,201,30541,Elementary Korean I,9,6,3,2,1,0,0,0,0,0,0,0,0,0,3.84,4
+LA,101,30742,Introduction to Landscape Arch,16,12,5,5,3,2,3,2,1,0,3,1,2,0,3.23,4
+LA,280,30753,Design Communications I,1,5,0,3,7,3,2,0,0,1,0,0,0,0,3.14,4
+LA,370,56709,Environmental Sustainability,1,2,8,7,13,3,0,1,0,1,0,0,1,0,3.11,4
+LA,452,30768,Natural Precedent in Planting,0,12,4,1,1,3,0,1,0,0,1,0,0,0,3.48,4
+LA,470,30769,Social/Cultural Design Issues,0,2,7,10,3,1,1,0,1,0,0,0,0,0,3.31,4
+LA,501,30771,Landscape Arch Theory & Prac,2,7,6,8,4,2,0,0,0,0,0,0,1,0,3.4,4
+LAS,101,44096,Freshman Seminar,7,10,2,0,3,0,1,0,0,1,0,0,0,0,3.67,4
+LAS,101,44101,Freshman Seminar,6,6,3,0,1,3,0,0,0,0,1,0,1,0,3.38,4
+LAS,101,44077,Freshman Seminar,12,4,6,0,1,0,0,1,0,0,0,0,0,0,3.79,4
+LAS,101,44123,Freshman Seminar,12,5,5,0,1,0,1,0,0,0,0,0,0,0,3.82,4
+LAS,101,44124,Freshman Seminar,3,7,6,0,4,1,0,1,0,0,0,0,0,0,3.58,4
+LAS,101,44131,Freshman Seminar,5,9,4,0,1,1,0,1,0,0,0,0,1,0,3.56,4
+LAS,101,44098,Freshman Seminar,11,9,2,0,1,1,0,0,0,0,0,0,0,0,3.88,4
+LAS,101,56603,Freshman Seminar,7,9,2,3,3,0,0,0,0,0,0,0,0,0,3.76,4
+LAS,101,44120,Freshman Seminar,14,6,2,2,0,0,0,0,0,1,0,0,0,0,3.81,4
+LAS,101,44079,Freshman Seminar,9,8,2,1,1,1,1,1,0,0,0,0,0,0,3.69,4
+LAS,101,45395,Freshman Seminar,7,8,2,1,3,1,1,0,1,0,0,0,1,0,3.45,4
+LAS,101,44082,Freshman Seminar,4,11,0,1,4,2,0,0,0,0,2,0,0,0,3.44,4
+LAS,101,45396,Freshman Seminar,6,9,6,0,1,1,0,1,0,0,0,0,0,0,3.74,4
+LAS,101,44085,Freshman Seminar,5,8,2,3,4,0,0,1,1,0,0,0,0,0,3.54,4
+LAS,101,54257,Freshman Seminar,6,12,1,2,0,0,0,0,0,1,0,0,0,2,3.8,4
+LAS,101,54258,Freshman Seminar,10,9,2,1,1,0,0,0,0,0,0,0,1,0,3.74,4
+LAS,101,44125,Freshman Seminar,11,9,0,1,0,1,0,1,0,0,0,0,1,0,3.67,4
+LAS,101,45397,Freshman Seminar,1,13,2,0,4,0,1,0,1,1,0,0,1,0,3.36,4
+LAS,101,44115,Freshman Seminar,8,7,2,3,1,0,0,1,0,0,0,1,0,0,3.61,4
+LAS,101,52003,Freshman Seminar,7,9,0,2,4,1,0,0,0,0,1,0,1,0,3.45,4
+LAS,101,52004,Freshman Seminar,7,5,7,0,3,0,0,0,0,0,1,0,0,0,3.64,4
+LAS,101,44065,Freshman Seminar,8,2,5,3,4,0,1,0,0,0,0,0,1,0,3.44,4
+LAS,101,44078,Freshman Seminar,9,5,2,2,2,1,1,1,0,0,0,0,0,0,3.61,4
+LAS,101,56600,Freshman Seminar,10,7,1,1,2,1,0,1,0,0,0,0,1,0,3.57,4
+LAS,101,56601,Freshman Seminar,6,5,2,1,5,0,0,1,2,0,0,1,0,0,3.29,4
+LAS,101,56602,Freshman Seminar,9,7,1,1,0,1,0,1,0,0,2,0,0,1,3.53,4
+LAS,101,56604,Freshman Seminar,11,9,2,0,1,0,0,1,0,0,0,0,0,0,3.85,4
+LAS,101,44121,Freshman Seminar,7,9,0,2,1,0,2,1,0,0,1,0,0,1,3.54,4
+LAS,101,44080,Freshman Seminar,6,5,5,3,2,2,0,0,0,0,1,0,0,0,3.53,4
+LAS,101,44081,Freshman Seminar,8,8,3,0,3,1,0,1,0,0,0,0,0,0,3.7,4
+LAS,101,44119,Freshman Seminar,11,4,3,1,0,2,0,1,1,0,1,0,0,0,3.51,4
+LAS,101,44074,Freshman Seminar,7,7,2,0,3,0,1,4,0,0,0,0,0,0,3.44,4
+LAS,101,44067,Freshman Seminar,6,9,2,1,4,0,0,0,0,0,0,0,2,0,3.44,4
+LAS,101,44107,Freshman Seminar,9,10,2,0,0,0,2,0,0,0,0,0,0,1,3.83,4
+LAS,101,44068,Freshman Seminar,7,12,2,0,1,0,0,0,0,0,0,1,1,0,3.63,4
+LAS,101,44069,Freshman Seminar,7,7,3,1,3,0,1,0,1,0,0,1,0,0,3.5,4
+LAS,101,52007,Freshman Seminar,10,6,1,2,2,0,0,0,0,0,1,0,1,0,3.54,4
+LAS,101,50164,Freshman Seminar,15,7,0,1,0,2,0,0,0,0,0,0,0,0,3.87,4
+LAS,101,50165,Freshman Seminar,4,9,3,0,5,1,0,1,0,0,1,0,0,0,3.49,4
+LAS,101,44095,Freshman Seminar,6,9,3,2,1,0,0,1,0,0,1,0,1,0,3.49,4
+LAS,101,56598,Freshman Seminar,6,8,3,1,5,0,1,0,0,0,0,0,0,0,3.65,4
+LAS,101,44083,Freshman Seminar,6,6,4,2,3,0,1,1,0,0,0,0,0,0,3.59,4
+LAS,101,44084,Freshman Seminar,3,13,4,1,1,1,0,1,0,0,0,0,0,0,3.74,4
+LAS,101,44086,Freshman Seminar,3,8,5,2,5,0,0,0,1,0,0,0,0,0,3.57,4
+LAS,101,44110,Freshman Seminar,12,4,2,2,0,2,0,0,0,0,1,0,1,0,3.51,4
+LAS,101,44087,Freshman Seminar,10,10,0,0,3,1,0,0,0,0,0,0,0,0,3.82,4
+LAS,101,44127,Freshman Seminar,13,8,1,0,0,0,0,2,0,0,0,0,0,0,3.82,4
+LAS,101,44075,Freshman Seminar,14,6,3,0,1,0,0,0,0,0,0,0,0,0,3.92,4
+LAS,101,44076,Freshman Seminar,2,9,3,0,7,1,0,1,0,0,0,0,1,0,3.36,4
+LAS,101,44126,Freshman Seminar,9,7,2,1,2,1,0,0,0,0,0,0,0,1,3.79,4
+LAS,101,44070,Freshman Seminar,7,8,2,2,1,2,1,1,0,0,0,0,0,0,3.61,4
+LAS,101,44071,Freshman Seminar,6,8,2,2,1,1,1,1,0,0,0,0,2,0,3.33,4
+LAS,101,52008,Freshman Seminar,6,9,1,3,1,0,1,1,0,0,0,0,1,0,3.52,4
+LAS,101,44097,Freshman Seminar,10,6,3,0,0,0,0,0,0,0,2,0,1,1,3.5,4
+LAS,101,56599,Freshman Seminar,9,11,0,0,1,0,0,0,1,0,1,0,1,0,3.57,4
+LAS,101,44088,Freshman Seminar,8,7,3,0,2,2,2,0,0,0,0,0,0,0,3.63,4
+LAS,101,44089,Freshman Seminar,10,6,4,0,2,1,0,1,0,1,0,0,0,0,3.63,4
+LAS,101,44090,Freshman Seminar,9,3,4,0,4,1,1,0,0,0,1,0,0,0,3.51,4
+LAS,101,44073,Freshman Seminar,7,7,1,1,1,1,0,1,1,0,1,1,1,0,3.22,4
+LAS,101,44117,Freshman Seminar,10,8,4,0,0,2,0,0,0,0,0,0,0,0,3.83,4
+LAS,101,44129,Freshman Seminar,10,9,0,1,3,0,0,0,0,0,0,0,0,0,3.84,0
+LAS,101,44072,Freshman Seminar,9,4,1,1,2,1,0,4,0,0,1,0,0,0,3.33,0
+LAS,101,52009,Freshman Seminar,6,11,0,1,2,1,1,0,0,0,1,0,0,0,3.62,0
+LAS,101,50169,Freshman Seminar,4,10,1,0,3,3,0,0,0,0,0,0,1,0,3.49,0
+LAS,101,56596,Freshman Seminar,5,9,3,0,3,1,0,2,0,0,0,0,0,0,3.59,1
+LAS,101,44118,Freshman Seminar,8,11,1,1,1,0,0,0,1,0,0,0,0,0,3.81,1
+LAS,101,44099,Freshman Seminar,12,5,4,0,0,1,0,0,0,0,0,0,1,0,3.71,1
+LAS,101,44100,Freshman Seminar,10,9,1,0,1,0,0,0,0,1,0,0,0,0,3.82,1
+LAS,101,44091,Freshman Seminar,3,6,4,1,4,3,0,1,0,0,0,1,0,0,3.33,2
+LAS,101,44104,Freshman Seminar,13,6,2,1,1,0,0,0,0,0,1,0,0,0,3.78,2
+LAS,101,44105,Freshman Seminar,9,8,4,0,0,0,2,0,0,0,0,0,0,0,3.8,1
+LAS,101,52005,Freshman Seminar,3,6,4,1,4,1,0,4,0,0,0,0,0,0,3.33,1
+LAS,101,50170,Freshman Seminar,7,9,1,4,1,0,0,0,1,0,0,0,0,0,3.72,2
+LAS,101,44093,Freshman Seminar,4,6,3,3,3,1,0,0,1,0,1,0,1,0,3.28,3
+LAS,101,45399,Freshman Seminar,5,8,2,3,2,1,0,1,0,0,0,1,0,0,3.51,3
+LAS,101,52006,Freshman Seminar,6,10,3,0,1,0,1,2,0,0,1,0,0,0,3.56,3
+LAS,101,44094,Freshman Seminar,4,8,4,6,1,1,0,0,0,0,0,0,0,0,3.68,4
+LAW,301,52233,Introduction to Law,78,61,42,27,13,13,2,2,2,0,0,0,2,0,3.66,3
+LAW,501,65113,Professional Resp (Graduate),3,12,10,8,15,1,1,0,0,0,0,0,0,1,3.47,34
+LAW,601,31936,Contracts,1,3,8,10,12,8,1,0,1,0,0,0,0,0,3.18,3
+LAW,601,31939,Contracts,1,4,13,5,11,7,5,0,0,0,0,0,0,0,3.21,3
+LAW,602,31944,Property,1,5,3,24,8,3,1,3,1,0,0,0,0,0,3.2,3
+LAW,602,31948,Property,1,6,3,19,10,2,2,2,0,1,0,0,0,0,3.21,3
+LAW,603,31941,Torts,0,5,4,10,15,9,4,0,0,1,0,0,0,0,3.08,3
+LAW,603,31942,Torts,1,5,4,10,19,1,3,1,0,0,0,0,0,0,3.2,3
+LAW,604,50695,Criminal Law,1,4,3,9,7,2,1,0,2,0,0,0,0,0,3.21,4
+LAW,604,31950,Criminal Law,0,4,2,7,9,1,3,0,0,0,0,0,0,0,3.2,4
+LAW,604,44060,Criminal Law,0,2,4,16,2,0,1,1,0,0,0,0,1,0,3.2,4
+LAW,605,52173,Criminal Proc: Investigation,2,5,12,29,8,1,0,1,0,0,0,0,0,0,3.4,4
+LAW,607,52191,Civil Procedure,1,4,1,9,10,0,1,2,0,0,0,0,0,0,3.21,4
+LAW,607,50578,Civil Procedure,1,3,2,16,2,3,0,2,0,0,0,0,0,0,3.26,4
+LAW,607,50581,Civil Procedure (Grad Only),1,11,5,6,2,2,1,2,0,0,0,0,0,0,3.47,4
+LAW,609,35802,Legal Writing & Analysis,1,1,3,8,7,0,3,0,0,0,0,0,0,0,3.2,4
+LAW,609,35803,Legal Writing & Analysis,2,3,1,8,7,2,0,2,0,0,0,0,0,0,3.23,4
+LAW,609,35801,Legal Writing & Analysis,1,2,3,7,6,4,0,1,0,0,0,0,0,0,3.21,4
+LAW,609,35800,Legal Writing & Analysis,0,2,4,8,5,1,2,1,0,0,0,0,0,0,3.2,4
+LAW,609,67406,Legal Writing & Analysis,1,3,1,7,7,2,1,1,0,0,0,0,0,0,3.2,4
+LAW,615,30838,Administrative Law,3,7,10,7,5,6,1,0,1,0,0,0,0,0,3.38,4
+LAW,627,45588,Legal Research,0,3,3,12,6,1,2,1,0,0,0,0,0,0,3.23,4
+LAW,627,45589,Legal Research,1,2,3,12,5,2,3,0,1,0,0,0,0,0,3.17,4
+LAW,627,45590,Legal Research,0,3,3,3,4,4,3,3,1,1,0,0,0,0,2.87,4
+LAW,627,59206,Legal Research,0,4,4,5,4,5,2,1,2,2,0,0,0,0,2.94,4
+LAW,627,45591,Legal Research,1,2,2,12,6,0,0,3,1,0,0,0,0,0,3.15,4
+LAW,629,43953,Bankruptcy,0,8,4,10,4,5,0,0,0,0,0,0,0,0,3.4,4
+LAW,633,31955,Business Associations I,0,6,20,38,6,5,0,0,0,0,0,0,0,0,3.4,4
+LAW,633,54983,Business Associations I,2,6,11,6,8,0,3,0,0,0,0,0,0,0,3.43,4
+LAW,633,31957,Business Associations - Grad,0,3,20,14,8,3,0,0,0,0,0,0,0,0,3.42,4
+LAW,647,31958,Income Taxation,4,11,17,24,14,6,0,0,0,0,0,0,0,0,3.43,4
+LAW,656,30848,International Law,1,11,10,21,10,0,0,0,0,0,0,0,0,0,3.49,4
+LAW,680,31969,Professional Responsibility,1,18,15,22,7,6,2,1,1,0,1,0,0,0,3.39,4
+LAW,682,31960,Evidence,1,26,10,16,14,8,0,2,0,1,1,0,0,0,3.39,4
+LAW,686,41129,Remedies,2,3,7,9,13,2,0,0,0,0,0,0,0,0,3.33,4
+LAW,694,30855,Trial Advocacy,1,9,15,20,15,5,1,1,0,0,0,0,0,0,3.35,4
+LAW,792,61751,Psychology & the Law,6,11,3,2,0,1,0,0,0,0,0,0,0,0,3.84,4
+LAW,792,65116,First Amendment,0,8,1,12,11,1,0,0,0,0,0,0,0,0,3.37,4
+LAW,792,65145,Real Estate Transactions,2,8,7,2,7,4,2,0,0,0,0,0,0,0,3.4,4
+LAW,792,58453,Advanced Legal Research,1,7,5,14,8,3,0,0,0,0,0,0,0,0,3.39,4
+LAW,792,61399,US Corporate Governance,1,14,13,1,0,0,0,0,0,0,0,0,0,0,3.83,4
+LAW,794,50145,Doing Business in Japan,0,3,6,6,6,0,0,0,0,0,0,0,0,0,3.43,4
+LAW,796,66769,Anti-Terrorism Law & Policy,0,3,7,7,7,4,0,0,0,0,0,0,0,0,3.31,4
+LER,100,54104,Introduction to Labor Studies,1,6,2,1,3,2,1,2,2,0,0,0,2,2,2.85,4
+LER,100,54106,Introduction to Labor Studies,0,3,4,1,3,1,1,1,3,0,0,2,6,0,2.09,2
+LER,100,54108,Introduction to Labor Studies,1,6,1,1,4,0,1,1,0,0,0,0,7,1,2.33,2
+LER,100,54109,Introduction to Labor Studies,0,4,3,1,5,1,2,4,1,0,0,0,2,0,2.71,3
+LER,100,54110,Introduction to Labor Studies,0,2,1,2,3,1,1,3,2,0,1,1,10,0,1.61,1
+LER,110,54117,Labor and Social Movements,0,1,2,1,6,1,2,2,1,0,0,0,5,2,2.17,2
+LER,110,54118,Labor and Social Movements,0,2,2,1,3,3,3,1,3,0,0,0,11,2,1.71,1
+LER,110,54119,Labor and Social Movements,0,4,2,0,0,2,1,2,1,0,1,4,8,0,1.61,1
+LER,120,54744,Contemporary Labor Problems,0,2,2,1,1,1,1,0,1,2,1,2,8,2,1.52,1
+LER,120,57327,Contemporary Labor Problems,1,4,3,1,3,2,1,1,0,1,0,0,4,0,2.59,3
+LER,522,54197,Government Regulation,1,28,1,1,0,0,1,0,0,0,0,0,0,0,3.92,4
+LER,523,56036,Org Fundamentals for HR,1,15,7,2,1,0,0,0,0,0,0,0,0,0,3.82,4
+LER,543,54237,Workplace Dispute Resolution,2,18,10,9,2,0,2,0,0,0,0,0,1,0,3.56,4
+LER,545,54224,Economics of Human Resources,0,18,11,7,5,2,0,0,0,1,0,0,0,0,3.58,4
+LER,561,54198,Compensation Systems,0,24,1,3,1,0,0,0,0,0,0,0,0,0,3.88,4
+LER,562,54215,HR Planning and Staffing,0,12,3,8,4,0,0,1,0,0,0,0,0,0,3.56,4
+LER,564,54251,HR Training and Development,0,25,1,2,0,0,0,0,0,0,0,0,0,0,3.94,1
+LER,565,54217,HR Management and Strategy,6,25,7,5,0,0,0,0,0,0,0,0,0,0,3.87,0
+LER,566,54253,International HR Management,0,7,18,2,0,1,0,0,0,0,0,0,0,0,3.69,0
+LER,568,54223,Firm Performance and HR,0,5,5,5,8,5,0,0,0,0,0,0,0,0,3.3,0
+LER,569,54252,Power & Influence in HRM,0,34,3,0,2,0,0,0,0,0,0,0,0,0,3.92,0
+LER,590,54234,Collect Bargain Sports & Enter,1,29,2,0,0,0,1,0,0,0,0,0,0,0,3.93,1
+LER,590,59058,Change Management in HR Orgs,10,20,12,3,1,0,0,0,0,0,0,0,0,0,3.85,1
+LER,590,56034,Employee Benefits,0,27,0,0,1,0,0,0,0,0,0,0,0,0,3.96,1
+LER,590,58258,Executive Compensation,0,9,6,12,2,0,0,0,0,0,0,0,0,0,3.59,1
+LER,590,58259,Labor & Emp Relations in China,0,9,10,4,1,0,0,0,0,0,0,0,0,0,3.71,1
+LER,590,66569,Workforce Policies & Partnersh,0,9,3,8,15,3,0,0,0,0,0,0,0,0,3.33,2
+LER,591,54232,Employment Relations Systems,0,20,20,3,1,0,0,0,0,0,0,0,0,0,3.78,2
+LER,591,54233,Employment Relations Systems,0,23,16,3,0,0,0,0,0,0,0,0,0,0,3.83,2
+LER,591,65544,Employment Relations Systems,2,11,5,3,1,0,0,0,0,0,0,0,0,0,3.79,2
+LER,593,54239,Quantitative Methods in LER,14,8,6,6,2,1,1,1,0,0,0,0,0,0,3.67,2
+LER,593,54242,Quantitative Methods in LER,18,7,3,1,4,2,2,0,0,0,0,0,0,0,3.68,3
+LING,100,31999,Intro to Language Science,3,5,9,5,2,3,1,1,2,0,0,0,0,0,3.33,3
+LING,100,32001,Intro to Language Science,0,1,9,5,6,4,1,0,1,0,0,0,0,0,3.2,3
+LING,100,32004,Intro to Language Science,0,3,7,5,3,2,4,1,1,0,0,0,1,0,3.02,3
+LING,100,32009,Intro to Language Science,0,5,8,5,4,5,1,5,0,0,1,0,0,0,3.08,3
+LING,100,64514,Intro to Language Science,1,5,5,4,5,3,3,0,0,0,0,1,0,0,3.2,4
+LING,111,45355,Language in Globalization,25,40,19,18,16,3,4,3,2,0,0,0,0,0,3.57,4
+LING,115,64859,Language and Culture in India,0,21,7,5,2,3,0,0,0,0,0,0,0,0,3.69,4
+LING,210,32019,Language History,0,15,4,3,2,0,0,2,0,0,0,0,0,0,3.64,4
+LING,250,32049,Language Diversity in the USA,7,15,1,2,1,1,2,3,2,0,0,0,0,0,3.47,1
+LING,301,50500,Elements of Syntax,0,9,10,1,4,1,3,2,0,1,0,1,1,0,3.14,1
+LING,302,66118,Elements of Phonology,1,16,2,1,3,0,0,2,0,0,0,0,0,0,3.67,1
+LING,307,30893,Elmnts Semantics & Pragmatics,2,7,7,3,5,3,2,3,0,0,1,1,2,0,2.97,1
+LING,401,30894,Intro to General Phonetics,3,17,1,1,9,1,1,3,0,0,0,3,0,0,3.27,1
+LING,402,43108,Tools & Tech Spch & Lang Proc,5,11,4,1,2,2,1,1,2,0,0,0,0,0,3.48,2
+LING,426,62784,Child & Adult Lang Acquisition,4,4,1,3,2,0,1,1,1,1,2,0,3,0,2.72,3
+LING,490,56284,Special Topics in Linguistics,11,14,0,0,0,0,0,1,0,0,0,0,0,0,3.9,4
+LIS,351,30920,Design Info Interfaces,0,15,2,2,5,1,0,0,0,0,0,0,0,0,3.67,4
+LIS,446,66778,Fantasy Lit/Media for Youth,0,16,8,1,0,0,0,0,0,0,0,0,0,0,3.85,0
+LIS,452,30870,Foundations Info Processing,0,21,3,2,2,2,0,0,0,0,0,0,0,0,3.8,0
+LIS,490,54501,Introduction to Databases,0,9,9,1,1,3,0,0,1,0,0,0,0,0,3.54,0
+LIS,490,60123,Introduction to Databases,8,7,3,1,1,0,0,0,0,0,0,0,2,0,3.52,0
+LIS,490,65567,Intro to Data Science,13,9,8,0,1,3,0,0,0,0,0,0,0,0,3.78,0
+LIS,501,49541,Info Org and Access,0,17,1,3,1,0,0,0,0,0,0,0,0,0,3.85,0
+LIS,501,49542,Info Org and Access,0,21,0,0,0,0,0,1,0,0,0,0,0,0,3.91,4
+LIS,501,41624,Info Org and Access,0,39,5,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+LIS,502,66755,Libraries Info and Society,11,11,0,0,0,0,0,1,0,0,0,0,0,0,3.93,4
+LIS,504,32167,Reference and Info Services,3,13,6,0,1,0,0,0,0,0,0,0,0,0,3.87,2
+LIS,504,41649,Reference and Info Services,0,25,0,0,0,1,0,0,0,0,0,0,0,0,3.95,2
+LIS,505,41652,Adm Mgt of Libs Info Centers,4,12,4,1,1,0,0,0,0,0,0,0,0,0,3.86,2
+LIS,506,32200,Youth Services Librarianship,1,20,3,0,1,0,0,0,0,0,0,0,0,0,3.92,0
+LIS,506,41653,Youth Services Librarianship,4,18,2,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+LIS,531,65543,Foundations of Data Curation,0,9,11,2,0,0,0,1,0,1,0,0,0,0,3.6,4
+LIS,543,66409,Sociotechnical Info Sys,0,5,11,4,1,1,0,0,0,0,0,0,0,0,3.61,4
+LIS,561,63412,Information Modeling,0,14,15,0,9,0,0,0,0,0,0,0,0,0,3.63,4
+LIS,567,65236,Academic Librarianship,7,11,1,1,2,0,2,0,0,0,0,0,0,0,3.74,4
+LIS,569,61840,Financial Management,5,6,4,4,2,0,0,1,0,0,0,0,0,0,3.64,4
+LIS,581,41447,Adm and Use Archival Materials,2,15,5,1,0,0,0,0,0,0,0,0,0,0,3.9,1
+LIS,581,41628,Adm and Use Archival Materials,2,19,2,1,0,0,0,0,0,0,0,0,0,0,3.94,1
+LIS,582,30888,Preserving Info Resources,2,8,9,3,0,0,0,0,0,0,0,0,0,0,3.77,1
+LIS,590,60001,Network Analysis,1,15,4,1,0,0,0,0,0,0,0,0,0,0,3.91,1
+LLS,100,32234,Intro Latina/Latino Studies,8,6,3,5,5,1,0,0,2,0,0,0,0,0,3.49,2
+LLS,100,32235,Intro Latina/Latino Studies,3,7,8,3,4,0,1,2,2,0,0,0,0,0,3.37,2
+LLS,220,48137,Mexican & Latin Am Migration,1,7,3,3,2,5,0,2,2,0,3,0,1,0,2.85,2
+LLS,230,66517,Latina/o Genders & Sexualities,4,5,8,8,5,3,1,0,0,0,0,0,1,0,3.35,2
+LLS,240,58201,Latina/o Popular Culture,4,11,6,2,2,2,2,1,0,0,1,0,0,0,3.47,2
+LLS,242,58195,Intro to Latina/o Literature,0,10,9,12,8,3,1,1,1,0,0,0,3,0,3.15,0
+LLS,385,60011,Theory and Methods in LLS,1,3,4,5,2,1,0,3,0,0,3,0,0,0,2.95,0
+LLS,392,50108,Chicanas&Latinas: Self&Society,2,7,3,4,0,2,1,3,0,0,0,0,0,0,3.36,0
+MACS,100,66219,Intro to Popular TV & Movies,1,6,6,5,9,2,1,0,0,1,0,0,0,0,3.31,0
+MACS,100,66220,Intro to Popular TV & Movies,2,9,5,7,5,0,1,0,1,0,0,0,0,0,3.49,0
+MACS,100,66221,Intro to Popular TV & Movies,2,7,6,9,4,1,1,0,0,0,0,0,0,0,3.5,0
+MACS,100,66222,Intro to Popular TV & Movies,0,11,5,8,1,2,1,2,0,0,0,0,0,0,3.46,0
+MACS,100,66223,Intro to Popular TV & Movies,2,13,2,5,3,2,0,0,0,0,0,0,0,0,3.64,0
+MACS,100,66224,Intro to Popular TV & Movies,4,4,6,11,1,1,3,1,0,0,0,0,0,0,3.4,0
+MACS,100,66226,Intro to Popular TV & Movies,3,14,5,5,5,1,0,0,0,0,0,0,0,0,3.66,2
+MACS,100,66225,Intro to Popular TV & Movies,5,7,5,5,7,0,0,0,0,1,0,0,0,0,3.51,4
+MACS,100,66227,Intro to Popular TV & Movies,4,6,8,5,2,3,0,1,0,0,0,0,0,0,3.52,3
+MACS,100,66228,Intro to Popular TV & Movies,6,11,6,4,3,0,0,0,0,0,0,0,0,0,3.74,1
+MACS,100,66229,Intro to Popular TV & Movies,3,5,5,4,4,3,0,1,1,1,0,0,0,0,3.28,4
+MACS,100,66230,Intro to Popular TV & Movies,4,7,7,6,4,0,0,1,0,0,0,0,0,0,3.57,4
+MACS,100,66231,Intro to Popular TV & Movies,5,14,7,3,3,2,0,0,0,0,0,0,0,0,3.71,4
+MACS,100,66232,Intro to Popular TV & Movies,3,9,6,2,5,3,3,1,0,0,0,0,0,0,3.4,2
+MACS,100,66233,Intro to Popular TV & Movies,1,6,3,6,10,1,1,2,0,0,0,0,0,0,3.27,2
+MACS,100,66234,Intro to Popular TV & Movies,9,7,1,3,2,2,0,2,0,0,0,0,0,0,3.58,2
+MACS,100,67437,Intro to Popular TV & Movies,3,7,6,5,4,1,0,0,0,0,0,0,0,0,3.59,2
+MACS,101,57643,Intro to the Media,9,11,3,1,1,0,0,0,0,0,1,0,0,0,3.78,3
+MACS,101,57644,Intro to the Media,6,14,3,1,0,0,1,0,0,0,0,0,0,0,3.87,3
+MACS,101,57645,Intro to the Media,7,9,4,0,0,2,0,0,1,0,0,2,0,0,3.48,3
+MACS,101,57646,Intro to the Media,6,12,2,1,1,2,0,2,1,0,0,0,0,0,3.58,3
+MACS,101,57648,Intro to the Media,0,6,5,2,4,2,1,2,0,0,0,0,0,0,3.3,2
+MACS,101,57649,Intro to the Media,7,6,8,1,1,0,0,0,0,0,0,0,2,0,3.51,1
+MACS,101,57650,Intro to the Media,1,21,1,0,2,0,0,0,0,0,0,0,0,0,3.91,0
+MACS,101,65590,Intro to the Media,7,15,0,1,1,1,1,0,0,0,0,0,1,0,3.68,4
+MACS,203,65073,Contemporary Movies,0,14,9,2,5,0,0,0,0,0,0,0,0,0,3.69,4
+MACS,261,57706,Survey of World Cinema I,1,3,15,9,11,13,6,4,5,0,1,0,1,0,2.9,4
+MACS,264,57656,Creative and Info Economies,6,11,7,3,0,3,1,0,0,0,0,0,1,0,3.56,4
+MACS,317,57657,Media History,0,2,7,4,3,4,1,2,1,0,0,1,0,0,3.01,4
+MACS,320,66207,Popular Culture,1,4,7,5,1,2,4,1,4,0,0,0,1,0,2.96,4
+MACS,351,57678,Social Aspects of Media,4,6,7,5,6,10,5,7,4,0,3,0,0,0,2.85,4
+MACS,356,57684,Sex & Gender in Popular Media,4,22,24,11,10,1,1,2,2,1,0,0,4,0,3.32,4
+MACS,361,57707,Film Theory and Criticism,2,3,7,3,5,4,1,0,1,0,0,0,0,0,3.28,4
+MATH,2,54888,Introductory Algebra,2,1,3,4,0,3,0,1,2,0,1,2,5,2,2.17,2
+MATH,103,32067,Theory of Arithmetic,0,7,0,0,9,0,0,3,0,0,2,0,1,0,2.86,4
+MATH,103,62939,Theory of Arithmetic,1,10,2,3,9,0,1,6,0,0,2,0,0,0,3.08,4
+MATH,103,66936,Theory of Arithmetic,0,10,2,2,10,0,1,5,0,0,1,0,3,0,2.86,4
+MATH,112,64760,Algebra,1,0,4,2,0,4,3,2,2,0,0,1,3,4,2.32,2
+MATH,112,64759,Algebra,7,15,20,25,15,20,15,12,7,4,1,5,9,0,2.73,3
+MATH,112,65465,Algebra,4,23,22,19,23,16,19,16,10,4,7,4,15,5,2.59,3
+MATH,115,56115,Preparation for Calculus,0,2,1,2,6,2,0,2,1,1,0,1,4,1,2.24,2
+MATH,115,58801,Preparation for Calculus,3,6,13,21,21,17,18,14,16,7,6,8,15,0,2.3,2
+MATH,115,49213,Preparation for Calculus,3,11,26,15,20,29,18,19,9,7,7,5,13,4,2.49,2
+MATH,115,49212,Preparation for Calculus,5,11,8,18,12,15,18,14,14,10,11,3,17,1,2.24,2
+MATH,124,32037,Finite Mathematics,2,6,5,3,4,1,1,1,1,1,0,0,0,0,3.29,1
+MATH,124,45900,Finite Mathematics,4,2,5,3,3,2,2,1,0,0,3,0,2,1,2.83,2
+MATH,124,32038,Finite Mathematics,2,1,1,5,5,5,3,0,2,0,0,1,1,0,2.76,4
+MATH,124,32040,Finite Mathematics,0,2,4,3,4,2,4,1,0,2,0,0,3,0,2.56,3
+MATH,124,32036,Finite Mathematics,0,1,1,1,6,2,3,4,1,1,1,0,0,0,2.54,3
+MATH,124,58743,Finite Mathematics,0,4,4,3,3,2,3,2,1,0,0,1,0,0,2.97,4
+MATH,125,56122,Elementary Linear Algebra,7,27,37,36,35,29,25,19,4,9,5,1,7,1,2.88,4
+MATH,125,56123,Elementary Linear Algebra,6,27,23,27,41,26,15,22,16,4,7,1,11,0,2.73,3
+MATH,125,32042,Elementary Linear Algebra,2,14,26,27,21,22,18,15,15,7,6,5,8,2,2.62,3
+MATH,181,49144,A Mathematical World,8,3,9,4,3,4,1,1,1,0,0,0,0,1,3.41,4
+MATH,181,49145,A Mathematical World,4,5,6,0,3,2,0,0,0,0,2,1,0,0,3.26,4
+MATH,199,54467,Undergraduate Open Seminar,0,21,0,0,1,0,0,0,0,0,0,0,0,0,3.95,1
+MATH,199,50395,Undergraduate Open Seminar,0,16,1,3,2,0,1,0,0,0,0,0,0,0,3.74,2
+MATH,199,50397,Undergraduate Open Seminar,0,15,1,0,2,0,1,1,0,0,0,0,2,0,3.36,4
+MATH,199,51989,Undergraduate Open Seminar,0,20,1,2,1,0,0,0,0,0,0,0,0,0,3.89,3
+MATH,210,30330,Theory of Interest,16,14,10,8,7,3,4,2,1,0,1,1,2,1,3.32,4
+MATH,213,32072,Basic Discrete Mathematics,0,6,4,3,3,1,0,4,2,0,2,0,0,0,2.95,4
+MATH,213,32073,Basic Discrete Mathematics,4,10,3,7,3,2,2,1,1,1,0,0,1,0,3.27,4
+MATH,213,32076,Basic Discrete Mathematics,1,9,6,3,2,1,2,0,0,0,1,0,1,0,3.32,4
+MATH,220,34494,Calculus,8,24,12,9,34,12,9,40,12,7,9,4,30,3,2.28,2
+MATH,220,35108,Calculus,21,41,13,10,54,11,11,18,6,5,15,3,22,2,2.68,3
+MATH,220,33431,Calculus,20,36,7,10,29,7,11,27,9,8,15,5,29,1,2.41,2
+MATH,220,34440,Calculus,6,1,3,0,3,3,0,1,1,3,1,0,2,0,2.7,3
+MATH,221,46992,Calculus I,5,20,37,17,48,19,8,20,3,4,7,3,7,1,2.85,4
+MATH,221,47002,Calculus I,4,26,24,11,25,15,8,14,3,1,8,2,6,1,2.87,4
+MATH,221,47013,Calculus I,2,18,25,10,34,17,15,24,9,0,5,0,4,1,2.79,4
+MATH,221,47023,Calculus I,3,20,22,26,45,9,14,19,3,2,3,4,9,0,2.81,4
+MATH,221,48289,Calculus I,6,11,19,24,38,17,7,18,6,4,12,2,8,0,2.66,3
+MATH,225,55844,Introductory Matrix Theory,12,19,0,14,43,0,17,35,0,0,20,0,5,0,2.6,3
+MATH,225,55845,Introductory Matrix Theory,6,19,0,11,23,0,11,21,0,0,15,0,2,1,2.67,3
+MATH,231,46860,Calculus II,19,26,17,23,12,10,13,12,13,9,5,1,7,5,2.85,4
+MATH,231,46908,Calculus II,15,13,15,21,16,16,18,14,16,7,5,4,9,6,2.61,3
+MATH,231,56751,Calculus II,9,12,12,12,23,17,16,17,13,10,11,6,13,2,2.36,2
+MATH,231,46880,Calculus II,8,24,18,24,35,17,21,12,10,5,5,0,1,0,2.92,4
+MATH,231,46897,Calculus II,11,44,33,57,53,27,14,11,6,6,6,0,7,1,3.06,4
+MATH,241,59328,Calculus III,25,33,44,45,23,24,17,20,7,5,2,0,1,2,3.16,4
+MATH,241,47036,Calculus III,12,18,29,31,26,34,18,28,20,11,4,5,7,1,2.68,3
+MATH,241,49251,Calculus III,5,26,30,30,45,41,22,18,12,8,2,3,5,0,2.84,4
+MATH,241,47058,Calculus III,5,25,33,26,32,27,23,21,9,4,9,4,6,0,2.78,4
+MATH,241,48133,Calculus III,7,8,1,3,4,2,2,1,0,0,0,1,1,0,3.28,4
+MATH,241,47043,Calculus III,5,24,26,35,31,34,25,17,15,9,3,2,9,3,2.75,4
+MATH,241,51397,Calculus III,11,17,37,26,36,28,16,9,13,5,1,2,9,1,2.87,4
+MATH,241,50501,Calculus III,8,3,5,7,1,0,0,2,1,1,2,0,1,0,3.15,4
+MATH,241,62211,Calculus III,4,18,27,20,22,11,29,22,9,4,2,1,1,2,2.85,4
+MATH,241,46943,Calculus III,8,8,8,1,4,0,0,1,2,0,1,0,0,0,3.49,4
+MATH,241,47049,Calculus III,6,14,2,3,3,0,1,3,0,0,0,0,1,0,3.47,4
+MATH,285,51206,Intro Differential Equations,4,69,0,31,41,13,16,11,4,6,3,2,7,0,3.05,4
+MATH,285,51208,Intro Differential Equations,2,90,0,42,40,21,16,9,8,10,6,1,11,1,3.02,1
+MATH,285,51209,Intro Differential Equations,2,67,0,24,28,9,7,10,7,7,4,0,5,1,3.09,1
+MATH,286,51203,Intro to Differential Eq Plus,11,33,30,23,22,18,14,8,9,9,6,7,15,2,2.75,1
+MATH,286,59624,Intro to Differential Eq Plus,8,9,8,8,11,9,5,2,5,3,1,3,1,1,2.9,3
+MATH,299,50014,Topics in Mathematics,8,24,18,24,35,17,21,12,10,5,5,0,1,0,2.92,3
+MATH,299,50015,Topics in Mathematics,11,44,33,57,53,27,14,11,6,6,6,0,7,1,3.06,3
+MATH,347,65074,Fundamental Mathematics,2,5,4,3,3,4,1,2,0,1,0,0,1,0,3.08,2
+MATH,347,34450,Fundamental Mathematics,1,1,3,0,3,6,3,2,1,0,0,1,1,0,2.61,3
+MATH,347,34383,Fundamental Mathematics,3,3,7,4,4,2,2,1,0,1,0,0,0,1,3.27,4
+MATH,347,34395,Fundamental Mathematics,1,4,4,2,4,1,2,2,1,0,2,0,1,0,2.85,3
+MATH,347,34444,Fundamental Mathematics,1,6,4,8,1,2,2,1,0,1,0,0,0,0,3.29,4
+MATH,347,67249,Fundamental Mathematics,2,2,1,5,3,1,1,3,2,2,0,1,2,0,2.52,3
+MATH,403,30344,Euclidean Geometry,4,6,4,2,1,0,0,2,1,0,0,0,1,1,3.33,4
+MATH,410,54380,Lin Algebra & Financial Apps,4,9,5,6,0,3,3,3,2,2,2,2,2,0,2.85,4
+MATH,412,30348,Graph Theory,0,5,1,4,5,3,3,3,10,3,1,0,3,0,2.31,2
+MATH,413,62937,Intro to Combinatorics,12,12,4,4,3,6,5,5,3,1,0,3,2,0,2.98,4
+MATH,413,33533,Intro to Combinatorics,11,5,7,2,3,2,5,1,3,0,0,2,1,0,3.14,4
+MATH,415,63037,Applied Linear Algebra,8,45,38,14,32,14,16,15,6,8,6,0,3,2,3.05,4
+MATH,415,40196,Applied Linear Algebra,8,37,21,20,41,21,18,11,4,5,6,0,3,2,3.01,4
+MATH,415,63038,Applied Linear Algebra,12,43,27,29,30,15,13,17,6,8,10,0,2,1,3.02,4
+MATH,415,63039,Applied Linear Algebra,12,37,25,27,27,21,17,16,10,3,7,0,5,1,2.97,4
+MATH,416,57836,Abstract Linear Algebra,3,7,2,0,3,3,1,2,1,0,3,0,1,0,2.91,4
+MATH,416,54464,Abstract Linear Algebra,6,5,2,1,2,2,1,2,2,2,1,2,3,0,2.6,3
+MATH,416,55582,Abstract Linear Algebra,4,3,2,1,6,0,0,5,0,0,4,0,1,0,2.72,3
+MATH,416,67250,Abstract Linear Algebra,4,3,3,3,1,3,1,3,3,0,1,1,1,0,2.78,4
+MATH,417,32112,Intro to Abstract Algebra,0,6,1,3,2,2,0,9,1,0,1,0,0,0,2.8,4
+MATH,417,65075,Intro to Abstract Algebra,7,4,4,5,1,1,0,3,1,0,0,0,1,0,3.28,4
+MATH,417,32108,Intro to Abstract Algebra,5,5,2,2,2,3,2,2,1,0,1,1,0,0,3.09,4
+MATH,417,32103,Intro to Abstract Algebra,1,7,3,2,1,0,1,1,1,0,3,0,3,1,2.68,3
+MATH,424,47761,Honors Real Analysis,7,13,4,5,3,0,1,0,0,0,0,0,0,0,3.72,4
+MATH,427,49850,Honors Abstract Algebra,3,7,3,0,1,3,1,3,0,0,0,1,0,0,3.23,4
+MATH,441,32116,Differential Equations,5,7,8,2,8,3,6,4,2,0,5,0,4,1,2.73,3
+MATH,442,30354,Intro Partial Diff Equations,1,5,5,4,3,1,0,3,1,4,0,1,3,0,2.61,3
+MATH,444,66403,Elementary Real Analysis,8,4,4,3,0,2,1,1,1,2,0,0,0,0,3.33,4
+MATH,444,32129,Elementary Real Analysis,0,13,1,6,2,2,0,3,1,0,0,0,0,1,3.38,4
+MATH,444,32132,Elementary Real Analysis,0,20,0,0,5,0,0,0,0,0,0,1,0,0,3.69,4
+MATH,446,59648,Applied Complex Variables,0,7,2,6,6,2,2,5,2,0,2,0,0,0,2.91,4
+MATH,447,32136,Real Variables,2,5,6,3,2,4,1,2,0,0,1,0,1,0,3.14,4
+MATH,447,32138,Real Variables,1,5,2,4,8,0,0,1,0,0,1,0,1,0,3.12,4
+MATH,453,32140,Elementary Theory of Numbers,2,7,4,2,4,2,4,3,0,0,0,0,0,0,3.22,4
+MATH,453,32147,Elementary Theory of Numbers,3,10,4,2,6,0,2,1,0,0,0,0,0,0,3.52,4
+MATH,461,39200,Probability Theory,4,7,4,4,6,2,4,0,3,1,0,2,0,0,3.04,4
+MATH,461,33523,Probability Theory,8,2,2,3,7,5,1,4,0,1,0,1,1,0,2.97,4
+MATH,461,39204,Probability Theory,5,4,3,2,8,1,3,5,0,2,1,0,2,0,2.82,4
+MATH,471,46076,Actuarial Theory I,6,11,5,4,6,8,5,2,2,2,3,1,2,1,2.88,4
+MATH,471,54381,Actuarial Theory I,9,4,12,8,6,3,2,2,3,1,1,2,1,0,3.07,4
+MATH,476,39138,Actuarial Risk Theory,1,6,8,7,13,6,2,1,3,0,1,0,0,0,3.09,4
+MATH,476,30806,Actuarial Risk Theory,3,8,7,9,5,8,2,4,5,1,2,0,2,2,2.86,4
+MATH,482,30808,Linear Programming,5,9,6,1,1,0,0,1,1,1,1,0,0,0,3.48,4
+MATH,482,66990,Linear Programming,3,11,5,2,2,2,0,0,0,0,0,1,0,1,3.58,4
+MATH,484,30809,Nonlinear Programming,0,8,3,0,4,1,0,1,3,0,1,0,3,0,2.74,3
+MATH,489,30810,Dynamics & Differential Eqns,0,4,8,4,0,1,1,1,1,0,0,0,2,0,3.08,4
+MATH,500,30815,Abstract Algebra I,4,5,6,6,2,0,0,1,0,0,1,0,0,3,3.48,4
+MATH,540,30824,Real Analysis,3,3,7,4,3,1,0,0,0,0,0,0,0,0,3.56,4
+MATH,564,33547,Applied Stochastic Processes,3,11,4,3,2,1,0,0,0,0,0,0,0,0,3.72,4
+MATH,567,49163,Topics in Actuarial Theory I,5,4,4,4,1,0,1,1,0,0,1,0,0,0,3.44,4
+MATH,580,33562,Combinatorial Mathematics,0,13,6,3,1,1,0,0,0,0,0,0,0,0,3.74,4
+MBA,501,38611,Accountancy I,2,12,9,12,10,2,0,0,0,0,0,0,0,0,3.5,4
+MBA,501,43816,DataAnalysis for Bus Decisions,2,6,16,10,11,2,0,0,0,0,0,0,0,0,3.45,4
+MBA,501,54116,Managerial Economics,0,22,20,4,1,0,0,0,0,0,0,0,0,0,3.78,4
+MBA,501,54112,Leading People & Organizations,0,7,13,11,8,4,1,2,0,0,0,0,0,0,3.33,4
+MBA,501,38608,Marketing Management,4,16,20,5,2,0,0,0,0,0,0,0,0,0,3.75,4
+MBA,502,54132,Professional Communication,1,6,9,14,9,7,1,0,0,0,0,0,0,0,3.31,4
+MBA,502,38613,Marketing Management,4,21,17,5,0,0,0,0,0,0,0,0,0,0,3.81,4
+MBA,502,54134,Manufacturing&Service ProcMgmt,0,9,7,14,13,3,1,0,0,0,0,0,0,0,3.35,4
+MBA,502,43822,Organization Theory & Design,0,18,12,8,7,0,0,2,0,0,0,0,0,0,3.57,4
+MCB,100,30499,Introductory Microbiology,32,29,17,32,27,28,17,16,17,8,5,6,9,4,2.83,4
+MCB,101,32522,Intro Microbiology Laboratory,34,27,22,26,23,14,5,0,2,1,1,2,1,0,3.39,4
+MCB,150,33660,Molec & Cellular Basis of Life,2,2,1,5,2,2,4,0,0,1,0,1,1,0,2.81,4
+MCB,150,45218,Molec & Cellular Basis of Life,2,1,2,0,3,7,2,3,0,3,0,0,0,0,2.68,3
+MCB,150,33812,Molec & Cellular Basis of Life,3,2,1,3,2,3,2,1,2,1,1,0,0,0,2.86,4
+MCB,150,33676,Molec & Cellular Basis of Life,0,4,1,3,4,0,2,5,2,0,0,0,0,0,2.84,4
+MCB,150,33849,Molec & Cellular Basis of Life,0,4,0,3,5,4,2,2,1,0,0,0,0,0,2.95,4
+MCB,150,33823,Molec & Cellular Basis of Life,0,1,1,2,5,4,4,1,3,1,1,0,0,0,2.55,3
+MCB,150,33825,Molec & Cellular Basis of Life,1,3,3,2,2,4,4,3,0,0,0,0,0,0,2.99,4
+MCB,150,33820,Molec & Cellular Basis of Life,2,1,1,4,4,5,2,1,1,1,0,0,2,0,2.67,3
+MCB,150,33864,Molec & Cellular Basis of Life,4,2,4,5,2,3,0,0,1,0,0,0,1,0,3.23,4
+MCB,150,33840,Molec & Cellular Basis of Life,0,1,3,1,1,1,6,1,3,2,0,1,1,0,2.3,2
+MCB,150,34009,Molec & Cellular Basis of Life,0,2,2,1,1,1,5,3,3,1,0,0,2,0,2.3,2
+MCB,150,52529,Molec & Cellular Basis of Life,1,2,0,5,2,4,2,2,2,0,0,1,0,0,2.76,4
+MCB,150,40543,Molec & Cellular Basis of Life,1,1,1,2,2,2,0,4,5,1,0,1,1,1,2.29,2
+MCB,150,40552,Molec & Cellular Basis of Life,1,2,4,1,3,4,2,1,3,1,0,0,0,0,2.85,4
+MCB,170,56495,Society and the Brain,15,59,26,16,7,5,4,0,0,1,2,0,3,0,3.56,4
+MCB,199,45219,Undergraduate Open Seminar,2,9,2,4,1,1,1,1,0,0,0,1,0,1,3.42,4
+MCB,244,56301,Human Anatomy & Physiology I,11,20,56,84,76,143,89,67,63,27,16,13,14,2,2.54,3
+MCB,245,56303,Human Anat & Physiol Lab I,2,1,3,3,5,4,3,1,3,0,1,2,1,0,2.59,3
+MCB,245,56304,Human Anat & Physiol Lab I,1,0,2,5,3,4,3,2,4,2,2,0,0,1,2.5,3
+MCB,245,56305,Human Anat & Physiol Lab I,0,0,5,2,0,6,2,4,3,4,1,1,0,1,2.35,2
+MCB,245,56306,Human Anat & Physiol Lab I,4,0,1,0,2,5,2,0,3,5,0,2,1,1,2.27,2
+MCB,245,56307,Human Anat & Physiol Lab I,1,1,0,3,1,3,6,3,4,1,1,1,1,1,2.26,2
+MCB,245,56308,Human Anat & Physiol Lab I,0,0,2,4,3,6,1,2,3,1,6,1,1,0,2.17,2
+MCB,245,56309,Human Anat & Physiol Lab I,0,0,1,2,2,3,0,5,4,1,2,4,2,1,1.81,1
+MCB,245,56310,Human Anat & Physiol Lab I,0,0,1,1,1,3,3,1,3,3,4,1,4,2,1.63,1
+MCB,245,56311,Human Anat & Physiol Lab I,4,0,5,1,3,4,1,3,5,0,0,1,2,0,2.58,3
+MCB,245,56312,Human Anat & Physiol Lab I,0,1,1,2,6,6,4,3,3,1,1,1,0,0,2.47,2
+MCB,245,58103,Human Anat & Physiol Lab I,0,1,2,4,1,2,3,3,2,0,1,0,6,0,2.01,2
+MCB,245,58104,Human Anat & Physiol Lab I,1,5,2,1,1,5,5,0,5,0,2,0,1,0,2.61,3
+MCB,245,58105,Human Anat & Physiol Lab I,0,0,1,2,1,4,3,3,1,1,1,3,6,0,1.65,1
+MCB,245,58107,Human Anat & Physiol Lab I,1,0,0,0,1,2,5,3,4,1,1,3,3,0,1.71,1
+MCB,245,58109,Human Anat & Physiol Lab I,1,1,3,3,2,8,1,0,3,1,1,1,2,0,2.47,2
+MCB,245,58110,Human Anat & Physiol Lab I,0,0,2,3,2,7,4,1,3,1,0,1,3,0,2.24,2
+MCB,245,60050,Human Anat & Physiol Lab I,0,0,0,0,3,2,2,3,4,1,2,0,6,1,1.52,1
+MCB,245,60053,Human Anat & Physiol Lab I,0,1,0,0,4,3,5,1,1,4,3,3,2,0,1.84,1
+MCB,245,60054,Human Anat & Physiol Lab I,0,0,0,0,5,4,2,4,2,1,5,3,1,0,1.85,1
+MCB,250,33852,Molecular Genetics,1,1,2,4,4,2,3,1,1,2,1,0,0,0,2.74,3
+MCB,250,33856,Molecular Genetics,1,1,0,1,3,3,3,2,3,0,2,0,3,0,2.11,2
+MCB,250,33861,Molecular Genetics,1,3,5,2,2,1,3,0,1,2,1,1,1,0,2.72,3
+MCB,250,34051,Molecular Genetics,1,5,3,3,2,1,1,1,2,0,1,0,1,0,2.97,4
+MCB,250,33904,Molecular Genetics,1,0,2,4,5,1,2,1,3,0,1,0,1,0,2.62,3
+MCB,250,33900,Molecular Genetics,9,7,4,1,1,0,0,0,0,0,0,0,0,0,3.86,4
+MCB,250,40568,Molecular Genetics,0,2,5,4,4,2,2,1,2,0,0,0,2,0,2.79,4
+MCB,250,34008,Molecular Genetics,2,1,3,4,5,3,3,0,0,0,0,0,0,0,3.16,4
+MCB,251,33916,Exp Techniqs in Molecular Biol,4,6,4,3,2,0,1,0,0,1,0,0,1,1,3.38,4
+MCB,251,33929,Exp Techniqs in Molecular Biol,6,8,5,2,2,0,0,0,0,0,0,0,0,0,3.78,4
+MCB,251,34057,Exp Techniqs in Molecular Biol,9,5,5,2,1,0,0,0,0,0,0,0,0,0,3.82,4
+MCB,251,34074,Exp Techniqs in Molecular Biol,10,4,3,2,1,0,1,0,0,0,0,0,0,0,3.76,4
+MCB,251,34120,Exp Techniqs in Molecular Biol,8,9,2,4,0,0,1,0,0,0,0,0,0,0,3.79,4
+MCB,251,34125,Exp Techniqs in Molecular Biol,5,8,5,1,2,1,0,0,0,0,0,0,1,0,3.58,4
+MCB,251,34134,Exp Techniqs in Molecular Biol,3,5,11,3,1,0,0,0,0,0,0,0,0,0,3.71,4
+MCB,251,34140,Exp Techniqs in Molecular Biol,3,12,4,4,0,0,0,0,0,0,0,0,0,0,3.83,4
+MCB,251,34145,Exp Techniqs in Molecular Biol,2,10,8,2,0,0,0,0,0,0,0,0,0,0,3.82,4
+MCB,253,47332,Exp Techniqs in Cellular Biol,1,6,12,0,0,0,1,1,0,0,1,0,0,0,3.52,4
+MCB,297,54821,MCB Honors Discussion,9,7,5,0,2,0,0,0,0,0,0,0,0,0,3.84,4
+MCB,300,30502,Microbiology,1,5,7,18,19,12,16,6,1,1,0,0,0,0,2.92,4
+MCB,301,33583,Experimental Microbiology,0,5,4,3,3,4,2,1,0,0,0,0,0,0,3.23,4
+MCB,301,33584,Experimental Microbiology,0,3,3,4,6,1,2,0,2,1,0,0,0,0,3.02,4
+MCB,301,33588,Experimental Microbiology,0,4,3,6,4,2,2,3,0,0,0,0,0,0,3.12,4
+MCB,301,39770,Experimental Microbiology,1,0,6,8,5,1,1,0,0,0,0,0,0,1,3.3,4
+MCB,301,54596,Experimental Microbiology,0,1,2,6,2,3,3,3,2,0,0,1,0,0,2.71,3
+MCB,314,55475,Introduction to Neurobiology,9,31,23,14,18,19,5,10,9,5,7,0,8,2,2.89,4
+MCB,354,40596,Biochem & Phys Basis of Life,1,2,4,2,2,4,3,1,1,1,0,0,0,0,2.95,4
+MCB,354,40602,Biochem & Phys Basis of Life,2,1,1,0,3,3,6,2,1,2,0,0,0,0,2.62,3
+MCB,354,40607,Biochem & Phys Basis of Life,1,4,1,3,3,2,1,1,1,2,3,1,0,0,2.62,3
+MCB,354,40613,Biochem & Phys Basis of Life,3,2,1,2,2,2,3,3,2,0,0,0,1,0,2.76,4
+MCB,400,31654,Cancer Cell Biology,8,16,15,12,8,9,3,2,5,0,1,1,1,0,3.21,4
+MCB,401,30555,Cell & Membrane Physiology,0,29,0,0,23,0,0,9,0,0,2,0,0,1,3.25,4
+MCB,413,60060,Endocrinology,3,20,7,7,17,5,5,5,3,1,2,1,1,2,3.07,4
+MCB,426,30515,Bacterial Pathogenesis,0,2,8,7,10,9,4,2,2,0,0,1,0,0,2.93,4
+MCB,428,32533,Microbial Pathogens Laboratory,1,6,6,3,4,1,2,2,1,0,0,0,0,0,3.27,4
+MCB,436,60483,Global Biosecurity,62,21,5,0,1,0,0,0,0,0,0,0,0,1,3.97,4
+MCB,450,40594,Introductory Biochemistry,14,33,37,39,33,34,30,23,7,18,5,4,4,0,2.86,4
+MCB,461,59992,Cell & Molecular Neuroscience,25,26,18,9,7,5,4,0,0,0,0,0,0,0,3.66,4
+MCB,471,66483,Advanced Cell Biology,3,4,11,2,10,1,0,1,0,0,0,0,0,0,3.43,4
+MCB,501,39763,Advanced Biochemistry,3,13,5,7,8,3,0,0,0,0,0,0,0,1,3.53,4
+MCB,502,39764,Advanced Molecular Genetics,2,6,9,10,9,2,1,0,0,0,0,0,0,1,3.41,4
+MDIA,100,66238,College of Media Orientation,18,57,21,9,16,7,3,3,3,3,1,3,4,0,3.37,4
+MDIA,199,61308,James Bond & Soc. Change,2,3,5,4,3,2,1,1,0,0,0,0,0,0,3.35,4
+MDIA,290,66965,ESPN: This Is SportsCenter,0,17,7,1,5,0,1,1,0,0,1,0,4,0,3.17,4
+MDIA,370,66561,Advanced Media Sales,76,0,0,0,0,0,0,0,0,0,0,1,1,0,3.91,4
+MDIA,390,62691,Digital Photo. for Everyone,11,10,2,2,3,1,0,0,0,0,0,0,2,0,3.54,4
+ME,170,36693,Computer-Aided Design,97,71,18,5,4,1,1,0,0,1,0,0,0,0,3.9,4
+ME,199,56507,Design Projects,5,38,1,0,1,0,0,0,0,0,0,0,0,0,3.97,4
+ME,199,40457,Automotive Design Projects,18,101,1,0,0,0,0,4,0,0,0,0,0,0,3.93,4
+ME,270,64669,Design for Manufacturability,11,30,13,16,33,16,11,10,6,2,2,0,1,0,3.09,4
+ME,300,32240,Thermodynamics,3,26,26,9,83,14,7,0,0,0,0,0,2,0,3.2,4
+ME,300,32241,Thermodynamics,8,4,11,21,21,10,4,5,2,1,0,1,1,1,3.06,4
+ME,310,33317,Fundamentals of Fluid Dynamics,4,15,2,5,14,7,5,11,0,0,0,0,0,0,3.08,4
+ME,310,33318,Fundamentals of Fluid Dynamics,4,10,5,5,6,8,8,9,3,0,0,0,0,0,2.97,4
+ME,320,33401,Heat Transfer,1,9,0,9,6,3,6,2,3,2,1,2,0,0,2.82,4
+ME,320,33403,Heat Transfer,1,8,0,0,26,0,0,14,2,0,0,0,0,1,2.85,4
+ME,330,36512,Engineering Materials,6,7,13,19,23,8,4,1,2,0,0,0,0,0,3.23,4
+ME,330,36518,Engineering Materials,27,44,13,13,4,0,0,0,0,1,0,0,0,0,3.81,4
+ME,340,36615,Dynamics of Mechanical Systems,14,17,0,9,9,10,0,0,2,1,0,0,0,0,3.42,4
+ME,340,36620,Dynamics of Mechanical Systems,8,15,13,5,4,5,0,0,2,0,0,0,0,1,3.56,4
+ME,360,36667,Signal Processing,3,2,6,7,12,9,4,2,0,0,1,0,1,0,2.97,4
+ME,360,36673,Signal Processing,5,26,14,5,5,1,1,1,0,0,0,0,0,0,3.69,4
+ME,360,66251,Signal Processing,1,1,10,9,7,7,1,0,1,0,0,0,0,0,3.2,4
+ME,370,32242,Mechanical Design I,5,16,12,6,8,3,0,1,0,0,0,0,1,1,3.5,4
+ME,371,32244,Mechanical Design II,1,15,15,20,7,0,1,0,0,0,0,0,0,0,3.54,4
+ME,371,32245,Mechanical Design II,1,16,20,11,7,1,0,0,0,0,0,0,1,0,3.54,4
+ME,403,56133,Internal Combustion Engines,3,7,14,2,5,0,2,0,1,0,0,0,0,0,3.53,4
+ME,420,58135,Intermediate Heat Transfer,2,10,5,5,3,2,0,0,0,0,0,0,0,0,3.61,4
+ME,430,30307,Failure of Engrg Materials,0,14,8,8,3,2,1,2,0,0,0,0,0,0,3.54,4
+ME,451,56092,Computer-Aided Mfg Systems,0,14,5,3,6,0,0,0,0,0,0,0,0,1,3.67,4
+ME,461,30305,Computer Cntrl of Mech Systems,4,30,1,1,2,1,0,0,0,0,0,0,0,0,3.89,4
+ME,470,36716,Senior Design Project,4,70,24,5,8,2,0,0,0,0,0,0,0,0,3.81,4
+ME,471,36848,Finite Element Analysis,6,12,8,10,7,6,4,4,3,0,0,1,0,1,3.21,4
+ME,482,54416,Musculoskel Tissue Mechanics,1,14,13,4,1,0,0,1,0,0,0,0,0,0,3.71,4
+ME,487,55925,MEMS-NEMS Theory & Fabrication,0,5,7,9,5,2,1,0,0,0,0,0,0,0,3.39,4
+MSE,101,30427,Materials in Today's World,1,7,15,4,3,0,0,0,0,0,0,0,0,0,3.65,4
+MSE,182,30429,Introduction to MatSE,4,17,30,10,11,6,0,1,0,0,0,0,0,0,3.52,4
+MSE,201,30431,Phases and Phase Relations,2,14,28,10,6,3,0,0,1,0,0,0,1,0,3.5,4
+MSE,280,30432,Engineering Materials,10,27,22,9,34,14,3,12,0,0,2,0,4,0,3.15,4
+MSE,307,32409,Materials Laboratory I,9,20,13,11,17,14,6,2,0,0,0,0,0,0,3.33,4
+MSE,396,63620,Introduction to Research,20,20,3,2,1,0,0,0,0,0,0,0,0,0,3.93,4
+MSE,401,38343,Thermodynamics of Materials,11,33,1,11,16,12,7,11,4,2,0,0,3,2,3.1,4
+MSE,403,30434,Synthesis of Materials,1,8,2,6,9,0,7,4,1,0,0,0,0,0,3.06,4
+MSE,404,66897,Computational MSE- Macroscale,2,7,4,3,1,2,1,0,1,0,0,0,0,0,3.48,4
+MSE,406,42990,Thermal-Mech Behavior of Matls,0,14,14,13,16,9,10,9,3,0,1,2,1,0,2.95,4
+MSE,443,45664,Design of Engineering Alloys,6,5,4,5,4,2,0,1,1,0,0,1,0,0,3.35,4
+MSE,453,30447,Plastics Engineering,0,4,5,7,6,3,2,1,0,2,0,0,1,0,3,4
+MSE,456,49972,Mechanics of Composites,1,7,5,5,10,5,2,2,1,0,1,0,0,1,3.12,4
+MSE,457,38339,Polymer Chemistry,2,19,6,7,4,1,0,0,1,0,0,0,0,0,3.66,4
+MSE,470,30451,Design and Use of Biomaterials,0,6,35,32,11,4,1,0,1,0,0,0,0,0,3.41,4
+MSE,485,64701,Atomic Scale Simulations,5,11,6,8,11,6,0,0,0,0,0,0,0,0,3.44,4
+MSE,489,57708,Matl Select for Sustainability,7,17,6,4,1,1,0,0,0,0,0,0,0,0,3.81,4
+MSE,500,30462,Statistical Thermodyn of Matls,7,22,6,2,12,0,0,2,0,0,0,0,0,0,3.62,4
+MUS,103,32468,Theory for Non-Music Majors,2,13,8,1,2,4,1,2,1,1,1,0,3,0,3.07,4
+MUS,110,39978,Introd Art Mus: Intl Perspect,19,14,24,20,13,8,1,1,1,0,0,1,3,1,3.37,4
+MUS,130,37707,Introd to the Art of Music,7,63,51,40,25,7,9,8,1,1,0,0,2,1,3.43,4
+MUS,133,37728,Introduction to World Music,38,49,67,19,11,13,5,3,2,1,1,0,0,2,3.58,4
+MUS,133,37746,Introduction to World Music,67,51,56,11,6,3,3,3,4,1,1,0,8,1,3.56,4
+MUS,243,32475,Introductory Music Ed Tech,14,12,6,4,1,1,1,0,0,0,0,0,0,0,3.78,4
+MUS,250,32496,Philharmonia Orchestra,0,54,0,0,3,0,0,0,0,0,0,0,0,0,3.95,4
+MUS,263,30611,Men's Glee Club,0,28,8,2,1,0,0,0,0,0,1,0,0,0,3.8,4
+MUS,268,39680,Wind Symphony,0,35,1,1,1,0,0,0,0,0,0,0,0,0,3.95,4
+MUS,269,33013,Wind Orchestra,0,55,2,0,0,0,0,0,0,0,0,0,1,0,3.92,4
+MUS,271,30616,Hindsley Symphonic Band,0,61,0,0,1,0,0,0,0,0,0,0,1,0,3.92,4
+MUS,272,30617,University Band,0,87,3,0,2,1,0,0,0,0,0,0,1,1,3.91,4
+MUS,313,38184,The History of Music I,2,7,13,7,19,10,3,4,3,5,3,2,16,0,2.36,2
+MUS,333,30595,Cond/Teach Strings-Grp Setting,0,1,3,5,3,3,2,4,0,0,0,0,2,0,2.67,3
+MUS,335,30596,Elem and Mid Sch Instrum Music,0,8,3,2,2,2,1,1,0,0,0,0,2,0,3.11,4
+MUS,346,32488,Choral Mthds Secondary Ensem,0,20,4,4,1,0,0,0,0,0,0,0,1,0,3.7,4
+MUS,348,30605,Choral Literature,0,21,0,0,1,0,0,0,0,0,0,0,0,0,3.95,4
+MUS,408,32649,18th Century,2,5,4,3,5,0,0,1,0,0,0,0,1,0,3.32,4
+MUS,418,42744,Music of Brazil,11,7,3,1,0,0,2,0,1,0,0,0,0,0,3.73,4
+MUS,439,53906,Differentiating Music Instrctn,3,10,1,3,3,3,3,1,0,0,1,0,1,0,3.2,4
+MUS,499,38244,Jazz Forum,14,25,8,0,1,1,0,0,0,0,0,0,0,0,3.9,4
+MUS,501,62407,Western Music before 1750,0,11,10,12,6,8,0,0,0,0,0,0,0,0,3.4,4
+MUSE,200,55606,Introduction to Museums,3,12,1,5,2,1,0,0,0,0,0,0,0,0,3.71,4
+NPRE,100,32850,Orientation to NPRE,7,22,1,0,0,0,1,0,0,0,0,0,2,0,3.7,4
+NPRE,201,30493,Energy Systems,0,29,10,10,4,5,2,1,1,0,0,0,1,2,3.49,4
+NPRE,201,49708,Energy Systems,0,32,11,4,0,2,1,0,0,0,0,0,2,0,3.64,4
+NPRE,247,54919,Modeling Nuclear Energy System,0,3,1,1,5,2,1,5,2,0,2,0,1,0,2.48,2
+NPRE,402,34302,Nuclear Power Engineering,21,35,23,15,13,3,3,1,1,0,0,1,1,1,3.56,4
+NPRE,412,30496,Nuclear Power Econ & Fuel Mgmt,1,4,5,1,3,3,2,2,1,1,0,0,0,0,3.07,4
+NPRE,431,30500,Materials in Nuclear Engrg,0,9,14,5,5,1,11,1,2,0,1,0,1,0,3.07,4
+NPRE,432,30507,Nuclear Engrg Materials Lab,1,16,8,0,1,0,0,1,0,0,0,0,0,1,3.79,4
+NPRE,446,30513,Radiation Interact w/Matter I,5,11,7,8,2,4,0,0,0,0,0,0,0,0,3.59,4
+NPRE,448,30517,Nuclear Syst Engrg & Design,1,4,3,3,5,4,4,3,3,1,8,1,0,0,2.43,2
+NPRE,457,34526,Safety Anlys Nucl Reactor Syst,3,9,6,2,1,0,0,0,0,0,0,0,0,0,3.79,4
+NPRE,481,40865,Writing on Technol & Security,3,12,6,5,1,0,0,0,1,0,0,0,1,0,3.56,4
+NPRE,501,39440,Fundamentals of Nuclear Engrg,0,5,10,2,4,2,0,0,0,0,0,0,1,0,3.36,4
+NRES,100,30533,Fundamentals of Env Sci,0,20,15,5,1,4,2,1,2,0,0,0,1,0,3.44,4
+NRES,102,32865,Introduction to NRES,6,12,17,6,7,6,5,4,0,2,2,2,4,0,2.97,4
+NRES,102,56636,Introduction to NRES,30,57,63,59,33,39,14,9,14,3,5,2,15,2,3.1,4
+NRES,201,32862,Introductory Soils,0,12,4,6,18,10,5,21,3,1,3,1,1,0,2.67,3
+NRES,219,55864,Principles of Ecosystem Mgmt,4,15,11,8,16,7,4,4,2,0,0,0,5,0,3.03,4
+NRES,348,34570,Fish and Wildlife Ecology,15,21,11,12,11,8,2,5,1,1,1,0,1,0,3.34,4
+NRES,419,30579,Env and Plant Ecosystems,0,5,4,2,8,3,0,2,0,0,0,1,0,0,3.12,4
+NRES,429,30583,Aquatic Ecosystem Conservation,2,5,6,7,5,4,1,0,0,0,0,0,2,0,3.17,4
+NRES,454,40130,GIS in Natural Resource Mgmt,2,15,14,13,21,7,3,2,2,0,1,1,2,0,3.14,4
+NRES,454,62154,GIS in Natural Resource Mgmt,6,7,5,3,2,0,0,1,0,0,0,0,0,0,3.68,4
+NRES,593,66956,Statistical Methods in Ecology,1,7,2,8,2,1,0,0,0,0,0,0,0,0,3.55,4
+NS,101,32845,Introduction to Naval Science,1,26,4,1,1,0,0,0,0,0,1,0,0,0,3.82,4
+NUTR,510,34597,Gastrointestinal Fermentation,0,19,0,0,4,0,0,3,0,0,1,0,0,0,3.52,4
+NUTR,561,67059,Metabolic Basis of Weight Mgmt,2,18,1,0,1,0,0,0,0,0,0,0,0,0,3.94,4
+PHIL,100,32905,Intro to Philosophy-ACP,1,4,3,4,6,5,1,0,0,0,0,0,1,0,3.12,4
+PHIL,100,32910,Intro to Philosophy-ACP,0,2,4,4,3,7,1,1,0,0,0,0,0,0,3.09,4
+PHIL,101,34623,Introduction to Philosophy,0,8,4,1,5,1,0,2,0,0,0,0,1,0,3.26,4
+PHIL,101,34626,Introduction to Philosophy,0,3,1,10,4,0,0,0,2,2,1,1,0,0,2.86,4
+PHIL,101,34629,Introduction to Philosophy,0,5,7,3,3,1,2,1,0,1,0,0,2,0,3.01,4
+PHIL,101,42013,Introduction to Philosophy,0,2,4,7,3,4,3,0,0,0,1,0,0,0,3.07,4
+PHIL,101,45942,Introduction to Philosophy,1,5,5,7,4,2,0,0,0,0,0,0,1,0,3.32,4
+PHIL,101,40659,Introduction to Philosophy,0,6,6,4,4,1,1,1,0,0,0,0,0,0,3.41,4
+PHIL,102,65983,Logic and Reasoning,4,15,11,7,8,5,6,3,4,1,0,2,6,2,2.87,4
+PHIL,102,34726,Logic and Reasoning,7,5,4,3,2,1,1,0,0,0,0,1,1,0,3.37,4
+PHIL,102,34729,Logic and Reasoning,7,4,4,0,2,3,1,0,1,0,0,0,0,0,3.49,4
+PHIL,102,34746,Logic and Reasoning,0,5,10,2,1,2,1,0,0,0,0,2,1,0,3.14,4
+PHIL,102,57443,Logic and Reasoning,0,9,9,0,3,1,3,1,0,0,0,0,0,0,3.45,4
+PHIL,104,39415,Intro to Ethics-ACP,0,2,6,2,4,3,1,2,0,0,0,0,1,0,3,4
+PHIL,105,34761,Introduction to Ethics,0,5,2,3,9,5,1,3,1,0,0,0,3,0,2.74,3
+PHIL,107,52102,Intro to Political Philosophy,2,11,9,4,1,2,1,0,0,0,0,0,1,0,3.52,4
+PHIL,202,30618,Symbolic Logic,3,8,1,2,4,2,1,4,0,1,1,1,2,0,2.83,4
+PHIL,203,30620,Ancient Philosophy,0,15,16,16,6,2,1,1,1,0,0,0,5,0,3.2,4
+PHIL,206,30623,Early Modern Philosophy,0,7,13,6,8,8,1,5,0,1,0,1,0,1,3.11,4
+PHIL,230,34784,Philosophy of Religion Intro,0,3,9,8,1,5,0,0,0,0,0,0,0,0,3.39,4
+PHIL,250,60069,Conceptions of Human Nature,0,7,6,9,3,3,0,0,0,0,0,0,2,0,3.23,4
+PHIL,435,55441,Social Philosophy,0,6,2,4,2,4,0,1,0,0,0,0,3,0,2.93,4
+PHIL,441,64572,Existential Philosophy,0,5,5,9,3,2,1,0,0,0,0,0,2,0,3.13,4
+PHYS,100,34792,Thinking About Physics,10,26,24,41,82,23,8,15,8,6,4,2,0,2,3,4
+PHYS,100,56866,Thinking About Physics,9,26,12,22,49,11,6,8,8,4,0,0,0,0,3.08,4
+PHYS,101,34813,College Physics: Mech & Heat,15,22,19,17,16,22,17,14,13,12,6,11,3,2,2.67,3
+PHYS,101,34816,College Physics: Mech & Heat,19,27,14,21,20,16,17,20,11,6,5,4,1,1,2.88,4
+PHYS,102,34469,College Physics: E&M & Modern,8,8,6,3,12,10,10,12,15,5,2,9,2,1,2.41,2
+PHYS,102,34471,College Physics: E&M & Modern,8,7,14,9,15,5,3,12,9,5,5,3,2,0,2.67,3
+PHYS,140,34767,How Things Work,10,9,9,13,7,6,6,4,3,2,0,0,0,0,3.17,4
+PHYS,150,30671,Physics of Societal Issues,0,6,2,6,3,2,2,2,1,1,0,1,1,0,2.89,4
+PHYS,199,67244,Undergraduate Open Seminar,9,20,2,1,0,1,1,1,0,0,1,0,0,0,3.74,4
+PHYS,211,55650,University Physics: Mechanics,68,52,26,28,13,16,12,14,8,9,6,8,3,3,3.21,4
+PHYS,211,34564,University Physics: Mechanics,67,50,23,29,23,14,13,9,14,10,8,17,7,1,3.03,4
+PHYS,211,34566,University Physics: Mechanics,39,32,20,23,19,16,17,24,15,11,12,15,3,1,2.78,4
+PHYS,212,43044,University Physics: Elec & Mag,32,37,22,29,32,41,23,20,24,11,6,8,3,1,2.84,4
+PHYS,212,34734,University Physics: Elec & Mag,29,41,28,32,30,33,31,25,19,12,5,4,6,0,2.86,4
+PHYS,212,34736,University Physics: Elec & Mag,27,47,33,24,21,30,30,26,17,10,9,11,6,1,2.82,4
+PHYS,212,55938,University Physics: Elec & Mag,45,27,22,12,19,16,12,23,12,15,6,11,5,3,2.83,4
+PHYS,213,34643,Univ Physics: Thermal Physics,28,30,20,26,27,27,6,14,9,8,6,8,10,0,2.85,4
+PHYS,213,34645,Univ Physics: Thermal Physics,31,34,20,38,42,33,18,15,11,12,3,3,6,0,2.95,4
+PHYS,214,34891,Univ Physics: Quantum Physics,31,25,24,27,35,16,14,17,7,6,4,1,2,1,3.07,4
+PHYS,214,34894,Univ Physics: Quantum Physics,20,36,24,43,46,32,16,30,10,7,6,3,3,4,2.93,4
+PHYS,225,55728,Relativity & Math Applications,18,37,42,22,16,12,5,5,1,0,1,0,1,1,3.45,4
+PHYS,325,32694,Classical Mechanics I,14,21,13,12,17,6,5,6,5,1,2,2,3,3,3.1,4
+PHYS,326,32751,Classical Mechanics II,4,10,5,4,10,7,8,0,4,0,3,0,4,0,2.79,4
+PHYS,401,32710,Classical Physics Lab,2,10,11,5,1,0,1,0,2,0,0,0,5,0,3.07,4
+PHYS,402,33052,Light,6,7,4,0,8,0,0,2,1,0,0,0,0,0,3.43,4
+PHYS,403,30674,Modern Experimental Physics,8,13,0,0,1,0,0,0,0,0,0,0,0,0,3.95,4
+PHYS,404,57729,Electronic Circuits,1,2,2,5,5,5,1,1,0,0,0,0,0,0,3.12,4
+PHYS,427,30681,Thermal & Statistical Physics,1,4,9,6,12,7,2,4,0,2,0,0,1,0,2.98,4
+PHYS,435,32763,Electromagnetic Fields I,19,13,9,10,12,14,19,0,3,4,2,2,3,2,2.96,4
+PHYS,436,32773,Electromagnetic Fields II,7,12,14,17,6,2,4,1,2,0,0,0,0,0,3.42,4
+PHYS,460,30688,Condensed Matter Physics,2,2,3,8,1,4,2,5,2,3,2,0,2,0,2.54,3
+PHYS,475,63376,Introduction to Biophysics,4,9,6,7,8,2,3,3,0,0,1,0,0,0,3.28,4
+PHYS,485,30685,Atomic Phys & Quantum Theory,2,6,10,6,2,6,7,2,0,0,0,3,0,1,3.02,4
+PHYS,486,32793,Quantum Physics I,24,8,8,16,4,2,9,3,3,3,3,3,2,0,3.06,4
+PHYS,487,32796,Quantum Physics II,5,13,5,3,8,3,0,0,0,0,0,0,0,0,3.58,4
+PHYS,508,52340,Mathematical Physics I,3,5,9,7,0,2,0,4,0,0,0,0,0,0,3.39,4
+PHYS,580,30709,Quantum Mechanics I,1,10,6,10,4,5,0,0,0,0,0,0,1,0,3.37,4
+PHYS,582,30717,General Field Theory,6,14,8,2,2,3,0,3,0,0,0,0,0,1,3.58,4
+PLPA,407,43810,Diseases of Field Crops,2,12,2,2,6,0,1,2,0,2,1,0,0,1,3.27,4
+POL,115,53619,Intro to Polish Culture,0,17,8,4,1,0,0,0,0,0,0,0,0,0,3.79,4
+PS,100,32817,Intro to Political Science,13,34,18,8,12,7,6,4,1,2,0,2,1,1,3.36,4
+PS,100,32816,Intro to Political Science,3,18,10,17,16,6,3,2,4,0,0,0,2,0,3.2,4
+PS,100,54020,Intro to Political Science,0,11,5,1,3,1,0,0,0,0,0,0,0,0,3.68,4
+PS,100,47375,Intro to Political Science,1,10,3,2,7,1,0,1,0,0,0,0,0,0,3.49,4
+PS,101,38476,Intro to US Gov & Pol,21,43,33,17,29,19,6,9,3,1,4,0,5,0,3.23,4
+PS,101,43072,Intro to US Gov & Pol,0,0,5,6,6,5,12,14,5,3,3,3,7,1,2.07,2
+PS,101,63033,Intro to US Gov & Pol,0,44,15,6,4,0,0,1,0,1,0,0,1,1,3.7,4
+PS,199,55924,Civic Leadership,3,5,6,6,2,0,1,0,0,0,0,0,0,0,3.58,4
+PS,202,40308,Religion & Politics in the US,0,22,11,10,20,3,2,2,1,0,2,0,0,0,3.32,4
+PS,220,40309,Intro to Public Policy,0,21,1,4,41,1,3,19,0,0,9,0,5,0,2.7,3
+PS,224,67345,Politics of the National Parks,39,10,5,2,5,2,0,2,0,0,1,0,6,0,3.42,4
+PS,240,47845,Intro to Comp Politics,0,13,2,1,1,1,0,0,1,0,0,0,2,0,3.33,4
+PS,241,43107,Comp Politics in Dev Nations,4,14,7,14,8,9,4,4,3,1,0,4,2,0,2.96,4
+PS,241,67344,Comp Politics in Dev Nations,0,15,11,5,4,2,3,2,2,1,1,1,10,1,2.66,3
+PS,270,32873,Intro to Political Theory,10,22,13,12,5,4,6,1,0,1,0,0,1,1,3.45,4
+PS,280,38360,Intro to Intl Relations,0,6,5,2,4,3,3,0,0,0,0,0,1,0,3.17,4
+PS,280,38451,Intro to Intl Relations,13,40,16,6,3,1,3,0,0,0,0,0,1,0,3.73,4
+PS,280,39376,Intro to Intl Relations,7,7,7,9,12,7,6,7,7,0,8,0,4,0,2.64,3
+PS,301,30635,The US Constitution I,2,9,12,17,12,12,5,8,1,0,1,1,3,1,2.94,4
+PS,303,43862,The US Congress,11,10,7,11,7,5,7,1,1,0,0,0,1,1,3.29,4
+PS,312,35202,Politics and the Media,1,0,5,6,5,7,7,7,5,3,0,0,3,1,2.42,2
+PS,321,59712,Principles of Public Policy,1,4,1,7,9,3,4,7,0,1,0,1,3,1,2.62,3
+PS,390,46741,American Foreign Policy,2,19,10,13,9,12,3,2,1,2,2,1,7,0,2.9,4
+PSM,501,54911,PSM Industry Seminar I,22,4,3,0,0,0,1,0,0,0,0,0,0,0,3.91,4
+PSYC,100,35690,Intro Psych,2,3,5,6,9,5,0,2,4,2,2,2,3,0,2.56,3
+PSYC,100,35695,Intro Psych,8,0,5,9,9,0,5,3,2,2,1,0,1,0,2.93,4
+PSYC,100,35699,Intro Psych,0,6,6,7,12,0,4,5,2,1,0,0,2,0,2.87,4
+PSYC,100,52334,Intro Psych,4,4,6,5,8,3,6,2,2,3,0,0,1,0,2.91,4
+PSYC,100,50609,Intro Psych,1,3,3,6,7,4,7,5,1,2,1,0,3,0,2.57,3
+PSYC,100,35704,Intro Psych,3,4,5,10,5,9,5,2,2,2,1,0,0,0,2.94,4
+PSYC,100,35716,Intro Psych,3,6,5,6,6,6,3,3,4,2,1,0,2,0,2.8,4
+PSYC,100,43472,Intro Psych,3,6,3,7,9,3,1,5,3,4,1,0,1,0,2.8,4
+PSYC,100,35719,Intro Psych,3,6,2,6,7,7,2,6,3,2,1,1,2,0,2.69,3
+PSYC,100,35723,Intro Psych,1,7,8,2,5,6,6,2,2,2,2,0,2,1,2.78,4
+PSYC,100,35726,Intro Psych,2,8,3,10,6,3,5,3,0,2,0,1,2,1,2.92,4
+PSYC,100,35368,Intro Psych,1,3,1,5,9,3,3,1,1,4,0,0,0,0,2.82,4
+PSYC,100,35360,Intro Psych,2,4,2,8,9,9,3,1,4,3,0,0,1,0,2.8,4
+PSYC,100,35381,Intro Psych,5,3,2,8,9,2,3,3,4,1,3,0,2,0,2.72,3
+PSYC,100,35389,Intro Psych,2,2,6,6,6,9,1,2,3,2,1,0,1,0,2.81,4
+PSYC,100,35403,Intro Psych,2,4,4,9,5,6,3,2,1,1,1,0,0,0,3.02,4
+PSYC,100,35420,Intro Psych,3,3,3,5,6,4,2,3,0,4,1,0,3,0,2.63,3
+PSYC,100,35725,Intro Psych,3,5,2,3,8,1,2,4,1,1,1,1,4,0,2.59,3
+PSYC,100,35499,Intro Psych,6,3,5,4,3,0,0,0,0,0,0,0,0,0,3.65,4
+PSYC,100,35455,Intro Psych,3,5,1,12,8,3,1,5,1,1,0,0,2,0,2.93,4
+PSYC,100,35481,Intro Psych,3,4,5,6,6,5,3,4,3,2,0,2,2,0,2.7,3
+PSYC,100,35487,Intro Psych,1,2,1,6,8,8,9,5,1,4,1,0,0,1,2.61,3
+PSYC,100,49229,Intro Psych,3,5,2,7,11,5,3,2,3,2,2,1,0,0,2.83,4
+PSYC,100,35492,Intro Psych,1,7,6,7,10,2,2,4,5,1,1,2,0,0,2.86,4
+PSYC,100,35394,Intro Psych,1,7,4,10,5,10,3,3,3,0,0,0,1,0,2.97,4
+PSYC,100,35507,Intro Psych,2,11,4,6,8,5,3,3,2,0,0,0,1,0,3.12,4
+PSYC,100,35523,Intro Psych,4,1,6,7,3,4,4,1,2,1,2,0,0,0,2.94,4
+PSYC,100,35514,Intro Psych,0,98,0,0,75,0,0,73,0,0,2,0,13,2,2.93,4
+PSYC,103,32917,Intro Experimental Psych,0,19,0,0,20,0,0,6,0,0,1,0,2,0,3.1,4
+PSYC,105,49911,Psych Introduction,0,13,2,4,1,1,1,2,0,0,0,0,0,0,3.53,4
+PSYC,201,35741,Intro to Social Psych,7,7,4,3,5,5,3,5,1,1,1,1,2,0,2.9,4
+PSYC,201,35742,Intro to Social Psych,5,3,4,4,5,5,4,5,2,0,1,1,7,0,2.45,2
+PSYC,201,35743,Intro to Social Psych,2,11,2,7,5,8,4,3,0,1,1,0,0,1,3.11,4
+PSYC,201,35744,Intro to Social Psych,5,7,7,5,5,2,3,5,2,2,1,2,1,1,2.89,4
+PSYC,201,35746,Intro to Social Psych,7,4,1,10,8,7,2,4,2,0,0,1,0,0,3.05,4
+PSYC,201,35747,Intro to Social Psych,6,2,3,4,14,3,5,5,1,1,1,1,0,0,2.88,4
+PSYC,201,35748,Intro to Social Psych,6,6,4,4,7,7,2,4,1,1,1,0,2,0,2.94,4
+PSYC,201,41856,Intro to Social Psych,5,6,4,5,6,3,6,1,1,2,1,0,2,0,2.92,4
+PSYC,201,35737,Intro to Social Psych,7,5,5,5,6,3,3,4,3,0,0,1,1,0,3.02,4
+PSYC,201,35740,Intro to Social Psych,7,9,6,4,5,4,2,4,1,1,2,0,1,0,3.1,4
+PSYC,204,64431,Intro to Brain and Cognition,18,52,16,7,14,7,7,3,4,0,2,3,1,0,3.4,4
+PSYC,210,30673,Behavioral Neuroscience,4,32,15,11,30,7,5,16,6,12,5,2,8,2,2.75,4
+PSYC,216,30675,Child Psych,0,66,0,0,55,0,0,24,0,0,17,0,5,0,2.96,4
+PSYC,224,30678,Cognitive Psych,3,56,0,0,52,0,0,33,0,0,5,0,9,0,2.93,4
+PSYC,230,30680,Perception & Sensory Processes,0,129,0,0,27,0,0,12,0,0,7,0,8,0,3.43,4
+PSYC,235,38034,Intro to Statistics,2,10,3,0,3,2,1,4,0,2,0,1,2,0,2.9,4
+PSYC,238,38052,Abnormal Psych,10,21,7,3,3,1,1,0,0,0,0,0,1,0,3.7,4
+PSYC,238,38053,Abnormal Psych,8,20,7,2,5,1,0,1,0,0,1,1,2,0,3.45,4
+PSYC,238,38054,Abnormal Psych,2,8,3,5,5,3,2,0,0,1,1,0,1,0,3.15,4
+PSYC,238,38088,Abnormal Psych,2,9,4,3,3,1,0,0,0,0,0,0,1,0,3.49,4
+PSYC,238,38090,Abnormal Psych,2,10,6,4,6,1,1,0,0,1,0,0,0,0,3.47,4
+PSYC,238,38091,Abnormal Psych,0,18,7,5,4,1,0,0,0,0,0,0,2,0,3.49,4
+PSYC,238,38092,Abnormal Psych,0,25,7,2,5,1,1,1,1,0,0,1,0,0,3.56,4
+PSYC,238,48047,Abnormal Psych,1,22,9,8,7,0,0,0,0,0,0,1,0,0,3.61,4
+PSYC,238,48048,Abnormal Psych,0,14,6,9,2,2,1,1,0,0,0,0,0,0,3.53,4
+PSYC,239,30683,Community Psych,28,14,14,5,6,4,2,1,1,0,0,0,1,0,3.59,4
+PSYC,245,32647,Industrial Org Psych,16,37,14,15,20,6,11,8,1,2,0,6,4,3,3.14,4
+PSYC,248,30686,Learning and Memory,3,9,12,12,19,15,23,10,5,4,2,2,7,0,2.6,3
+PSYC,250,30689,Psych of Personality,20,16,18,20,19,10,11,7,5,4,1,2,4,0,3.04,4
+PSYC,312,56233,Psychology of Race & Ethnicity,0,12,18,19,19,11,11,3,2,1,1,0,0,1,3.1,4
+PSYC,333,32676,Social Psych in Society Lab,0,22,16,7,15,7,2,6,0,0,0,0,4,0,3.17,4
+PSYC,336,51243,Alcohol and Alcoholism,3,14,12,7,4,1,1,1,0,0,0,0,0,1,3.59,4
+PSYC,336,51387,Self In Virtual Communities,2,5,8,5,1,2,0,1,0,0,0,0,0,0,3.51,4
+PSYC,336,66133,Stress&Resilency in Childhood,0,7,8,4,8,2,1,0,1,0,0,0,0,0,3.36,4
+PSYC,350,39819,Personality Lab,0,53,0,0,13,0,0,1,0,0,1,0,2,0,3.63,4
+PSYC,353,43330,Social Cognition,0,31,0,0,23,0,0,15,0,0,1,0,2,1,3.11,4
+PSYC,357,55645,Intro Cognitive Science,3,2,2,3,4,2,7,1,0,0,3,0,5,0,2.37,2
+PSYC,363,41810,Developmental Child Psych Lab,5,21,3,7,6,2,1,2,0,0,0,0,2,0,3.43,4
+PSYC,403,43369,Memory and Amnesia,0,131,0,0,45,0,0,15,0,0,7,0,3,1,3.47,4
+PSYC,406,30696,Statistical Methods I,1,27,2,0,1,0,0,0,0,0,0,0,0,0,3.95,4
+PSYC,417,65349,Neurosci of Eating & Drinking,16,12,10,1,2,0,0,2,0,0,0,0,0,0,3.77,4
+PSYC,433,51752,Evolutionary Neuroscience,8,12,11,4,10,4,3,6,1,1,3,0,5,0,2.96,4
+PSYC,465,37976,Personality and Soc Dev,16,23,10,19,12,9,9,3,4,1,0,0,0,0,3.33,4
+PSYC,468,67278,Psych and Law,0,15,5,3,3,1,0,0,0,0,0,0,1,0,3.57,4
+PSYC,475,43332,Personnel Psych,4,6,9,13,6,3,2,4,3,3,2,0,1,0,2.96,4
+PSYC,514,48220,Seminar in Cognitive Science,4,6,5,5,2,0,0,0,0,0,0,0,1,0,3.62,4
+REHB,330,38405,Disability in American Society,21,20,13,5,7,3,0,0,1,1,0,0,1,0,3.62,4
+REHB,402,30739,Medical Aspects of Disability,0,0,5,3,5,6,2,4,0,0,0,0,0,0,2.88,4
+RHET,233,37328,Adv Rhetoric & Composition,0,5,5,3,2,2,1,0,0,1,0,1,2,0,2.91,4
+RHET,233,37325,Adv Rhetoric & Composition,4,4,6,4,2,0,1,1,0,0,0,1,0,0,3.41,4
+RLST,101,38402,Bible as Literature,2,8,4,4,4,0,2,0,0,0,1,1,1,0,3.2,4
+RLST,104,38498,Asian Mythology,0,3,5,7,4,1,0,1,0,1,0,1,2,0,2.89,4
+RLST,104,38506,Asian Mythology,0,7,1,4,6,1,0,3,1,1,0,1,0,0,3.01,4
+RLST,104,38426,Asian Mythology,0,4,3,6,5,4,1,0,0,0,0,0,0,0,3.26,4
+RLST,104,38428,Asian Mythology,0,5,3,2,6,1,2,1,0,1,0,0,0,1,3.16,4
+RLST,104,41781,Asian Mythology,0,6,5,4,2,1,2,1,1,1,1,0,0,0,3.13,4
+RLST,108,38392,Religion & Society in West I,41,27,7,2,2,0,0,3,1,0,1,0,0,1,3.8,4
+RLST,110,38367,World Religions,6,7,7,4,0,3,0,0,1,0,0,0,0,0,3.6,4
+RLST,110,38418,World Religions,2,8,2,4,4,3,1,1,0,0,0,1,0,0,3.3,4
+RLST,110,38424,World Religions,1,3,4,4,0,5,2,1,0,1,0,0,0,0,3.11,4
+RLST,110,38436,World Religions,4,7,3,2,5,3,0,1,0,0,0,1,1,0,3.24,4
+RLST,110,38447,World Religions,2,6,5,2,3,8,2,1,0,0,0,0,1,0,3.13,4
+RLST,110,38459,World Religions,8,4,4,2,1,5,1,0,0,0,0,0,0,0,3.52,4
+RLST,110,53435,World Religions,6,3,2,5,1,3,1,2,0,0,0,0,1,0,3.22,4
+RLST,110,58841,World Religions,3,6,2,2,3,7,0,1,0,0,0,0,1,0,3.19,4
+RLST,110,58843,World Religions,2,8,2,5,3,5,1,0,0,0,0,2,0,0,3.21,4
+RLST,110,61600,World Religions,3,6,3,11,1,1,0,1,0,0,0,0,0,0,3.51,4
+RLST,110,61602,World Religions,5,3,9,5,1,4,0,1,0,0,1,0,0,0,3.39,4
+RLST,110,61604,World Religions,2,3,3,4,3,5,3,2,0,0,0,0,0,0,3.11,4
+RLST,110,61606,World Religions,2,9,9,1,0,3,1,1,0,0,0,0,0,1,3.57,4
+RLST,110,61608,World Religions,3,9,2,5,1,3,1,0,0,1,0,0,2,0,3.21,4
+RLST,110,61610,World Religions,2,7,5,3,3,3,0,3,0,0,0,0,0,0,3.36,4
+RLST,110,64067,World Religions,4,3,5,2,2,7,3,0,2,0,0,0,0,0,3.14,4
+RLST,110,64068,World Religions,1,6,5,1,2,5,6,0,2,0,0,0,0,0,3.08,4
+RLST,132,40304,Zen,2,12,8,3,2,1,0,0,0,0,0,0,0,0,3.72,4
+RST,100,42914,RST in Modern Society,17,38,34,24,35,24,8,16,10,2,4,3,1,1,3.1,4
+RST,101,42916,Orientation to RST,0,42,0,0,19,0,0,12,0,0,4,0,11,1,2.88,4
+RST,130,42919,Foundations of Sport Mgt,0,16,23,8,19,1,3,5,0,3,1,0,3,1,3.13,4
+RST,199,66347,Management in RST,3,8,13,12,8,12,1,0,0,3,1,0,2,0,3.1,4
+RST,199,62000,CHAMP Student Athlete Seminar,0,67,0,0,4,0,0,0,0,0,0,0,0,0,3.94,4
+RST,199,63855,Disability in RST,22,24,7,4,3,3,1,2,1,0,1,2,1,1,3.53,4
+RST,199,62789,Communications in RST,0,15,0,0,16,0,0,2,2,0,0,0,0,0,3.3,4
+RST,199,62472,Coaching Wheelchair Basketball,17,8,10,2,5,1,0,0,0,0,0,0,0,0,3.74,4
+RST,200,42921,Leadership in RST,0,26,0,0,14,0,0,2,0,0,0,0,0,1,3.57,4
+RST,200,42922,Leadership in RST,0,7,0,0,18,0,0,6,0,0,0,0,2,0,2.85,4
+RST,217,42923,Public Recreation,3,7,7,5,4,1,0,1,0,1,0,0,1,0,3.34,4
+RST,230,42924,Diversity in RST,2,13,9,5,23,3,2,8,2,0,0,1,3,1,2.98,4
+RST,242,63130,Nature and American Culture,0,65,0,0,21,0,0,4,0,0,1,0,0,1,3.65,4
+RST,242,63131,Nature and American Culture,0,160,0,0,60,0,0,23,0,0,7,0,15,2,3.29,4
+RST,255,42926,Ethical Issues in RST,0,10,0,0,11,0,0,4,0,0,1,0,2,0,2.93,4
+RST,255,42927,Ethical Issues in RST,0,5,0,0,11,0,0,0,0,0,2,0,3,1,2.62,3
+RST,300,42928,Leisure Programming,0,31,0,0,16,0,0,4,0,0,0,0,0,0,3.53,4
+RST,316,42929,Leisure and Human Development,28,13,16,7,3,10,10,3,3,1,2,4,2,0,3.16,4
+RST,320,42930,Leisure Services Marketing,0,34,13,3,8,0,1,2,0,0,2,0,0,1,3.59,4
+RST,330,43053,Leisure and Consumer Culture,2,2,10,6,8,4,4,1,1,0,0,0,4,0,2.87,4
+RST,340,43054,Facility Management in RST,32,11,10,2,0,3,0,0,0,0,0,0,1,0,3.79,4
+RST,354,50624,Legal Aspects of Sport,0,1,5,6,9,5,6,8,3,0,1,0,0,1,2.7,3
+RST,370,43055,Research Methods & Analysis,3,10,6,3,3,4,1,1,0,0,1,0,1,0,3.3,4
+RST,410,44258,Administration of Leisure Serv,5,7,10,2,5,6,0,5,3,0,3,1,5,0,2.72,3
+RST,420,43057,HR Management in RST,8,21,8,5,3,2,1,2,0,0,0,0,1,0,3.58,4
+RST,429,43058,Contemporary Issues in RST,0,13,5,4,13,3,3,9,0,0,1,1,2,0,2.91,4
+RST,480,43062,Orientation to Practicum,19,9,6,2,3,2,1,0,0,0,0,0,3,0,3.5,4
+SCAN,225,49479,Vikings to Volvos: Scandinavia,7,8,5,7,2,0,0,1,0,0,0,0,1,0,3.54,4
+SCAN,251,63053,Viking Mythology,0,17,0,2,1,4,3,0,1,1,0,0,1,1,3.28,4
+SCAN,251,63058,Viking Mythology,0,17,2,2,4,0,1,2,0,1,0,0,0,0,3.51,4
+SCAN,251,63062,Viking Mythology,1,18,2,2,6,1,1,0,0,0,0,0,1,0,3.53,4
+SHS,121,52486,American Sign Language I,0,3,4,3,7,2,0,2,0,0,2,0,0,0,3,4
+SHS,150,56201,Hearing Processes & Disorders,9,7,8,8,5,3,6,4,4,2,1,0,8,0,2.7,3
+SHS,170,30939,Intro Hum Comm Sys & Disorders,29,41,34,12,18,6,2,5,0,0,1,0,0,0,3.58,4
+SHS,222,63237,Lang&Culture Deaf Communities,11,10,0,1,0,0,0,0,0,0,0,0,0,0,3.97,4
+SHS,222,63238,Lang&Culture Deaf Communities,7,6,6,1,0,1,0,0,0,0,0,0,0,0,3.81,4
+SHS,222,63239,Lang&Culture Deaf Communities,10,8,1,0,0,1,0,0,0,0,0,1,0,0,3.76,4
+SHS,270,33109,Comm Disability in the Media,0,93,0,0,8,0,0,0,0,0,2,0,1,1,3.83,4
+SHS,271,32952,Communication and Aging,14,13,13,1,4,3,0,0,0,0,1,0,0,0,3.67,4
+SHS,280,65119,Communication Neuroscience,18,15,17,17,12,10,4,4,5,1,2,1,1,0,3.21,4
+SHS,300,35077,Anat & Physiol Spch Mechanism,5,9,9,8,19,5,9,5,6,0,8,0,2,0,2.76,4
+SHS,320,38672,Development of Spoken Language,0,89,0,0,22,0,0,4,0,0,1,0,1,0,3.68,4
+SHS,375,56237,Comm Partners & Health,17,5,0,0,1,0,0,1,0,0,0,0,0,0,3.88,4
+SHS,375,56238,Comm Partners & Health,25,3,0,0,0,0,0,0,0,0,1,0,0,0,3.9,4
+SHS,375,56239,Comm Partners & Health,22,0,1,1,0,1,1,0,0,0,0,0,1,0,3.7,4
+SHS,383,67080,Neurodev Disorders in Context,5,9,24,9,1,1,3,0,0,0,0,0,0,0,3.59,4
+SHS,431,54164,Lang Disorders Preschool Child,1,13,5,3,4,0,0,0,0,0,0,0,0,0,3.72,4
+SHS,450,32931,Intro Audiol & Hear Disorders,6,23,15,13,9,7,6,1,4,2,0,1,0,0,3.29,4
+SHS,451,30944,Aural Rehab Children to Adults,10,24,10,7,19,5,1,17,1,0,0,0,0,0,3.24,4
+SHS,511,62970,Asst & Mgmt of Voice Disorders,2,12,4,2,2,0,0,0,0,0,0,0,0,0,3.79,4
+SHS,532,48973,Lang Disorders Schl-Age Child,6,15,2,1,0,0,0,0,0,0,0,0,0,0,3.94,4
+SHS,533,30948,Advanced Language Diagnostics,0,25,0,0,3,0,0,0,0,0,0,0,0,0,3.89,4
+SHS,534,60014,Aphasia and Related Disorders,0,17,8,2,1,0,0,0,0,0,0,0,0,0,3.82,4
+SHS,577,54458,Advanced Practicum in SHS,6,14,6,1,0,0,0,0,0,0,0,0,0,0,3.9,4
+SOC,100,45307,Introduction to Sociology,0,7,5,3,4,3,4,1,1,0,0,1,0,0,3.1,4
+SOC,100,33399,Introduction to Sociology,0,9,6,3,3,2,5,1,0,0,0,0,2,0,3.1,4
+SOC,100,35242,Introduction to Sociology,0,11,7,3,4,0,0,1,0,1,1,0,2,0,3.2,4
+SOC,100,35232,Introduction to Sociology,0,7,4,7,3,3,1,1,0,1,0,0,1,0,3.17,4
+SOC,100,35159,Introduction to Sociology,0,9,4,4,5,5,4,0,0,0,0,0,0,0,3.28,4
+SOC,100,35154,Introduction to Sociology,0,11,3,6,2,3,2,2,0,1,2,0,0,0,3.16,4
+SOC,100,35198,Introduction to Sociology,0,8,3,4,4,3,1,1,0,0,1,0,1,0,3.14,4
+SOC,100,35240,Introduction to Sociology,0,7,5,8,3,2,4,1,0,0,0,0,1,0,3.18,4
+SOC,100,35241,Introduction to Sociology,0,8,1,3,5,2,2,0,0,1,0,0,2,0,3,4
+SOC,100,35243,Introduction to Sociology,0,9,4,7,2,3,2,1,3,0,0,1,0,1,3.14,4
+SOC,100,41530,Introduction to Sociology,0,6,2,5,5,2,3,1,0,0,0,0,0,0,3.22,4
+SOC,100,45304,Introduction to Sociology,0,8,9,0,2,1,1,2,1,0,0,0,1,0,3.27,4
+SOC,100,45305,Introduction to Sociology,0,9,4,5,9,3,1,0,0,0,0,0,1,0,3.27,4
+SOC,100,45306,Introduction to Sociology,0,8,3,2,6,4,0,3,0,0,0,0,1,1,3.12,4
+SOC,100,41814,Introduction to Sociology,0,36,5,3,2,0,1,1,2,0,0,0,0,0,3.72,4
+SOC,100,66297,Introduction to Sociology,0,20,17,10,19,7,6,5,1,3,1,0,2,0,3.1,4
+SOC,160,56794,Global Ineq and Social Change,16,20,12,5,7,4,2,2,1,0,0,0,3,1,3.43,4
+SOC,162,56178,Intro to Intl Health Policy,4,17,14,9,4,0,1,1,1,0,1,0,2,0,3.41,4
+SOC,200,31132,Intro to Sociological Theory,0,37,13,8,2,8,0,2,2,0,1,0,2,2,3.44,4
+SOC,225,48829,Race and Ethnicity,2,6,2,1,2,1,5,3,0,0,0,0,2,1,2.87,4
+SOC,226,31133,Political Sociology,2,11,7,9,9,1,1,1,1,0,0,0,1,1,3.33,4
+SOC,270,35721,Population Issues,2,3,2,5,2,1,1,2,1,0,2,0,2,0,2.72,3
+SOC,275,65856,Criminology,1,12,1,1,0,3,1,1,0,0,0,0,4,0,2.97,4
+SOC,350,31135,Technology and Society,0,26,10,0,7,0,1,1,0,0,1,0,0,0,3.63,4
+SOC,373,41736,Social Stratification,0,14,2,3,2,2,0,0,2,0,0,0,1,1,3.39,4
+SOC,380,32738,Social Research Methods,0,8,3,2,6,0,2,1,1,0,1,0,2,0,2.96,4
+SOC,380,32740,Social Research Methods,0,12,3,4,1,3,2,1,1,0,0,0,0,0,3.4,4
+SOC,480,39860,Methods of Field Research,0,9,4,3,2,0,2,1,1,0,2,0,2,0,2.96,4
+SOCW,101,66352,SOCW Orientation Seminar,0,14,24,9,8,4,3,0,0,1,1,0,3,1,3.25,4
+SOCW,200,32750,Introduction to Social Work,0,4,12,5,8,7,4,5,4,3,3,0,3,0,2.63,3
+SOCW,200,32753,Introduction to Social Work,0,10,12,9,9,8,6,1,2,1,2,0,2,2,2.98,4
+SOCW,225,61472,Intro Stat for Social Work,0,1,7,5,1,3,3,0,2,1,0,0,1,0,2.88,4
+SOCW,240,64419,Death & Dying,0,9,0,4,9,3,0,3,0,0,0,0,0,0,3.23,4
+SOCW,297,64420,Asian Families in America,6,15,2,0,0,0,0,1,0,0,0,0,0,0,3.89,4
+SOCW,300,60015,Diversity: Identities & Issues,1,17,11,11,4,10,2,2,1,0,1,0,0,0,3.32,4
+SOCW,300,63068,Diversity: Identities & Issues,0,28,7,6,10,3,0,1,0,0,0,0,1,1,3.53,4
+SOCW,321,56110,Social Entre & Social Change,4,24,2,3,0,1,0,0,0,0,0,1,0,0,3.79,4
+SOCW,380,59327,Social Work & Dis Studies,0,12,8,0,1,0,0,0,0,0,0,0,0,0,3.83,4
+SOCW,400,62078,Generalist SW Practice Methods,0,15,3,0,4,0,1,0,0,0,0,0,0,0,3.71,4
+SOCW,401,56111,Practice I,0,17,2,2,0,0,0,0,0,0,0,0,0,0,3.9,4
+SOCW,401,65518,Practice I,0,15,3,1,0,1,0,0,0,0,1,0,0,0,3.71,4
+SOCW,403,58286,Practice III,10,4,2,1,4,0,0,0,0,0,0,0,0,0,3.75,4
+SOCW,410,61474,Social Welfare Pol and Svcs,0,20,0,0,4,0,0,0,0,0,0,0,0,0,3.83,4
+SOCW,410,61475,Social Welfare Pol and Svcs,13,15,0,0,1,0,0,0,0,0,0,0,0,0,3.97,4
+SOCW,410,61477,Social Welfare Pol and Svcs,7,16,4,1,0,0,0,1,0,0,1,0,0,0,3.77,4
+SOCW,416,63134,Child Welfare Issues & Trends,0,14,1,4,4,0,0,4,0,0,0,0,0,0,3.44,4
+SOCW,420,31122,Subst Use in Social Context,10,7,5,1,1,2,1,0,0,0,0,0,0,0,3.72,4
+SOCW,427,60005,Social Work Research Methods,0,10,12,7,1,0,0,0,0,0,0,0,0,0,3.68,4
+SOCW,451,56806,HBSE I: Human Development,8,10,3,0,6,0,0,1,0,0,0,0,0,0,3.68,4
+SOCW,451,32764,HBSE I: Human Development,1,11,13,1,0,1,0,0,0,0,1,0,1,0,3.55,4
+SOCW,509,31124,Adv Clin Assess & Interviewing,5,17,2,1,0,0,0,0,0,0,0,0,0,0,3.95,4
+SOCW,509,66510,Adv Clin Assess & Interviewing,2,6,7,3,3,1,0,0,0,0,0,0,0,0,3.61,4
+SOCW,541,32663,Clinical Research Seminar,2,6,9,4,4,2,0,0,0,0,0,0,0,0,3.54,4
+SOCW,542,60611,Program Evaluation,8,8,2,0,3,0,0,0,0,0,0,0,0,0,3.83,4
+SOCW,542,66760,Program Evaluation,0,10,3,2,5,0,0,1,0,0,1,0,0,0,3.44,4
+SOCW,552,32805,HBSE II: Mental Disorders,7,15,6,2,0,0,0,0,0,0,0,0,0,0,3.89,4
+SOCW,552,32806,HBSE II: Mental Disorders,0,14,11,2,3,0,0,0,0,0,0,0,0,0,3.73,4
+SOCW,552,62223,HBSE II: Mental Disorders,1,14,9,2,2,0,0,0,0,0,0,0,0,1,3.77,4
+SOCW,561,66896,SBIRT/MI,5,6,9,0,0,1,0,0,0,0,0,0,0,0,3.8,4
+SOCW,589,54738,Social Work and the Law,0,13,7,0,0,1,0,0,0,0,0,0,0,0,3.83,4
+SOCW,589,66761,Social Work and the Law,0,15,5,0,2,0,0,0,0,0,0,0,0,0,3.83,4
+SOCW,589,32660,Social Work and the Law,0,14,11,2,3,0,0,0,0,0,0,0,0,0,3.73,4
+SOCW,589,32661,Social Work and the Law,0,16,7,2,3,0,0,0,0,0,0,0,0,0,3.76,4
+SPAN,252,53104,Intro to Hispanic Linguistics,6,9,2,2,1,1,0,0,0,0,0,0,0,0,3.79,4
+SPAN,308,60345,Spanish in the United States,10,4,3,1,1,1,1,1,0,0,0,0,0,0,3.65,4
+SPAN,308,64430,Spanish in the United States,7,7,6,4,1,0,0,0,0,0,0,0,0,0,3.77,4
+SPED,117,32672,The Culture of Disability,0,194,0,0,15,0,0,3,0,0,0,0,1,0,3.88,4
+SPED,117,51681,The Culture of Disability,0,126,3,2,24,4,2,9,0,0,3,0,10,1,3.44,4
+SPED,322,33286,Intro Intellectual Disability,0,62,0,0,21,0,0,5,0,0,0,0,0,0,3.65,4
+SPED,405,35040,Gen Educator's Role in SPED,0,50,0,0,3,0,0,0,0,0,0,0,1,0,3.87,4
+SPED,405,35057,Gen Educator's Role in SPED,0,38,0,1,2,0,0,0,0,0,0,0,1,0,3.84,4
+SPED,405,35339,Gen Educator's Role in SPED,16,6,4,5,3,1,0,0,0,0,0,0,0,0,3.74,4
+SPED,405,35776,Gen Educator's Role in SPED,0,48,0,0,9,0,0,1,0,0,0,0,0,0,3.81,4
+SPED,440,31105,Instructional Strategies I,0,30,0,0,7,0,0,0,0,0,0,0,0,0,3.81,4
+SPED,450,32677,Introduction to ECSE,1,22,0,4,0,0,0,0,0,0,0,0,0,0,3.9,4
+STAT,100,34973,Statistics,47,201,65,78,67,37,22,26,13,8,4,6,10,4,3.31,4
+STAT,100,35686,Statistics,53,164,48,53,48,40,12,20,8,8,6,2,5,2,3.36,4
+STAT,100,61239,Statistics,56,134,56,50,46,31,23,12,12,4,5,4,5,2,3.34,4
+STAT,100,48303,Statistics,2,10,7,5,8,4,2,2,3,0,0,4,1,0,2.95,4
+STAT,200,43148,Statistical Analysis,24,36,26,17,16,6,2,3,2,1,0,0,2,0,3.49,4
+STAT,200,51802,Statistical Analysis,21,37,24,21,10,5,2,1,2,0,0,0,4,2,3.49,4
+STAT,200,43154,Statistical Analysis,3,10,5,8,6,1,2,2,2,0,0,0,0,1,3.32,4
+STAT,200,49228,Statistical Analysis,4,11,5,6,2,2,3,3,4,1,3,0,0,1,3.04,4
+STAT,200,46962,Statistical Analysis,1,7,6,4,3,4,1,5,0,2,1,0,1,0,2.94,4
+STAT,212,56457,Biostatistics,8,68,17,27,26,4,7,10,0,1,6,1,2,0,3.33,4
+STAT,212,63162,Biostatistics,3,32,10,17,16,2,3,6,0,2,3,0,2,0,3.24,4
+STAT,400,35030,Statistics and Probability I,18,43,31,15,34,17,8,9,2,1,1,2,6,1,3.2,4
+STAT,400,35005,Statistics and Probability I,18,35,37,23,23,19,10,4,3,1,1,1,8,1,3.19,4
+STAT,400,35026,Statistics and Probability I,14,47,22,23,24,19,14,8,6,3,6,1,6,2,3.07,4
+STAT,400,45556,Statistics and Probability I,19,31,36,20,10,13,8,5,3,2,1,0,0,2,3.38,4
+STAT,409,35097,Actuarial Statistics II,9,17,18,2,12,16,1,3,5,0,1,0,3,0,3.14,4
+STAT,410,65078,Statistics and Probability II,14,18,16,4,7,4,4,3,1,2,1,1,1,1,3.38,4
+STAT,410,65611,Statistics and Probability II,19,12,8,3,3,2,1,4,1,1,1,0,3,1,3.34,4
+STAT,410,58796,Statistics and Probability II,13,11,7,9,6,7,2,6,4,2,0,1,2,1,3.12,4
+STAT,420,63856,Methods of Applied Statistics,15,20,15,10,7,2,2,1,0,0,2,0,2,0,3.49,4
+STAT,420,35486,Methods of Applied Statistics,14,27,13,5,11,5,3,1,1,0,0,0,0,0,3.59,4
+STAT,420,62027,Methods of Applied Statistics,24,24,8,8,8,3,3,0,0,1,0,0,0,0,3.67,4
+STAT,420,67401,Methods of Applied Statistics,6,23,9,2,3,1,0,0,0,0,0,0,1,0,3.72,4
+STAT,425,30956,Applied Regression and Design,6,53,7,4,5,2,0,0,0,0,0,0,0,1,3.84,4
+STAT,425,62204,Applied Regression and Design,6,16,14,14,5,4,4,2,1,1,1,1,4,1,3.18,4
+STAT,425,63340,Applied Regression and Design,3,12,16,12,16,6,2,1,1,0,0,0,0,1,3.36,4
+STAT,428,66538,Statistical Computing,9,18,8,4,7,3,0,2,4,2,1,1,1,1,3.31,4
+STAT,429,35477,Time Series Analysis,2,16,4,3,10,0,2,2,0,0,1,0,1,1,3.37,1
+STAT,430,60255,Applied Bayesian Analysis,14,30,8,9,5,2,1,1,1,0,0,0,0,0,3.69,0
+STAT,430,55664,Survival Analysis,12,5,2,4,4,2,0,4,0,3,1,2,1,0,3.06,1
+STAT,430,46976,Intro to Data Science,6,14,8,6,0,4,0,0,0,0,0,0,0,0,3.68,2
+STAT,430,66998,Foundations of Data Science,12,15,5,2,6,2,0,2,0,2,0,0,0,0,3.54,3
+STAT,440,49774,Statistical Data Management,15,56,7,2,1,1,1,0,0,0,0,0,0,0,3.92,2
+STAT,443,65105,Professional Statistics,0,9,6,12,3,3,0,0,2,0,0,0,0,0,3.39,3
+STAT,448,58587,Advanced Data Analysis,0,29,4,0,1,0,0,0,2,0,0,1,0,0,3.72,3
+STAT,448,60186,Advanced Data Analysis,1,13,12,5,1,1,0,1,0,0,0,0,1,2,3.55,3
+STAT,448,66555,Advanced Data Analysis,0,24,2,4,2,0,0,0,1,0,1,0,0,0,3.69,3
+STAT,510,30957,Mathematical Statistics I,2,8,6,7,5,4,2,0,0,0,0,0,0,0,3.4,2
+STAT,542,50222,Statistical Learning,6,53,6,4,3,5,0,0,0,0,0,0,0,0,3.81,2
+STAT,571,46970,Multivariate Analysis,1,14,11,3,5,3,0,0,0,0,0,0,0,0,3.6,2
+STAT,578,30959,Time Series Forecasting,3,16,2,3,0,0,0,0,0,0,0,0,1,0,3.73,4
+TAM,195,30960,Mechanics in the Modern World,3,9,15,14,3,1,0,1,3,0,0,0,0,0,3.44,2
+TAM,210,35219,Introduction to Statics,3,15,26,21,9,12,6,3,9,3,3,8,7,0,2.75,4
+TAM,210,35222,Introduction to Statics,5,19,24,17,10,16,16,13,13,6,4,3,13,0,2.59,3
+TAM,211,35220,Statics,5,12,21,14,26,17,21,11,11,4,3,5,10,2,2.6,3
+TAM,211,35221,Statics,3,13,20,13,10,12,13,2,10,3,5,5,12,0,2.53,3
+TAM,212,32966,Introductory Dynamics,6,26,40,27,38,19,21,22,9,10,7,4,8,0,2.79,1
+TAM,251,35217,Introductory Solid Mechanics,15,29,14,22,22,12,18,14,11,6,10,2,5,0,2.81,1
+TAM,335,35218,Introductory Fluid Mechanics,11,24,19,28,37,19,12,22,11,0,10,0,8,0,2.81,1
+TAM,451,30962,Intermediate Solid Mechanics,3,6,5,1,4,2,1,4,1,0,3,0,0,2,3,4
+TAM,461,30961,Cellular Biomechanics,2,10,5,4,2,0,0,0,0,0,0,0,0,0,3.72,4
+TAM,470,35028,Computational Mechanics,3,23,0,5,15,0,1,2,3,0,0,0,2,0,3.34,4
+TAM,541,30968,Mathematical Methods I,18,21,4,5,13,3,0,2,2,0,1,2,1,0,3.39,4
+TAM,551,30969,Solid Mechanics I,0,18,4,3,2,1,0,1,0,0,0,0,0,0,3.7,4
+THEA,100,30971,Practicum I,2,30,0,0,1,1,0,0,0,0,0,0,1,0,3.82,4
+THEA,100,54428,Practicum I,0,29,1,0,2,0,0,0,0,0,0,0,3,2,3.68,4
+THEA,101,54384,Introduction to Theatre Arts,112,49,32,13,14,12,6,6,2,1,1,2,7,0,3.55,4
+THEA,101,60160,Introduction to Theatre Arts,29,8,1,4,1,1,0,0,1,0,0,0,0,0,3.83,2
+THEA,101,60515,Introduction to Theatre Arts,30,4,4,1,0,1,0,0,1,0,0,1,3,1,3.53,2
+THEA,101,61882,Introduction to Theatre Arts,33,5,1,1,3,2,0,2,0,0,0,0,0,1,3.77,2
+THEA,101,61936,Introduction to Theatre Arts,30,5,4,1,2,0,0,1,0,0,0,0,1,1,3.77,2
+THEA,101,61937,Introduction to Theatre Arts,18,12,5,3,3,0,1,2,1,1,0,0,0,1,3.62,2
+THEA,101,61952,Introduction to Theatre Arts,6,19,4,4,5,3,1,0,1,0,0,0,2,0,3.44,2
+THEA,101,61953,Introduction to Theatre Arts,23,12,2,4,0,0,1,0,5,0,1,0,0,0,3.59,3
+THEA,101,61967,Introduction to Theatre Arts,30,9,3,0,3,1,3,0,0,0,0,0,0,1,3.79,3
+THEA,101,61968,Introduction to Theatre Arts,33,2,5,1,0,0,1,1,0,0,0,0,4,0,3.53,3
+THEA,101,63366,Introduction to Theatre Arts,32,6,0,2,1,3,1,1,1,1,0,0,1,0,3.61,3
+THEA,101,63367,Introduction to Theatre Arts,29,9,5,1,4,0,0,0,0,0,1,0,0,0,3.81,3
+THEA,101,63368,Introduction to Theatre Arts,28,5,4,1,2,4,0,0,0,1,0,0,0,1,3.73,3
+THEA,101,63576,Introduction to Theatre Arts,29,7,4,2,4,1,2,0,0,0,1,0,0,0,3.71,3
+THEA,101,62224,Introduction to Theatre Arts,21,6,5,3,1,3,1,3,0,1,1,0,1,0,3.44,1
+THEA,101,63595,Introduction to Theatre Arts,19,5,5,4,5,4,1,0,2,2,0,1,0,0,3.38,1
+THEA,101,63718,Introduction to Theatre Arts,24,8,2,0,0,3,1,0,4,1,2,1,1,0,3.33,1
+THEA,101,63719,Introduction to Theatre Arts,25,7,6,0,1,4,1,2,0,0,1,0,1,0,3.56,4
+THEA,101,63720,Introduction to Theatre Arts,34,2,1,1,1,2,1,0,0,1,0,1,1,0,3.64,4
+THEA,101,63721,Introduction to Theatre Arts,24,8,4,2,4,1,0,1,0,1,0,1,0,0,3.65,1
+THEA,101,65082,Introduction to Theatre Arts,25,5,8,2,4,0,1,0,0,0,1,0,0,1,3.73,1
+THEA,101,66736,Introduction to Theatre Arts,31,5,3,1,5,2,0,0,0,0,0,0,0,0,3.8,4
+THEA,101,33350,Introduction to Theatre Arts,33,3,5,0,2,2,0,1,1,0,1,0,0,0,3.72,2
+THEA,101,54385,Introduction to Theatre Arts,24,6,4,2,1,3,0,1,0,2,0,0,1,0,3.57,3
+THEA,101,56353,Introduction to Theatre Arts,18,10,7,1,6,0,1,2,0,1,1,0,1,0,3.49,4
+THEA,101,56354,Introduction to Theatre Arts,27,6,2,0,3,2,1,1,1,0,0,1,4,0,3.34,3
+THEA,101,58912,Introduction to Theatre Arts,31,2,4,2,1,1,0,0,0,0,0,0,1,0,3.79,3
+THEA,102,42826,Text to Stage,17,10,6,3,2,2,0,0,0,0,0,0,0,0,3.78,4
+THEA,110,66728,Broadway Musicals,59,22,5,7,3,1,1,0,0,0,0,0,0,0,3.87,4
+THEA,170,39392,Fundamentals of Acting I,1,16,8,2,1,2,0,2,3,0,0,1,0,0,3.39,4
+THEA,208,54379,Script Analysis,0,21,14,4,3,0,0,0,0,0,0,0,0,0,3.75,4
+THEA,360,53231,History of Theatre I,0,2,1,2,3,6,5,4,2,1,3,0,0,1,2.44,2
+TSM,100,33079,Technical Systems in Agr,0,4,3,3,15,2,1,8,2,1,5,1,6,1,2.27,2
+TSM,232,32922,Materials and Construction Sys,0,3,0,1,16,1,0,7,1,0,0,0,0,0,2.82,1
+TSM,233,32927,Metallurgy & Welding Process,0,6,4,1,19,1,4,13,1,0,1,1,2,0,2.65,3
+TSM,311,49612,Humanity in the Food Web,17,26,17,6,6,4,0,0,0,0,0,0,2,0,3.63,4
+TSM,372,47828,Environ Control & HVAC Systems,0,7,5,5,8,1,9,2,0,0,0,0,0,0,3.1,1
+TSM,422,51080,Ag Health-Illnesses Prevention,1,18,0,8,11,0,1,0,0,0,0,0,2,0,3.37,4
+TSM,435,40245,Elec Computer Ctrl Sys,4,7,2,5,3,2,0,0,0,0,0,0,2,0,3.29,4
+TSM,438,59498,Renewable Energy Applications,1,12,2,8,6,5,3,0,0,0,3,0,0,0,3.18,4
+UP,101,35305,Introduction to City Planning,38,24,25,12,6,13,2,8,4,4,1,1,10,2,3.15,4
+UP,201,65282,Planning in Action,0,24,1,2,4,2,0,0,0,0,0,0,0,0,3.75,4
+UP,312,31053,Communication for Planners,0,3,8,6,3,2,1,3,0,0,0,0,0,0,3.23,4
+UP,330,64592,The Modern American City,2,6,11,5,6,1,2,0,0,0,0,0,0,0,3.47,4
+UP,345,63813,Economic Development Planning,3,7,2,4,2,0,2,1,0,0,0,0,0,0,3.49,1
+UP,418,32959,GIS for Planners,21,8,2,1,3,1,1,0,0,0,0,0,1,0,3.7,1
+UP,423,58200,Cmnty Dev in the Global South,1,10,5,3,2,1,0,0,0,0,0,0,0,0,3.68,1
+UP,430,66564,Urban Transportation Planning,0,10,12,1,5,2,0,0,0,0,0,0,0,0,3.59,1
+UP,504,52513,Urban History and Theory,3,14,7,2,2,0,1,1,0,0,0,0,0,0,3.69,1
+VCM,660,58864,Advanced Equine Anatomy,0,18,0,0,10,0,0,1,0,0,0,0,0,0,3.59,1
+VM,602,54952,Structure and Function I,0,21,0,0,66,0,0,63,0,0,10,0,0,0,2.61,3
+VM,605,56271,Pathobiology I,0,8,0,0,56,0,0,56,0,0,6,0,0,0,2.52,3
+VM,607,64924,Pathobiology II,0,12,0,0,80,0,0,34,0,0,0,0,0,0,2.83,4
+VM,609,58856,Medicine and Surgery I,0,12,0,0,67,0,0,41,0,0,1,0,0,0,2.74,3
+VM,610,58861,Medicine and Surgery II,0,12,0,0,52,0,0,52,0,0,3,0,0,0,2.61,3
+VM,620,66651,Canine Feline Behavior,0,77,0,0,13,0,0,0,0,0,0,0,0,0,3.86,4
+YDSH,220,35635,Jewish Storytelling,8,4,4,3,1,1,0,0,0,0,0,0,1,0,3.56,4
+YDSH,320,46575,Lit Responses to the Holocaust,1,8,5,0,1,2,1,2,1,0,0,0,0,0,3.37,4
