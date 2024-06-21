@@ -1,54 +1,65 @@
-# Parkinson Disease Detection
+Parkinson Disease Detection Using Deep Neural Networks
 
-## Overview
+Project Overview
+This project aims to detect Parkinson's disease using machine learning and deep learning techniques. By leveraging various classifiers and a deep neural network, we strive to achieve high accuracy in predicting the presence of Parkinson's disease based on a given dataset.
 
-Parkinson Disease Detection is a web application developed using Streamlit, designed to predict whether a person may have Parkinson's disease based on vocal measurements. The application leverages a pre-trained machine learning model (XGBoost) to provide predictions in real-time or in batch mode using CSV files.
+Dataset
+The dataset used in this project is parkinsons.data, which contains features related to Parkinson's disease. The target variable indicates the presence or absence of the disease.
 
-## Features
+Usage
+Ensure the dataset parkinsons.data is in the project directory.
+Run the Jupyter notebook parkinson-prediction-classifiers-neuralnetwork.ipynb to see the entire process of data preprocessing, model training, and evaluation.
+Alternatively, you can run the script app.py to see the implementation in a script format.
 
-- **Single Prediction:**
-  Users can input individual vocal measurement features to predict the likelihood of Parkinson's disease.
+Libraries Used
+Pandas: Data manipulation and analysis.
+Matplotlib: Plotting and visualization.
+NumPy: Numerical computing.
+Seaborn: Statistical data visualization.
+Scikit-learn (sklearn): Machine learning library for data preprocessing, model training, and evaluation.
+MinMaxScaler: Feature scaling.
+train_test_split: Splitting the dataset into training and testing sets.
+LogisticRegression, SVC, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier: Various classifiers.
+GridSearchCV, cross_val_score: Hyperparameter tuning and cross-validation.
+classification_report, confusion_matrix, precision_score, recall_score, auc, roc_curve, accuracy_score, f1_score: Model evaluation metrics.
+PrecisionRecallDisplay, RocCurveDisplay, ConfusionMatrixDisplay: Plotting evaluation metrics.
+Imbalanced-learn (imblearn): Handling imbalanced datasets.
+SMOTE: Synthetic Minority Over-sampling Technique.
+Termcolor: Text coloring in the terminal for better visualization of logs.
+TensorFlow (tensorflow): Deep learning framework.
+Sequential, Dense, Activation, Dropout: Building and training neural networks.
 
-- **Batch Prediction:**
-  Supports batch prediction by uploading a CSV file containing multiple sets of vocal measurements. It predicts the likelihood of Parkinson's disease for each record in the CSV.
+Project Structure
+parkinson-prediction-classifiers-neuralnetwork.ipynb: Jupyter notebook containing the entire workflow from data preprocessing to model evaluation.
+app.py: Script form of the project for direct execution.
+parkinsons.data: Dataset used for training and evaluation.
 
-## Files
+The project runs in the following manner:
+1. Importing Libraries
+The project starts by importing essential libraries required for data manipulation, visualization, model training, and evaluation. These libraries include Pandas for data handling, NumPy for numerical computations, Matplotlib and Seaborn for data visualization, Scikit-learn for machine learning models and evaluation metrics, Imbalanced-learn for handling imbalanced datasets, Termcolor for colored terminal outputs, and TensorFlow for building and training neural networks.
 
-- `app.py`: Main script containing the Streamlit application logic.
-- `parkinson_model.pkl`: Pre-trained XGBoost model file used for predictions.
-- `batch_data.csv`: Sample CSV file for testing batch predictions.
+2. Loading the Data
+The dataset, named parkinsons.data, is loaded into a Pandas DataFrame. This dataset includes features relevant to detecting Parkinson's disease.
 
-## Usage
+3. Exploratory Data Analysis (EDA)
+Initial data exploration is conducted to understand the dataset, identify any missing values, and visualize the data distribution. This step helps in gaining insights into the data and determining any necessary preprocessing steps.
 
-1. **Installation:**
-   Clone the repository and install necessary dependencies.
+4. Data Preprocessing
+Feature Scaling: The features in the dataset are scaled to a uniform range using MinMaxScaler. This ensures that all features contribute equally to the model training.
+Handling Imbalanced Data: Techniques such as SMOTE (Synthetic Minority Over-sampling Technique) are used to address any imbalance in the dataset. This helps in preventing the model from being biased towards the majority class.
+5. Splitting the Data
+The dataset is divided into training and testing sets. This allows the model to be trained on one part of the data and evaluated on another, ensuring that the model's performance is tested on unseen data.
 
-2. **Running the Application:**
-   Execute the Streamlit application by running `streamlit run app.py` in your terminal. Open the provided URL in your web browser.
+6. Building Machine Learning Models
+Several machine learning classifiers are built and trained on the training data. These classifiers include Logistic Regression, Support Vector Machine (SVC), Decision Tree, Random Forest, and K-Nearest Neighbors. Hyperparameter tuning and cross-validation are performed to optimize the models' performance.
 
-3. **Single Prediction:**
-   - Enter values for each vocal measurement feature.
-   - Click the "Predict" button to see the prediction result.
+7. Model Evaluation
+The performance of each machine learning model is evaluated using various metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. Visualization tools are used to plot confusion matrices, precision-recall curves, and ROC curves, providing a visual understanding of the models' performance.
 
-4. **Batch Prediction:**
-   - Click the "Predict Batch" button.
-   - Upload a CSV file with multiple sets of vocal measurements.
-   - View predictions for each record in the CSV.
+8. Building a Deep Neural Network
+A deep neural network is constructed using TensorFlow's Keras API. The neural network comprises multiple layers, including input layers, hidden layers with dense (fully connected) and dropout layers, and an output layer with an appropriate activation function. The model is compiled with an optimizer, loss function, and evaluation metrics, and then trained on the training data.
 
-## Modifications
+9. Evaluating the Neural Network
+The performance of the neural network is evaluated on the testing data using the same metrics as the machine learning models. The results are compared to determine the best-performing model for detecting Parkinson's disease.
 
-- **Model Update:**
-  Replace `parkinson_model.pkl` with an updated model file if necessary. Ensure compatibility with the input features defined in `app.py`.
-
-- **Feature Expansion:**
-  Modify `app.py` to include additional features for prediction if required by your dataset.
-
-## Notes
-
-- Ensure all necessary Python packages are installed (`streamlit`, `pandas`, `numpy`, `xgboost`).
-- The sample batch data (`batch_data.csv`) is provided for demonstration purposes and should be replaced with actual data for meaningful predictions.
-
-## Contact Information
-
-For any questions or issues, please contact [Your Name] at [Your Email].
 
