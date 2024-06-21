@@ -24,5 +24,7 @@ The main point of any sort of asset trading is to make a profit. This boils down
 
 <img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/9a4293d1-0183-4613-89ab-61e1852051de">
 
-![Uploading image.png…]()
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/1fd3ed51-f8e9-4528-a041-830b63ef07d0">
+
+
 
