@@ -1,0 +1,7 @@
+streamlit==0.97.0
+pandas==1.4.0
+numpy==1.22.2
+scikit-learn==1.0
+xgboost==1.5.0
+
+pip install -r Requirments.txt
