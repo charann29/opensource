@@ -1,0 +1,19 @@
+import pandas as pd
+
+# Load your dataset
+data = pd.read_csv(r'C:\Users\arige\Documents\PPTS\FILES\field project\yes\final1\parkinsons.data')
+
+# Print columns to verify names
+print("Columns in dataset:", data.columns)
+
+# Adjust columns based on your dataset
+# Replace 'MDVP:Fo(Hz)' and 'MDVP:Shimmer' with the actual column names you need
+batch_data = data[['MDVP:Fo(Hz)', 'MDVP:Shimmer']]  # Adjust columns as per your dataset
+
+# Save to CSV file
+batch_data.to_csv(r'C:\Users\arige\Documents\PPTS\FILES\field project\yes\FINAL1\batch_data.csv', index=False)
+
+# Display information about the batch data
+print("Batch data saved successfully.")
+print("Sample data:")
+print(batch_data.head())
