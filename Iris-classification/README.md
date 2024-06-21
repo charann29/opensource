@@ -24,4 +24,5 @@ The classification model is a simple logistic regression model, trained on the I
 ## Acknowledgements
 The Iris dataset is taken from the UCI Machine Learning Repository.
 
-
+## OUTPUT
+![alt text](image.png)
