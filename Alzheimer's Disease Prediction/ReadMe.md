@@ -1,0 +1,1 @@
+# This README provides a comprehensive overview of the Alzheimer's Disease detection project, including setup instructions and a summary of the notebook's contents. If there are any specific details or sections you would like to add or modify, please let me know!
