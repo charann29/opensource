@@ -28,7 +28,11 @@ class VideoTransformer(VideoTransformerBase):
                 # Convert normalized landmark coordinates to pixel coordinates
                 x = int(landmark.x * frame_w)
                 y = int(landmark.y * frame_h)
+#Section01-Team12-Cursor_control_with_Eyeball
                 cv2.circle(frame, (x, y), 3, (0, 255, 0), -1)
+
+                cv2.circle(frame, (x, y), 3, (0, 255, 0))
+#field-projects
 
                 if id == 1:
                     # Map normalized coordinates to screen coordinates
@@ -44,7 +48,11 @@ class VideoTransformer(VideoTransformerBase):
                 cv2.circle(frame, (x, y), 3, (0, 255, 255), -1)
 
             # Check for blink (vertical distance between two points is small)
+#Section01-Team12-Cursor_control_with_Eyeball
             if (left[0].y - left[1].y) < 0.014:
+
+            if (left[0].y - left[1].y) < 0.020:
+# field-projects
                 pyautogui.click()
                 pyautogui.sleep(1)
 
@@ -109,4 +117,8 @@ webrtc_streamer(key="example", video_transformer_factory=VideoTransformer)
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Footer
+#Section01-Team12-Cursor_control_with_Eyeball
 st.markdown('<div class="footer">Developed with ❤️ by <a href="https://yourwebsite.com" target="_blank">Your Name</a></div>', unsafe_allow_html=True)
+
+st.markdown('<div class="footer">Developed with ❤️ by <a>Team12_CMRCET</a></div>', unsafe_allow_html=True)
+#field-projects
