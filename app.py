@@ -1,73 +1,75 @@
-from flask import Flask, render_template, request, jsonify
-import csv
+from flask import Flask, render_template, request
+import pandas as pd
+import pickle
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
 
 app = Flask(__name__)
 
-# File path to the CSV
-CSV_FILE = "books.csv"
-
-# Helper function to read data from CSV
-def read_csv():
-    with open(CSV_FILE, mode='r', newline='') as file:
-        reader = csv.DictReader(file)
-        return [row for row in reader]
-
-# Helper function to write data to CSV
-def write_csv(data):
+# Load and preprocess the dataset
+def load_data():
     try:
-        with open(CSV_FILE, mode='w', newline='') as file:
-            fieldnames = ['id', 'title', 'author', 'genre']
-            writer = csv.DictWriter(file, fieldnames=fieldnames)
-            writer.writeheader()
-            for row in data:
-                writer.writerow(row)
+        df = pd.read_csv("spam.csv", encoding="latin-1")
+        print("CSV file loaded successfully.")
+        print("Columns in the CSV:", df.columns)
+        return df
+    except FileNotFoundError:
+        print("The 'spam.csv' file was not found. Please ensure it is in the correct directory.")
+        return None
     except Exception as e:
-        print("Error writing to CSV:", e)
+        print("An error occurred while loading the CSV file:", e)
+        return None
+
+df = load_data()
+if df is not None:
+    df.drop(['Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5'], axis=1, inplace=True, errors='ignore')
+    
+    # Directly use the columns 'v1' for class and 'v2' for message
+    if 'v1' in df.columns and 'v2' in df.columns:
+        df['label'] = df['v1'].map({'ham': 0, 'spam': 1})
+        X = df['v2']
+        y = df['label']
+        
+        # Extract features with CountVectorizer
+        cv = CountVectorizer()
+        X = cv.fit_transform(X)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+
+        # Train the Naive Bayes Classifier
+        clf = MultinomialNB()
+        clf.fit(X_train, y_train)
+
+        # Save the model and vectorizer
+        with open('NB_spam_model.pkl', 'wb') as model_file:
+            pickle.dump(clf, model_file)
+        with open('count_vectorizer.pkl', 'wb') as vectorizer_file:
+            pickle.dump(cv, vectorizer_file)
+    else:
+        print("The necessary columns are not found in the CSV file. Please check the file structure.")
 
 @app.route('/')
-def index():
-    return render_template('index.html')
+def home():
+    return render_template('front_page.html')
 
-@app.route('/books', methods=['GET'])
-def get_books():
-    return jsonify(read_csv())
+@app.route('/predict', methods=['POST'])
+def predict():
+    if request.method == 'POST':
+        try:
+            # Load the model and vectorizer
+            with open('NB_spam_model.pkl', 'rb') as model_file:
+                clf = pickle.load(model_file)
+            with open('count_vectorizer.pkl', 'rb') as vectorizer_file:
+                cv = pickle.load(vectorizer_file)
 
-@app.route('/books', methods=['POST'])
-def add_book():
-    data = read_csv()
-    new_book = {
-        'id': len(data) + 1,
-        'title': request.json['title'],
-        'author': request.json['author'],
-        'genre': request.json['genre']
-    }
-    data.append(new_book)
-    write_csv(data)
-    return jsonify(new_book)
-
-@app.route('/books/<int:id>', methods=['POST'])
-def update_book(id):
-    data = read_csv()
-    updated_book = None
-    for book in data:
-        if book['id'] == id:
-            book['title'] = request.json['title']
-            book['author'] = request.json['author']
-            book['genre'] = request.json['genre']
-            updated_book = book
-            break
-    write_csv(data)
-    if updated_book:
-        return jsonify(updated_book)
-    else:
-        return jsonify({"message": "Book not found"}), 404
-
-@app.route('/books/<int:id>', methods=['DELETE'])
-def delete_book(id):
-    data = read_csv()
-    data = [book for book in data if book['id'] != id]
-    write_csv(data)
-    return jsonify({"message": "Book deleted successfully"})
+            message = request.form['message']
+            data = [message]
+            vect = cv.transform(data).toarray()
+            my_prediction = clf.predict(vect)
+            return render_template('page_result.html', prediction=my_prediction)
+        except Exception as e:
+            print("An error occurred during prediction:", e)
+            return "An error occurred during prediction. Please try again."
 
 if __name__ == '__main__':
     app.run(debug=True)

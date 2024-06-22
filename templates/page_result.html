@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    {% if prediction == 1 %}
+        <p>This message is classified as <strong>Spam</strong>.</p>
+    {% else %}
+        <p>This message is classified as <strong>Ham</strong>.</p>
+    {% endif %}
+    <br>
+    <a href="{{ url_for('home') }}">Try again</a>
+</body>
+</html>
