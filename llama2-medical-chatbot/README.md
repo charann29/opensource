@@ -5,16 +5,16 @@
 Llama2 Medical Chatbot is an intelligent assistant designed to provide information and assistance related to medical queries.
 
 ## Libraries Used -
-[ ] Streamlit: A framework for creating web applications.
-[ ] streamlit_chat: Custom module for displaying chat messages.
-[ ] LangChain: A library for building applications with large language models (LLMs).
-[ ] langchain_community: Extensions for LangChain.
-[ ] PyPDFLoader and DirectoryLoader: For loading PDF documents.
-[ ] HuggingFaceEmbeddings: For creating embeddings using Hugging Face models.
-[ ] CTransformers: For using transformer models.
-[ ] RecursiveCharacterTextSplitter: For splitting text into manageable chunks.
-[ ] FAISS: A library for efficient similarity search.
-[ ] ConversationBufferMemory: For maintaining chat history
+- [x] Streamlit: A framework for creating web applications.
+- [x] streamlit_chat: Custom module for displaying chat messages.
+- [x] LangChain: A library for building applications with large language models (LLMs).
+- [x] langchain_community: Extensions for LangChain.
+- [x] PyPDFLoader and DirectoryLoader: For loading PDF documents.
+- [x] HuggingFaceEmbeddings: For creating embeddings using Hugging Face models.
+- [x] CTransformers: For using transformer models.
+- [x] RecursiveCharacterTextSplitter: For splitting text into manageable chunks.
+- [x] FAISS: A library for efficient similarity search.
+- [x] ConversationBufferMemory: For maintaining chat history
 
 ## How the Program is Running
 1. Imports necessary libraries for document processing, creating embeddings, setting up the chatbot, and the web interface using Streamlit.
