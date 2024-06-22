@@ -1,1 +1,3 @@
-![alt text](<Screenshot 2024-06-21 122631.png>) ![alt text](<Screenshot 2024-06-21 122929.png>) ![alt text](<Screenshot 2024-06-21 123022.png>) ![alt text](<Screenshot 2024-06-21 123245.png>)
+<p align="center"> 
+<a href="https://github.com/asr-alurisanthoshreddy"><img src=""C:\Users\aluri santhosh reddy\Documents\GitHub\imgs"" alt="Last Commit"/></a> 
+<p>
