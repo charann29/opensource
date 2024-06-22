@@ -48,13 +48,12 @@ Change the Environment to a env in which you have installed all of this
 
 ```
 streamlit run app.py
-```
-Make sure to install 
-# llama-2-7b-chat.ggmlv3.q4_0.bin 
-from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main for easy running of the app.
+``` 
+## Make sure to install llama-2-7b-chat.ggmlv3.q4_0.bin 
+from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main for running of the app
 
 ## FOR STEP BY STEP PROCESS CHECK THIS VIDEO
-[Process](https://www.youtube.com/watch?v=XNmFIkViEBU)
+[Process](https://www.youtube.com/watch?v=XNmFIkViEBU) 
 
 ## OUTPUT -
 ![alt text](image.png)
