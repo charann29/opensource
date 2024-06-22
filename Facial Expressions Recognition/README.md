@@ -85,10 +85,10 @@ After training the model, you can visualize the training performance:
 
 ## Outputs
 
-![Happy Face](/screenshots/happy_face.png)
-![Sad Face](/screenshots/sad_face.png)
-![Angry Face](/screenshots/angry_face.png)
-![Surprise Face](/screenshots/surprise_face.png)
+![Happy Face](screenshots/happy_face.png)
+![Sad Face](screenshots/sad_face.png)
+![Angry Face](screenshots/angry_face.png)
+![Surprise Face](screenshots/surprise_face.png)
 
 ## Acknowledgments
 
