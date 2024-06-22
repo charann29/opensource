@@ -13,3 +13,6 @@ Python (version 3.x)
 OpenCV: Library for computer vision tasks.
 NumPy: Library for numerical computations.
 YOLOv3: Pre-trained deep learning model for object detection.
+
+NOTE:-
+    To run this code u need to clone  my repository and download the file in my description and run it using python weapon_detection.py
