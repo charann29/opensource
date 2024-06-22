@@ -53,10 +53,12 @@ Conclusion: Summary of findings and future work.
 The results of this project include the performance metrics of different machine learning models used for Alzheimer's Disease detection. These metrics help in understanding the effectiveness of each model and identifying the best approach for early diagnosis.
 ### Outputs
 **Prediction Examples**: Examples of predictions made by the model.
-![Output 1](Outputs/Output1.png)
-![Output 2](Outputs/Output2.png)
-![Output 3](Outputs/Output3.png)
-![Output 4](Outputs/Output4.png)
+![Output 1](Outputimages/Output1.png)
+![Output 2](Outputimages/Output2.png)
+![Output 3](Outputimages/Output3.png)
+![Output 4](Outputimages/Output4.png)
+![Output 5](Outputimages/Output5.png)
+
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
