@@ -8,7 +8,7 @@ net.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
 classes = ["Weapon"]
 
 # Open the video file
-cap = cv2.VideoCapture("a1.mp4")
+cap = cv2.VideoCapture("pistol2.mp4")
 
 if not cap.isOpened():
     print("Error: Could not open video file.")
