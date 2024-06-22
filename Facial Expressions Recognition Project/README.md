@@ -8,6 +8,7 @@ This project implements a Facial Expressions Recognition system using a Convolut
 ## Table of Contents
 
 - [Overview](#overview)
+- [Libraries Used](#libraries-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Training the Model](#training-the-model)
@@ -20,6 +21,19 @@ This project implements a Facial Expressions Recognition system using a Convolut
 
 Facial expression recognition is a significant area in computer vision with applications in various fields such as human-computer interaction, behavior analysis, and emotion AI. This project uses a deep learning approach to detect faces and classify their expressions in real-time.
 
+## Libraries Used
+
+- **NumPy**: For numerical operations and handling arrays.
+    - Used to handle image data and convert them into arrays suitable for input into the CNN model.
+- **Pandas**: For data manipulation and analysis.
+    - Utilized for managing the dataset metadata, although not heavily used in this specific implementation.
+- **Matplotlib** & **Seaborn**: For plotting graphs, visualizing data and for statistical data visualization.
+    - Employed to visualize the training process, including loss and accuracy curves.
+- **OpenCV**: For real-time computer vision tasks like face detection.
+    - Integral for capturing video feed from the webcam and detecting faces using Haar cascades.
+- **Keras**: For building and training deep learning models, with TensorFlow as the backend.
+    - Used to define, compile, and train the CNN model. The `ImageDataGenerator` from Keras is used for preprocessing image data.
+
 ## Dataset
 
 The dataset used for this project consists of images of faces with different expressions. Each image is converted to grayscale and resized to 48x48 pixels. The dataset is organized into training and validation sets.
@@ -29,7 +43,7 @@ The dataset used for this project consists of images of faces with different exp
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/shayan-tej/facial-expressions-recognition.git
+    git clone https://github.com/RamNaresh21/facial-expressions-recognition.git
     cd facial-expression-recognition
     ```
 
@@ -69,19 +83,14 @@ After training the model, you can visualize the training performance:
 
     The notebook plots the training and validation loss and accuracy over epochs, helping to understand how well the model is learning.
 
+## Outputs
+
+![Happy Face](screenshots/happy_face.png)
+![Sad Face](screenshots/sad_face.png)
+![Angry Face](screenshots/angry_face.png)
+![Surprise Face](screenshots/surprise_face.png)
+
 ## Acknowledgments
 
 - The `haarcascade_frontalface_default.xml` file is a part of the OpenCV library used for face detection.
 - The CNN model is built and trained using Keras with TensorFlow backend.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-### Instructions:
-
-1. Replace `"https://github.com/your-username/facial-expressions-recognition.git"` with the actual URL of your GitHub repository.
-2. Ensure `model.h5` and `haarcascade_frontalface_default.xml` are included in your repository, or provide instructions on how to obtain them.
-3. If your project uses a different license, update the `License` section accordingly.
-
-This `README.md` provides clear and concise instructions and descriptions, making it easier for users to understand, set up, and use the project.
