@@ -1,0 +1,8 @@
+beautifulsoup4==4.10.0
+lxml==4.6.4
+requests==2.26.0
+
+
+pip install -r requirements.txt
+
+This command will install all the libraries listed in requirements.txt along with their specified versions.
