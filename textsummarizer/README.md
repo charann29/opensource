@@ -3,12 +3,10 @@
 Abstractive summarization is the process of generating a summary of a text by understanding its meaning and creating a new text that conveys the same information in a shorter form. Abstractive methods employ more powerful natural language processing techniques to interpret text and generate new summary text, as opposed to selecting the most representative existing excerpts to perform the summarization. 
 <a href="#Documentations">Read More</a>
 
-The app is built using "txtai" a powerful NLP library. Txtai builds embeddings databases, which are a union of vector indexes and relational databases. This enables similarity search with SQL. Embeddings databases can stand on their own and/or serve as a powerful knowledge source for large language model (LLM) prompts. 
+The app is built using "txtai" a powerful NLP library. Txtai builds embeddings databases, which are a union of vector indexes and relational databases. This enables similarity search with SQL. Embeddings databases can stand on their own and/or serve as a powerful knowledge source for large language model (LLM) prompts.Streamlit is a powerful and easy-to-use framework for creating interactive web applications for data science and machine learning projects. When you import streamlit as st in your Python code, you gain access to a variety of features and functions that allow you to build interactive and visually appealing web apps with minimal code. Here are some key uses and benefits of using Streamlit. Streamlit provides a wide range of widgets like sliders, buttons, text inputs, and file uploaders. These widgets allow users to interact with your application and input data in real-time. My Streamlit app allows us to process both raw text and PDF files to get a summary.
 <a href="#Documentations">Read More</a>
 
 <br>
-
-My Streamlit app allows us to process both raw text and PDF files to get a summary.
 
 ## Resources
 - <a href="https://summarizze.streamlit.app/">Click for Live Demo</a>
