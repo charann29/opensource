@@ -66,6 +66,6 @@ Required Libraries:
 This project has been built using tensorflow-gpu and Ubuntu 22.04 as host OS using Jupyter Notebook. Errors can arise due to incompatibility, therefore several changes can be made according to the IDE and host OS.
 
 ##output:
-![WhatsApp Image 2024-06-23 at 9 58 44 PM](https://github.com/sandeepgoudmacha/Predicting-Software-Dev-Salary/assets/143279752/43bf2f30-391a-43f5-85cb-0350306f0247)
+![WhatsApp Image 2024-06-23 at 10 03 16 PM](https://github.com/sandeepgoudmacha/Predicting-Software-Dev-Salary/assets/143279752/b74038d1-a6d3-4c58-9044-b70b3b3dd6a2)
 ![WhatsApp Image 2024-06-23 at 9 58 45 PM](https://github.com/sandeepgoudmacha/Predicting-Software-Dev-Salary/assets/143279752/40c66329-8776-42f3-84e6-2c5fefaf3798)
 
