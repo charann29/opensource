@@ -53,11 +53,12 @@ Conclusion: Summary of findings and future work.
 The results of this project include the performance metrics of different machine learning models used for Alzheimer's Disease detection. These metrics help in understanding the effectiveness of each model and identifying the best approach for early diagnosis.
 ### Outputs
 **Prediction Examples**: Examples of predictions made by the model.
-![Output 1](Outputimages/Output1.png)
-![Output 2](Outputimages/Output2.png)
-![Output 3](Outputimages/Output3.png)
-![Output 4](Outputimages/Output4.png)
-![Output 5](Outputimages/Output5.png)
+
+![Output1](https://github.com/charann29/cmr_opensource/assets/172427864/2b1eda77-2f37-410b-a67e-38e5d6abf0af)
+![Output2](https://github.com/charann29/cmr_opensource/assets/172427864/7f5833b8-9dc7-497c-977d-eb2d8782ae64)
+![Output3](https://github.com/charann29/cmr_opensource/assets/172427864/0b77c607-cf51-4c4b-9588-74ab053e71d9)
+![Output4](https://github.com/charann29/cmr_opensource/assets/172427864/b95b8890-7aac-4aa8-b7b1-73c41760e49b)
+![Output5](https://github.com/charann29/cmr_opensource/assets/172427864/4df6a0cf-15b5-47d8-8555-04c833d8b8ed)
 
 
 ## Contributing
