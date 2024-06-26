@@ -11,17 +11,7 @@ The main point of any sort of asset trading is to make a profit. This boils down
 
 ## Libraries : 
 These are the libraries used to build the project - 
-h5py==3.6.0
-html5lib==1.1
-Keras
-numpy
-pandas
-plotly
-requests==2.31.0
-scikit-learn==1.0.1
-streamlit
-tensorflow-cpu
-yfinance
+h5py==3.6.0   ,  html5lib==1.1  ,  Keras   ,   numpy  ,  pandas  ,  plotly  ,  requests==2.31.0  ,  scikit-learn==1.0.1  ,  streamlit  ,  tensorflow-cpu  ,  yfinance
 
 ## 
 
