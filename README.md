@@ -1,7 +1,22 @@
-# Build A Salary Prediction Web App With Streamlit
+This project implements a Real/Fake Logo detection system using deep learning. The goal is to train a Convolutional Neural Network (CNN) to distinguish between real and fake logos. The dataset consists of images of both genuine and fake logos, and the model is trained to classify these images into their respective categories.
 
-Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
+Loading and Preprocessing Images
+The script first loads and preprocesses the images from the specified paths. Images are resized to a common size and converted to NumPy arrays. The Inception V3 preprocessing function is applied to the image arrays.
 
-Watch the video on YouTube:  
-[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
-[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
+Concatenating Data
+Fake and genuine data from the training and test sets are concatenated to create the final training and test sets. Labels are also assigned (0 for fake, 1 for genuine).
+
+Splitting the Dataset
+The dataset is split into training and testing sets using the train_test_split function from scikit-learn.
+
+Defining the CNN Model
+A simple CNN model is defined using the Keras Sequential API. It consists of convolutional layers, max-pooling layers, and dense layers.
+
+Compiling the Model
+The model is compiled with the Adam optimizer and binary cross-entropy loss, as it is a binary classification problem. The accuracy metric is used for evaluation.
+
+Training the Model
+The model is trained on the training set with 10 epochs and a batch size of 32. Validation data is used to monitor the model's performance during training.
+
+Evaluating the Model
+The trained model is evaluated on the test set, and accuracy along with the confusion matrix is printed.
