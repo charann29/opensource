@@ -13,7 +13,17 @@ The main point of any sort of asset trading is to make a profit. This boils down
 These are the libraries used to build the project - 
 h5py==3.6.0   ,  html5lib==1.1  ,  Keras   ,   numpy  ,  pandas  ,  plotly  ,  requests==2.31.0  ,  scikit-learn==1.0.1  ,  streamlit  ,  tensorflow-cpu  ,  yfinance
 
-## 
+## Features
+Automated Analysis : Conducts comprehensive technical analysis automatically.
+
+Interactive Charts : Provides various interactive charts for better data visualization.
+
+Real-Time Data : Integrates with real-time financial data sources.
+
+User-Friendly Interface : Simple and intuitive interface designed using Streamlit.
+
+## WORKING :
+The project 
 
 <img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/5dcce83a-a724-40e1-a952-7cd736221cf1">
 
