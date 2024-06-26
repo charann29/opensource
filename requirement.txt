@@ -1,0 +1,10 @@
+ultralytics
+
+
+opencv-python
+
+
+numpy
+
+
+reportlab
