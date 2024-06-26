@@ -1,0 +1,595 @@
+,title,price,condition,Screen Size,Color,RAM Size,SSD Capacity,Processor Speed,Brand,Maximum Resolution,Hard Drive Capacity,Storage Type,Processor_Brand,Processor_Series,Processor_Subseries,Processor_Generation,has_GPU,os_type
+0,"lenovo thinkpad x1 yoga gen 3 14"" qhd touch 2-in1 i7-8550u 256gb ssd 8gb win 11",220.0,used,14.0,silver,8.0,256.0,1.8,lenovo,2560x1440,256.0,ssd,intel,core,i7,7.0,1,windows
+1,chuwi herobook pro celeron n4000 1.10ghz 8gb ram 256gb ssd pc1305580,72.25,used,,missing,8.0,128.0,2.3,chuwi,missing,,ssd,intel,core,i5,5.0,0,missing
+2,"eluktronics n870hk 17.3"" i7-7700hq 8gb ram 128gb ssd gtx 1050 ti pc1082571",319.0,used,,missing,8.0,128.0,,eluktronics,missing,,ssd,intel,core,i7,7.0,1,missing
+3,dell optiplex 790 intel core i5-2400 3.10ghz 16gb ram 500gb hd pc657132,34.0,used,,missing,16.0,,3.1,dell,missing,500.0,hdd,intel,core,i5,2.0,0,missing
+4,dell optiplex 9020 sff intel core i5-4570s 2.90ghz 16gb ram 250gb ssd pc449356,55.0,used,,missing,16.0,250.0,2.9,dell,missing,,ssd,intel,core,i5,4.0,0,missing
+5,"tested lenovo thinkpad w550s 15.6"" i7-5500u 16gb ram 256gb ssd quadro k620m çhar",119.0,used,15.6,black,16.0,256.0,2.4,lenovo,1920x1080,256.0,ssd,intel,core,i7,5.0,1,windows
+6,hp zbook 17 g5 | intel xeon e-2176m 2.70ghz | 512gb m.2 | 32gb ram | no os,635.0,used,17.3,silver,,,2.7,hp,missing,,missing,intel,xeon,e,2.0,0,no os
+7,hp 15-dw3013dx notebook | core i3-1115g4 3.00ghz | 256gb nvme | 8gb ram | no os,135.5,used,15.6,silver,,,3.0,hp,missing,,missing,intel,core,i3,11.0,0,no os
+8,hp envy x360 m6-aq103dx | intel core i5-7200u 2.50ghz | 256gb | 12gb ram | no os,137.5,used,15.6,silver,,,2.5,hp,missing,,missing,intel,core,i5,7.0,0,no os
+9,hp zbook 15 g3 | intel core i7-6820hq 2.70ghz | 512gb nvme | 16gb ram | no os,152.5,used,15.6,black,,,2.7,hp,missing,,missing,intel,core,i7,6.0,0,no os
+10,libreboot thinkpad x200 128gb ssd 2gb ram,229.0,used,12.1,missing,2.0,128.0,,lenovo,missing,128.0,ssd,intel,core,,,0,linux
+11,dell latitude e5430 i5-3380m 4xcpu@2.9ghz 8gb ram 120gb ssd win 11 pro(6-29-9),20.5,used,14.0,silver,8.0,120.0,2.9,dell,missing,120.0,ssd,intel,core,i5,3.0,1,windows
+12,"dell xps 15 9500 i7-10750h 64gb ram 1tb ssd 15.6"" 4k touchscreen gtx 1650ti",649.0,used,15.6,silver,64.0,1000.0,2.6,dell,3840x2160,64.0,ssd,intel,core,i7,10.0,1,windows
+13,"lot of 4 lenovo thinkpad t450s 14"". 2) i7-5600u 2.60ghz. 2) i5-5300u 2.30ghz",185.0,used,14.0,black,8.0,,2.6,lenovo,missing,500.0,hdd,intel,core,i7,5.0,1,windows
+14,asus rog zephyrus m16 rtx 3070 ti i9-12900h 40gb ram 1tb ssd,1299.0,used,16.0,missing,40.0,1000.0,,asus,missing,1000.0,ssd,intel,core,i9,12.0,0,windows
+15,lenovo thinkpad x1 yoga intel core i7-6500u 2.50ghz 8gb ram 256gb m.2 ssd win 11,133.0,used,14.0,missing,8.0,256.0,2.5,lenovo,1920x1080,,ssd,intel,core,i7,6.0,0,windows
+16,hp chromebook 14-db0023dx 2gb,33.0,used,14.0,black,2.0,16.0,,hp,1366x768,4.0,ssd,intel,celeron,d,,0,chrome os
+17,dell latitude 7290 core i5 8350u 1.7ghz 8gb ram 128gb ssd 12.5'' no os laptop,102.5,used,12.5,missing,8.0,,1.7,dell,missing,128.0,missing,core,core,i5,8.0,0,no os
+18,lenovo thinkpad e490 | i5 1.6ghz | 8gb 256gb-ssd | *read description*,110.0,used,14.0,missing,8.0,256.0,1.6,lenovo,missing,,ssd,intel,core,i5,8.0,1,windows
+19,lenovo yoga 7i 16'' 2.5k touchscreen 2-in-1 laptop w/ stylus pen storm grey,400.0,open box,16.0,gray,8.0,512.0,,lenovo,missing,,missing,intel,core,i5,12.0,0,missing
+20,"hp probook 640 g1 14"" laptop intel i5-4300m, 8gb ram, 320gb hdd no os *",49.99,used,14.0,missing,8.0,256.0,,hp,missing,320.0,hdd,intel,core,i5,4.0,0,no os
+21,good cheap laptop lenovo chromebook ~ with charger,25.0,used,11.0,black,4.0,16.0,1.6,lenovo,1366x768,16.0,emmc,intel,celeron,n,,1,chrome os
+22,dell latitude e5570 i7-6820hq 2.7ghz amd radeon r7 m370 no ssd,88.99,used,15.6,missing,8.0,,2.7,dell,1920x1080,,ssd,intel,core,i7,6.0,1,missing
+23,lenovo thinkpad t460 240gb ssd i5 windows 10 64bit 8gb 2.40ghz laptop webcam,99.99,used,14.0,missing,8.0,240.0,2.4,lenovo,1920x1080,,ssd,intel,core,i5,,0,windows
+24,dell latitude e5470 i7 2.3ghz | 8gb 256gb-ssd | *read*,115.0,used,14.0,gray,8.0,256.0,2.3,dell,missing,256.0,ssd,intel,core,i5,6.0,1,windows
+25,lenovo thinkpad e460 | i5 2.3 ghz | 8gb 500gb | *read description*,71.0,used,14.0,black,8.0,500.0,,lenovo,missing,500.0,hdd,intel,core,i5,6.0,1,windows
+26,"lenovo ideapad 5 15itl05 15.6"" touch 16gb 512gb ssd core i7-1165g7 2.8ghz win10h",325.0,used,15.6,gray,16.0,512.0,2.8,lenovo,1920x1080,512.0,ssd,intel,core,i7,11.0,1,windows
+27,"vaio fe14 14.1"" laptop i7-1165g7 16gb ram 1tb ssd windows 11",250.5,used,14.1,silver,16.0,1000.0,2.8,vaio,1920x1080,1000.0,ssd,intel,core,i7,11.0,1,windows
+28,dell latitude e6530 i5-3210m 4xcpu@2.5ghz 4gb ram 120gb ssd win 11 pro(6-29-8),31.0,used,15.6,silver,4.0,120.0,2.5,dell,missing,120.0,ssd,intel,core,i5,3.0,1,windows
+29,"15.6"" lenovo g580 laptop",11.5,used,15.6,missing,,,,lenovo,missing,,missing,intel,celeron,b,,0,missing
+30,"dell xps 13 9343 intel core i7-5500u 2.4ghz 8gb ram 512gb ssd 13.3"" qhd+ touch",111.5,used,13.3,missing,8.0,512.0,2.4,dell,missing,0.0,ssd,intel,core,i7,5.0,0,no os
+31,"toshiba satellite m55 s325 12.3"" (no hd, intel pentium m 740, 1.73ghz, 1gb)",0.01,used,12.3,blue,1.0,0.0,1.73,toshiba,missing,0.0,hdd + ssd,intel,centrino,,,0,no os
+32,"hp elitebook 2740p 12.1"" (no hd, good lcd, intel core i5-560m, 2.67ghz, 4gb)",14.0,used,12.1,gray,4.0,0.0,2.67,hp,missing,0.0,hdd,intel,core,i5,5.0,0,no os
+33,mixed lot of 5 dell latitude -(7480 / 7490)-(8gb ram / 128gb ssd)-,445.0,used,14.0,black,8.0,128.0,,dell,1920x1080,128.0,ssd,intel,core,i5,8.0,1,no os
+34,hp envy 17m-ae111dx | intel core i7-8550u 1.8ghz | 256gb nvme | 16gb ram | no os,230.5,used,17.3,silver,,,1.8,hp,missing,,missing,intel,core,i7,8.0,0,no os
+35,dell precision 7740 | core i7-9850h | 256gb | 8gb ram | no os/power adapter,405.99,used,17.3,missing,,,2.6,dell,missing,,missing,intel,core,i7,9.0,0,no os
+36,dell inspiron 15 7559 | intel core i5-6300hq 2.30ghz | 256gb | 8gb ram | no os,200.0,used,15.6,black,,,2.3,dell,missing,,missing,intel,core,i5,6.0,0,no os
+37,dell inspiron 15-3567 | core i3-7100u | 256gb | 12gb ram | no os/power adapter,92.0,used,15.6,missing,,,2.4,dell,missing,,missing,intel,core,i3,7.0,0,no os
+38,hp 15-bs013dx notebook | core i3-7100u 2.40ghz | 256gb ssd | 8gb ram | no os,82.0,used,15.6,black,,,2.4,hp,missing,,missing,intel,core,i3,7.0,0,no os
+39,hp zbook 15 g5 | intel core i7-8850h 2.60ghz | 256gb m.2 | 32gb ram | no os,275.0,used,15.6,gray,,,2.6,hp,missing,,missing,intel,core,i7,8.0,0,no os
+40,dell inspiron 15 3511 | intel core i5-1035g1 1.00ghz | 512gb | 8gb ram | no os,167.5,used,15.6,gray,,,1.0,dell,missing,,missing,intel,core,i5,10.0,0,no os
+41,hp envy x360 m6-aq105dx | core i7-7500u | 256gb ssd | no os | no power adapter,163.5,used,15.6,silver,,,2.7,hp,missing,,missing,intel,core,i7,7.0,0,no os
+42,"hp elitebook 1040 g4 i7-7600u 2.8ghz, 8gb, 512gb ssd, 14"", no os",169.0,used,14.0,missing,8.0,512.0,2.8,hp,missing,,ssd,intel,core,i7,7.0,0,no os
+43,"samsung syncmaster 204b 20"" lcd computer monitor-- black",39.0,used,20.0,black,,,,samsung,missing,,missing,missing,,,,0,missing
+44,"dell inspiron 7500 15'' 4k touch (32gb, 1tb ssd, i7-10510u up to 4.9g, nvidia)",525.0,used,15.6,black,32.0,1000.0,1.8,dell,3840x2160,1000.0,ssd,intel,core,i7,10.0,1,windows
+45,"hp zbook 15 g4 i7-7820hq 2.9ghz, 32gb, 512gb ssd, 15.6"", m2200, win 10 pro",219.0,used,15.6,missing,32.0,512.0,2.9,hp,missing,,ssd,intel,core,i7,7.0,0,windows
+46,hp pavilon 510-p136 intel core i7-6700t 12gb 2tb hdd win 10 desktop,239.0,used,,missing,12.0,,,hp,missing,2000.0,hdd,core,i7-6700t,,,1,windows
+47,"microsoft surface book 13.5"" - i5 gen 6, 8gb ram, 256gb nvme",134.99,used,13.5,silver,8.0,256.0,2.4,microsoft,3000x2000,,ssd,intel,core,i5,6.0,0,no os
+48,dell g3 3579 15.6'' i7-8750h 2.20ghz 8gb 1tb+ 128gb ssd gtx 1050 ti (a03013985),299.99,used,15.6,missing,,,,dell,missing,,missing,intel,core,i7,8.0,0,missing
+49,"hp elite x2 g4 core i5-8265u 1.60ghz 8gb 256gb ssd bt-wlan 12.3""fhd w10p",424.99,used,12.3,missing,8.0,256.0,1.6,hp,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+50,"microsoft surface laptop go, 9.5"" touchscreen, 8gb, wifi 4g, with pencil",131.5,used,9.5,blue,8.0,128.0,1.0,microsoft,1536x1024,8.0,ssd,intel,core,i5,10.0,1,windows
+51,"lenovo 300e chromebook 2nd gen 81mb004eus 11.6""",45.0,used,11.6,black,4.0,32.0,,lenovo,missing,32.0,ssd,intel,celeron,,,0,chrome os
+52,"hp elitebook 8470p with 16 gb ram, 256 gb nvme ssd, win 10 pro, dvd writer",55.0,used,14.0,silver,16.0,256.0,2.6,hp,missing,256.0,ssd,intel,core,i5,3.0,0,windows
+53,"lg 14"" gram - 512 gb - priced to sell",300.0,used,14.0,missing,,,,lg,missing,512.0,missing,intel,core,i5,12.0,0,missing
+54,"hp pavilion 15-cs0064st i7 1.8/4.0ghz, 16gb ,256g ssd,cam,backlit,win10,fhd1920",227.77,used,15.6,missing,16.0,256.0,1.8,hp,missing,16.0,ssd,intel,core,i7,8.0,0,windows
+55,getac k120 i5 rugged tablet laptop 2 in 1 with detachable keyboard msrp $4044,560.0,used,12.5,gray,16.0,256.0,3.4,getac,1920x1080,256.0,ssd,intel,core,i5,8.0,0,windows
+56,dell latitude 3550 intel core i5-5200u @2.20ghz 4gb ram 500gb ssd win-10pro*read,69.99,used,15.6,black,4.0,500.0,2.2,dell,1366x768,,ssd,intel,core,i5,5.0,1,windows
+57,"lenovo thinkpad x1 yoga gen 1 14"" i7-6600u @ 2.6ghz 16gb 256gb win10home *used*",104.99,used,14.0,black,16.0,256.0,2.6,lenovo,2560x1440,,ssd,intel,core,i7,6.0,1,windows
+58,panasonic toughbook cf-54 i7 7th gen 16gb 512gb ssd lte rugged laptop,410.0,used,14.0,missing,16.0,512.0,2.8,panasonic,missing,512.0,ssd,intel,core,i7,7.0,0,windows
+59,hp split 13 x2 laptop - i3-4012y - 4gb ram - 500gb sata ssd - win 10,71.99,used,13.0,missing,,,,hp,missing,,missing,intel,core,i3,4.0,0,missing
+60,hp notebook 15 f004wm laptop computer intel celeron n2830@2.16ghz-4gb-500gb,49.99,used,15.6,missing,,,,hp,missing,,missing,intel,celeron,n,,0,missing
+61,"17.3"" dell 7710 precision, i7-6820hq 2.70ghz, quadro m500, 32gb, 1tb ssd",399.95,good - refurbished,17.3,black,32.0,1000.0,2.7,dell,1920x1080,,ssd,intel,core,i7,6.0,1,windows
+62,"msi gl65 leopard 15"" 2020 2.5ghz i5-10300h 24gb ram - gtx 1650 500 ssd",575.0,used,15.0,black,24.0,500.0,2.5,msi,missing,24.0,ssd,intel,core,i5,10.0,0,missing
+63,dell latitude e7250 laptop boots intel core i5-5300u @ 2.3ghz 8gb ram no hdd,50.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+64,lenovo b575 amd e-450 @ 1.65ghz 6gb ram 500 gb hdd windows 10,49.99,used,15.6,black,6.0,,1.65,lenovo,1366x768,500.0,hdd,amd,e-series,,,1,windows
+65,lot of 6 dell latitude 7480 i5-6300u 2.4 ghz 8gb no hdd/os/batt (cosmetic),335.0,used,14.0,missing,8.0,,2.4,dell,missing,,no drive,intel,core,i5,6.0,0,no os
+66,dell latitude e5420 intel i5-2520m @2.5ghz 8gb ram 250gb hdd no os read!,69.99,used,14.0,missing,8.0,250.0,2.5,dell,missing,250.0,hdd,intel,core,i5,2.0,0,no os
+67,"asus vivobook 14″ (256gb ssd, intel amd ryzen 3, 3.5 ghz, 8 gb ram, amd...",349.99,open box,14.0,gray,8.0,256.0,2.6,asus,1920x1080,256.0,ssd,amd,ryzen,3,,1,windows
+68,google pixel slate i5 128gb 8gb w/folio keyboard/pen/brydge keyboard,173.59,used,12.3,blue,8.0,128.0,3.9,google,3000x2000,128.0,ssd,intel,core,i5,7.0,1,missing
+69,"lenovo ideapad flex 15.6"" fhd touch 1.8ghz i7-10510u 16gb 1tb ssd - mx230 2gb",479.99,excellent - refurbished,15.6,missing,16.0,1000.0,1.8,lenovo,1920x1080,,ssd,intel,core,i7,10.0,1,windows
+70,getac v200 rugged touch screen laptop i5-3320m 2.60ghz 4gb ram w/power supply,149.95,used,12.1,missing,,,,getac,missing,,missing,intel,,,,0,missing
+71,lenovo thinkpad x230 tablet|core i7@2.90ghz|8gb ram |256 gb ssd\d|win 10. prof|,299.0,good - refurbished,12.5,black,8.0,256.0,2.9,lenovo,1366x768,256.0,ssd,intel,core,i7,3.0,1,windows
+72,"dell latitude 5330 13.3"" laptop computer intel core i5-1245u 256gb - grey",438.74,open box,13.3,gray,8.0,256.0,2.5,dell,1920x1080,,ssd,intel,core,i5,12.0,1,windows
+73,dell latitude e7440 laptop boots core i5-4300u @1.9ghz 8gb ddr3 ram no os no ssd,38.0,used,14.0,missing,,,,dell,missing,,missing,core,i5,,4.0,0,missing
+74,"dell latitude e5440 14"" laptop i5 4th gen 250gb ssd 8gb ram win 10 pro (z3e2) l",174.95,good - refurbished,14.0,black,8.0,256.0,1.9,dell,1366x768,,ssd,intel,core,i5,4.0,1,windows
+75,lenovo 14w amd a6 1.8ghz 4gb ram no hdd 14'' no os laptop,24.99,used,14.0,missing,4.0,,1.8,lenovo,missing,0.0,missing,amd,a,6,,0,no os
+76,"dell latitude e7450 intel core i7-5600u 2.6ghz 8gb ram 128gb ssd 14"" fhd",54.0,used,14.0,missing,,128.0,2.6,dell,missing,0.0,ssd,intel,core,i7,5.0,0,no os
+77,lenovo thinkpad t15 gen 1,184.5,used,15.6,missing,,,2.3,lenovo,missing,,missing,intel,core,i7,,0,windows
+78,"dell latitude 7520 15.6"" (512gb ssd, intel core i7-1185g7, 3.0ghz, 16gb ram)...",395.0,used,15.6,black,16.0,512.0,3.0,dell,1920x1080,512.0,ssd,intel,core,i7,11.0,1,windows
+79,lenovo ideapad s340-15iwl | core i3-8145u | 128gb ssd | no os/no power adapter,117.5,used,15.6,silver,,,2.1,lenovo,missing,,missing,intel,core,I3,8.0,0,no os
+80,hp 17-cn0013dx laptop | core i3-1115g4 | 256gb | 8gb ram | no os/power adapter,157.5,used,17.3,silver,,,3.0,hp,missing,,missing,intel,core,I3,11.0,0,no os
+81,dell vostro 7590 | core i7-9750h | 256gb | 8gb ram | no os | no power adapter,305.0,used,15.6,missing,,,2.6,dell,missing,,missing,intel,core,i7,9.0,0,no os
+82,dell g3 3579 | intel core i5-8300h 2.30ghz | 256gb ssd | 8gb ram | no os,286.0,used,15.6,missing,,,2.3,dell,missing,,missing,intel,core,i5,8.0,0,no os
+83,hp elitebook 745 g6 | amd ryzen 5 3500u 2.10ghz | 256gb m.2 | 16gb ram | no os,168.0,used,15.6,silver,,,2.1,hp,missing,,missing,amd,ryzen,5,,0,no os
+84,hp envy x360 15m-cn0011dx | intel core i5-8250u | 256gb m.2 | 8gb ram | no os,153.5,used,15.6,silver,,,1.6,hp,missing,,missing,intel,core,i5,8.0,0,no os
+85,hp pavilion 16-a0032dx | core i5-10300h | 1tb nvme | no os | no power adapter,390.99,used,16.1,black,,,2.5,hp,missing,,missing,intel,core,i5,10.0,0,no os
+86,hp envy x360 15m-cn0012dx | core i7-8550u | 256gb | no os | no power adapter,190.0,used,15.6,silver,,,1.8,hp,missing,,missing,intel,core,i7,8.0,0,no os
+87,hp envy m6-n113dx | amd fx-7500 2.10ghz | 256gb ssd | 8gb ram | no os,68.25,used,15.6,silver,,,2.1,hp,missing,,missing,amd,fx,,,0,no os
+88,dell g5 5505 | amd ryzen 7 4800h 2.9ghz | 512gb ssd | 8gb ram | no os,405.01,used,15.6,silver,,,2.9,dell,missing,,missing,amd,ryzen,7,,0,no os
+89,hp zbook power g7 | intel core i7-10850h 2.70ghz | 256gb nvme | 8gb ram | no os,255.0,used,15.6,gray,,,2.7,hp,missing,,missing,intel,core,i7,10.0,0,no os
+90,dell latitude 14 rugged 5414 core i7-6600u 2.60ghz 16gb 256gb win 10 pro laptop,434.99,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,6.0,0,missing
+91,dell latitude 14-5491 14''core i5-8400h x4 2.5ghz 8gb ram)excellent 🔋 no ssd,49.0,used,14.0,black,8.0,,2.5,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+92,"lenovo thinkpad t480 14"" i5-8350u 1.7ghz quad core 8gb 480gb ssd win 10 webcam",139.98,used,14.0,black,8.0,480.0,1.7,lenovo,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+93,"lenovo thinkpad x250 12.5"" laptop intel i7 2.6ghz 8gb 256gb ssd windows 10 pro",100.0,used,12.5,black,8.0,256.0,2.6,lenovo,missing,256.0,ssd,amd,ryzen,5,,0,windows
+94,dell inspiron 3583 intel celeron cpu@1.8ghz 4gb ram 1tb hdd(6-29-4),41.0,used,15.6,black,4.0,1000.0,1.8,dell,missing,1000.0,hdd,intel,celeron,,,1,windows
+95,hp elitebook 840 g5 i7 1.9ghz | 16 gb 512 gb-ssd | *read description*,149.99,used,14.0,silver,16.0,512.0,1.9,hp,missing,,ssd,intel,core,i7,8.0,0,windows
+96,"msi pulse gl66 15.6"" fhd 144hz gaming laptop: intel core i7-12700h rtx 3070 16gb",826.0,open box,15.6,black,16.0,512.0,,msi,missing,512.0,ssd,intel,core,i7,12.0,0,missing
+97,microsoft surface pro 4 core i5-6300u @2.4ghz 8gb ram 256gb ssd win 10 pro,55.0,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i5,6.0,0,missing
+98,"hp elitebook 820, intel core i7-5600u, 16gb ram, 256gb ssd, black/gray h4",61.0,used,12.5,multicolor,,256.0,,hp,missing,,missing,intel,core,i7,5.0,0,missing
+99,"new lenovo thinkpad x1 carbon gen 9 14"" wuxga touch i7-1165g7 32gb 256gb win11p",1649.0,new,14.0,black,32.0,256.0,4.7,lenovo,1920x1200,256.0,ssd,intel,core,i7,11.0,0,windows
+100,asus - rog zephyrus 14 fhd 144hz gaming laptop brandnew,760.0,new,14.0,missing,,512.0,144.0,asus,missing,,missing,amd,ryzen,7,,0,windows
+101,lenovo v15 g2 laptop i5-1135g7 2.40ghz 8gb ram 256gb ssd win 11 adapter,287.0,new,15.6,black,8.0,,2.4,lenovo,1920x1080,256.0,ssd,intel,core,i5,11.0,1,windows
+102,"dell inspiron 15 5570 15.6"" laptop i5-8250u 8gb ram 500gb hdd no os #2",129.0,used,15.6,silver,8.0,,1.6,dell,1920x1080,500.0,hdd,intel,core,i5,8.0,1,no os
+103,"hp envy x360 13m-ag0001dx touchscreen (ryzen 5-2500u 2ghz, ram 8gb, 128 gb ssd)",229.0,used,13.3,gray,8.0,128.0,2.0,hp,1920x1080,,ssd,amd,ryzen,5,,1,windows
+104,lenovo moto tab at&t tb-x704a,40.0,used,10.0,missing,,,,lenovo,missing,32.0,missing,intel,celeron,n,,0,missing
+105,dell latitude e5570 intel core i5-6200u @ 2.30ghz 8gb ram 500gb hdd,46.0,used,15.6,missing,8.0,,2.3,dell,1366x768,500.0,hdd,intel,core,i5,6.0,0,no os
+106,"asus  vivobook flip 14 tm420ua-ds71t amd ryzen 7 5700u 14"" laptop computer 512gb",395.0,open box,14.0,blue,4.0,512.0,2.7,asus,1920x1080,,ssd,amd,ryzen,7,7.0,1,windows
+107,no battery os or ssd - hp probook 640 g1 8gb ram ddr3 i5 4210m 2.6ghz     (u2la),39.99,used,14.0,missing,8.0,0.0,2.6,hp,missing,0.0,no drive,intel,core,i5,4.0,0,no os
+108,dell latitude e7240 laptop i7-4600u 2.7ghz 16gb ram 256gb ssd *no os*,79.9,used,,missing,16.0,256.0,2.7,dell,missing,,no drive,intel,core,i7,4.0,0,missing
+109,"google pixelbook coa i5-7y57 12.3"" 8gb ram 128gb ssd 1.20 ghz chrome os - silver",139.99,used,12.3,silver,,128.0,1.2,google,2400x1600,,ssd,intel,,,,1,chrome os
+110,"maingear vector pro 17.3 inch rtx 3080 gaming laptop, intel core i7 11800h 165hz",1275.0,used,17.3,black,32.0,1000.0,2.3,maingear,2560x1440,,ssd,intel,core,i7,11.0,1,windows
+111,sony vaio laptop tablet,45.0,used,13.3,missing,,,,sony,missing,,ssd,intel,pentium,,,1,missing
+112,dell inspiron special edition i15rse-4267alu 15-inch fhd 1080p laptop / i7-3632q,99.99,used,15.0,missing,8.0,,3.0,dell,1920x1080,750.0,hdd,intel,core,i7,7.0,1,windows
+113,laptop hp zbook 17 g1 i7 2.4ghz 16gb ram 500gb ssd nvidia quadro k1100m,150.0,used,15.6,missing,16.0,500.0,2.4,hp,missing,500.0,ssd,intel,core,i7,4.0,1,windows
+114,"acer nitro 5 n20c2 rtx 3050 ti 17"" 2.3ghz 16gb ram 1tb ssd win 11 home laptop",549.99,used,17.0,missing,16.0,1000.0,2.3,acer,missing,1000.0,ssd,intel,core,i7,,0,windows
+115,msi gaming laptop,360.0,used,15.6,black,,256.0,2.8,msi,1920x1080,1000.0,hdd + ssd,intel,core,i7,7.0,1,windows
+116,"lenovo thinkpad t460s intel core i5-6300u 2.4ghz 4gb ram no hdd 14""",55.55,used,14.0,missing,,,2.4,lenovo,missing,0.0,missing,intel,core,i5,6.0,0,no os
+117,"lot of 11 microsoft surface 1724 tablets i5-6650u 16gb ram, 256gb ssd eufi win10",699.99,used,12.0,missing,16.0,256.0,,microsoft,missing,,missing,intel,core,i5,6.0,0,windows
+118,hp elitebook 840 g2 laptop intel core i5 2.3ghz 500gb hard drive 8gb ram windows,170.0,very good - refurbished,14.0,silver,8.0,,2.3,hp,1366x768,500.0,hdd,intel,core,i5,5.0,1,windows
+119,"lenovo thinkpad t480s | i5-8350u@1.7ghz  | 8gb ram | no os, hdd",91.0,used,14.0,black,8.0,,1.7,lenovo,1920x1080,,ssd,intel,core,i5,8.0,1,no os
+120,lot of 5 lenovo t450/t450s i5-5300m 2.3ghz 8gb ram 500gb hdd no os,225.0,used,14.0,black,8.0,,2.3,lenovo,1600x900,500.0,hdd,intel,core,i5,5.0,1,no os
+121,"dell latitude 3390 2-in-1 13.3"" touch laptop core i3 8gb 256gb ssd win10 laptop",199.99,certified - refurbished,13.0,black,8.0,256.0,2.2,dell,1920x1080,256.0,ssd,intel,core,i3,8.0,1,windows
+122,lenovo thinkpad t460p laptop i7-6700hq geforce 940mx 16gb  512gb ssd win10 fhd,349.99,very good - refurbished,14.0,missing,16.0,512.0,2.7,lenovo,1920x1080,,ssd,intel,core,i7,6.0,1,windows
+123,"lenovo thinkpad t460 core i5-6300u 2.4ghz 8g, 256gb ssd wifi win10 pro & cord",100.0,used,15.0,black,8.0,256.0,2.4,lenovo,1920x1080,256.0,ssd,intel,core,i5,6.0,1,windows
+124,"dell latitude 5414 14"" touchscreen i5-6300u 2.4ghz 8gb ram no ssd w/charger",129.99,used,14.0,black,8.0,0.0,2.4,dell,1920x1080,0.0,no drive,intel,core,i5,6.0,1,windows
+125,"lot of 9 dell latitude e7270 12.5"" i5-6300u 2.4ghz|8gb ram no ssd",549.95,used,12.5,black,8.0,,2.4,dell,1366x768,,ssd,intel,core,i5,6.0,1,no os
+126,"panasonic toughbook cf-c2c6gzxkm 2-in-1 12.5"" | 2.00ghz core i5-4310u | 4gb ddr3",44.99,used,12.5,missing,,,2.0,panasonic,missing,,missing,intel,core,i5,4.0,0,missing
+127,"dell precision 7720 i7-6820hq 2.7ghz, 32gb, 1tb ssd, 17.3"", p3000, win 10 pro",289.0,used,17.3,missing,32.0,1000.0,2.7,dell,missing,,ssd,intel,core,i7,6.0,0,windows
+128,"lenovo ideapad 3 17iml05 laptop 17.3"" i5-10210u 1.6ghz 8gb 256gb ssd -read plz!!",269.0,used,17.3,blue,8.0,256.0,1.6,lenovo,1920x1080,256.0,ssd,intel,core,i5,10.0,1,windows
+129,dell latitude rugged 5414 touchscreen core i5 @ 2.4ghz 16gb ram no ssd w/charger,129.99,used,14.0,black,16.0,0.0,2.4,dell,1920x1080,0.0,no drive,intel,core,i5,6.0,1,windows
+130,"dell latitude 5414 14"" touchscreen i5-6300u 2.4ghz 8gb ram no os/ssd w/charger",119.99,used,14.0,black,8.0,0.0,2.4,dell,1920x1080,0.0,no drive,intel,core,i5,6.0,1,missing
+131,lenovo thinkpad t580 i5 laptop with fingerprint scanner and 2 batteries,128.5,used,15.6,black,16.0,120.0,1.8,lenovo,1920x1080,120.0,ssd,intel,core,i5,8.0,1,windows
+132,msi gs66 12ugs i9-12000h 32 gb ddr5 3070 ti 360hz used gaming laptop,1000.0,used,15.6,missing,,,,msi,missing,32.0,missing,intel,core,i9,12.0,0,missing
+133,lenovo thinkpad t580 i5 laptop with fingerprint scanner and 2 batteries,128.5,used,15.6,black,16.0,120.0,1.8,lenovo,1920x1080,120.0,ssd,intel,core,i5,8.0,1,windows
+134,msi gs66 12ugs i9-12000h 32 gb ddr5 3070 ti 360hz used gaming laptop,1000.0,used,15.6,missing,,,,msi,missing,32.0,missing,intel,core,i9,12.0,0,missing
+135,lenovo - yoga 7i 14 2-in-1 14in touch-screen laptop - 82bh0004us,349.99,used,14.0,gray,12.0,512.0,2.4,lenovo,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+136,"dell inspiron 14z 5423 14"" i7-3517u, 8gb ram, 32gb ssd, 240hdd, windows 11 pro",28.0,used,14.0,gray,8.0,32.0,1.9,dell,1366x768,240.0,ssd,intel,core,i7,3.0,1,windows
+137,asus vivobook tp412fa-ws31t core i3 10th gen  128gb ssd ram,172.5,used,14.0,missing,,,,asus,missing,,missing,intel,core,i3,10.0,0,missing
+138,dell latitude e5470 laptop boots intel core i5-6440hq @ 2.60ghz 8gb ram no hdd,72.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+139,"asus rog zephyrus m16 gu603 16"" 2022 fhd 2.5ghz i9-12900h 16gb 1tb - rtx 3070 ti",1499.99,excellent - refurbished,16.0,black,,1000.0,2.5,asus,missing,,ssd,intel,core,i9,12.0,0,windows
+140,"lenovo yoga 260 2-in-1 14"" fhd i7-6500u@2.50 ghz 16gb ram 256gb m.2 i 28471wk",102.0,used,14.0,black,16.0,256.0,2.5,lenovo,1920x1080,256.0,ssd,intel,core,i7,6.0,0,linux
+141,"msi prestige 14evo 14"" fhd intel core i7-1195g7  32 gb ram 1tb ssd",545.0,used,14.0,black,16.0,1000.0,2.9,msi,1920x1080,1000.0,ssd,intel,core,i7,11.0,1,windows
+142,"2020 dell g7 15 7500 i9-10885h 32gb 1tb ssd 15.6"" uhd 4k oled rtx 2070 w10 pro",1419.0,certified - refurbished,15.6,black,32.0,1000.0,2.4,dell,3840x2160,,ssd,intel,core,i9,10.0,1,windows
+143,macbook pro a1398 2013 laptop core i7-3720 @ 2.60ghz 16gb ram 250gb ssd (lpc33),199.0,used,15.5,missing,16.0,250.0,2.6,lenovo,missing,250.0,ssd,intel,core,i7,3.0,0,missing
+144,hp pavilion gaming 15-ec1073dx ryzen 5 4600h 16gb ram 512gb + 256gb ssd gtx 1650,509.95,used,15.6,black,16.0,512.0,3.0,hp,1920x1080,512.0,ssd,amd,ryzen,5,,1,windows
+145,"getax s410 g2 14"" i5-8250u 8gb ram 512gb ssd rugged laptop windows 11 pro",399.0,used,14.0,black,8.0,512.0,1.6,getac,1366x786,512.0,ssd,intel,core,i5,8.0,1,windows
+146,"lenovo thinkpad e14 gen 2 14"" intel core i5-1135g7 2.40ghz 16gb 1tb ssd  #17",329.0,used,14.0,black,16.0,1000.0,2.4,lenovo,1920x1080,1000.0,ssd,intel,core,i5,11.0,1,windows
+147,hp elitebook 840 g6 laptop boots core i5-8265u @1.6ghz 8gb ddr4 ram no os no ssd,119.5,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,8.0,0,missing
+148,dell latitude e5470 i5-6440hq 2.6ghz 128gb ssd 8gb win11pro pc laptop no battery,60.0,used,14.0,missing,8.0,128.0,2.6,dell,missing,,ssd,intel,core,i5,6.0,0,windows
+149,"dell latitude e6430 (core i5-3320m, 2.6 ghz, 4gb ram) (no os, no hdd) grade b",26.0,used,14.0,black,4.0,,2.6,dell,1366x768,,missing,intel,core,i5,3.0,1,no os
+150,"hp pavilion dv7-6b77dx 17.3"" laptop intel core i7 processor 6gb ram 640gb hd",174.99,used,17.3,missing,6.0,,,hp,missing,640.0,missing,intel,core,i7,,0,missing
+151,asus vivobook tp412fa-ws31t core i3 10th gen  128gb ssd ram,182.5,used,14.0,missing,,,,asus,missing,,missing,intel,core,i3,10.0,0,missing
+152,"getax s410 g2 14""  touch i5-8250u 8gb ram 512gb ssd rugged  windows 11 pro",399.0,used,14.0,black,8.0,512.0,1.6,getac,1366x786,512.0,ssd,intel,core,i5,8.0,1,windows
+153,"getax s410 g2 14"" i5-8250u 8gb ram 512gb ssd rugged laptop notebook",429.0,used,14.0,black,8.0,512.0,1.6,getac,1366x786,512.0,ssd,intel,core,i5,8.0,1,windows
+154,getac s410 6th gen core i5 2.4ghz 8gb 512gb ssd rugged touch  win10 touch 4g lte,299.0,used,14.1,black,8.0,512.0,2.4,getac,1366x768,512.0,ssd,intel,core,i5,6.0,0,windows
+155,"lenovo thinkpad e14 gen 2 14"" intel core i5-1135g7 - 1tb ssd-  2.40ghz 16gb  #19",309.0,used,14.0,black,16.0,1000.0,2.4,lenovo,1920x1080,1000.0,ssd,intel,core,i5,11.0,1,windows
+156,"dell precision 7530 laptop 6core  i7-8850h  ,32gb ram, 512 ssd,nvidia p2000,",429.0,used,15.6,black,32.0,512.0,2.2,dell,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+157,"dell precision 7530  6core  i7-8850h  ,32gb ram, 512 ssd m.2 ,nvidia p2000,",439.0,used,15.6,black,32.0,512.0,2.2,dell,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+158,"dell precision 5540 6core  i7-9850h  32gb 512gb ssd ,4gb gpu t2000 gaming laptop",499.0,used,15.6,black,32.0,512.0,2.6,dell,1920x1080,512.0,ssd,intel,core,i7,9.0,1,windows
+159,"dell latitude 5420 14"" fhd i5-1145g7 16gb ram 512gb ssd ir webcam win 11 pro",325.0,used,14.0,silver,16.0,512.0,4.4,dell,1920x1080,512.0,ssd,intel,core,i5,11.0,1,windows
+160,dell latitude e5540 core i5 4200u 1.6ghz 8gb ram 320gb hdd 15.6'' no os laptop,40.0,used,15.6,missing,8.0,,1.6,dell,missing,320.0,missing,intel,core,i5,4.0,0,no os
+161,"thomson neo 10.1"" intel atom x5 1.44ghz 4gb 64gb emmc read",39.99,used,10.1,black,4.0,64.0,1.44,thomson,1024x600,,emmc,intel,atom,x5,,1,windows
+162,"dell latitude e7470 intel core i7-6650u 2.2ghz 16gb ram no ssd 14"" fhd",108.05,used,14.0,missing,,0.0,2.2,dell,missing,0.0,no drive,intel,core,i7,6.0,0,no os
+163,"dell latitude 3590 15.6"" fhd core i5-8250u 1.60ghz 8gb 120gb ssd laptop",99.0,used,15.6,missing,8.0,128.0,1.6,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+164,hp elitebook 8570p intel core i7-3520m @2.9ghz 8gb ram no hdd,67.0,used,15.6,missing,8.0,,2.9,hp,1600x900,,no drive,intel,core,i7,3.0,0,no os
+165,alienware laptop m18xr1 with power cord and alienware backpack,400.0,used,18.4,black,8.0,,2.4,alienware,missing,688.0,hdd,intel,core,i7,,0,windows
+166,"asus tuf dash f15 15.6"" laptop 512gb ssd 16gb ram core i7-12650h rtx 3060 (q2)",660.0,used,15.6,black,,512.0,,asus,missing,,missing,intel,core,i7,12.0,1,missing
+167,dell latitude e5470 laptop boots core i5-6440hq @2.6 8gb ram no hdd no os,53.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+168,dell inspiron 5570 laptop boots intel core i7-8550u amd 530 32gb ram 500gb ssd,162.5,used,15.6,missing,,,,dell,missing,,missing,intel,core,i7,8.0,0,missing
+169,dell latitude 5300 13.3” touchscreen laptop i5-8365u 8gb ram 256gb ssd w/adapter,149.99,used,13.3,missing,8.0,256.0,1.6,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+170,asus vivobook 17 core i5 10th gen 128gb ssd 8gb ram,180.5,used,17.3,missing,,,,asus,missing,,missing,intel,core,i5,8.0,0,missing
+171,"acer spin 311 r721t series black 11.6"" convertible touchscreen 32gb chromebook",99.99,open box,11.6,black,4.0,32.0,1.8,acer,1366x768,32.0,emmc,amd,a,6,,1,chrome os
+172,"samsung np900x5n  15"" fhd i7-7500u@2.70 ghz 8gb ram 256gb m.2 ssd i  28193wk",122.5,used,15.0,silver,8.0,256.0,2.7,samsung,1920x1080,256.0,ssd,intel,core,i7,7.0,1,linux
+173,dell latitude e7470 core i7-66000u 2.6 ghz 16 gb 256 gb ssd windows 10 pro,199.99,used,14.0,missing,16.0,256.0,2.6,dell,1920x1080,256.0,ssd,intel,core,i7,6.0,1,windows
+174,"lenovo thinkpad x1 carbon 6th 14"" touchscreen i7 8650u 16gb 256gb w10p-good",391.29,good - refurbished,14.0,black,16.0,256.0,1.9,lenovo,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+175,"dell latitude e5580 15.6"" hd intel core i5-7300 2.6ghz 16gb 512gb w10 p",259.99,certified - refurbished,15.6,black,16.0,512.0,2.6,dell,1366x768,512.0,ssd,intel,core,i5,7.0,0,windows
+176,dell latitude 5580 laptop boots core i5-6300u @2.4ghz 32gb ddr4 ram no os no ssd,77.0,used,15.6,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+177,"hp red 15-bs244wm touchscreen complete assembly  15.6""",76.0,used,15.6,red,,,,hp,1366x768,,missing,intel,pentium,,,1,no os
+178,"dell latitude e5450 14"" laptop i5 5th gen 256gb ssd 8gb ram win 10 pro (z3e2) c",179.95,good - refurbished,14.0,black,8.0,256.0,,dell,1366x768,,ssd,intel,core,i5,5.0,1,windows
+179,dell latitude e5470 laptop boots core i5-6300u @2.4ghz 8gb ram no hdd no os,61.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+180,"lenovo 20ljs0l000 thinkpad x380 yoga 13.3"" (120gb ssd, intel core i7 8th...",220.0,used,13.3,black,16.0,120.0,,lenovo,missing,,ssd,intel,core,i7,8.0,1,windows
+181,dell latitude e5430 laptop boots core i5-3320m @2.6 4gb ram 320gb hdd no os,26.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,3.0,0,missing
+182,"dell precision 7520 15.6"" i7-7820hq 2.90ghz 16gb ram 512gb ssd quadro m2200",349.0,used,15.6,black,16.0,512.0,2.9,dell,1920x1080,512.0,ssd,intel,core,i7,7.0,1,windows
+183,hp zbook 15u g3 laptop i7-6500u 2.50ghz 16gb ram 512gb win10 pro,150.0,used,15.6,black,16.0,512.0,2.5,hp,1920x1080,512.0,ssd,intel,core,i7,6.0,0,windows
+184,"lenovo thinkpad 15.6"" core i7 4800mq 2.7ghz 16gb ram 1tb ssd win 10 pro",200.0,open box,15.6,black,16.0,1000.0,2.7,lenovo,1920x1080,1000.0,ssd,intel,core,i7,4.0,1,windows
+185,dell latitude e5450 laptop boots intel core i5-5300u @2.3ghz 8gb ram no hdd/os,41.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+186,dell latitude 5280 12.5” touch i5-7300u 8gb 128gb win10 laptop notebook new!,185.0,open box,12.0,black,8.0,128.0,2.6,dell,1366x768,128.0,ssd,intel,core,i5,7.0,1,windows
+187,"alienware m15 r6 15.6 inch (1tb, intel core m, 2.30 ghz, 32gb) notebook/laptop -",989.99,used,15.6,black,32.0,1000.0,2.3,alienware,1920x1080,1000.0,ssd,intel,core,m,,1,windows
+188,hp probook 4540s laptop w/ intel core i3-3110m 2.40 ghz + 4 gb | no hd / os a,45.0,used,15.6,silver,4.0,,2.4,hp,missing,0.0,missing,intel,core,I3,3.0,0,missing
+189,dell latitude 5580 laptop boots core i5-6300u @2.4 ghz 8gb ddr4 ram no os no ssd,70.0,used,15.6,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+190,dell latitude e5450 laptop boots core i5-5200u @2.2ghz 8gb ram no hdd no os,52.99,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+191,lenovo p51 with i7-7700 ghz  512 ssd 64gb ram windows 10 pro updated,450.0,used,15.6,missing,,512.0,2.7,lenovo,missing,,ssd,intel,core,i7,7.0,0,windows
+192,"lenovo thinkpad yoga 11e 11.6"" laptop intel celeron n2940 1.83ghz 4gb ram 320gb",19.99,used,11.6,black,4.0,,1.83,lenovo,missing,320.0,hdd,intel,celeron,n,,0,no os
+193,"laptop dell inspiron 15 3000 3511, 15.6"" fhd touchscreen, intel core i5-1035g1",231.5,used,15.6,black,8.0,256.0,1.0,dell,1920x1200,0.0,ssd,intel,core,i5,10.0,1,windows
+194,"microsoft surface pro x 13"" 256gb ssd 8gb ram microsoft sq1 w/ adreno 685 (i18)",213.5,used,13.0,black,,256.0,,microsoft,missing,,missing,microsoft,sq,1,,1,missing
+195,"lenovo thinkpad x1 carbon gen 9 14"" i7-1185g7 wquxga hdr 16gb 1tb ssd win 10 pro",1000.0,used,14.0,black,16.0,1000.0,3.0,lenovo,3840x2400,1000.0,ssd,intel,core,i7,11.0,1,windows
+196,dell latitude 5570 intel core i5-6200u @ 2.30ghz 8gb ram 500gb hdd,62.01,used,15.6,missing,8.0,,2.3,dell,1366x768,500.0,hdd,intel,core,i5,6.0,0,windows
+197,"lenovo thinkpad x1 carbon gen 9 14"" i7-1185g7 wquxga hdr 16gb 1tb ssd win 10 pro",909.0,used,14.0,black,16.0,1000.0,3.0,lenovo,3840x2400,1000.0,ssd,intel,core,i7,11.0,1,windows
+198,"13"" dell xps 13-l322x laptop | i7-3537u @ 2.0ghz | 8gb ram | 256gb ssd | win10",149.95,used,13.3,black,8.0,256.0,,dell,missing,256.0,ssd,intel,core,i7,3.0,1,windows
+199,"lenovo thinkpad p52s 15.6"" laptop intel i7-8550u 1.80ghz 32gb ram 512gb ssd p500",285.0,used,15.6,black,32.0,512.0,1.8,lenovo,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+200,"microsoft surface book 3 15"" i7-1065g7 32gb 512 nvidia quadro rtx 3000 6gb gpu",790.0,used,15.0,missing,32.0,512.0,1.3,microsoft,3000x2000,512.0,ssd,intel,core,i7,10.0,1,windows
+201,"microsoft surface book 3 15"" i7-1065g7 32gb 512 geforce gtx 1660 ti 6gb gpu",800.0,used,15.0,missing,,512.0,1.3,microsoft,3000x2000,512.0,ssd,intel,core,i7,10.0,1,windows
+202,"hp elitebook 840 g3 14"" core i5-6300u 2.4ghz 32gb 1tb fhd webcam win 10 laptop",225.0,good - refurbished,14.0,missing,32.0,1000.0,2.4,hp,1920x1080,,hdd,intel,core,i5,6.0,1,windows
+203,hp pavilion x360 14m-ba011dx  14'' laptop intel core i5-7200u 8gb ram 128ssd,239.99,used,14.0,silver,8.0,256.0,2.5,hp,1920x1080,,ssd,intel,core,i5,11.0,1,missing
+204,"lenovo thinkpad t470s intel core i7-7600u 2.8ghz 24gb 1tb ssd 14"" fhd",143.5,used,14.0,missing,,1000.0,2.8,lenovo,missing,0.0,ssd,intel,core,i7,7.0,0,no os
+205,microsoft surface pro 3 4gb ram intel core i3-4020y cpu @ 1.50 ghz 64 gb ssd,75.0,used,12.0,silver,4.0,64.0,1.5,microsoft,missing,4.0,ssd,intel,core,i3,4.0,0,windows
+206,microsoft surface pro 3 bundle with otterbox & type cover keyboard -windows 10,96.0,open box,12.0,silver,4.0,128.0,1.9,microsoft,2160x1440,128.0,ssd,intel,core,i5,4.0,1,windows
+207,dell latitude 7290 laptop boots intel core i5-8350u @1.7ghz 16gb ram 256gb ssd,98.0,used,12.5,missing,,,,dell,missing,,missing,intel,core,i5,8.0,0,missing
+208,acer chromebook cb3-431 celeron 1.6ghz n3160 4gb ram,8.5,used,13.3,silver,4.0,,1.6,acer,missing,4.0,missing,intel,celeron,n,,0,chrome os
+209,"dell latitude 14"" 7410 intel i5-10310u @ 1.70ghz 8gb ddr4 ram 256gb ssd no os",201.99,used,14.0,gray,8.0,256.0,1.7,dell,missing,,ssd,intel,core,i5,10.0,0,missing
+210,"dell inspiron 5755 17.3"" touchscreen laptop amd a8-7410 2.2ghz 8g ddr3l 500gb hd",51.85,used,17.3,multicolor,8.0,,2.2,dell,missing,500.0,hdd,amd,a,8,,0,no os
+211,lenovo thinkpad e570 i5-7200u 4xcpu@2.7ghz 16gb ram 256gb ssd(6-29-3),85.0,used,15.6,black,16.0,256.0,2.7,lenovo,missing,256.0,ssd,intel,core,i5,7.0,1,windows
+212,dell latitude e7450 laptop boots core i5-5300u @2.3ghz 8gb ddr3 ram no os no ssd,56.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+213,hp probook 640 g1 i5-4300m 2.6ghz 8gb 120gb ssd win10 laptop notebook pc,55.0,used,14.0,missing,8.0,120.0,2.6,hp,missing,120.0,ssd,intel,core,i5,4.0,0,windows
+214,"lenovo thinkpad x1 carbon gen 10 14.0"" 2.8k oled i7-1270p 32gb 256gb ssd ir",1449.0,certified - refurbished,14.0,black,32.0,256.0,4.8,lenovo,2880x1800,256.0,ssd,intel,core,i7,12.0,1,windows
+215,"excellent working leovo thinkpad t440s intel i5 250gb hd,  wow !!!",85.0,used,14.0,black,8.0,250.0,2.5,lenovo,missing,250.0,ssd,intel,core,i5,,0,windows
+216,"dell xps 13 7390 13"" uhd 4k touch i7-10710u 1tb ssd 16gb w10p webcam, backlit",410.0,used,13.0,missing,16.0,1000.0,1.1,dell,3840x2160,1000.0,ssd,intel,core,i7,10.0,1,windows
+217,lenovo thinkpad t460s i5-6300u cpu 2.4ghz 8gb ram 128gb ssd windows 10 / grade-b,130.0,used,14.0,black,8.0,128.0,2.4,lenovo,1920x1080,128.0,ssd,intel,core,i5,6.0,0,windows
+218,hp elitebook x360 1030 g4 2-in-1 i7 8565u 1.8ghz quad 16gb 256ssd touch 10pro,308.23,used,,missing,,,,hp,missing,,missing,missing,,,,0,missing
+219,"dell latitude 7212 rugged extreme  (i7-7600u 2.70ghz, ram 16 gb, 256 gb ssd)",375.0,used,12.0,black,16.0,256.0,2.7,dell,1920x1080,,ssd,intel,core,i7,7.0,1,windows
+220,hp 15-dw0081wm 15.6 in 500 gb intel pentium 2.70 ghz 4gb laptop - red - r133,180.0,open box,15.6,red,4.0,500.0,2.7,hp,1366x768,500.0,missing,intel,pentium,,,1,windows
+221,a lot of 10 dell latitude e7470 i7-6600u 2.60ghz 8gb ram 512gb ssd no os,999.95,used,14.0,black,8.0,512.0,2.6,dell,missing,256.0,ssd,intel,core,i7,6.0,1,no os
+222,"dell latitude e7450 14""/intel i7-5600u/8gb ram/128gb ssd e-port docking station",52.0,used,14.0,missing,8.0,128.0,2.6,dell,1366x768,128.0,ssd,intel,core,i7,5.0,0,windows
+223,"lenovo thinkpad x1 yoga 3rd gen i5-8350u@1.7ghz, 8gb ram, 256gb ssd, win 10 pro",180.0,used,14.0,black,8.0,256.0,1.7,lenovo,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+224,dell latitude e7450 laptop boots core i5-5300u @2.3ghz 8gb ddr3 ram no os no ssd,56.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+225,hp probook 640 g1 i5-4300m 2.6ghz 8gb 120gb ssd win10 laptop notebook pc,55.0,used,14.0,missing,8.0,120.0,2.6,hp,missing,120.0,ssd,intel,core,i5,4.0,0,windows
+226,"lenovo thinkpad x1 carbon gen 10 14.0"" 2.8k oled i7-1270p 32gb 256gb ssd ir",1449.0,certified - refurbished,14.0,black,32.0,256.0,4.8,lenovo,2880x1800,256.0,ssd,intel,core,i7,12.0,1,windows
+227,"excellent working leovo thinkpad t440s intel i5 250gb hd,  wow !!!",85.0,used,14.0,black,8.0,250.0,2.5,lenovo,missing,250.0,ssd,intell,core,i5,,0,windows
+228,"dell xps 13 7390 13"" uhd 4k touch i7-10710u 1tb ssd 16gb w10p webcam, backlit",410.0,used,13.0,missing,16.0,1000.0,1.1,dell,3840x2160,1000.0,ssd,intel,core,i7,10.0,1,windows
+229,lenovo thinkpad t460s i5-6300u cpu 2.4ghz 8gb ram 128gb ssd windows 10 / grade-b,130.0,used,14.0,black,8.0,128.0,2.4,lenovo,1920x1080,128.0,ssd,intel,core,i5,6.0,0,windows
+230,hp elitebook x360 1030 g4 2-in-1 i7 8565u 1.8ghz quad 16gb 256ssd touch 10pro,308.23,used,,missing,,,,hp,missing,,missing,missing,,,,0,missing
+231,"dell latitude 7212 rugged extreme  (i7-7600u 2.70ghz, ram 16 gb, 256 gb ssd)",375.0,used,12.0,black,16.0,256.0,2.7,dell,1920x1080,,ssd,intel,core,i7,7.0,1,windows
+232,hp 15-dw0081wm 15.6 in 500 gb intel pentium 2.70 ghz 4gb laptop - red - r133,180.0,open box,15.6,red,4.0,500.0,2.7,hp,1366x768,500.0,missing,intel,pentium,,,1,windows
+233,a lot of 10 dell latitude e7470 i7-6600u 2.60ghz 8gb ram 512gb ssd no os,999.95,used,14.0,black,8.0,512.0,2.6,dell,missing,256.0,ssd,intel,core,i7,6.0,1,no os
+234,"dell latitude e7450 14""/intel i7-5600u/8gb ram/128gb ssd e-port docking station",52.0,used,14.0,missing,8.0,128.0,2.6,dell,1366x768,128.0,ssd,intel,core,i7,5.0,0,windows
+235,"lenovo thinkpad x1 yoga 3rd gen i5-8350u@1.7ghz, 8gb ram, 256gb ssd, win 10 pro",180.0,used,14.0,black,8.0,256.0,1.7,lenovo,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+236,lenovo flex 5g 128gb ideapad flex snapdragon touchscreen laptop (fe1063594),253.0,used,13.0,missing,5.0,128.0,2.5,lenovo,missing,2002.0,missing,missing,,,,0,windows
+237,lenovo ideapad 320 i7-7500u 256gb ssd 12gb ram win 10 home nvidia 940 mx,148.5,used,15.6,black,12.0,256.0,,lenovo,missing,,ssd,intel,core,i7,7.0,0,windows
+238,"14"" hp elitebook 840 g2 intel core i5-5300u 2.3 ghz 16 gb ram 256 gb ssd",74.99,used,14.0,missing,16.0,256.0,2.3,hp,1366x768,,ssd,intel,core,i5,5.0,0,windows
+239,dell latitude inspiron 5570 touch i3-8130u 4xcpu@2.2ghz 12gb ram 1tb hdd(6-29-2),71.0,used,15.6,black,12.0,1000.0,2.2,dell,missing,1000.0,hdd,intel,core,i3,8.0,1,windows
+240,"dell inspiron 16 plus 7620 16"" laptop computer intel core i7-12700h 1tb ssd",700.0,used,16.0,missing,32.0,1000.0,2.6,dell,missing,,ssd,intel,core,i7,12.0,0,windows
+241,lenovo thinkpad t460s laptop boots core i5-6200u 8gb ram 256gb ssd bios lock,61.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+242,dell latitude 5310 laptop boots core i7-10610u @ 1.80 16gb ram 128gb ssd,232.5,used,13.3,missing,,,,dell,missing,,missing,intel,core,i7,10.0,0,missing
+243,"lenovo thinkpad e490 14"" (256gb m.2 intel core i7 8th gen., 16gb win 11 pro!",199.0,used,14.0,black,16.0,256.0,1.8,lenovo,1920x1080,256.0,ssd,intel,core,i7,8.0,1,windows
+244,microsoft surface pro 6 core i7-8650u @1.9ghz 16gb ram 512gb ssd windows 10,295.0,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i7,8.0,0,missing
+245,dell latitude 3440 laptop boots intel core i5-4210u @ 1.70 8gb ram 500gb hdd,33.16,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,4.0,0,missing
+246,hp elitebook 840 g2 laptop boots core i5-5300u @2.3ghz 8gb ddr3 ram no os no ssd,60.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,5.0,0,missing
+247,microsoft surface pro 3 core i7-4650u @ 1.70ghz 8gb ram 256gb ssd win 10 pro,72.0,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i7,4.0,0,missing
+248,dell latitude e6440 laptop boots intel core i5-4310m @ 2.70ghz 8gb ram 500gb hdd,41.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,4.0,0,missing
+249,hp probook 650 g1 laptop boots intel core i3-4000m @ 2.40ghz 4gb ram no hdd,26.0,used,15.6,missing,,,,hp,missing,,missing,intel,core,I3,4.0,0,missing
+250,dell latitude e5270 laptop boots core i5-6300u @ 2.40 8gb ram 500gb hdd no os,38.0,used,12.5,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+251,dell latitude e6420 laptop boots core i7-2620m @ 2.70 4gb ram no hdd no os,27.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,2.0,0,missing
+252,microsoft surface pro 6 core i7-8650u @1.9ghz 16gb ram 512gb ssd windows 10 pro,275.0,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i7,8.0,0,missing
+253,microsoft surface laptop core i5-7300u @2.6ghz 8gb ram 256gb ssd windows 10 pro,92.0,used,13.5,missing,,,,microsoft,missing,,missing,intel,core,i5,7.0,0,missing
+254,"hp 14-dq0080nr intel celeron n4120 14"" laptop computer 64gb - white",51.0,used,14.0,white,4.0,64.0,1.1,hp,1366x768,,emmc,intel,celeron,n,,1,windows
+255,hp elitebook 820 g3 laptop boots core i5-6300u @ 2.4 ghz 8gb ram no os no ssd,57.0,used,12.5,missing,,,,hp,missing,,missing,intel,core,i5,6.0,0,missing
+256,dell latitude e7440 laptop boots core i5-4310u @2.0ghz 4gb ddr3 ram no os no ssd,26.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,4.0,0,missing
+257,asus vivobook x515 touch laptop boots intel core i5-1135g7 8gb ram 512gb ssd,216.5,used,15.6,missing,,,,asus,missing,,missing,intel,core,i5,11.0,0,missing
+258,asus vivobook l410m laptop boots intel celeron n4020 @1.1ghz 4gb ram 64gb ssd,17.5,used,14.0,missing,,,,asus,missing,,missing,intel,celeron,n,,0,missing
+259,lenovo thinkpad t450 laptop boots core i5-5300u @2.3 ghz 8gb ram 256gb ssd no os,58.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,5.0,0,missing
+260,dell latitude e7440 laptop boots core i7-4600u @ 2.10 8gb ram 120gb hdd no os,43.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,4.0,0,missing
+261,dell latitude 6430u laptop boots core i5-3427u 1.8ghz 4gb ram 128gb hdd no os,17.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,3.0,0,missing
+262,dell latitude 3480 laptop boots core i3-7100u @2.4ghz 8gb ddr4 ram no hdd,55.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i3,7.0,0,missing
+263,hp elitebook 840 g2 laptop boots core i5-5200u @ 2.2 ghz 8gb ram 256gb ssd no os,80.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,5.0,0,missing
+264,dell latitude 5289 laptop boots intel core i7-7600u @2.8ghz 16gb ram no hdd/os,103.5,used,12.5,missing,,,,dell,missing,,missing,intel,core,i7,7.0,0,missing
+265,hp probook 640 g3 laptop boots core i5-7200u @ 2.5 ghz 8gb ram 256gb ssd no os,68.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,7.0,0,missing
+266,lenovo thinkpad e570 laptop boots core i5-6200u @2.3 ghz 8gb ram 500gb hdd no os,75.0,used,15.6,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+267,lenovo thinkpad e550 laptop boots core i3-5005u @2ghz 8gb ram 500gb hdd no os,46.0,used,15.6,missing,,,,lenovo,missing,,missing,intel,core,I3,5.0,0,missing
+268,dell latitude 7370 touch laptop boots intel core m5-6y54 @1.1ghz 8gb ram no hdd,51.0,used,13.3,missing,,,,dell,missing,,missing,intel,core,m,,0,missing
+269,"lenovo legion y530-151ich i7-8750h 2.20ghz 15.6""  16gb  256gb ssd win 11 adapter",349.99,used,15.6,black,16.0,256.0,2.2,lenovo,1920x1080,256.0,ssd,intel,core,i7,8.0,1,windows
+270,"dell latitude 5424 rugged (i7-8650u 1.90ghz, ram 16 gb, 512 gb ssd)",206.5,used,14.0,black,16.0,512.0,1.9,dell,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+271,dell latitude 3480 laptop boots core i3-7100u @2.4ghz 8gb ddr4 ram no hdd,55.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,I3,7.0,0,missing
+272,hp elitebook 840 g2 laptop boots core i5-5200u @ 2.2 ghz 8gb ram 256gb ssd no os,80.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,5.0,0,missing
+273,dell latitude 5289 laptop boots intel core i7-7600u @2.8ghz 16gb ram no hdd/os,103.5,used,12.5,missing,,,,dell,missing,,missing,intel,core,i7,7.0,0,missing
+274,hp probook 640 g3 laptop boots core i5-7200u @ 2.5 ghz 8gb ram 256gb ssd no os,68.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,7.0,0,missing
+275,lenovo thinkpad e570 laptop boots core i5-6200u @2.3 ghz 8gb ram 500gb hdd no os,75.0,used,15.6,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+276,lenovo thinkpad e550 laptop boots core i3-5005u @2ghz 8gb ram 500gb hdd no os,46.0,used,15.6,missing,,,,lenovo,missing,,missing,intel,core,I3,5.0,0,missing
+277,dell latitude 7370 touch laptop boots intel core m5-6y54 @1.1ghz 8gb ram no hdd,51.0,used,13.3,missing,,,,dell,missing,,missing,intel,core,m,,0,missing
+278,"lenovo legion y530-151ich i7-8750h 2.20ghz 15.6""  16gb  256gb ssd win 11 adapter",349.99,used,15.6,black,16.0,256.0,2.2,lenovo,1920x1080,256.0,ssd,intel,core,i7,8.0,1,windows
+279,"dell latitude 5424 rugged (i7-8650u 1.90ghz, ram 16 gb, 512 gb ssd)",206.5,used,14.0,black,16.0,512.0,1.9,dell,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+280,"microsoft surface studio (i7-11370h 3.30ghz, ram 32 gb, 2 tb ssd, rtx 3050 ti)",1625.0,used,14.4,platinum,32.0,2000.0,3.3,microsoft,2400x1600,2000.0,ssd,intel,core,i7,11.0,1,windows
+281,dell latitude 5400 laptop boots intel core i7-8665u @1.90 32gb ram 256gb ssd,202.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,8.0,0,missing
+282,"dell latitude e7450 14"" laptop 256gb ssd, 8gb ram intel i5 5300u 2.3 ghz - black",55.0,used,14.0,black,8.0,256.0,2.6,dell,1366x768,,ssd,intel,core,i5,5.0,0,windows
+283,"dell latitude 7400 intel core i7-8665u 16gb ram 256gb ssd 14"" 1080p no os",196.0,used,14.0,missing,16.0,256.0,,dell,missing,0.0,ssd,intel,core,i7,8.0,0,no os
+284,dell inspiron 3521-i3-3217u/8gb ram/500gb hdd/windows 10,24.99,used,15.6,missing,8.0,500.0,,dell,missing,500.0,hdd,intel,core,i3,3.0,0,windows
+285,"microsoft surface pro x 13"" 2020 3.15ghz sq2 processor 16gb 256gb - excellent!",699.99,excellent - refurbished,13.0,black,16.0,256.0,3.15,microsoft,2880x1920,,ssd,microsoft,sq,2,,1,windows
+286,dell xps 15 9570 i7 8750h uhd 4k touch 500gb ssd 16gb ram gtx 1050ti w10 read!,280.0,used,15.6,silver,,500.0,2.2,dell,missing,,ssd,intel,core,i7,8.0,0,windows
+287,"dell latitude e7470 14"" laptop core i5-6300u @ 2.4ghz 8gb 256gb ssd win11",109.95,used,14.0,missing,8.0,256.0,2.4,dell,1920x1080,,ssd,intel,core,i5,6.0,1,windows
+288,dell latitude 5300 2-in-1 fhd touch  i5-8365u cpu✔8gb ram✔256gb ssd✔win10✔5300-b,134.99,used,13.3,black,8.0,256.0,,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+289,dell latitude 5290 tablet/laptop black i7-8650u 1.90ghz 16gb ddr3 512gb ssd c,190.0,used,12.0,black,16.0,512.0,1.9,dell,1920x1280,,ssd,intel,core,i7,8.0,1,windows
+290,asus rog flow z13 13.4'' 1tb nvme intel core i7-12700h 16gb 5200mhz nvidia 3050,860.0,used,13.4,black,16.0,2000.0,2.3,asus,1920x1200,,ssd,intel,core,i7,12.0,1,windows
+291,"dell latitude 7212 rugged tablet (i7-7600u 2.80ghz, ram 16 gb, 512 gb ssd)",390.0,used,12.0,black,16.0,512.0,2.8,dell,1920x1080,,ssd,intel,core,i7,7.0,1,windows
+292,"hp 17-cn1008cy 17.3"" hd+ touchscreen notebook computer - sku#1595404",479.0,open box,17.3,blue,12.0,512.0,2.5,hp,1600x900,,ssd,intel,core,i5,11.0,1,windows
+293,"samsung np940z5l  15.6"" uhd i7-6700hq@2.60 ghz 16gb ram 256gb m.2 ssd  28470wk",137.5,used,15.6,blue,16.0,256.0,2.6,samsung,3840x2160,256.0,ssd,intel,core,i7,6.0,1,linux
+294,microsoft surface pro 5 core i5-7300u @2.6ghz 8gb ram 128gb ssd win 10 pro,152.5,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i5,7.0,0,missing
+295,dell inspiron 1501 windows xp pro laptop,90.0,used,15.4,silver,,,1.8,dell,missing,120.0,hdd,amd,turion,,,0,windows
+296,"asus tuf gaming a15—amd ryzen 7—32gb ddr5 memory—1.5 tb ssds—15.6"" fhd display",800.0,used,15.6,black,32.0,1000.0,4.2,asus,1920x1080,512.0,ssd,amd,ryzen,7,,1,windows
+297,dell latitude e7270 #2 core i7-6600u 2.6 ghz 16 gb 126 gb ssd windows 10 pro,75.0,used,12.5,black,16.0,128.0,2.6,dell,1366x768,128.0,ssd,intel,core,i7,6.0,1,windows
+298,toshiba satellite e205-s1904 laptop-4gb ram-2.27ghz i5-455gb hdd laptop-win10,50.0,used,14.0,missing,4.0,500.0,2.27,toshiba,missing,455.0,hdd,intel,core,i5,,0,windows
+299,"dell inspiron 15 7567 15.6"" intel i5 7300hq @ 2.50ghz 24gb ram 1tb hdd win 10",168.5,used,15.6,black,24.0,0.0,2.5,dell,1920x1080,1000.0,hdd,intel,core,i5,7.0,1,windows
+300,"dell latitude 5420 rugged (i5-8350u 1.70ghz, ram 16 gb, 1 tb ssd)",301.97,used,14.0,black,16.0,1000.0,1.7,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+301,hp elitebook 840 g3 8gb ram windows 10pro i5-6300 cpu 256gb ssd no charger,84.99,used,14.0,silver,8.0,256.0,2.4,hp,1920x1080,256.0,ssd,intel,core,i5,6.0,0,windows
+302,"microsoft surface laptop 5 15"" i7-1265u 16gb ram 512gb ssd  win 10 pro platinum",974.95,open box,15.0,silver,16.0,512.0,2.6,microsoft,3000x2000,512.0,ssd,intel,core,i7,12.0,1,windows
+303,"msi ws76 17.3"" i9 nvidia quadro rtx a3000 32gb ram 1tb ssd black - new sealed",1324.95,new,17.3,black,32.0,1000.0,2.5,msi,1920x1080,,ssd,intel,core,i9,11.0,1,windows
+304,"new - microsoft surface laptop 5 2023 13.5"" - 12th gen i5 16gb - 256gb - black",869.95,new,13.5,black,16.0,256.0,,microsoft,missing,256.0,ssd,intel,core,i5,12.0,0,windows
+305,asus rog strix g17 17.3'' (2023) (2tb ssd amd ryzen 9 7845hx 64gb ram),970.0,open box,17.3,gray,64.0,2000.0,5.4,asus,1920x1080,2000.0,ssd,amd,ryzen,9,,1,windows
+306,asus rog strix g17 17.3'' (2023) (2tb ssd amd ryzen 9 7845hx 64gb ram),970.0,open box,17.3,gray,64.0,2000.0,5.4,asus,1920x1080,2000.0,ssd,amd,ryzen,9,,1,windows
+307,microsoft surface pro 7 intel core i5-1035g4 @1.1ghz 8gb ram 256gb ssd win 10,350.0,used,12.3,missing,,,,microsoft,missing,,missing,intel,core,i5,10.0,0,missing
+308,dell latitude e5450 laptop boots core i5-5200u @ 2.2 ghz 4gb ram 500gb hdd no os,29.95,used,14.0,missing,4.0,500.0,2.2,dell,missing,500.0,hdd,intel,core,i5,5.0,0,missing
+309,"11"" mini lenovo x100e amd athlon @2.00ghz 2gb ram 250gb hdd no os *missing batt*",18.0,used,11.0,missing,2.0,250.0,2.0,lenovo,missing,250.0,hdd,amd,athlon,,,0,no os
+310,lenovo ideapad flex 3 11.6 2-in-1 touchscreen chromebook (64gb 4gb ram) white cb,84.99,open box,11.6,white,4.0,,1.1,lenovo,missing,64.0,emmc,mediatek,,,,0,chrome os
+311,"lot of used 6 nvme pcle 128gb ssd solid state drive  and apple mouse , acadapter",120.0,used,,missing,,,,dell,missing,128.0,ssd,missing,,,,0,missing
+312,dell latitude e6420 laptop boots core i5-2520m @ 2.50ghz 8gb ram 320gb hdd,16.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,3.0,0,missing
+313,"dell precision 3550 15.6"" intel i5-10310u @ 1.7ghz 8gb ddr4 ram 256gb ssd no os",204.5,used,15.6,gray,8.0,256.0,1.7,dell,missing,,ssd,intel,core,i5,10.0,0,no os
+314,lot of 2-hp elitebook's 8470p-i7-3740qm@2.7ghz 16gb ram 256gb ssd w10p rad gfx,85.0,used,14.0,missing,16.0,256.0,2.7,hp,1600x900,,ssd,intel,core,i7,3.0,1,windows
+315,hp elitebook folio 9470m laptop boots core i5-3317u @ 1.70ghz 12gb ram no hdd,22.5,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,3.0,0,missing
+316,"lenovo ideapad yoga 7   intel core i5-1135g1 @2.40ghz,8 gb ram, no hdd/os.",212.5,used,14.0,black,8.0,,2.4,lenovo,1920x1080,,missing,intel,core,i5,10.0,0,missing
+317,dell latitude e7470 laptop -i5-6300u@2.40ghz 4gb ram no hdd/os *repair* (125),13.5,used,14.0,black,4.0,,2.4,dell,1920x1080,,missing,intel,core,i5,6.0,0,no os
+318,hp 14-ca023nr-celeron n3350@1.10ghz 4gb ram 32gb ssd chrome os (225),12.99,used,14.0,missing,4.0,32.0,1.1,hp,missing,,ssd,intel,celeron,n,,0,chrome os
+319,"macbook pro 13"" (mid 2012) i5-3210m@2.50ghz 4gb ram no hdd/os **repair**(226)",13.5,used,13.0,missing,4.0,,2.5,apple,missing,,hdd,intel,core,i5,3.0,0,no os
+320,hp g6-2228dx-amd a6-4400m@2.70ghz 8gb ram 120gb ssd w10h radeon gfx (229),20.0,used,15.6,missing,8.0,120.0,2.7,hp,1366x768,,ssd,amd,a,6,,1,windows
+321,dell precision 5530 i7-8850h touch 32gb ddr4 512gb nvidia p1000 win 10 pro  29-3,449.99,used,15.6,silver,32.0,512.0,2.6,dell,3840x2160,,ssd,intel,core,i7,8.0,1,windows
+322,"dell latitude 3301 13.3"" fhd - i7-8565u cpu✔8gb ram✔256gb ssd✔win 10 pro✔3301-01",102.5,used,13.3,missing,8.0,256.0,,dell,1920x1080,,ssd,intel,core,i7,8.0,0,windows
+323,"dell latitude 5414 rugged touch (i7-6600u 2.60ghz, ram 16 gb, 512 gb ssd)",229.0,used,14.0,black,16.0,512.0,2.6,dell,1920x1080,,ssd,intel,core,i7,6.0,1,windows
+324,"dell 15.6"" latitude 5520 laptop",484.5,used,15.6,gray,8.0,256.0,2.4,dell,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+325,"[cr]msi gf65 thin 10ue-213 15.6"" fhd laptop i5-10500h 8gb/512gb rtx3060 win10",639.0,certified - refurbished,15.6,black,8.0,512.0,2.6,msi,1920x1080,,ssd,intel,core,i5,10.0,1,windows
+326,"dell latitude 5430 i7-1265u, 512gb, 16gb ram, 14"" 1080p touch id, pro support",625.0,used,14.0,gray,16.0,512.0,1.8,dell,1920x1080,512.0,ssd,intel,core,i7,12.0,1,windows
+327,hp probook 4530s-i3 2310m@2.10ghz 4gb ram 320gb hdd w10p (131),19.99,used,14.0,missing,4.0,0.0,2.1,hp,missing,320.0,hdd,intel,core,i3,2.0,0,windows
+328,asus q301la-i5-4200u@1.60ghz 6gb ram 500gb hdd w10h *repair* (972),19.99,used,13.3,missing,6.0,,1.6,asus,missing,500.0,hdd,intel,core,i5,4.0,0,windows
+329,lenovo thinkpad edge e431-i5-3230m@2.60ghz 4gb ram 500gb hdd w10p (196),19.99,used,15.0,missing,4.0,,2.6,lenovo,missing,500.0,hdd,intel,core,i5,3.0,0,windows
+330,acer travelmate p258-i7-6500u@3.00ghz 8gb ram no hdd/ssd/os boots up (006),36.0,used,15.6,black,8.0,,3.0,acer,missing,,missing,intel,core,i7,6.0,0,windows
+331,asus f555la-i3-5010u@2.1 ghz 12gb ram 275gb ssd w10h hd 5500 gfx**repair** (072),21.5,used,15.6,missing,12.0,275.0,2.1,asus,missing,,ssd,intel,core,i3,5.0,1,windows
+332,hp probook 6570b-i5-3380m@2.90 8gb ram no hdd/os boots to bios (211),19.99,used,15.6,missing,8.0,,,hp,missing,,hdd,intel,core,i5,3.0,0,missing
+333,"lenovo ideapad flex 5  intel core i5-1035g1 @1.00ghz,8 gb ram, no hdd/os.",152.5,used,14.0,black,8.0,,1.0,lenovo,1920x1080,,missing,intel,core,i5,10.0,0,missing
+334,"dell latitude 5424 rugged (i5-8350u 1.70ghz, ram 16 gb, 512 gb ssd)",278.0,used,14.0,black,16.0,512.0,1.7,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+335,"dell inspiron 15-3567 15.6"" laptop intel i3-7100u 2.40ghz 8gb ddr4 1tb hdd",38.0,used,15.6,black,8.0,,2.4,dell,missing,1000.0,hdd,intel,core,i3,7.0,0,no os
+336,lenovo ideapad flex 4 1570-i5-7200u@2.5ghz 8gb ram 240gb ssd w10h 1920x1080 (12,56.0,used,12.0,black,8.0,240.0,2.5,lenovo,1920x1080,,ssd,intel,core,i5,7.0,0,windows
+337,dell latitude e7440 laptop- i7-4600u@2.10ghz 8gb ram 256gb ssd w10p (068),45.62,used,14.0,missing,8.0,256.0,2.1,dell,missing,,ssd,intel,core,i7,4.0,0,windows
+338,dell latitude e5470-i7-6820hq@2.60ghz 8gb ram no ssd/os *repair* (193),47.0,used,14.0,black,8.0,,2.6,dell,missing,,ssd,intel,core,i5,6.0,0,no os
+339,lenovo ideapad 110-151sk-i3-6100u@2.30ghz 6gb ram 1tb hdd w10h (214),32.0,used,15.6,missing,6.0,,2.3,lenovo,missing,1000.0,hdd,intel,core,i3,6.0,0,windows
+340,"dell latitude 5400 14"" fhd i5-8365u 1.6ghz 16gbram  256gbssd webcam windows 10p",135.0,used,14.0,black,16.0,256.0,1.6,dell,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+341,"dell latitude 7420 i7-1185g7 vpro, 32gb ram, 256gb ssd, fhd + warranty",689.0,open box,14.0,black,32.0,256.0,3.0,dell,1920x1080,256.0,ssd,intel,core,i7,11.0,1,windows
+342,acer chromebook  n18q10 silver 4gb storage touchscreen laptop cb714-1w-338t,59.99,used,13.3,silver,4.0,64.0,,acer,missing,,ssd,missing,,,,0,chrome os
+343,"microsoft surface book 13.5"" i5-6300u@2.40ghz 8gb ram 256gb ssd w10p (179)",66.0,used,13.5,silver,8.0,256.0,2.4,microsoft,3000x2000,,ssd,intel,core,i5,6.0,1,windows
+344,"hp 15-ba113cl 15.6"" touch hd amd a10-9600p@2.4ghz 12gb ram 120gb ssd w10h w/cord",32.0,used,15.6,gray,12.0,120.0,2.4,hp,1366x768,,ssd,amd,a,10,,1,windows
+345,dell xps 14 l421x-i7-3537u@2.ghz 8gb ram 256gb ssd +500gb hdd hd&nvidia w10p,35.0,used,14.1,silver,8.0,256.0,2.0,dell,1600x900,500.0,hdd + ssd,intel,core,i7,3.0,1,windows
+346,dell vostro 3460-i7-3632qm@2.2ghz 8gb ram 256gb ssd+1tb hdd intel&nvidia (200),34.0,used,14.0,missing,8.0,256.0,2.2,dell,1366x768,1000.0,hdd + ssd,intel,core,i7,3.0,1,windows
+347,hp probook 450 g3-i3-6100u@2.3ghz 2gb ram no hdd/os boots to bios (135),37.0,used,15.6,missing,2.0,,2.3,hp,missing,,hdd,intel,core,i5,6.0,0,no os
+348,dell latitude 9410 i7 10610u 1.8ghz quadcore 16gb 256ssd nvme touch spanish kb,340.8,used,,missing,,,,dell,missing,,missing,missing,,,,0,missing
+349,"dell inspiron 17 5767 laptop computer - 250gb ssd / 8gb ram / 17.3"" screen",149.99,used,17.3,gray,8.0,250.0,2.5,dell,missing,250.0,ssd,intel,core,i5,7.0,0,windows
+350,"dell precision m6800 17.3"" i7-4940mx 1tb hdd 32gb ram win 10 pro k5100m [#32]",330.0,used,17.3,gray,32.0,1000.0,3.1,dell,1920x1080,1000.0,hdd,intel,core,i7,4.0,1,windows
+351,"dell latitude 7390 13.3"" laptop computer intel core i5-8350u 256gb ssd",122.0,used,13.0,missing,16.0,256.0,1.9,dell,missing,,ssd,intel,core,i5,8.0,0,windows
+352,"lenovo ideapad flex 5  intel core i5-1035g1 @1.00ghz,8 gb ram, no hdd/os.",105.5,used,14.0,black,8.0,,1.0,lenovo,1920x1080,,missing,intel,core,i5,10.0,0,missing
+353,lenovo thinkpad t470s laptop boots core i5-6300u @ 2.40ghz 8gb ram no hdd/os,33.4,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+354,lenovo thinkpad x1 carbon 2nd gen laptop boots core i5-4300u @1.9ghz 4gb ram,18.5,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,4.0,0,missing
+355,"dell latitude 5520 laptop  w/ i5 11th gen, 8gb ram, 256gb ssd, windo (ud1024202)",399.99,used,15.6,missing,8.0,256.0,2.5,dell,missing,,ssd,intel,core,i5,11.0,0,windows
+356,"dell precision 5550 15.6"" 4k touch i7 2.6ghz 64gb 1tb ssd t2000 win 10 pro",620.0,used,15.6,silver,64.0,1000.0,2.6,dell,3840x2160,1000.0,ssd,intel,core,i7,10.0,1,windows
+357,dell latitude 7490 intel i7-8650u 1.90ghz 8gb ram no os no hdd *read*,158.91,used,14.0,black,8.0,,1.9,dell,1920x1080,,missing,intel,core,i7,8.0,0,no os
+358,hp elitebook 840 g4 i5-7300u 4xcpu@2.7ghz 8gb ram 256gb ssd(6-29-1),53.0,used,14.0,silver,8.0,256.0,2.7,hp,missing,256.0,ssd,intel,core,i5,7.0,1,windows
+359,"hp 15-ay053nr i5-6200u 2.3ghz 8gb ram 15.6"" 1tb hard drive laptop -tested",99.95,used,15.6,missing,8.0,,2.3,hp,missing,1000.0,hdd,intel,core,i5,6.0,0,missing
+360,lenovo thinkpad x250 laptop boots core i7-5600u @2.6 ghz 8gb ram 256gb ssd no os,38.0,used,12.5,missing,,,,lenovo,missing,,missing,intel,core,i7,5.0,0,missing
+361,lenovo thinkpad yoga 370 intel core i7 512gb nvme ssd 16 gb ram win 10,129.99,used,13.2,missing,16.0,512.0,2.7,lenovo,1920x1080,512.0,ssd,intel,core,i5,7.0,0,windows
+362,"lenovo thinkpad t470 14"" i5-6300u @ 2.4 ghz 16gb ram 256gb ssd windows 10 pro c4",75.0,used,14.0,black,16.0,0.0,2.4,lenovo,1920x1080,0.0,hdd + ssd,intel,core,i5,6.0,0,no os
+363,"dell latitude e7440 intel core i7-4600u 2.1ghz 8gb ram 256gb ssd 14"" fhd",50.0,used,14.0,missing,8.0,256.0,2.1,dell,missing,0.0,ssd,intel,core,i7,4.0,0,no os
+364,dell latitude - 5411 - core i7 - 10850h - 2.70ghz - no ram - no hdd,130.5,used,14.0,black,0.0,,2.7,dell,1920x1080,,missing,intel,core,i7,10.0,1,no os
+365,lenovo thinkpad t470s laptop boots intel core i5-6300u @2.4ghz 8gb ram no hdd/os,48.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+366,dell rugged e6420xfr,250.0,used,15.6,missing,,,,dell,missing,,missing,intel,core,i5,2.0,0,missing
+367,"lenovo ideapad 1i 14"" laptop 400gb ssd 4gb ram core i3-1215u silver (k5)",138.5,used,14.0,silver,,400.0,,lenovo,missing,,missing,intel,core,I3,12.0,1,missing
+368,apple macbook air 13-inch dual core i5 128gb a1466 (fe3053548),113.5,used,13.0,missing,,,1.5,apple,missing,1002.0,missing,intel,core,i5,1.0,0,mac os
+369,"acer aspire 5 slim, 15.6” - intel core i5-8265u",400.0,used,15.6,silver,8.0,256.0,3.9,acer,missing,256.0,ssd,intel,core,i5,8.0,1,windows
+370,lenovo yoga 80tx intel  4405y@1.50 ghz 4 gb ram 128gb touchscreen win 10 laptop,69.99,used,11.6,missing,4.0,128.0,1.5,lenovo,missing,128.0,ssd,intel,pentium,,,0,windows
+371,lenovo thinkpad t430 | intel core i7-3520m @ 2.9ghz | 4gb ram | no hdd/os,15.26,used,14.0,missing,4.0,,2.9,lenovo,missing,,hdd,intel,core,i7,,0,no os
+372,"dell precision 5530 xeon e-2176m 2.7ghz, 32gb, 1tb ssd, 15.6"", p1000, win 10 pro",389.0,used,15.6,missing,32.0,1000.0,2.7,dell,missing,,ssd,intel,xeon,e,,0,windows
+373,"dell precision 7720 17.3"" laptop intel xeon 3.00 ghz 32gb 1tb ssd windows 10 pro",449.99,excellent - refurbished,17.3,black,32.0,,3.0,dell,missing,,missing,intel,xeon,e,,0,windows
+374,"hp 15.6"" hd touch i5-1135g7 16gb 1tb ssd intel iris xe graphics  win11h silver",449.0,open box,15.6,silver,16.0,1000.0,2.4,hp,1366x768,1000.0,ssd,intel,core,i5,11.0,1,windows
+375,"dell precision 3560 15.6"" intel i5-1145g7 @ 2.6ghz 8gb ddr4 ram 256gb ssd no os",284.0,used,15.6,gray,16.0,256.0,2.6,dell,missing,,ssd,intel,core,i5,11.0,0,no os
+376,"dell inspiron 15-5547 i7-4510u@2ghz 16gb ram 256gb ssd, win10 home touchscreen",120.0,used,16.5,silver,16.0,256.0,2.0,dell,missing,,ssd,intel,core,i7,4.0,0,windows
+377,"dell precision 7520 gaming laptop 15.6"" 1080p i7-7700hq 32gb 512gb+ nvidia w10",349.99,used,15.6,black,32.0,512.0,2.8,dell,1920x1080,750.0,hdd + ssd,intel,core,i7,7.0,1,windows
+378,"dell g3 15 3500 15.6"" fhd gaming - i7-10750h✔16gb ram✔512gb ssd✔gtx 1650ti✔win10",719.99,used,15.6,multicolor,16.0,512.0,,dell,1920x1080,512.0,ssd,intel,core,i7,10.0,1,windows
+379,dell inspiron e1705 core duo t2500 2.0 2gb 160gb hdd win xp media center,55.0,used,17.0,silver,2.0,,2.0,dell,1440x900,160.0,hdd,intel,core,2,,1,windows
+380,"dell latitude e5550 i5-5300u 2.3ghz 256gb ssd 8gb ram win10 15.6"" no battery pc",54.99,used,15.6,missing,8.0,256.0,2.3,dell,missing,,ssd,intel,core,i5,5.0,0,windows
+381,"hp envy 13.3"" full hd notebook pc i7-10510u 16gb 256gb ssd mx350 w11-see notes",499.77,very good - refurbished,13.3,silver,16.0,256.0,1.8,hp,1920x1080,256.0,ssd,intel,core,i7,10.0,1,windows
+382,lenovo thinkpad t430 laptop i5-3320m 2.50ghz 8gb 500gb sata dvdrw linux mint 21,45.0,used,14.1,black,8.0,,2.6,lenovo,1600x900,500.0,hdd,intel,core,i5,3.0,0,linux
+383,asus rog strix intel core i7 16gb ram 500gb gaming laptop g712l (fe3053669),660.0,used,17.0,missing,16.0,500.0,2.5,asus,missing,5002.0,missing,intel,core,i7,,0,windows
+384,lenovo thinkpad t460s laptop boots intel core i5-6300u @2.4ghz 8gb ram,58.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+385,dell latitude 5410 laptop boots intel core i5-10310u @1.7ghz 16gb ram 256gb ssd,187.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,10.0,0,missing
+386,lenovo thinkpad t450 i7-5600u @ 2.6ghz 8gb ram 256gb ssd win 10 pro ac adapter,105.0,used,14.0,black,8.0,256.0,2.6,lenovo,missing,256.0,ssd,intel,core,i7,5.0,1,windows
+387,lenovo thinkpad t450 i7-5600u @ 2.6ghz 16gb ram 256gb ssd win 10 pro ac adapter,125.0,used,14.0,black,16.0,256.0,2.6,lenovo,missing,256.0,ssd,intel,core,i7,5.0,1,windows
+388,dell latitude 3480 laptop boots intel core i7-7500u amd m430 16gb ram no hdd/os,51.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,7.0,0,missing
+389,hp elitebook x360 g8 i7-1185g7 32gb ram 256gb ssd 4g lte touchscreen wrnty 2024,699.0,used,13.3,silver,32.0,256.0,3.0,hp,1920x1080,256.0,ssd,intel,core,i7,11.0,1,windows
+390,hp elitebook x360 g8 i7-1185g7 32gb ram 256gb ssd 4g lte touchscreen wrnty 2024,699.0,used,13.3,silver,32.0,256.0,3.0,hp,1920x1080,256.0,ssd,intel,core,i7,11.0,1,windows
+391,"dell latitude 7430 14"" laptop computer intel core i7-1265u 512gb ssd",570.0,used,14.0,missing,16.0,512.0,2.6,dell,missing,,ssd,intel,core,i7,12.0,0,windows
+392,"alienware m15 15.6"" fhd gaming - i7-9750h cpu✔16gb ram✔512gb ssd✔gtx1660ti✔win10",739.99,used,15.6,gray,16.0,512.0,,alienware,1920x1080,,ssd,intel,core,i7,9.0,1,windows
+393,"pickup only, no ship-dell inspiron 1501 laptop 15” 60gb hdd 896mb ram windows xp",45.0,used,15.0,missing,,,,dell,missing,60.0,hdd,amd,sempron,,,0,windows
+394,dell latitude 3470 laptop boots intel core i5-6200u @2.3ghz 16gb ram no hdd/os,51.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+395,lenovo thinkpad t450s | intel core i7-5600u @ 2.6ghz | 4gb ram | no hdd/os,32.0,used,14.0,missing,4.0,,2.6,lenovo,1920x1080,,hdd,intel,core,i7,5.0,0,no os
+396,"14"" fhd lenovo thinkpad t480s touch i5-8350u 1.7ghz 256gb ssd 16gb ram win11 pro",164.95,used,14.0,missing,16.0,256.0,1.7,lenovo,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+397,dell latitude 3460 laptop boots intel core i5-5200u @2.2ghz 8gb ram no hdd/os,39.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+398,"alienware m15 15.6"" fhd gaming - i7-9750h cpu✔16gb ram✔512gb ssd✔rtx 2070✔win10",749.99,used,15.6,gray,16.0,512.0,,alienware,1920x1080,,ssd,intel,core,i7,9.0,1,windows
+399,"compaq presario cq57 8gb ram 256gb ssd, win 10 home",20.5,used,15.6,missing,8.0,256.0,1.3,compaq,missing,256.0,ssd,amd,a,,,0,windows
+400,"asus rog g752v gtx 1070, intel i7-6820hk 2.7gh, 32gb ddr4,  256gb ssd 1tb hdd",475.99,used,17.3,missing,32.0,256.0,2.7,asus,1920x1080,1000.0,hdd,intel,core,i7,6.0,1,windows
+401,dell latitude 3400 laptop boots intel core i5-8265u @1.6ghz 16gb ram 256gb ssd,104.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,8.0,0,missing
+402,"hp 17-cn0108ds intel  pentium gold 7505 laptop computer 17.3"" 256gb",242.5,open box,17.3,blue,12.0,256.0,2.0,hp,1600x900,,ssd,intel,pentium,,,1,windows
+403,"lenovo thinkpad x1 carbon 7th gen: touchscreen, core i7-8565u, 16gb ram, 512gb",285.0,used,14.0,missing,16.0,512.0,,lenovo,missing,512.0,missing,intel,core,i7,8.0,0,windows
+404,hp pavilion x360 14-ek0033dx (2-in-1) 14'' intel i5-1235u 8gb 512gb ssd 12th gen,449.99,used,14.0,silver,8.0,512.0,1.3,hp,1920x1080,512.0,ssd,intel,core,i5,12.0,1,windows
+405,sony vaio all in one touch screen computer,295.0,used,20.0,missing,,,,sony,missing,,missing,intel,core,i3,3.0,0,windows
+406,"new asus chromebook flip cm3 touchscreen 2-in-1 laptop 12"" 4gb ram 32gb cm3200fv",274.95,new,12.0,silver,4.0,32.0,2.0,asus,1366x912,,emmc,mediatek,,,,0,chrome os
+407,"lenovo thinkpad p14s gen 2a 14"" laptop computer amd ryzen 7 pro 5850u 512gb ssd",404.0,used,14.0,missing,16.0,512.0,1.9,lenovo,missing,,ssd,amd,ryzen,7,,0,windows
+408,"dell vostro 15 3510 15.6"" laptop computer intel core i5-1135g7 256gb - black",250.0,used,15.6,black,8.0,256.0,2.4,dell,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+409,dell latitude 3460 laptop boots intel core i5-5200u @2.2ghz 16gb ram 500gb hdd,46.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+410,"hp probook 650 g5 laptop 15.5"" 256gb m.2 i5-8365u 1.6ghz 16gb windows 10 pro",165.0,used,15.5,silver,256.0,256.0,1.6,hp,1366x768,256.0,ssd,intel,core,i5,8.0,0,windows
+411,"hp 17-by2053cl 17.3"" fhd i5-10210u 12gb ram 1tb hdd dvd+rw win 11 ready",399.95,used,17.3,silver,12.0,1000.0,,hp,1920x1080,1000.0,hdd,intel,core,i5,10.0,1,windows
+412,"hp omen 15.6"" laptop, 1050ti i7-7700hq 16gb ram, 128gb ssd, 1tb hdd |15-ce019dx",349.99,used,15.6,black,16.0,128.0,2.8,hp,1920x1080,500.0,ssd,intel,core,i7,,1,windows
+413,"hp 15-ay011nr 15.6"" i5-6200u 2.4ghz 8.00 gb ram, 850gb ssd win 10 entrp",124.0,used,15.6,silver,8.0,1000.0,2.4,hp,1920x1080,878.0,ssd,intel,core,i5,6.0,1,windows
+414,lenovo thinkpad t460s laptop boots intel core i5-6300u @2.4ghz 8gb ram no hdd/os,58.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+415,dell inspiron 5570 laptop boots intel core i5-8250u @1.6ghz 8gb ram no hdd/os,96.0,used,15.6,missing,,,,dell,missing,,missing,intel,core,i5,8.0,0,missing
+416,"msi prestige 14"" fhd evo laptop a11m-628us intel core i5-1135g7 16gb 512gb nvme",549.0,open box,14.0,gray,16.0,512.0,2.4,msi,1920x1080,512.0,ssd,intel,core,i5,11.0,1,windows
+417,"razer - blade 15 base - 15.6"" gaming 4k ultra hd laptop - intel core i7 - 16gb",750.0,used,15.6,missing,,,,razer,missing,16.0,missing,intel,core,i7,10.0,0,missing
+418,dell latitude e7450 laptop boots core i5-5300u @ 2.3 ghz 8gb ram 500gb hdd no os,55.0,used,,missing,,,,dell,missing,500.0,hdd,intel,core,i5,5.0,0,missing
+419,"lenovo thinkpad x1 yoga 4th gen i7-8665u, 1.9ghz 16gb 512gb ssd touch",299.99,used,14.0,gray,16.0,512.0,1.9,lenovo,2560x1440,512.0,ssd,intel,core,i7,8.0,1,windows
+420,"dell latitude 5400 14"" laptop computer intel core i5-8365u 256gb - black",92.65,used,14.0,black,16.0,256.0,1.9,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+421,dell latitude 3460 laptop boots intel core i5-5200u @2.2ghz 16gb ram 500gb hdd,53.0,used,14.0,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+422,"hp 17-by1053dx 17.3"" laptop pc i5-8265u 256gb ssd 8gb ram webcam win 10 home",299.99,very good - refurbished,17.3,black,8.0,256.0,3.9,hp,1600x900,,ssd,intel,core,i5,8.0,1,windows
+423,hp 15-au123cl touchscreen laptop 2.5ghz core i5 7200u 12gb ram 480gb ssd win 10,108.5,used,15.6,silver,12.0,480.0,2.5,hp,1366x768,480.0,ssd,intel,core,i5,7.0,1,windows
+424,"acer swift 5 14"" fhd ips touch, i7-1165g7, 16gb ram, 1tb ssd, mist green",849.0,new,14.0,green,16.0,1000.0,2.8,acer,1920x1080,1000.0,ssd,intel,core,i7,11.0,1,windows
+425,"lenovo thinkbook 14 laptop i7-1165g7 2.8ghz 16gb ram 14"" 256gb ssd no ac win 11",319.99,used,14.0,gray,16.0,256.0,2.8,lenovo,1920x1080,256.0,ssd,intel,core,i7,11.0,1,windows
+426,"hp 255 g8 15"" full hd laptop ryzen r5 16gb ram 256gb ssd brand new laptop",305.0,new,15.0,gray,16.0,256.0,,hp,1920x1080,256.0,ssd,amd,ryzen,5,,0,windows
+427,"dell precision 3551 15.6"" laptop computer precision 3551 512gb - grey",286.0,used,15.6,gray,16.0,512.0,2.7,dell,1920x1080,,ssd,intel,core,i7,10.0,1,windows
+428,"hp 15-dy 15.6"" intel core i7-1065g7 1.3ghz 8gb ram 256gb ssd",269.99,used,15.6,silver,8.0,256.0,1.3,hp,missing,,ssd,intel,core,i7,10.0,0,missing
+429,microsoft surface pro 7 plus 12.3 inch touchscreen i7-1165g7 16gb ram 256gb ss,599.99,used,12.3,missing,16.0,256.0,2.8,microsoft,2736x1824,256.0,ssd,intel,core,i7,11.0,1,windows
+430,dell chromebook inspiron 3181,30.0,used,12.0,missing,,,,dell,missing,,missing,intel,celeron,n,,0,chrome os
+431,lenovo thinkpad x1 carbon laptop boots i7-7600u @ 2.8 ghz 16gb ram no os no ssd,197.5,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i7,7.0,0,missing
+432,asus 14in laptop - intel celeron n4020/4gb memory/64gb emmc e410ma-tb.cl464bk,119.99,open box,14.0,black,4.0,64.0,2.4,asus,1600x768,64.0,emmc,intel,celeron,n,,1,windows
+433,dell latitude e6420 laptop boots core i7-2760qm @2.4 8gb ram no hdd no os,24.5,used,14.0,missing,,,,dell,missing,,missing,intel,core,i7,2.0,0,missing
+434,lenovo thinkpad x1 carbon intel i5 1.6ghz 4gb ram 128gb ssd win10 pro w/charger,65.0,used,14.0,missing,4.0,128.0,1.6,lenovo,missing,128.0,ssd,intel,core,i5,4.0,0,windows
+435,"dell latitude 7370 13.3"" fhd m5-6y54 1.10ghz 8gb 256gb ssd windows 11 pro #69j",114.95,used,13.3,black,8.0,256.0,1.1,dell,1920x1080,,ssd,intel,core,m5,6.0,1,windows
+436,"dell latitude e5410 14.1"" intel core i7 m620 @ 2.67ghz 6gb ram 320gb hdd *read",39.99,used,14.1,black,6.0,,2.67,dell,1280x800,320.0,hdd,intel,core,i7,1.0,0,missing
+437,alienware x17 r2 - intel core i9 12900hk up to 5.0ghz max gaming machine,1725.0,used,17.3,missing,32.0,1000.0,5.0,alienware,missing,1000.0,ssd,intel,core,i9,12.0,1,windows
+438,"dell  e6540  i7 4610 @3.00ghz,512 ssd,12 gb ram, dvd burn,win 11,webcam,lit keyb",135.0,used,15.6,silver,12.0,512.0,3.0,dell,1366x768,,ssd,intel,core,i7,4.0,1,windows
+439,"razer blade rz09 gaming (i7-8750h 2.20ghz, ram 16 gb, 256 gb ssd + 2 tb hdd)",299.0,used,15.6,black,16.0,256.0,2.2,razer,1920x1080,2000.0,hdd + ssd,intel,core,i7,8.0,1,windows
+440,"hp pavilion 17 laptop 17.3"" intel i3 5020u 2.20ghz 8gb 1tb hdd",185.0,used,17.3,missing,,0.0,2.2,hp,missing,1000.0,hdd,intel,core,i3,5.0,1,no os
+441,"lenovo thinkpad x13 gen1 13.3"" laptop computer intel core i5-10310u 256gb ssd",165.53,used,13.3,missing,8.0,256.0,2.2,lenovo,missing,,ssd,intel,core,i5,10.0,0,windows
+442,"asus zenbook flip 14"" oled laptop 1tb ssd 16gb ram ryzen 7 6800h - black (p5)",590.0,used,14.0,black,,1000.0,,asus,missing,,missing,amd,ryzen,7,,1,missing
+443,lenovo thinkpad - t480 - core i7 - 8650u - 1.90ghz - no ram - no hdd,110.06,used,14.0,black,0.0,,1.9,lenovo,1920x1080,,missing,intel,core,i7,,1,no os
+444,dell latitude 7200 2-in-1 laptop core i7-8665u @1.9 16gb ram 256gb ssd no os,230.5,used,12.3,missing,,,,dell,missing,,missing,intel,core,i7,8.0,0,missing
+445,dell precision 7530 xeon e-2176m 2.70ghz 32g ram laptop {nvidia p1000}|,309.95,used,15.6,missing,32.0,,2.7,dell,missing,,missing,intel,xeon,,,0,no os
+446,"microsoft surface laptop 2 13.5"" black touch 1.9ghz i7-8650u 16gb 512gb - good",319.99,used,13.5,black,,512.0,1.9,microsoft,missing,,ssd,intel,core,i7,8.0,0,windows
+447,"dell latitude 14"" 5410 intel i5-10310u @ 1.70ghz 8gb ddr4 ram 256gb ssd no os",201.99,used,14.0,gray,8.0,256.0,1.7,dell,missing,,ssd,intel,core,i5,10.0,0,missing
+448,lenovo ideapad duet 10.1in chromebook za6f0031us p60t 4gb 64gb tablet notebook,99.0,used,10.1,black,,64.0,2.1,lenovo,missing,,ssd,mediatek,helio,,,0,chrome os
+449,lenovo thinkpad x1 yoga (3rd gen) touchscreen i7-8650u 512gb ssd 16gb ram,250.0,used,14.0,gray,16.0,512.0,1.9,lenovo,1920x1080,512.0,ssd,intel,core,i7,8.0,0,no os
+450,dell latitude 7280 12.5'' fhd i7-7600u 2.80ghz 16gb ram 256gb ssd win 10 pro,145.0,used,12.5,black,16.0,256.0,2.8,dell,1920x1080,256.0,ssd,intel,core,i7,7.0,1,windows
+451,"lenovo legion 5 pro gaming laptop pc 16"" wqxga i7 32gb 2tb ssd 3070 *lenovo ref*",1325.47,excellent - refurbished,16.0,gray,32.0,2000.0,4.6,lenovo,2560x1600,,ssd,intel,core,i7,11.0,1,windows
+452,"lenovo thinkpad x1 extreme 2nd gen 15.6"" uhd 4k oled (3840x2160) hdr 500 display",650.0,used,15.6,missing,16.0,1000.0,,lenovo,3840x2160,,ssd,intel,core,i7,9.0,0,windows
+453,dell latitude e7440 intel core i5-4300u 2.9ghz 8gb ram 256gb ssd laptop,64.0,used,14.0,silver,8.0,256.0,2.9,dell,1366x768,,ssd,intel,core,i5,4.0,1,windows
+454,"dell latitude e5440 14""hd i3-4030u@1.9ghz 4gb ram no hdd no os + sk404",29.99,used,14.0,black,4.0,,1.9,dell,1366x768,,hdd,intel,core,i3,4.0,1,no os
+455,microsoft surface laptop 2 1769 i5-8250u @1.60ghz 8gb ram 256gb ssd win-10h*read,99.99,used,13.5,silver,8.0,256.0,1.6,microsoft,2256x1504,,ssd,intel,core,i5,8.0,0,windows
+456,"lenovo thinkpad w540 15.6"" fhd i7-4800mq 32gb ram 512gb ssd quadro k2100m win 10",199.0,used,15.6,black,32.0,512.0,2.7,lenovo,1920x1080,512.0,ssd,intel,core,i7,4.0,1,windows
+457,"hp probook 445 g8 14"" fhd 2.3ghz amd ryzen 5 5600u 16gb 512gb radeon - excellent",349.99,excellent - refurbished,14.0,silver,,512.0,2.3,hp,missing,,ssd,amd,ryzen,5,,0,windows
+458,"hp elitebook 8570w i7-3630qm 2.4ghz, 12gb, 128gb ssd, 15.6"", no os",99.0,used,15.6,missing,12.0,128.0,2.4,hp,missing,,ssd,intel,core,i7,3.0,0,no os
+459,"dell latitude 5410 14"" intel i5-10210u 16gb ram 256gb ssd windows 11p",224.99,used,14.0,missing,16.0,256.0,,dell,missing,256.0,ssd,intel,core,i5,10.0,0,windows
+460,dell latitude 7200 2-in-1 laptop core i5-8365u @1.6ghz 8gb ram 256gb ssd no os,147.5,used,12.3,missing,,,,dell,missing,,missing,intel,core,i5,8.0,0,missing
+461,"dell - xps 13 plus 13.4"" fhd+ touch-screen laptop – 12th gen intel evo i7 - 16gb",770.0,used,13.4,missing,16.0,512.0,4.7,dell,1920x1200,16.0,ssd,intel,core,i7,12.0,1,windows
+462,"galaxy book pro 15.6"" silver 2021 fhd 2.4ghz i5-1135g7 8gb 512gb ssd - excellent",459.99,excellent - refurbished,15.6,silver,,512.0,2.4,samsung,missing,,ssd,intel,core,i5,11.0,0,windows
+463,"dell latitude 7490 14” black fhd core i7-8650u, 8gb ram, 512gb ssd win 10",160.0,used,14.0,black,8.0,512.0,1.9,dell,1920x1080,512.0,ssd,intel,core,i7,8.0,1,windows
+464,cybersecurity arsenal: dell latitude 6410 with kali linux & tools for hacking,63.0,used,14.0,missing,4.0,4.0,2.67,dell,1280x800,120.0,ssd,intel,core,i5,1.0,0,no os
+465,"dell latitude 5300 2-in-1 black 14"" i7-8665u@1.90ghz 8gb 256gb ssd win 10",199.0,used,14.0,black,8.0,256.0,1.9,dell,missing,256.0,ssd,intel,core,i7,8.0,1,windows
+466,"galaxy book pro 15.6"" blue 2021 fhd 2.8ghz i7-1165g7 16gb 512gb - excellent cond",569.99,excellent - refurbished,15.6,blue,,512.0,2.8,samsung,missing,,ssd,intel,core,i7,11.0,0,windows
+467,lenovo thinkpad t580 laptop boots intel core i7-8650u @ 1.90ghz 8gb ram no hdd,200.0,used,15.6,missing,,,,lenovo,missing,,missing,intel,core,i7,8.0,0,missing
+468,"hp 17-cn0054ds 17.3"" laptop computer intel celeron n4120 128gb",201.0,open box,17.3,missing,4.0,128.0,1.1,hp,missing,,ssd,intel,celeron,n,,0,windows
+469,"dell inspiron 5570 15.6"" silver fhd touch 1.6ghz i5-8250u 12gb 1tb hdd",143.95,used,15.6,missing,,1000.0,1.6,dell,missing,,ssd,intel,core,i5,8.0,0,windows
+470,"hp victus 16.1"" 144hz gaming laptop - intel core i5 - nvidia rtx 3050ti - 8gb...",649.95,new,16.1,silver,8.0,512.0,4.5,hp,1920x1080,512.0,ssd,intel,core,i5,11.0,1,windows
+471,lenovo thinkpad t480 laptop boots core i7-8650u @ 1.90ghz 16gb ram 512gb ssd,213.5,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i7,8.0,0,missing
+472,"asus chromebook flip c433 14"" laptop 8gb ram 64gb emmc core m3-8100y (h3)",62.0,used,14.0,blue,,64.0,,asus,missing,,missing,Intel,Core,m,3.0,1,missing
+473,"asus e410 14"" laptop 128gb ssd 4gb ram celeron n4500 - black d1",73.0,used,14.0,black,,128.0,,asus,missing,,missing,Intel,celeron,n,,1,missing
+474,"dell latitude 14"" 5410 intel i5-10310u @ 1.70ghz 8gb ddr4 ram 256gb ssd no os",201.99,used,14.0,gray,8.0,256.0,1.7,dell,missing,,ssd,intel,core,i5,10.0,0,missing
+475,dell xps 13 9310 touch i7-1185g7 3.0ghz 1tb 32gb win10pro no ac,969.99,used,13.4,silver,32.0,1024.0,3.0,dell,3840x2400,,ssd,intel,core,i7,11.0,1,windows
+476,"acer chromebook 314 14"" laptop 32gb emmc 4gb ram celeron n4020 (h2)",22.38,used,14.0,blue,,32.0,,acer,missing,,missing,intel,celeron,n,,1,missing
+477,asus zenbook s ux391fa laptop 13.3 4k touch i7-8565u 16gb 512gb w10pro near mint,549.95,used,13.3,blue,16.0,512.0,1.8,asus,3840x2160,512.0,ssd,intel,core,i7,8.0,0,windows
+478,asus chromebook cx22n laptop 32gb emmc 4gb ram celeron n3350 e1,11.22,used,11.6,silver,,32.0,,asus,missing,,missing,Intel,celeron,n,,1,missing
+479,dell inspiron 1525/pp29l laptop,49.99,used,15.6,missing,,,,dell,missing,,hdd,missing,,,,0,linux
+480,"lenovo ideapad 3 11 chromebook laptop,11.6"" hd display,intel celeron n4020, 4gb",54.95,used,11.6,black,4.0,64.0,1.1,lenovo,1366x768,64.0,emmc,intel,celeron,n,,1,chrome os
+481,🔴dell latitude 5490 i7-8650u@1.90ghz 16gb ddr4 ram 512gb ssd no os bundle🔴,109.5,used,14.0,black,16.0,512.0,1.9,dell,1366x768,,ssd,intel,core,i7,7.0,1,no os
+482,acer chromebook spin 311 mediatek mt8183c 32gb emmc 4gb ram d5,31.0,used,11.6,silver,,32.0,,acer,missing,,missing,mediatek,,,,1,missing
+483,lenovo thinkpad c13 yoga 32gb emmc 4gb ram amd athlon gold 3150c blue (h1),39.0,used,13.0,blue,,32.0,,lenovo,missing,,missing,amd,athlon,,,1,missing
+484,"dell precision 5550 15.6"" 2020 wuxga 2.6ghz i7-10750h 32gb 512gb - quadro t1000",749.99,very good - refurbished,15.6,gray,,512.0,2.6,dell,missing,,ssd,intel,core,i7,10.0,0,windows
+485,"dell latitude 3520 15.6"" laptop i5-1135g7@2.40 8gb ram 256ssd bt webcam no os",269.99,used,15.6,black,8.0,256.0,2.4,dell,1920x1080,,ssd,intel,core,i5,11.0,0,no os
+486,dell latitude 3520 intel core i3-1115g4 3.00ghz 8 gb ram 500gb hdd,179.99,used,14.0,missing,8.0,500.0,3.0,dell,missing,,hdd,intel,core,i3,11.0,0,no os
+487,evoo ev-c-116-5 blue mini notebook. 1.5ghz,40.0,used,11.6,blue,,,1.5,evoo,missing,32.0,missing,amd,a,4,,0,missing
+488,"hp chromebook 14"" hd touch 128gb emmc 4gb ram intel pentium n5000 x360 silver",229.0,used,14.0,silver,4.0,128.0,1.1,hp,1366x768,128.0,emmc,intel,pentium,,,1,chrome os
+489,"samsung chromebook 4 11.6"" hd 4gb ram 32gb emmc intel celeron n4000 2.6ghz",99.99,used,11.6,silver,4.0,32.0,1.1,samsung,1366x768,32.0,emmc,intel,celeron,,,1,chrome os
+490,lenovo thinkpad - t14 - core i7 - 10610u - 1.80ghz- 16384mb (16gb) - no hdd,246.5,used,14.0,black,16.0,,1.8,lenovo,1920x1080,,missing,intel,core,i7,10.0,1,no os
+491,"dell latitude 7275 12.5"" tablet computer intel core m5-6y57 512gb - black",110.0,used,12.5,black,8.0,512.0,1.5,dell,3840x2160,,ssd,intel,core,m,,1,windows
+492,"hp 15-dy0702ds 15.6"" laptop computer intel celeron n4120 128gb ssd",159.99,open box,15.6,missing,4.0,128.0,1.1,hp,missing,,ssd,intel,celeron,n,,0,windows
+493,"dell g15 15.6"" ryzen 7 6800h, rtx 3050ti, 512 gb ssd, 16gb ram",595.0,open box,15.6,gray,16.0,512.0,4.7,dell,1920x1080,512.0,ssd,amd,ryzen,7,,1,windows
+494,hp elitebook 840 g3 laptop,71.0,used,14.0,silver,8.0,256.0,2.4,hp,1920x1080,,ssd,intel,core,i5,6.0,0,windows
+495,dell inspiron 3541 amd a6 6310 radeon r4 1.80ghz 8gb ram 256gb ssd win 10 *read,49.99,used,15.6,black,8.0,256.0,1.8,dell,1366x768,,ssd,amd,a,6,,1,windows
+496,"dell precision 5550 15.6"" 2020 wuxga 2.6ghz i7-10750h 32gb 512gb - quadro t1000",715.99,used,15.6,gray,,512.0,2.6,dell,missing,,ssd,intel,core,i7,10.0,0,windows
+497,"microsoft surface laptop 2 intel  core i5-8350u 13.5"" laptop computer 256gb",142.5,used,13.5,silver,8.0,256.0,1.9,microsoft,2256x1504,,ssd,intel,core,i5,8.0,1,windows
+498,"hp pavilion 11.6 dm1 ""mini"" | amd e350 w/radeon hd | 256g ssd | 6g | win10pro |",87.77,used,11.6,charcoal,6.0,256.0,1.7,hp,missing,,ssd,amd,e,,,1,windows
+499,"lenovo thinkpad x1 yoga gen 6 14"" touch i7-1185g7 512gb ssd 16gb ram win 10 pro",699.0,used,14.0,missing,16.0,512.0,3.0,lenovo,3840x2160,,ssd,intel,core,i7,11.0,0,windows
+500,"[on hand] asus rog ally 7"" 120hz 1080p - amd ryzen z1 extreme processor - rc71l",899.0,new,7.0,white,4.0,512.0,,asus,1920x1080,0.0,ssd,amd,ryzen,z,,1,missing
+501,"`toshiba satellite s55-c5274 15.6"" intel i7-5500 12gb 500gb ssd win10",199.98,used,15.6,missing,12.0,,,toshiba,missing,,ssd,intel,core,i7,5.0,0,windows
+502,dell inspiron 1721  laptop,40.0,used,17.0,silver,2.0,,1.8,dell,missing,,hdd,amd,,,,0,windows
+503,"asus vivobook 17"" laptop 512gb ssd 8gb ram core i5-1135g7 d2",242.5,used,17.0,silver,,512.0,,asus,missing,,missing,intel,core,i5,11.0,1,missing
+504,"dell latitude 5520 2.40ghz i5-1135g7 16gb ram 256gb nvme ssd win 11 pro 15.6""",260.0,used,15.6,silver,16.0,256.0,2.4,dell,1920x1080,256.0,ssd,intel,core,i5,11.0,1,windows
+505,"asus vivobook x515 15.6"" laptop computer intel core i3-1115g4 256 gb - gray",207.5,used,15.6,gray,8.0,256.0,3.0,asus,1920x1080,,ssd,intel,core,i3,11.0,1,windows
+506,dell latitude 5290 2-in-1 i5-8350u 1.70ghz 8gb ram 256gb ssd windows 10 pro,129.99,used,12.3,black,8.0,256.0,1.7,dell,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+507,"lenovo legion y530 gaming laptop - i7 8750h, 500gb ssd, 16gb ram, 1050ti, w11h",379.99,used,15.6,missing,16.0,500.0,4.1,lenovo,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+508,"dell latitude e5420 14"" laptop intel core i5-2410m 2.30ghz 4gb ram 250gb hdd",24.99,used,14.0,black,4.0,,2.3,dell,missing,250.0,hdd,intel,core,i5,2.0,0,no os
+509,"asus vivobook 15 15"" laptop 8gb ram 512gb ssd core i5-1135g7 d1",250.5,used,15.6,gray,,512.0,,asus,missing,,missing,intel,core,i5,11.0,1,missing
+510,"asus zephyrus g14 ga401iu (1tb ssd, ryzen 7 4800hs, 1660 ti, 32gb ram, 120hz)",570.0,used,14.0,gray,32.0,1000.0,,asus,missing,,ssd,amd,ryzen,7,,0,windows
+511,"asus zephyrus g14 ga401iu (1tb ssd, ryzen 7 4800hs, 1660 ti, 32gb ram, 120hz)",570.0,used,14.0,gray,32.0,1000.0,,asus,missing,,ssd,amd,ryzen,7,,0,windows
+512,"hp probook 650 g2 15.6"" notebook i3-6100u@2.30ghz 8gb ram 128gb ssd win 11 pro#2",69.0,used,15.6,black,8.0,128.0,2.4,hp,1366x768,128.0,ssd,intel,core,i5,6.0,1,windows
+513,"new dell latitude 5420 laptop 14"" core i5 -1145g7 8gb ram  256gb ssd win 10 pro",429.99,new,14.0,silver,8.0,256.0,2.6,dell,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+514,"dell latitude 5420 laptop 14"" core i5 -1145g7 16gb ram  256gb ssd win 11 pro",424.99,open box,14.0,silver,16.0,256.0,2.6,dell,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+515,"2021 dell latitude 5410 laptop 14""  i5-10310u@1.70ghz 8gb ram 256gb ssd win11pro",289.99,open box,14.0,silver,8.0,256.0,1.7,dell,1920x1080,256.0,ssd,intel,core,i5,10.0,1,windows
+516,"dell latitude 5510 15.6"" i5-10310u@1.7ghz 8gb ram 256gb ssd win 11 pro- new",374.99,open box,15.6,silver,8.0,256.0,1.7,dell,1920x1080,256.0,ssd,intel,core,i5,10.0,1,windows
+517,hp pavilion x360 14-ek0033dx 14'' touchscreen i5-1235u 8gb 512gb ssd win 11 home,430.0,open box,14.0,silver,8.0,512.0,1.3,hp,1920x1080,512.0,ssd,intel,core,i5,12.0,1,windows
+518,"dell latitude 7400 2 in 1 14"" touch screen i5-8365u 16gb ram 256gb ssd win11 pro",319.0,open box,14.0,silver,16.0,256.0,1.6,dell,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+519,"dell latitude 3520 15.6"" core i5-1135g7@2.40ghz 8gb ram 256gb ssd win 11 pro",299.99,used,15.6,gray,8.0,256.0,2.4,dell,1366x768,,ssd,intel,core,i5,11.0,1,windows
+520,"hp elitebook 645 g9 14"" ryzen 5 pro 5675u 16gb 512gb ssd",469.99,new,14.0,missing,16.0,512.0,2.3,hp,1920x1080,,ssd,amd,radeon,5,,0,windows
+521,"hp 17-f001dx 17.3"" laptop - amd a8 cpu - 16gb ram - 250 gb hard drive - win 10",99.99,used,17.3,missing,16.0,,,hp,missing,250.0,hdd,amd,a,,,0,windows
+522,"asus rog strix g513i 15.6"" laptop computer amd ryzen 7 4800h 512 gb eclipse gray",714.0,open box,15.6,gray,16.0,512.0,2.7,asus,1920x1080,,ssd,amd,ryzen,7,,1,windows
+523,"hp probook 650 g8 15.6"" i5-1135g7 2.40ghz 16gb 256gb ssd win 11 pro - excellent",399.99,used,15.6,missing,16.0,256.0,2.4,hp,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+524,"dell precision 3560 15.6"" i7-1185g7 16gb ram 512gb ssd w11p nvidia t500-touch",499.99,used,15.6,silver,16.0,512.0,3.0,dell,1920x1080,,ssd,intel,core,i7,11.0,1,windows
+525,lenovo thinkpad t14s gen 2 amd ryzen 5 pro 5650u 16gb ram 512gb ssd w11,599.99,open box,14.0,black,16.0,512.0,2.3,lenovo,1920x1080,,ssd,amd,ryzen,5,,1,windows
+526,"dell latitude 7490 (512gb ssd, intel core i7 8th gen., 1.90 ghz, 16gb ram, intel",175.0,used,14.0,black,16.0,512.0,1.9,dell,1920x1080,512.0,ssd,intel,core,i7,8.0,1,windows
+527,dell latitude 14 7414  core i5 @ 2.6ghz  32gb 1tb ssd  touchscreen orange,777.77,used,14.0,orange,32.0,1000.0,2.6,dell,missing,1000.0,ssd,intel,core,i5,6.0,0,windows
+528,dell xps  laptop 13 9365 2-in-1  intel i7-7y75 16gb ram 256gb ssd windows 10 pro,399.99,used,13.3,black,16.0,256.0,1.3,dell,1920x1080,256.0,ssd,intel,core,i7,7.0,1,windows
+529,"dell latitude 7420 intel  core i5-1145g7 14"" laptop computer 256gb - black",215.5,used,14.0,black,16.0,256.0,1.5,dell,1920x1080,,ssd,intel,core,i5,11.0,1,windows
+530,"lenovo thinkpad t490 256gb ssd i5-8365u 1.6ghz 16gb ram 13"" (1988)",180.5,used,13.0,black,16.0,256.0,1.6,lenovo,1920x1080,,ssd,intel,core,i5,8.0,1,no os
+531,"dell inspiron 7773 laptop — 17” screen, i7, 32gb ram",450.0,used,17.0,gray,32.0,,,dell,missing,32.0,missing,intel,core,i7,8.0,0,windows
+532,"lenovo thinkpad e490 14"" intel i5-8265u @1.6ghz 8gb ram 256gb ssd *no reserve*",141.5,used,14.0,black,8.0,256.0,1.6,lenovo,1920x1080,256.0,ssd,intel,core,i5,8.0,1,windows
+533,"dell latitude 7410 laptop,i7 vpro 10th gen,16gb ram,512gb ssd,win 11,warranty!",380.0,used,14.0,silver,16.0,512.0,1.8,dell,1920x1080,512.0,ssd,intel,core,i7,10.0,1,windows
+534,acer aspire e5-576 laptop boots intel core i3-8130u @ 2.20ghz 8gb ram no hdd,102.5,used,15.6,missing,,,,acer,missing,,missing,intel,core,I3,8.0,0,missing
+535,"apple 2021 macbook pro 16"" 1tb ssd 16gb ram 16 core gpu m1 processor d6",1125.0,used,16.0,silver,,1000.0,,apple,missing,,missing,apple,m,1,,1,missing
+536,lenovo thinkpad i3-7100u 8gb ram preowned 128 gb charger ssd used,69.99,used,14.0,missing,8.0,120.0,2.4,lenovo,missing,128.0,ssd,intel,core,I3,7.0,0,ubuntu
+537,dell precision m6800 quad i7-4810mq 2.8ghz 500gb hd 256gb ssd 32gb ram. wins 11,250.0,used,17.3,missing,32.0,256.0,2.8,dell,1920x1080,500.0,ssd,intel,core,i7,4.0,1,windows
+538,"asus vivobook f515 15.6"" laptop 1tb ssd 8gb ram core i3-1115g4 - gray d4",182.5,used,15.6,gray,,1000.0,,asus,missing,,missing,intel,core,I3,11.0,1,missing
+539,"dell latitude 7490 intel core i5-7300u 14"" laptop computer 256gb - black",76.88,used,14.0,black,16.0,256.0,2.7,dell,1920x1080,,ssd,intel,core,i5,7.0,1,windows
+540,hp probook 445 g7 14” (512gb ssd amd ryzen 5 4th gen. 2.30 ghz 16gb) laptop -...,220.0,new,14.0,silver,16.0,512.0,2.3,hp,1366x768,512.0,ssd,amd,ryzen,5,,1,windows
+541,dell inspiron core i5-10210u 1.60ghz 8gb 500gb touchscreen  #4 - used,170.5,used,15.6,silver,8.0,500.0,1.6,dell,1920x1080,500.0,ssd,intel,core,i5,,1,windows
+542,"origin eon17-x 17.1"" laptop computer intel core i9-11900k 1tb ssd",990.0,used,17.1,missing,16.0,1000.0,3.5,origin pc,missing,,ssd,intel,core,i9,11.0,1,windows
+543,"origin eon17-x 17.1"" laptop computer intel core i9-11900k 1tb ssd",990.0,used,17.1,missing,16.0,1000.0,3.5,origin pc,missing,,ssd,intel,core,i9,11.0,1,windows
+544,"samsung np900x3t  13.3"" fhd i7-8550u@1.80 ghz 8gb ram 250gb m.2 ssd i  28467wk",117.5,used,13.3,silver,8.0,250.0,1.8,samsung,1920x1080,250.0,ssd,intel,core,i7,8.0,1,linux
+545,lenovo ideapad flex 5 chromebook 64gb storage 4gb ram celeron n5205 d4,44.13,used,13.3,gray,,64.0,,lenovo,missing,,missing,intel,celeron,,,1,missing
+546,lenovo thinkpad t440 laptop boots intel core i5-4300u @1.9ghz 8gb ram 500gb hdd,33.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,4.0,0,missing
+547,"msi gt72vr 17.3"" dominator pro-448 gaming laptop",380.0,used,17.3,black,,,,msi,1920x1080,,hdd + ssd,intel,core,i7,7.0,0,windows
+548,"dell latitude e5440 14"" i3-4010u@1.7ghz 8gb ddr3l ram 256gb ssd windows 10 pro",49.99,used,14.0,black,8.0,,1.7,dell,1366x768,256.0,hdd,intel,core,i3,4.0,1,no os
+549,"hp elitebook 850 g1, i7-4600u @ 2.1ghz, 8gb, backlit keyboard - no os/hdd",67.5,used,15.0,missing,8.0,8.0,2.1,hp,missing,0.0,no drive,intel,core,i7,4.0,0,no os
+550,"lenovo thinkpad l15 gen 2 15.6"" non touch  i7-1165g7 16gb ram 256gb ssd",450.0,open box,15.6,black,16.0,512.0,2.8,lenovo,1920x1080,512.0,ssd,intel,core,i7,11.0,1,windows
+551,hp envy x360  convertible 15m-cn012dx 256gb ssd 12gb ram windows 11 home no batt,166.3,used,15.6,missing,12.0,256.0,1.8,hp,1920x1080,,ssd,intel,core,i7,8.0,0,windows
+552,"hp probook 450 g1, i5-4200m@2.5ghz, 8gb ram, 1tb hdd",89.99,used,15.6,black,8.0,,2.5,hp,missing,1000.0,hdd,intel,core,i5,4.0,0,windows
+553,"hp elitebook 8560p 15.6"" | 2.70ghz core i7-2620m | 8gb ddr3 | no hdd | dvd-rw",44.99,used,15.6,missing,8.0,,2.7,hp,missing,0.0,missing,intel,core,i7,2.0,0,missing
+554,"lenovo thinkpad t590 intel core i5-8265u 15.6"" laptop computer 256gb - black",102.5,used,15.6,black,8.0,256.0,1.6,lenovo,1920x1080,,ssd,intel,core,i5,8.0,1,windows
+555,"hp 15-dy0701ds 15.6"" laptop computer intel celeron n4120 128gb - silver",99.99,open box,15.6,silver,4.0,128.0,1.1,hp,1366x768,,ssd,intel,celeron,,,1,windows
+556,asus rog strix scar edition gl703v gaming laptop (gunmetal),330.0,used,17.3,gunmetal,16.0,256.0,2.8,asus,1920x1080,1000.0,hdd + ssd,intel,core,i7,7.0,1,windows
+557,"lenovo 14"" thinkpad p14s gen 1 i7-10510u @1.8ghz 24gb ram 256gb ssd win 10 pro",297.95,used,14.0,black,24.0,256.0,1.8,lenovo,1920x1080,256.0,ssd,intel,core,i7,10.0,1,windows
+558,"asus tuf gaming laptop (ssd 512gb, amd ryzen 7 3750h rtx 2060 16gb ram)",495.0,used,15.6,black,16.0,512.0,2.3,asus,1920x1080,512.0,ssd,amd,ryzen,7,,1,windows
+559,dell latitude e5420 i3-2330m 2.2ghz 10gb ram 500gb hdd dvd-rw  windows 8.1 pro,74.99,used,14.0,gray,10.0,,2.2,dell,1366x768,500.0,hdd,intel,core,i3,2.0,1,windows
+560,dell latitude e6420 i5-2520m 2.5ghz 12gb ram  500gb hdd wi-fi  windows 8.1 pro,79.99,used,14.0,gray,12.0,,2.5,dell,1366x768,500.0,hdd,intel,core,i5,2.0,1,windows
+561,dell inspiron 3780 i7-8565u 256gb ssd 1tb hdd 16gb ddr4 w10p,133.5,used,17.3,missing,16.0,256.0,1.8,dell,1920x1080,1000.0,hdd + ssd,intel,core,i7,8.0,0,windows
+562,dell precision m4700 i7-3940xm 3ghz 16gb ram 128gb msata quadro k2000m fhd,150.0,used,15.6,gray,16.0,128.0,3.0,dell,1920x1080,,missing,intel,core,i7,4.0,0,ubuntu
+563,"one-netbook  a1 pro umpc pc mini laptop 7"" 16gb 512gb ssd  i5-1130g7 windows 11",650.0,open box,7.0,missing,8.0,128.0,2.0,one-netbook,missing,500.0,ssd,intel,core,i5,11.0,0,windows
+564,dell latitude e7440 laptop boots intel core i5-4310u @2.0ghz 8gb ram no hdd/os,27.0,used,14.0,missing,,,,hp,missing,,missing,intel,core,i5,4.0,0,missing
+565,dell latitude 5490 intel core i5 7300u @ 2.60ghz 8gb ram 500gb hdd win 11 *read,84.99,used,14.0,black,8.0,,2.6,dell,1366x768,500.0,hdd,intel,core,i5,7.0,1,windows
+566,dell inspiron 1764 laptop working with wifi & windows 7,61.0,used,17.3,black,,,2.27,dell,missing,500.0,missing,intel,core,i5,,0,windows
+567,"dell latitude 5500 15.6"" laptop i7-8665u 256gb ssd 8gb ram win 11 pro",299.0,used,15.6,black,8.0,256.0,1.9,dell,1920x1080,256.0,ssd,intel,core,i7,8.0,1,windows
+568,dell latitude 7420 intel core i5 16gb no hdd parts & repair,125.0,used,14.0,missing,16.0,,,dell,missing,16.0,hdd,intel,core,i5,11.0,0,missing
+569,"lenovo thinkpad x100e 11.6"" laptop amd athlon mv-40 1.60ghz 2gb ram *no hdd*",12.99,used,11.6,missing,2.0,,1.6,lenovo,missing,0.0,hdd,amd,athlon,,,0,no os
+570,samsung 900x4d laptop boots intel core i7-3517u @1.9ghz 8gb ram 512gb ssd,59.0,used,15.6,missing,,,,samsung,missing,,missing,intel,core,i7,3.0,0,missing
+571,"lenovo thinkpad t480 20l5004hus, intel core i5-8250u, 12mb ram,",119.49,used,14.0,black,12.0,480.0,1.8,lenovo,1366x768,480.0,ssd,intel,core,i7,8.0,1,windows
+572,dell precision 3551 laptop boots core i7-10750h quadro p620 16gb ram 256gb ssd,265.0,used,15.6,missing,,,,dell,missing,,missing,intel,core,i7,10.0,0,missing
+573,lenovo thinkpad p50 touch xeon e3-1505m v5 512gb ssd 16gb ram quadro m2000m w 10,259.99,used,15.6,black,16.0,512.0,2.8,lenovo,3840x2160,,ssd,intel,xeon,e,,1,windows
+574,windows 11 hp core i3 8gb ram 500gb ssd hdmi laptop office 2021,199.99,good - refurbished,14.0,missing,,500.0,2.4,hp,missing,500.0,ssd,intel,core,i3,4.0,0,windows
+575,dell latitude e7250 laptop boots intel core i5-5300u @ 2.30ghz 8gb ram no hdd,29.0,used,12.5,missing,,,,dell,missing,,missing,intel,core,i5,5.0,0,missing
+576,"lenovo thinkpad t460s fhd 14"" laptop core i7 2.6ghz 8gb 480gb ssd w11 pro",240.0,used,14.0,missing,8.0,480.0,2.6,lenovo,1920x1080,480.0,ssd,intel,core,i7,6.0,0,windows
+577,"dell latitude 7490 14"" i7-8650u@1.9ghz 512gbssd 32gbram 1920x1080 **grade a**",289.0,used,14.0,black,32.0,512.0,1.9,dell,1920x1080,,ssd,intel,core,i7,8.0,1,windows
+578,dell latitude e7270 laptop boots intel core i5-6300u @ 2.40 8gb ram no hdd,48.0,used,12.5,missing,,,,dell,missing,,missing,intel,core,i5,6.0,0,missing
+579,dell precision 5550 intel i7-10850h 32gb 512gb nvidia t1000/4gb- warranty incl,530.0,used,15.6,silver,32.0,512.0,2.7,dell,1920x1200,512.0,ssd,intel,core,i7,10.0,1,windows
+580,"asus rog zephyrus 2022 m16 (2tb ssd, i9-12900h, 3070ti, 40gb ram) used & see des",1350.0,used,16.0,black,40.0,2000.0,2.5,asus,2560x1600,2000.0,ssd,intel,core,i9,12.0,1,windows
+581,lenovo thinkpad t460s intel core i5 2.40ghz 8gb 256gb ssd windows 10 pro x64 fhd,100.0,used,14.1,black,8.0,256.0,2.4,lenovo,1920x1080,256.0,ssd,intel,core,i5,6.0,1,windows
+582,"dell xps 13 9365 2-in-1 13.3"" fhd touchscreen core i7-7y75 16gb 512gb ssd",349.99,used,13.3,silver,16.0,512.0,1.3,dell,1920x1080,,ssd,intel,core,i7,7.0,1,windows
+583,lenovo thinkpad t440s intel i5 1.9ghz 8gb ram 500gb hdd win10 pro charger,90.0,used,14.0,missing,8.0,500.0,1.9,lenovo,missing,500.0,ssd,intel,core,i5,,0,windows
+584,"gateway ultra slim 15.6"" fhd intel double core 128 gb 4gb laptop charcoal grey",99.99,open box,15.6,gray,4.0,128.0,3.0,gateway,1920x1080,128.0,emmc,amd,ryzen,,,1,windows
+585,dell latitude 7290 laptop boots intel core i5-8350u @ 1.70ghz 8gb ram no hdd,75.0,used,12.5,missing,,,,dell,missing,,missing,intel,core,i5,8.0,0,missing
+586,hp pavilion x360 15/touch/intel core i3- 1125g4/8gb ram/256gb ssd/windows 11,260.0,new,15.6,silver,8.0,256.0,2.4,hp,1920x1080,8.0,ssd,intel,core,i3,11.0,1,windows
+587,"dell inspiron 7348 | 2 - in - 1 laptop | 500gb hdd | i5,5200 | 8gb | win 10 pro",125.0,used,13.0,missing,8.0,,,dell,missing,500.0,hdd,intel,core,i5,5.0,0,windows
+588,"dell latitude 5590 15"" i5-8350u@1.7ghz, 16gb ram, 256gb ssd, windows 10 pro",135.0,used,15.0,black,16.0,256.0,1.7,dell,1920x1080,0.0,ssd,intel,core,i5,8.0,1,windows
+589,"hp elitebook 840 g3 i5-6200u 2.30ghz, 8gb ddr4 ram, 250 gb ssd, no os [bay 1-b]",114.99,used,14.0,black,8.0,250.0,2.3,hp,1366x768,250.0,ssd,intel,core,i5,6.0,1,no os
+590,lenovo thinkpad t470s laptop boots core i5-6300u @ 2.40ghz 8gb ram no hdd/os,45.0,used,14.0,missing,,,,lenovo,missing,,missing,intel,core,i5,6.0,0,missing
+591,"hp elitebook 850 g4 15.6"" fhd i5-7200u 2.5ghz 12gb 256gb nvme windows 11 laptop",149.99,used,15.6,missing,,256.0,2.5,hp,missing,,ssd,intel,core,i5,7.0,0,windows
+592,"dell 7490 latitude 14"" fhd laptop intel i5-8350u 1.7ghz 8gb 512gb w10p",199.99,certified - refurbished,14.0,black,8.0,512.0,1.7,dell,1920x1080,512.0,ssd,intel,core,i5,8.0,0,windows
+593,"toshiba portege z30-b 13.3"" intel  core i5-5300u 2.30 ghz 8 gb ram 128 gb ssd",79.99,used,13.3,missing,8.0,128.0,2.3,toshiba,missing,,ssd,intel,core,i5,5.0,0,missing
