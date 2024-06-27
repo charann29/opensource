@@ -1,79 +1,125 @@
-# Bone-Fracture-Detection
-## Introduction
- Since long ago, bone fractures was a long standing issue for mankind, and it's classification via x-ray has always depended on human diagnostics – which may be sometimes flawed.
-In recent years, Machine learning and AI based solutions have become an integral part of our lives, in all aspects, as well as in the medical field.
-In the scope of our research and project, we have been studying this issue of classification and have been trying, based on previous attempts and researches, to develop and fine tune a feasible solution for the medical field in terms of identification and classification of various bone fractures, using CNN ( Convolutional Neural Networks ) in the scope of modern models, such as ResNet, DenseNet, VGG16, and so forth.
-After performing multiple model fine tuning attempts for various models, we have achieved classification results lower then the predefined threshold of confidence agreed upon later in this research, but with the promising results we did achieve, we believe that systems of this type, machine learning and deep learning based solutions for identification and classification of bone fractures, with further fine tuning and applications of more advanced techniques such as Feature Extraction, may replace the traditional methods currently employed in the medical field, with much better results.
+## "Trading using Technical and Timeseries Analysis"
 
 
-## Dataset
-The data set we used called MURA and included 3 different bone parts, MURA is a dataset of musculoskeletal radiographs and contains 20,335 images described below:
+## Streamlit application deploy link : https://strmlit-jat-automated-technical-analysis.streamlit.app/
 
+## Project goal:
+Profitable stocks and crypto trading involves a lot of know how and experience in Technical Analysis. However, the fundamentals behind technical analysis techniques, tools, resources and effective strategies can be complex to grasp, understand and even expensive to access.
 
-| **Part**     | **Normal** | **Fractured** | **Total** |
-|--------------|:----------:|--------------:|----------:|
-| **Elbow**    |    3160    |          2236 |      5396 |
-| **Hand**     |    4330    |          1673 |      6003 |
-| **Shoulder** |    4496    |          4440 |      8936 |
+## Solution:
+The main point of any sort of asset trading is to make a profit. This boils down to effectively three actions based on the price movements, **&#39;When should I buy?&#39;**, **&#39;When should I sell?&#39;** and **&#39;When should I hold my current position?&#39;** to maximize profits and minimize losses. Therefore, by using data analytics it was possible to translate real-time price movements to determine whether to buy, sell or hold based on historical price trends. This was achieved by combining a number of popularly used trading strategies and indicators such as **&#39;Moving Average Convergence Divergence&#39;**, **&#39;Slow Stochastic&#39;**, **&#39;Relative Strength Index&#39;** etc. More so, by feeding these sequences to a **Transformer Encoder Neural Network** to learn the price patterns and trading actions, the deep learning model could provide with the most appropriate action to be taken at any given time.
 
-The data is separated into train and valid where each folder contains a folder of a patient and for each patient between 1-3 images for the same bone part
+## Libraries : 
+These are the libraries used to build the project - 
+h5py==3.6.0   ,  html5lib==1.1  ,  Keras   ,   numpy  ,  pandas  ,  plotly  ,  requests==2.31.0  ,  scikit-learn==1.0.1  ,  streamlit  ,  tensorflow-cpu  ,  yfinance
 
-## Algorithm
-Our data contains about 20,000 x-ray images, including three different types of bones - elbow, hand, and shoulder. After loading all the images into data frames and assigning a label to each image, we split our images into 72% training, 18% validation and 10% test. The algorithm starts with data augmentation and pre-processing the x-ray images, such as flip horizontal. The second step uses a ResNet50 neural network to classify the type of bone in the image. Once the bone type has been predicted, A specific model will be loaded for that bone type prediction from 3 different types that were each trained to identify a fracture in another bone type and used to detect whether the bone is fractured.
-This approach utilizes the strong image classification capabilities of ResNet50 to identify the type of bone and then employs a specific model for each bone to determine if there is a fracture present. Utilizing this two-step process, the algorithm can efficiently and accurately analyze x-ray images, helping medical professionals diagnose patients quickly and accurately.
-The algorithm can determine whether the prediction should be considered a positive result, indicating that a bone fracture is present, or a negative result, indicating that no bone fracture is present. The results of the bone type classification and bone fracture detection will be displayed to the user in the application, allowing for easy interpretation.
-This algorithm has the potential to greatly aid medical professionals in detecting bone fractures and improving patient diagnosis and treatment. Its efficient and accurate analysis of x-ray images can speed up the diagnosis process and help patients receive appropriate care.
+## Project Overview
 
+This project is an advanced trading analysis tool that combines technical indicators with machine learning models to predict price movements and suggest trading actions across various financial markets. It supports multiple asset classes including stocks, forex, futures, cryptocurrencies, and market indexes.
 
+## Key Features
 
-![img_1.png](images/Architecture.png)
+### Multi-Asset Support
+- Analyze stocks from major indices (S&P 500, NASDAQ 100, Dow Jones, FTSE 100, DAX, CAC 40, etc.)
+- Forex pairs
+- Futures and commodities
+- Cryptocurrencies (via Binance)
+- Market indexes
 
+### Comprehensive Technical Analysis
+- Moving Average Convergence Divergence (MACD)
+- Relative Strength Index (RSI)
+- Stochastic Oscillator
+- Simple and Exponential Moving Averages
+- On-Balance Volume (OBV)
+- Average True Range (ATR)
+- Pivot Points
 
-## Results
-### Body Part Prediction
+### Advanced Prediction Models
+- Price prediction using time series forecasting
+- Trading action recommendations (Buy, Hold, Sell)
+- Models: action_prediction_model.h5 and price_prediction_model.h5
 
-<img src="plots/BodyPartAcc.png" width=300> <img src="plots/BodyPartLoss.png" width=300>
+### Flexible Time Intervals
+Analyze data in various timeframes:
+- 1 minute to 1 week for cryptocurrencies
+- 5 minutes to 1 week for other assets
 
-### Fracture Prediction
-#### Elbow
+### Interactive Visualizations
+- Historical price action charts
+- Predicted price movements
+- Technical indicator graphs
 
-<img src="plots/FractureDetection/Elbow/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Elbow/_Loss.jpeg" width=300>
+### Risk Assessment
+Adjustable trading volatility preferences:
+- Low
+- Medium
+- High
 
-#### Hand
-<img src="plots/FractureDetection/Hand/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Hand/_Loss.jpeg" width=300>
+### Automated Data Updates
+Regular updates of market data to ensure accuracy in analysis
 
-#### Shoulder
-<img src="plots/FractureDetection/Shoulder/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Shoulder/_Loss.jpeg" width=300>
+## How It Works
 
+1. **Data Sourcing**: 
+   - Fetches real-time and historical data from Binance (for cryptocurrencies) and Yahoo Finance (for other assets)
+   - Uses data_sourcing.py and update_market_data.py to keep information current
 
-# Installations
-### PyCharm IDE
-### Python v3.7.x
-### Install requirements.txt
+2. **Technical Analysis**: 
+   - Calculates various technical indicators using technical_indicators.py
+   - Implements complex calculations for advanced market insights
 
-* customtkinter~=5.0.3
-* PyAutoGUI~=0.9.53
-* PyGetWindow~=0.0.9
-* Pillow~=8.4.0
-* numpy~=1.19.5
-* tensorflow~=2.6.2
-* keras~=2.6.0
-* pandas~=1.1.5
-* matplotlib~=3.3.4
-* scikit-learn~=0.24.2
-* colorama~=0.4.5
+3. **Machine Learning Predictions**: 
+   - Utilizes trained models to forecast price movements and suggest trading actions
+   - Implements both price and action prediction models
 
-Run mainGUI.Py
+4. **Visualization**: 
+   - Creates interactive charts using graph.py
+   - Displays historical data, predictions, and technical indicators
 
-# GUI
-### Main
-<img src="images/GUI/main.png" width=400>
+5. **User Interface**: 
+   - Streamlit-based interface (Trade.py) for easy interaction
+   - Allows users to select assets, time intervals, and risk preferences
 
-### Info-Rules
-<img src="images/GUI/Rules.png" width=400>
+6. **Analysis and Recommendations**: 
+   - Provides current price, recent price changes
+   - Offers trading action recommendations with confidence levels
+   - Estimates forecast prices for selected time intervals
 
-### Test Normal & Fractured
-<img src="images/GUI/normal.png" width=300> <img src="images/GUI/fractured.png" width=300>
+7. **Risk Management**: 
+   - Suggests buy and sell prices based on user's risk preference
+   - Utilizes pivot points for different risk levels
 
+## Project Structure
 
+- `Trade.py`: Main application file with Streamlit interface
+- `data_sourcing.py`: Handles data retrieval from various sources
+- `technical_indicators.py`: Calculates technical indicators
+- `model.py`: Implements machine learning models for predictions
+- `graph.py`: Generates interactive visualizations
+- `scaling.py`: Preprocesses and scales data for analysis
+- `update_market_data.py`: Keeps market data up-to-date
+- `indicator_analysis.py`: Analyzes indicator signals
 
+## OUTPUTS
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/5dcce83a-a724-40e1-a952-7cd736221cf1">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/bfa30caa-1677-4b4d-a89e-d5d68c447974">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/c173ca6b-511c-4e45-8a13-9320b49b192a">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/8a5af0bd-9813-4774-b46b-33a2540a726d">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/57419e7f-d7eb-4217-9560-7c65baa84756">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/b1d4b4d0-22f8-4978-8211-60fbcf11bbaa">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/9a4293d1-0183-4613-89ab-61e1852051de">
+
+<img width="1440" alt="image" src="https://github.com/Jatavedreddy/cmr_opensource_j/assets/165547397/1fd3ed51-f8e9-4528-a041-830b63ef07d0">
+
+## Disclaimer
+
+This tool is for informational purposes only. It is not intended to be investment advice. Always do your own research and consult with a licensed financial advisor before making any investment decisions.
+Footer
