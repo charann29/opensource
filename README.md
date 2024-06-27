@@ -1,40 +1,3 @@
-Skip to content
-Navigation Menu
-charann29
-/
-cmr_opensource
-
-Type / to search
-
-Code
-Issues
-25
-Pull requests
-375
-Actions
-Projects
-Security
-Insights
-s5-b15_JatavedReddy_Trading-using-technical-and-timeseries-analysis #420
- Open
-Jatavedreddy wants to merge 77 commits into charann29:field-projects from Jatavedreddy:S5-B15-Trading_using_Technical_and_Timeseries_Analysis  
-+5,006 −78,941 
- Conversation 4
- Commits 77
- Checks 0
- Files changed 86
- Open
-s5-b15_JatavedReddy_Trading-using-technical-and-timeseries-analysis
-#420
-File filter 
- 
-Create README.md
-@JatavedreddyJatavedreddy committed 42 minutes ago 
-commit 4d9d5fe0d3f7a6d0006f0137552f1ccf2fe26443
- 124 changes: 124 additions & 0 deletions124  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,124 @@
 ## "Trading using Technical and Timeseries Analysis"
 
 
@@ -160,14 +123,3 @@ Regular updates of market data to ensure accuracy in analysis
 
 This tool is for informational purposes only. It is not intended to be investment advice. Always do your own research and consult with a licensed financial advisor before making any investment decisions.
 Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-s5-b15_JatavedReddy_Trading-using-technical-and-timeseries-analysis by Jatavedreddy · Pull Request #420 · charann29/cmr_opensource
