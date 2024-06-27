@@ -73,7 +73,10 @@ streamlit run lungcancer.py
 - Incorporate feature selection techniques to improve model performance.
 - Deploy the app on a web server for wider accessibility.
 - Enhance user interface and visualization of results.
+
   
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+

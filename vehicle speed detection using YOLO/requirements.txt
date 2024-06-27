@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+numpy
+reportlab
+Pyresearch
+reportlab
