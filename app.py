@@ -1,94 +1,99 @@
-# Importing Necessary Libraries
-import streamlit as st
-from PIL import Image
-import io
+import os
 import numpy as np
 import tensorflow as tf
-from utils import clean_image, get_prediction, make_results
+from tensorflow import keras
+from keras import layers
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, confusion_matrix
+from PIL import Image
+from keras.preprocessing.image import img_to_array
 
-# Loading the Model and saving to cache
-@st.cache_resource
-def load_model(path):
-    
-    # Xception Model
-    xception_model = tf.keras.models.Sequential([
-        tf.keras.applications.xception.Xception(include_top=False, weights='imagenet', input_shape=(512, 512, 3)),
-        tf.keras.layers.GlobalAveragePooling2D(),
-        tf.keras.layers.Dense(4, activation='softmax')
+# Set random seed for reproducibility
+seed = 42
+np.random.seed(seed)
+tf.random.set_seed(seed)
+
+# Path to the dataset
+train_fake_path = r'M:\ml projects\Externship-Fake-Real-Logo-Detection\dataset\train\Fake'
+train_genuine_path = r'M:\ml projects\Externship-Fake-Real-Logo-Detection\dataset\train\Genuine'
+test_fake_path = r'M:\ml projects\Externship-Fake-Real-Logo-Detection\dataset\test\Fake'
+test_genuine_path = r'M:\ml projects\Externship-Fake-Real-Logo-Detection\dataset\test\Genuine'
+
+# Assuming all images have the same size, adjust if necessary
+img_size = (128, 128)
+
+# Load and preprocess images
+def load_and_preprocess(folder_path, label):
+    images = []
+    labels = []
+    for img_name in os.listdir(folder_path):
+        img_path = os.path.join(folder_path, img_name)
+        if img_name.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif')):
+            try:
+                img = Image.open(img_path).resize(img_size)
+                img_array = np.array(img)
+                img_array = tf.keras.applications.inception_v3.preprocess_input(img_array)
+                images.append(img_array)
+                labels.append(label)
+            except Exception as e:
+                print(f"Error loading image {img_path}: {e}")
+    return images, labels
+
+# Load training data
+try:
+    train_fake_images, train_fake_labels = load_and_preprocess(train_fake_path, 0)  # Assuming 0 for fake
+    train_genuine_images, train_genuine_labels = load_and_preprocess(train_genuine_path, 1)  # Assuming 1 for genuine
+
+    # Concatenate fake and genuine data
+    X_train = np.concatenate([train_fake_images, train_genuine_images], axis=0)
+    y_train = np.concatenate([train_fake_labels, train_genuine_labels], axis=0)
+
+    # Convert to numpy array
+    X_train = np.array(X_train)
+    y_train = np.array(y_train)
+
+    # Split the dataset into training and validation sets
+    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2, random_state=seed)
+
+    # Define the CNN model
+    model = keras.Sequential([
+        layers.Conv2D(32, (3, 3), activation='relu', input_shape=(img_size[0], img_size[1], 3)),
+        layers.MaxPooling2D((2, 2)),
+        layers.Conv2D(64, (3, 3), activation='relu'),
+        layers.MaxPooling2D((2, 2)),
+        layers.Conv2D(128, (3, 3), activation='relu'),
+        layers.MaxPooling2D((2, 2)),
+        layers.Flatten(),
+        layers.Dense(128, activation='relu'),
+        layers.Dense(1, activation='sigmoid')
     ])
 
-    # DenseNet Model
-    densenet_model = tf.keras.models.Sequential([
-        tf.keras.applications.densenet.DenseNet121(include_top=False, weights='imagenet', input_shape=(512, 512, 3)),
-        tf.keras.layers.GlobalAveragePooling2D(),
-        tf.keras.layers.Dense(4, activation='softmax')
-    ])
+    # Compile the model
+    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
-    # Ensembling the Models
-    inputs = tf.keras.Input(shape=(512, 512, 3))
+    # Train the model
+    model.fit(X_train, y_train, epochs=10, batch_size=32, validation_data=(X_val, y_val))
 
-    xception_output = xception_model(inputs)
-    densenet_output = densenet_model(inputs)
+    # Evaluate the model on the test set
+    test_fake_images, test_fake_labels = load_and_preprocess(test_fake_path, 0)
+    test_genuine_images, test_genuine_labels = load_and_preprocess(test_genuine_path, 1)
 
-    outputs = tf.keras.layers.average([densenet_output, xception_output])
+    X_test = np.concatenate([test_fake_images, test_genuine_images], axis=0)
+    y_test = np.concatenate([test_fake_labels, test_genuine_labels], axis=0)
 
-    model = tf.keras.Model(inputs=inputs, outputs=outputs)
+    X_test = np.array(X_test)
+    y_test = np.array(y_test)
 
-    # Loading the Weights of Model
-    model.load_weights(path)
-    
-    return model
+    y_pred = model.predict(X_test)
+    y_pred_classes = np.round(y_pred)
+    accuracy = accuracy_score(y_test, y_pred_classes)
+    conf_matrix = confusion_matrix(y_test, y_pred_classes)
 
-# Removing Menu
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+    print(f'Accuracy: {accuracy}')
+    print(f'Confusion Matrix:\n{conf_matrix}')
 
-# Loading the Model
-model = load_model('model.h5')
+    # Save the model if needed
+    model.save('./output/logo_detection_model.h5')
 
-# Title and Description
-st.title('Plant Disease Detection')
-st.write("Just upload your plant's leaf image and get predictions if the plant is healthy or not.")
-
-# Setting the files that can be uploaded
-uploaded_file = st.file_uploader("Choose an Image file", type=["png", "jpg"])
-
-# If there is a uploaded file, start making prediction
-if uploaded_file is not None:
-    
-    # Display progress and text
-    progress = st.text("Crunching Image")
-    my_bar = st.progress(0)
-    i = 0
-    
-    # Reading the uploaded image
-    image = Image.open(io.BytesIO(uploaded_file.read()))
-    st.image(np.array(Image.fromarray(
-        np.array(image)).resize((700, 400), Image.LANCZOS)), width=None)
-    my_bar.progress(i + 40)
-    
-    # Cleaning the image
-    image = clean_image(image)
-    
-    # Making the predictions
-    predictions, predictions_arr = get_prediction(model, image)
-    my_bar.progress(i + 30)
-    
-    # Making the results
-    result = make_results(predictions, predictions_arr)
-    
-    # Removing progress bar and text after prediction is done
-    my_bar.progress(i + 30)
-    progress.empty()
-    i = 0
-    my_bar.empty()
-    
-    # Show the results
-    st.write(f"The plant {result['status']} with {result['prediction']*100} prediction.")
-
-  
+except FileNotFoundError as e:
+    print(f"Directory existence check failed:\n{e}")

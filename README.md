@@ -1,45 +1,22 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, mean_absolute_error
+This project implements a Real/Fake Logo detection system using deep learning. The goal is to train a Convolutional Neural Network (CNN) to distinguish between real and fake logos. The dataset consists of images of both genuine and fake logos, and the model is trained to classify these images into their respective categories.
 
-# Load the dataset
-@st.cache
-def load_data():
-    data = pd.read_csv('salary_data.csv')  # Ensure you have the dataset in the project directory
-    return data
+Loading and Preprocessing Images
+The script first loads and preprocesses the images from the specified paths. Images are resized to a common size and converted to NumPy arrays. The Inception V3 preprocessing function is applied to the image arrays.
 
-# Build the Streamlit app
-st.title("Salary Prediction Web App")
+Concatenating Data
+Fake and genuine data from the training and test sets are concatenated to create the final training and test sets. Labels are also assigned (0 for fake, 1 for genuine).
 
-# Load and display the data
-data = load_data()
-st.write("## Data Overview")
-st.write(data.head())
+Splitting the Dataset
+The dataset is split into training and testing sets using the train_test_split function from scikit-learn.
 
-# Split the data into training and testing sets
-X = data[['YearsExperience']]
-y = data['Salary']
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+Defining the CNN Model
+A simple CNN model is defined using the Keras Sequential API. It consists of convolutional layers, max-pooling layers, and dense layers.
 
-# Train the model
-model = LinearRegression()
-model.fit(X_train, y_train)
+Compiling the Model
+The model is compiled with the Adam optimizer and binary cross-entropy loss, as it is a binary classification problem. The accuracy metric is used for evaluation.
 
-# Make predictions
-predictions = model.predict(X_test)
+Training the Model
+The model is trained on the training set with 10 epochs and a batch size of 32. Validation data is used to monitor the model's performance during training.
 
-# Display metrics
-mse = mean_squared_error(y_test, predictions)
-mae = mean_absolute_error(y_test, predictions)
-st.write("## Model Performance")
-st.write(f"Mean Squared Error: {mse}")
-st.write(f"Mean Absolute Error: {mae}")
-
-# Allow user input for predictions
-st.write("## Predict Salary")
-years_experience = st.number_input("Years of Experience", min_value=0.0, max_value=50.0, value=1.0, step=0.1)
-predicted_salary = model.predict(np.array([[years_experience]]))
-st.write(f"Predicted Salary: {predicted_salary[0]:.2f}")
+Evaluating the Model
+The trained model is evaluated on the test set, and accuracy along with the confusion matrix is printed.
