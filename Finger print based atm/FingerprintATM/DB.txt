@@ -1,0 +1,15 @@
+create database atm;
+use atm;
+
+create table users(username varchar(50) primary key,
+password varchar(50),
+contact_no varchar(12),
+emailid varchar(50),
+address varchar(60),
+gender varchar(30));
+
+create table transaction(username varchar(50),
+transaction_amount double,
+transaction_type varchar(50),
+transaction_date timestamp,
+total_balance double);
