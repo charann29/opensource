@@ -116,7 +116,7 @@
             const genre = prompt("Enter new genre:");
             if (title && author && genre) {
                 fetch(`/books/${id}`, {
-                    method: 'PUT',
+                    method: 'PUT',  // UPDATED: Changed from POST to PUT to match the backend
                     headers: {
                         'Content-Type': 'application/json'
                     },

@@ -24,7 +24,6 @@ def write_csv(data):
     except Exception as e:
         print("Error writing to CSV:", e)
 
-
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -37,7 +36,7 @@ def get_books():
 def add_book():
     data = read_csv()
     new_book = {
-        'id': len(data) + 1,
+        'id': str(len(data) + 1),  # UPDATED: Convert id to string for consistency
         'title': request.json['title'],
         'author': request.json['author'],
         'genre': request.json['genre']
@@ -46,14 +45,12 @@ def add_book():
     write_csv(data)
     return jsonify(new_book)
 
-
-
-@app.route('/books/<int:id>', methods=['POST'])
+@app.route('/books/<int:id>', methods=['PUT'])  # UPDATED: Changed from POST to PUT for proper RESTful design
 def update_book(id):
     data = read_csv()
     updated_book = None
     for book in data:
-        if book['id'] == id:
+        if int(book['id']) == id:  # UPDATED: Convert book['id'] to int for comparison
             book['title'] = request.json['title']
             book['author'] = request.json['author']
             book['genre'] = request.json['genre']
@@ -68,7 +65,7 @@ def update_book(id):
 @app.route('/books/<int:id>', methods=['DELETE'])
 def delete_book(id):
     data = read_csv()
-    data = [book for book in data if book['id'] != id]
+    data = [book for book in data if int(book['id']) != id]  # UPDATED: Convert book['id'] to int for comparison
     write_csv(data)
     return jsonify({"message": "Book deleted successfully"})
 
