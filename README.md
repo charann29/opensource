@@ -1,4 +1,12 @@
+
 ## "Trading using Technical and Timeseries Analysis"
+
+
+# ML Model Datasets Using Streamlits 
+This repository contains my machine learning models implementation code using streamlit in the Python programming language.<br><br>
+<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/64584f95-f19c-426d-b647-a6310d0f0d2d"></a>
+<br><br>
+<a href = "https://ml-model-datasets-using-apps-3gy37ndiancjo2nmu36sls.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/madhurimarawat/ML-Model-Datasets-Using-Streamlits/assets/105432776/3c872711-3e6c-4d4a-a216-4cf5b7d98361"></a>
 
 
 ## Streamlit application deploy link : https://strmlit-jat-automated-technical-analysis.streamlit.app/
@@ -26,6 +34,7 @@ This project is an advanced trading analysis tool that combines technical indica
 - Cryptocurrencies (via Binance)
 - Market indexes
 
+
 ### Comprehensive Technical Analysis
 - Moving Average Convergence Divergence (MACD)
 - Relative Strength Index (RSI)
@@ -34,6 +43,7 @@ This project is an advanced trading analysis tool that combines technical indica
 - On-Balance Volume (OBV)
 - Average True Range (ATR)
 - Pivot Points
+
 
 ### Advanced Prediction Models
 - Price prediction using time series forecasting
@@ -92,6 +102,7 @@ Regular updates of market data to ensure accuracy in analysis
 
 ## Project Structure
 
+
 - `Trade.py`: Main application file with Streamlit interface
 - `data_sourcing.py`: Handles data retrieval from various sources
 - `technical_indicators.py`: Calculates technical indicators
@@ -100,6 +111,7 @@ Regular updates of market data to ensure accuracy in analysis
 - `scaling.py`: Preprocesses and scales data for analysis
 - `update_market_data.py`: Keeps market data up-to-date
 - `indicator_analysis.py`: Analyzes indicator signals
+
 
 ## OUTPUTS
 
