@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>reads data from one file and write into another file</title>
+</head>
+<body>
+<?php
+$myfile="samplefile.txt";
+$myfilelink=fopen($myfile,'r');
+$myfilecontents=fread($myfilelink.filesize($myfile));
+fclose($myfilelink);
+echo($myfilecontants);
+$myfile2="samplefile3.txt";
+$myfilelink=fopen($myfile2,'w+');
+$new contents=$myfilecontents;
+fwrite($myfilelink2,$newcontents);
+fclose($myfilelink2);
+?>
+</body>
+</html>
+
+
+
+ 
