@@ -1,0 +1,65 @@
+import streamlit as st
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.linear_model import LinearRegression
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnTransformer
+import pickle
+import os
+
+# File path to the dataset
+DATA_PATH = 'salaries.csv'
+
+# Check if the model file exists
+MODEL_PATH = 'salary_model.pkl'
+model_exists = os.path.isfile(MODEL_PATH)
+
+# Function to train and save the model
+def train_model():
+    df = pd.read_csv(DATA_PATH)
+    X = df[['years_of_experience', 'education_level', 'location']]
+    y = df['salary']
+
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('num', 'passthrough', ['years_of_experience']),
+            ('cat', OneHotEncoder(), ['education_level', 'location'])
+        ])
+
+    model = Pipeline(steps=[
+        ('preprocessor', preprocessor),
+        ('regressor', LinearRegression())
+    ])
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    model.fit(X_train, y_train)
+
+    with open(MODEL_PATH, 'wb') as f:
+        pickle.dump(model, f)
+
+# Train the model if it doesn't exist
+if not model_exists:
+    train_model()
+
+# Load the trained model
+with open(MODEL_PATH, 'rb') as f:
+    model = pickle.load(f)
+
+# Define the Streamlit app
+st.title('Software Developer Salary Predictor')
+
+# Input features
+years_of_experience = st.number_input('Years of Experience', min_value=0, max_value=50, value=0)
+education_level = st.selectbox('Education Level', ['High School', 'Bachelors', 'Masters', 'PhD'])
+location = st.selectbox('Location', ['San Francisco', 'New York', 'Austin', 'Remote'])
+
+# Prediction
+if st.button('Predict Salary'):
+    input_data = pd.DataFrame({
+        'years_of_experience': [years_of_experience],
+        'education_level': [education_level],
+        'location': [location]
+    })
+    predicted_salary = model.predict(input_data)
+    st.write(f'Predicted Salary: ${predicted_salary[0]:,.2f}')
