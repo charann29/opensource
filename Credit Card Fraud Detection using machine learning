@@ -1,0 +1,26 @@
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+
+# Load the dataset
+df = pd.read_csv('creditcard.csv')
+
+# Data preprocessing
+# Check for missing values
+print(df.isnull().sum())
+
+# No missing values, proceed with scaling
+scaler = StandardScaler()
+df['scaled_amount'] = scaler.fit_transform(df['Amount'].values.reshape(-1, 1))
+df['scaled_time'] = scaler.fit_transform(df['Time'].values.reshape(-1, 1))
+
+# Drop the original 'Amount' and 'Time' columns
+df.drop(['Amount', 'Time'], axis=1, inplace=True)
+
+# Rearrange the columns
+df = df[['scaled_time', 'scaled_amount'] + [col for col in df.columns if col not in ['scaled_time', 'scaled_amount', 'Class']] + ['Class']]
+
+# Define the fea
