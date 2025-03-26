@@ -1,0 +1,81 @@
+# 1. Initialize the Game
+import pygame
+import random
+
+pygame.init()
+SCREEN_WIDTH, SCREEN_HEIGHT = 800, 400
+screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+clock = pygame.time.Clock()
+RUNNING, JUMPING, COLLIDED = 'running', 'jumping', 'collided'
+
+# 2. Create Game Entities
+class Dino(pygame.sprite.Sprite):
+    def __init__(self):
+        super().__init__()
+        self.image = pygame.image.load('dino.png')
+        self.rect = self.image.get_rect()
+        self.rect.x, self.rect.y = 50, SCREEN_HEIGHT - 100
+        self.jump_speed = -15
+        self.gravity = 1
+        self.state = RUNNING
+        self.velocity = 0
+    
+    def jump(self):
+        if self.state == RUNNING:
+            self.state = JUMPING
+            self.velocity = self.jump_speed
+    
+    def update(self):
+        if self.state == JUMPING:
+            self.rect.y += self.velocity
+            self.velocity += self.gravity
+            if self.rect.y >= SCREEN_HEIGHT - 100:
+                self.rect.y = SCREEN_HEIGHT - 100
+                self.state = RUNNING
+
+class Obstacle(pygame.sprite.Sprite):
+    def __init__(self):
+        super().__init__()
+        self.image = pygame.image.load('obstacle.png')
+        self.rect = self.image.get_rect()
+        self.rect.x = SCREEN_WIDTH
+        self.speed = -5
+    
+    def update(self):
+        self.rect.x += self.speed
+        if self.rect.x < -self.rect.width:
+            self.rect.x = SCREEN_WIDTH + random.randint(100, 500)
+
+# 3. Setup Game Elements
+dino = Dino()
+obstacles = pygame.sprite.Group()
+for _ in range(5):
+    obstacles.add(Obstacle())
+all_sprites = pygame.sprite.Group(dino, *obstacles)
+
+# 4. Main Game Loop
+running = True
+while running:
+    # Event Handling
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
+            dino.jump()
+    
+    # Update
+    all_sprites.update()
+    
+    # Collision Detection
+    if pygame.sprite.spritecollideany(dino, obstacles):
+        running = False
+    
+    # Render
+    screen.fill((255, 255, 255))
+    all_sprites.draw(screen)
+    pygame.display.flip()
+    
+    clock.tick(30)
+
+# 5. End the Game
+pygame.quit()
