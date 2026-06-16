@@ -1,0 +1,378 @@
+Yes, the goal is clear.
+
+You're not asking for DSA problems.
+
+You're asking for a **first-principles question bank** that gradually builds mental models.
+
+The student should be able to take each question, ask GPT for an answer, write notes, and slowly build intuition about:
+
+* Nodes
+* References
+* Memory links
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Heaps
+* HashMaps
+* Graphs
+* Comparators
+
+without knowing any of these concepts beforehand.
+
+A good rule for these questions is:
+
+> Every question should unlock a concept.
+> Every group of questions should unlock a data structure.
+> Every data structure should unlock a class of problems.
+
+---
+
+# Module 1 — Nodes, References, Memory and Relationships (1–25)
+
+### Understanding Objects and Relationships
+
+1. What is a node, and why do almost all advanced data structures start with a node?
+2. If a node stores only data, why is it not enough to build a linked structure?
+3. What additional information must a node contain to connect itself to another node?
+4. What does it mean when one object "knows" about another object?
+5. What is a reference, and how is it different from actual data?
+6. Why do we need references instead of copying entire objects everywhere?
+7. How can one node point to another node?
+8. What happens if a node does not point to anything?
+9. What is the meaning of a null reference?
+10. Why is null important when building data structures?
+
+### Understanding Memory Intuitively
+
+11. What does memory mean in a programming language?
+12. Where does a newly created object live in memory?
+13. How can two variables refer to the same object?
+14. What happens when one reference changes but another reference still points to the same object?
+15. Why do references behave differently from primitive values?
+16. What is an object relationship?
+17. How can multiple nodes represent a chain of relationships?
+18. How can multiple nodes represent a hierarchy?
+19. How can multiple nodes represent a network?
+20. Why can nodes be considered building blocks of almost all complex structures?
+
+### Understanding Traversal
+
+21. What does traversal mean?
+22. Why do we need traversal if we already have data stored?
+23. How do we move from one node to another?
+24. What happens if a node chain breaks in the middle?
+25. Why is traversal one of the most important concepts in DSA?
+
+---
+
+# Module 2 — Linked Lists (26–50)
+
+### Building the Intuition
+
+26. Why was the linked list invented when arrays already exist?
+27. What problem does a linked list solve that an array struggles with?
+28. How does a linked list grow dynamically?
+29. Why does every linked list need a starting node?
+30. What is meant by the head of a linked list?
+31. What happens if the head is lost?
+32. Why can a linked list not be randomly accessed like an array?
+33. What trade-off do we make when choosing a linked list?
+
+### Traversal
+
+34. How do we visit every node in a linked list?
+35. Why must traversal start from the head?
+36. How does traversal know when to stop?
+37. What happens if traversal never encounters null?
+
+### Insertions
+
+38. What information is needed to insert a node?
+39. Why is insertion at the beginning usually fast?
+40. Why is insertion in the middle more complex?
+41. Which references must change during insertion?
+42. What could go wrong if references are updated in the wrong order?
+
+### Deletions
+
+43. Why is deletion more than simply removing data?
+44. Which references must change when deleting a node?
+45. Why can deleting the head be a special case?
+46. What happens when deleting the last node?
+47. Why are edge cases important in linked lists?
+
+### Deep Understanding
+
+48. What is pointer manipulation?
+49. Why is pointer manipulation considered difficult initially?
+50. How does mastering linked lists improve understanding of trees and graphs?
+
+---
+
+# Module 3 — Stack (51–65)
+
+51. What real-life situations behave like a stack?
+52. Why is a stack called LIFO?
+53. What does Last In First Out actually mean?
+54. Why can we only access the top element in a stack?
+55. What is push?
+56. What is pop?
+57. What is peek?
+58. Why does a stack naturally remember history?
+59. Why are undo operations often implemented using stacks?
+60. How does a browser back button resemble a stack?
+61. Why are nested structures naturally solved using stacks?
+62. What problem occurs if a stack becomes empty?
+63. Why is stack order important?
+64. What type of problems should make us think about stacks?
+65. How can a stack be implemented using a linked list?
+
+---
+
+# Module 4 — Queue (66–80)
+
+66. What real-life situations behave like a queue?
+67. Why is a queue called FIFO?
+68. What does First In First Out actually mean?
+69. Why is fairness naturally achieved using queues?
+70. What is enqueue?
+71. What is dequeue?
+72. Why do queues process items in arrival order?
+73. How is a queue different from a stack?
+74. Why are ticket counters modeled using queues?
+75. Why are printer jobs modeled using queues?
+76. Why are message systems modeled using queues?
+77. Why do operating systems use queues?
+78. What type of problems should make us think about queues?
+79. Why is breadth-first exploration impossible without a queue?
+80. How can a queue be implemented using a linked list?
+
+---
+
+# Module 5 — Trees (81–110)
+
+### Understanding Hierarchy
+
+81. What is hierarchy?
+82. Why do companies use hierarchical structures?
+83. Why do file systems resemble trees?
+84. Why are family trees called trees?
+85. What is the root node?
+86. Why can a tree have only one root?
+87. What is a child node?
+88. What is a parent node?
+89. What is a sibling node?
+90. What is a leaf node?
+
+### Understanding Structure
+
+91. Why is a tree not a linked list?
+92. What additional relationships exist in a tree?
+93. Why can one node have multiple children?
+94. What is depth in a tree?
+95. What is height in a tree?
+96. Why does height matter?
+97. What is a subtree?
+
+### Traversal
+
+98. What is tree traversal?
+99. Why are there multiple traversal methods?
+100. What does preorder traversal mean?
+101. What does inorder traversal mean?
+102. What does postorder traversal mean?
+103. What does level-order traversal mean?
+104. When would one traversal be preferred over another?
+
+### Problem Recognition
+
+105. What clues indicate that a problem can be modeled as a tree?
+106. Why are organizational charts trees?
+107. Why are XML and JSON structures tree-like?
+108. Why do decision-making systems often use trees?
+109. Why are search engines interested in tree structures?
+110. How does understanding trees improve recursive thinking?
+
+---
+
+# Module 6 — Heap and Priority Thinking (111–125)
+
+111. Why isn't normal ordering always sufficient?
+112. What is priority?
+113. How is priority different from arrival order?
+114. Why was the heap invented?
+115. What is a max heap?
+116. What is a min heap?
+117. Why is the root of a heap special?
+118. Why is insertion efficient in a heap?
+119. Why is removal efficient in a heap?
+120. What is heapify?
+121. Why do scheduling systems use heaps?
+122. Why do ride-sharing systems use heaps?
+123. What clues indicate a heap-based problem?
+124. Why are Top-K problems commonly solved using heaps?
+125. How is a heap different from a binary search tree?
+
+---
+
+# Module 7 — HashMap and HashSet (126–155)
+
+126. Why was HashMap invented?
+
+127. What problem does searching create in large datasets?
+
+128. Why is O(1) lookup valuable?
+
+129. What is hashing?
+
+130. What is a hash function?
+
+131. Why does a hash function convert data into a number?
+
+132. What is a bucket?
+
+133. Why are buckets needed?
+
+134. What is a collision?
+
+135. Why are collisions unavoidable?
+
+136. How are collisions handled?
+
+137. What happens internally during put()?
+
+138. What happens internally during get()?
+
+139. What happens internally during remove()?
+
+140. Why does HashMap become slower when overloaded?
+
+141. What is load factor?
+
+142. Why is rehashing necessary?
+
+143. What is the trade-off between memory and speed?
+
+144. What problems naturally suggest a HashMap?
+
+145. Why is frequency counting a HashMap problem?
+
+146. Why is duplicate detection a HashMap problem?
+
+147. Why is caching a HashMap problem?
+
+148. Why are dictionaries implemented using hashing?
+
+149. What is a HashSet?
+
+150. How is HashSet different from HashMap?
+
+151. Why does HashSet automatically remove duplicates?
+
+152. When should HashSet be preferred?
+
+153. What clues suggest using a HashSet?
+
+154. What are the limitations of hashing?
+
+155. Why is HashMap one of the most important structures in backend engineering?
+
+---
+
+# Module 8 — Comparator and Ordering Logic (156–175)
+
+156. What does sorting actually mean?
+
+157. Why do computers need rules to compare objects?
+
+158. Why can numbers be sorted automatically?
+
+159. Why can't custom objects be sorted automatically?
+
+160. What is a comparator?
+
+161. Why might one object have multiple valid sorting orders?
+
+162. How would students be sorted by marks?
+
+163. How would students be sorted by age?
+
+164. Why are both sorting methods valid?
+
+165. What is ascending order?
+
+166. What is descending order?
+
+167. Why does a comparator return negative, zero, or positive values?
+
+168. Why do heaps depend on comparators?
+
+169. Why do priority queues depend on comparators?
+
+170. Why do TreeMaps depend on comparators?
+
+171. Why do TreeSets depend on comparators?
+
+172. What clues suggest that a custom comparator is needed?
+
+173. How does changing the comparator change program behavior?
+
+174. Why is comparator design a business decision as much as a technical decision?
+
+175. Why is comparator understanding essential for advanced data structures?
+
+---
+
+# Module 9 — Graphs (176–200)
+
+176. Why are trees not enough to represent the real world?
+
+177. What is a graph?
+
+178. How is a graph different from a tree?
+
+179. Why do social networks resemble graphs?
+
+180. Why do road networks resemble graphs?
+
+181. What is a vertex?
+
+182. What is an edge?
+
+183. Why are vertices and edges the fundamental building blocks of graphs?
+
+184. What is a directed graph?
+
+185. What is an undirected graph?
+
+186. What is a weighted graph?
+
+187. Why might one edge have a different weight than another?
+
+188. What is graph traversal?
+
+189. Why is graph traversal important?
+
+190. How can we visit every node in a graph?
+
+191. Why can graph traversal become more difficult than tree traversal?
+
+192. What is a cycle?
+
+193. Why can cycles create infinite loops?
+
+194. Why do graphs require visited tracking?
+
+195. What real-world problems can be represented as graphs?
+
+196. Why are GPS systems graph problems?
+
+197. Why are recommendation systems graph problems?
+
+198. Why are dependency systems graph problems?
+
+199. What clues indicate that a problem should be modeled as a graph?
+
+200. Why are graphs considered one of the most powerful abstractions in computer science?
+
