@@ -1,0 +1,123 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Definition of the node structure
+typedef struct Node {
+    int data;
+    struct Node* next;
+} Node;
+
+// Function to create a new node
+Node* create_node(int data) {
+    Node* new_node = (Node*)malloc(sizeof(Node));
+    if (!new_node) {
+        printf("Memory allocation error\n");
+        exit(1);
+    }
+    new_node->data = data;
+    new_node->next = NULL;
+    return new_node;
+}
+
+// Function to add a node at the beginning
+void add_at_beginning(Node** head, int data) {
+    Node* new_node = create_node(data);
+    new_node->next = *head;
+    *head = new_node;
+}
+
+// Function to add a node at the end
+void add_at_end(Node** head, int data) {
+    Node* new_node = create_node(data);
+    if (*head == NULL) {
+        *head = new_node;
+        return;
+    }
+    Node* temp = *head;
+    while (temp->next != NULL) {
+        temp = temp->next;
+    }
+    temp->next = new_node;
+}
+
+// Function to delete a node by value
+void delete_node(Node** head, int data) {
+    if (*head == NULL) {
+        printf("List is empty\n");
+        return;
+    }
+    Node* temp = *head;
+    Node* prev = NULL;
+
+    // If the node to be deleted is the head
+    if (temp != NULL && temp->data == data) {
+        *head = temp->next;
+        free(temp);
+        return;
+    }
+
+    // Search for the node to be deleted
+    while (temp != NULL && temp->data != data) {
+        prev = temp;
+        temp = temp->next;
+    }
+
+    // If the node was not found
+    if (temp == NULL) {
+        printf("Node not found\n");
+        return;
+    }
+
+    // Unlink the node and free memory
+    prev->next = temp->next;
+    free(temp);
+}
+
+// Function to search for a node by value
+Node* search_node(Node* head, int data) {
+    Node* temp = head;
+    while (temp != NULL) {
+        if (temp->data == data) {
+            return temp;
+        }
+        temp = temp->next;
+    }
+    return NULL;
+}
+
+// Function to display the linked list
+void display_list(Node* head) {
+    Node* temp = head;
+    while (temp != NULL) {
+        printf("%d -> ", temp->data);
+        temp = temp->next;
+    }
+    printf("NULL\n");
+}
+
+// Main function to test the linked list implementation
+int main() {
+    Node* head = NULL;
+
+    add_at_beginning(&head, 10);
+    add_at_beginning(&head, 20);
+    add_at_end(&head, 30);
+    add_at_end(&head, 40);
+
+    printf("Linked list: ");
+    display_list(head);
+
+    printf("Deleting node with value 20\n");
+    delete_node(&head, 20);
+    display_list(head);
+
+    printf("Searching for node with value 30\n");
+    Node* found_node = search_node(head, 30);
+    if (found_node) {
+        printf("Node found: %d\n", found_node->data);
+    } else {
+        printf("Node not found\n");
+    }
+
+    return 0;
+}
