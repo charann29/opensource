@@ -1,0 +1,15 @@
+Subject,Course,CRN,Course Title,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,F,W,Average Grade
+LAS,101,50170,Freshman Seminar,7,9,1,4,1,0,0,0,1,0,0,0,0,0,3.72
+LAS,101,44093,Freshman Seminar,4,6,3,3,3,1,0,0,1,0,1,0,1,0,3.28
+LAS,101,45399,Freshman Seminar,5,8,2,3,2,1,0,1,0,0,0,1,0,0,3.51
+LAS,101,52006,Freshman Seminar,6,10,3,0,1,0,1,2,0,0,1,0,0,0,3.56
+LAS,101,44094,Freshman Seminar,4,8,4,6,1,1,0,0,0,0,0,0,0,0,3.68
+VCM,660,58864,Advanced Equine Anatomy,0,18,0,0,10,0,0,1,0,0,0,0,0,0,3.59
+VM,602,54952,Structure and Function I,0,21,0,0,66,0,0,63,0,0,10,0,0,0,2.61
+VM,605,56271,Pathobiology I,0,8,0,0,56,0,0,56,0,0,6,0,0,0,2.52
+VM,607,64924,Pathobiology II,0,12,0,0,80,0,0,34,0,0,0,0,0,0,2.83
+VM,609,58856,Medicine and Surgery I,0,12,0,0,67,0,0,41,0,0,1,0,0,0,2.74
+VM,610,58861,Medicine and Surgery II,0,12,0,0,52,0,0,52,0,0,3,0,0,0,2.61
+VM,620,66651,Canine Feline Behavior,0,77,0,0,13,0,0,0,0,0,0,0,0,0,3.86
+YDSH,220,35635,Jewish Storytelling,8,4,4,3,1,1,0,0,0,0,0,0,1,0,3.56
+YDSH,320,46575,Lit Responses to the Holocaust,1,8,5,0,1,2,1,2,1,0,0,0,0,0,3.37
