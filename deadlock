@@ -1,0 +1,62 @@
+#include <pthread.h>
+#include <semaphore.h>
+#include <stdio.h>
+#include <stdlib.h>
+ 
+sem_t chopstick[5]; // Semaphore for each chopstick
+ 
+void* philosopher(void* arg)
+{
+    int id = *(int*)arg;
+    int left_chopstick
+        = id; // Philosopher picks up left chopstick first
+    int right_chopstick
+        = (id + 1)
+          % 5; // Philosopher picks up right chopstick next
+ 
+    while (1) {
+        // Wait until both chopsticks are available
+        sem_wait(&chopstick[left_chopstick]);
+       
+        sem_wait(&chopstick[right_chopstick]);
+ 
+        // Eat for some time
+        printf("Philosopher %d is eating\n", id);
+        sleep(2);
+ 
+        // Release both chopsticks
+        sem_post(&chopstick[left_chopstick]);
+        sem_post(&chopstick[right_chopstick]);
+ 
+        // Think for some time
+        printf("Philosopher %d is thinking\n", id);
+       
+       // Making thread to sleep 
+        sleep(2);
+    }
+}
+ 
+int main()
+{
+    pthread_t philosophers[5];
+ 
+    // Initialize semaphore for each chopstick
+    for (int i = 0; i < 5; i++) {
+        sem_init(&chopstick[i], 0, 1);
+    }
+ 
+    // Create thread for each philosopher
+    for (int i = 0; i < 5; i++) {
+        int* id = (int*)malloc(sizeof(int));
+        *id = i;
+        pthread_create(&philosophers[i], NULL, philosopher,
+                       id);
+    }
+ 
+    // Wait for all threads to complete
+    for (int i = 0; i < 5; i++) {
+        pthread_join(philosophers[i], NULL);
+    }
+ 
+    return 0;
+}
