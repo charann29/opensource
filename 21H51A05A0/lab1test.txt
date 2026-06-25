@@ -1,0 +1,154 @@
+Handling multiple HTML pages in an Express.js application is straightforward. You can serve static HTML files, render dynamic views using a templating engine, or even mix both approaches. Here's how you can do it:
+
+1. Serve Static HTML Files
+If you have a set of static HTML files, you can use Express's built-in express.static middleware to serve them.
+
+Project Structure:
+
+java
+Copy code
+my-app/
+│
+├── public/
+│   ├── index.html
+│   ├── about.html
+│   └── contact.html
+├── app.js
+└── package.json
+app.js:
+
+javascript
+Copy code
+const express = require('express');
+const path = require('path');
+const app = express();
+
+// Serve static files from the "public" directory
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Route to serve specific HTML files
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+app.get('/about', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'about.html'));
+});
+
+app.get('/contact', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'contact.html'));
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
+2. Using a Templating Engine
+If you want to render dynamic content, you can use a templating engine like EJS, Pug, or Handlebars. Here's an example using EJS:
+
+Install EJS:
+
+bash
+Copy code
+npm install ejs
+Project Structure:
+
+go
+Copy code
+my-app/
+│
+├── views/
+│   ├── index.ejs
+│   ├── about.ejs
+│   └── contact.ejs
+├── app.js
+└── package.json
+app.js:
+
+javascript
+Copy code
+const express = require('express');
+const app = express();
+
+// Set the view engine to EJS
+app.set('view engine', 'ejs');
+
+// Define routes
+app.get('/', (req, res) => {
+  res.render('index', { title: 'Home Page' });
+});
+
+app.get('/about', (req, res) => {
+  res.render('about', { title: 'About Us' });
+});
+
+app.get('/contact', (req, res) => {
+  res.render('contact', { title: 'Contact Us' });
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
+Example EJS View (index.ejs):
+
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+</head>
+<body>
+    <h1>Welcome to the Home Page</h1>
+    <a href="/about">About Us</a>
+    <a href="/contact">Contact Us</a>
+</body>
+</html>
+3. Combining Static Files and Templating Engine
+You can also mix static files and a templating engine. Serve static assets (like CSS, JS, images) from a directory, and use the templating engine for rendering views.
+
+app.js with Static Assets and EJS:
+
+javascript
+Copy code
+const express = require('express');
+const path = require('path');
+const app = express();
+
+// Set the view engine to EJS
+app.set('view engine', 'ejs');
+
+// Serve static files from the "public" directory
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Define routes
+app.get('/', (req, res) => {
+  res.render('index', { title: 'Home Page' });
+});
+
+app.get('/about', (req, res) => {
+  res.render('about', { title: 'About Us' });
+});
+
+app.get('/contact', (req, res) => {
+  res.render('contact', { title: 'Contact Us' });
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
+Summary
+Static HTML: Serve straightforward HTML files using express.static or by manually sending files.
+Templating Engine: Render dynamic views with data using engines like EJS, Pug, or Handlebars.
+Combining Both: Serve static assets and dynamic views in one app, perfect for complex projects.
+You can choose the method based on your application's needs.
+
+
+
+
+
+
