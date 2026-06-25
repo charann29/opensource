@@ -1,0 +1,106 @@
+class Book:
+    def __init__(self, title, author, price, quantity):
+        self.title = title
+        self.author = author
+        self.price = price
+        self.quantity = quantity
+
+    def __str__(self):
+        return f"Title: {self.title}, Author: {self.author}, Price: ${self.price:.2f}, Quantity: {self.quantity}"
+
+class Bookstore:
+    def __init__(self):
+        self.inventory = []
+
+    def add_book(self, book):
+        self.inventory.append(book)
+        print(f"Added {book.title} to inventory.")
+
+    def remove_book(self, title):
+        for book in self.inventory:
+            if book.title == title:
+                self.inventory.remove(book)
+                print(f"Removed {title} from inventory.")
+                return
+        print(f"Book titled {title} not found in inventory.")
+
+    def view_inventory(self):
+        if not self.inventory:
+            print("No books in inventory.")
+        else:
+            for book in self.inventory:
+                print(book)
+
+    def find_book(self, title):
+        for book in self.inventory:
+            if book.title == title:
+                return book
+        return None
+
+    def sell_book(self, title, quantity):
+        book = self.find_book(title)
+        if book:
+            if book.quantity >= quantity:
+                book.quantity -= quantity
+                print(f"Sold {quantity} copies of {title}.")
+            else:
+                print(f"Not enough copies of {title} in inventory to sell.")
+        else:
+            print(f"Book titled {title} not found in inventory.")
+
+    def restock_book(self, title, quantity):
+        book = self.find_book(title)
+        if book:
+            book.quantity += quantity
+            print(f"Restocked {quantity} copies of {title}.")
+        else:
+            print(f"Book titled {title} not found in inventory.")
+
+def main():
+    bookstore = Bookstore()
+
+    while True:
+        print("\nBookstore Inventory Management System")
+        print("1. Add a book")
+        print("2. Remove a book")
+        print("3. View inventory")
+        print("4. Sell a book")
+        print("5. Restock a book")
+        print("6. Exit")
+        
+        choice = input("Enter your choice: ")
+
+        if choice == '1':
+            title = input("Enter book title: ")
+            author = input("Enter book author: ")
+            price = float(input("Enter book price: "))
+            quantity = int(input("Enter book quantity: "))
+            book = Book(title, author, price, quantity)
+            bookstore.add_book(book)
+
+        elif choice == '2':
+            title = input("Enter book title to remove: ")
+            bookstore.remove_book(title)
+
+        elif choice == '3':
+            bookstore.view_inventory()
+
+        elif choice == '4':
+            title = input("Enter book title to sell: ")
+            quantity = int(input("Enter quantity to sell: "))
+            bookstore.sell_book(title, quantity)
+
+        elif choice == '5':
+            title = input("Enter book title to restock: ")
+            quantity = int(input("Enter quantity to restock: "))
+            bookstore.restock_book(title, quantity)
+
+        elif choice == '6':
+            print("Exiting the system. Goodbye!")
+            break
+
+        else:
+            print("Invalid choice. Please try again.")
+
+if __name__ == "__main__":
+    main()
