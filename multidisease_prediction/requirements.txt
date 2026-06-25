@@ -1,0 +1,5 @@
+streamlit
+pickle5
+streamlit-option-menu
+
+
