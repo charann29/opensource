@@ -1,0 +1,20 @@
+import pandas as pd
+import numpy as np
+
+# Create a sample dataset
+data = {
+    'overs': np.random.randint(1, 20, 1000),
+    'runs': np.random.randint(20, 200, 1000),
+    'wickets': np.random.randint(0, 10, 1000),
+    'current_run_rate': np.random.uniform(3.0, 10.0, 1000)
+}
+df = pd.DataFrame(data)
+df['predicted_score'] = df['runs'] + (20 - df['overs']) * df['current_run_rate']
+
+# Split the data into features and target
+X = df[['overs', 'runs', 'wickets', 'current_run_rate']]
+y = df['predicted_score']
+
+# Split the dataset into training and testing sets
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
