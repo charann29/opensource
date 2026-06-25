@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>RENT</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="static/style.css">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>PREDICT RENT</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+        <input type="text" name="Number of bedrooms" placeholder="BHK" required="required" />
+        <input type="text" name="Size (in sqft)" placeholder="Size" required="required" />
+        <label for="City">Choose a city:</label>
+        <select name="City" id="City">
+          <option value=5>Mumbai</option>
+          <option value=4>Bangalore</option>
+          <option value=3>Hyderabad</option>
+          <option value=2>Delhi</option>
+          <option value=1>Chennai</option>
+          <option value=0>Kolkata</option>
+        </select>
+        <br>
+        <br>
+        <label for="Furnishing Status">Choose a Furnishing Status:</label>
+        <select name="Furnishing Status" id="Furnishing Status">
+          <option value=2>Furnished</option>
+          <option value=1>Semi-Furnished</option>
+          <option value=0>Unfurnished</option>
+        </select>
+        <br>
+        <br>
+        <input type="text" name="Number of Bathrooms" placeholder="Bathroom" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
