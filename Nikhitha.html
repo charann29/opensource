@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Book Library</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="book-list">
+            <h2>Books</h2>
+            <ul>
+                <li>
+                    <img src="book1.jpg" alt="Book 1 Cover">
+                    <h3>Book 1: "To Kill a Mockingbird" by Harper Lee</h3>
+                    <p>Fiction</p>
+                </li>
+                <li>
+                    <img src="book2.jpg" alt="Book 2 Cover">
+                    <h3>Book 2: "The Great Gatsby" by F. Scott Fitzgerald</h3>
+                    <p>Fiction</p>
+                </li>
+                <li>
+                    <img src="book3.jpg" alt="Book 3 Cover">
+                    <h3>Book 3: "1984" by George Orwell</h3>
+                    <p>Science Fiction</p>
+                </li>
+                <li>
+                    <img src="book4.jpg" alt="Book 4 Cover">
+                    <h3>Book 4: "Pride and Prejudice" by Jane Austen</h3>
+                    <p>Romance</p>
+                </li>
+                <li>
+                    <img src="book5.jpg" alt="Book 5 Cover">
+                    <h3>Book 5: "The Catcher in the Rye" by J.D. Salinger</h3>
+                    <p>Young Adult</p>
+                </li>
+            </ul>
+        </section>
+        <section id="book-form">
+            <h2>Add a Book</h2>
+            <form>
+                <label for="Title">Title:</label>
+                <input type="text" id="title" name="title"><br><br>
+                <label for="author">Author:</label>
+                <input type="text" id="author" name="author"><br><br>
+                <label for="genre">Genre:</label>
+                <input type="text" id="genre" name="genre"><br><br>
+                <input type="submit" value="Add Book">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Book Library</p>
+    </footer>
+</body>
+</html>
